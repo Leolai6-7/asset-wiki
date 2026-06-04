@@ -91,6 +91,24 @@ confidence: high | medium | low
 - **medium**：單一來源、近期、邏輯成立
 - **low**：過時（半年以上）、推測、待驗證、二手資料
 
+## 公司 Entity 三段式（強制格式）
+
+公司 entity（個股、產業龍頭、平台）**必須**走以下三段式——詳見 [[公司 Entity 模板（Step 1-3 三段式）]]。
+
+```
+1. 一句話定位        ← 寫不出來就不是好 entity（六個月不變）
+2. 三層 thesis      ← 產業 / 目的 / 供應（半年才變，sticky）
+3. 財務狀態快照      ← Re-rate 三角形 + 時間戳（會 stale，必標日期）
+   + 催化 / 風險清單
+```
+
+**不要 ingest 進公司 entity**（這些是 use wiki 時的判斷，不是 wiki 內容）：
+- 此刻的 Forward PE / 預期差
+- 你的進場價、退場條件、倉位
+- 推薦買賣判斷
+
+**Lint 時要 flag**：Re-rate 三角形快照若超過 6 個月未更新 → 需重新評估，標 confidence: low。
+
 ## ⚠️ Disclaimer
 
 此 wiki 為**個人研究筆記，非投資建議**。
