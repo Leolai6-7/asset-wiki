@@ -88,7 +88,15 @@ confidence: high
 - 國際大廠 entity：LPKF（德國，鈦昇對手）、Disco（雷科切割對手）、AMAT、TEL
 - 台股漏網：群創（FOPLP 線轉型）、欣興/南電/景碩（ABF 載板廠）
 - 已補：[[萬潤]]（6187，CoWoS 三傑第三家，WoS 後段點膠+散熱+AOI 近壟斷）— 對 TGV 中性、TGV 完成後仍要回到後段過萬潤機台
-- 玻璃材料廠：Corning、SCHOTT、AGC
+- 玻璃材料廠已 ingest：[[Corning]]、[[AGC]]、[[SCHOTT]]
+- ⭐ **Absolics（SKC 子公司）**：Georgia 廠 2026 **全球首條商業化量產玻璃中介層** — 重要漏網
+- Samsung SEMCO（2027 量產目標）、LG Innotek（Gumi pilot）
+
+## llm-wiki 跨庫對應
+
+- llm-wiki [[AI 供應鏈]]：全鏈條總覽視角
+- llm-wiki [[CPO（共同封裝光學）]]：CPO 工程定義（透過 [[TGV × CPO 依賴圖]] 連通）
+- 詳見 [[跨庫對照（asset-wiki ↔ llm-wiki）]]
 
 ## 相關連結
 

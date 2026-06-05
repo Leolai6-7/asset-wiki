@@ -67,6 +67,13 @@ confidence: high
 - [[德律]]：AI 伺服器檢測（不是 CoWoS 核心）
 - 萬潤的 CPO 矽光子設備 vs [[SiTime]] 的 CPO timing 元件：**完全不同層**，不要混
 
+## 🆕 三傑共同 bullish 訊號（2026-06 玻璃材料 + OSAT subagent 校準）
+
+- **[[Corning]]-TSMC CoWoS 玻璃載板合作** = 玻璃基板供應鏈正式進入台灣端
+- **[[日月光 ASE]] TPK 中壢 NT$5 億 TGV pilot line 2026-07 完工** = 台灣第一條 TGV 整線（三傑都是濕製程設備候選）
+- **[[Amkor]] Intel 玻璃基板 packaging 端獨家**（2028-2029 量產 anchor）= 美國端 anchor 鎖定
+- **2026 H2 玻璃基板供應鏈進入「執行階段」**，三傑都是濕製程 / 化學品 / 封測後段供應方
+
 ## 三傑共同的盲點（codex 提醒）
 
 - 直接 [[Intel]] / [[AMD]] / [[AVGO]] / [[NVDA]] design-in **多為間接**（透過 TSMC 鏈、E-Core 聯盟、產業文點名）
