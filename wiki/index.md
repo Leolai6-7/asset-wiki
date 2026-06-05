@@ -120,6 +120,15 @@
 - [[AGC]]（5201.JP，旭硝子）— 玻璃 + EUV mask blank + CMP slurry 多軌；TGV 玻璃規格揭露最完整（EN-A1 / 20-150μm / 510×515mm panel）；Forward PE 14.45（三巨頭中最便宜）；半導體段 <3% 但成長最快
 - [[SCHOTT]]（德國非上市，Carl Zeiss Foundation 100% 持有）— **HermeS 預製 TGV 玻璃 wafer**（2014 商業化、與 LPKF LIDE 走不同路徑）；2024-08 成立半導體事業部；無法直接押注但**證明雷射 TGV 路線技術可行多年**
 
+### 標的：TGV 韓國陣營（第四波 thesis 校準對照）
+- [[Absolics]]（SKC 子公司、母公司 KRX: 011790）— **全球第一條商業化量產玻璃中介層**（Georgia Covington、2026 年底）；SKC 70.1% + AMAT 29.9% 持股；AMD MI400 + AWS Trainium + AVGO 通訊 design-in；SKC 市值 KRW 5.31T（USD 3.9B）但 2025 淨損 KRW 734B
+- [[Samsung Electro-Mechanics]]（KRX: 009150 / 삼성전기）— Samsung 集團 panel-level 載板平台（FC-BGA + Glass core 雙軌）；**2026 ABF 售罄**（Alphabet/Tesla/Apple/AWS/AVGO 鎖死）；Sejong pilot + Sumitomo JV、2027 玻璃量產；Apple **Baltra** AI server chip sample 已交付；市值 KRW 126.4T（USD 92B）、Forward PE 78.7
+
+### 標的：ABF 載板廠（displacement 對沖視角，第四波）
+- [[欣興]]（3037.TW）— ABF 載板**全球龍頭**、跨 Intel EMIB/Foveros + TSMC CoWoS/CoPoS **台廠唯一**、NVDA Blackwell 載板第二供應商（拿 3 成份額）、2026-03 完成 Intel 玻璃 sample 一階驗證、2027 試產線 + 2028 量產；市值 NT$1.54 兆 / Forward PE ~55-60（2026 EPS ~17）/ Re-rate 3/4；**displacement 命運：受惠（雙曲線）**
+- [[南電]]（8046.TW）— ABF 載板第二大、800G/1.6T 高階交換器**寡占 >70%**、ASIC 三巨頭（AVGO+AMD+Marvell）綁定 60%、NVDA Vera Rubin（CoWoS-L + ABF）2026 H2 ramp；市值 ~NT$5,685 億 / Forward PE ~108 / Re-rate 2/4；**displacement 命運：短期受惠 / 中期受害**（Tomahawk 8 等 ASIC 玻璃化將切走 TAM）
+- [[景碩]]（3189.TW）— ABF 載板第三大、產品線**中階為主**（ABF 40% + BT 33% + 隱形眼鏡 18%）、2026 打入 NVDA AI GPU **第三供應商**、美系 AI CPU 供貨率 10%→50%、稼動率 86%→95%；市值 NT$2,866 億 / Forward PE ~60-70（2026 EPS 預估 7.75-9.2）/ Re-rate 3/4；**displacement 命運：相對受益**（高階玻璃化切的是欣興/南電/IBIDEN，景碩反吃外溢訂單）
+
 ## 摘要 (summaries)
 
 ### 宋分備忘錄系列（月度宏觀，2026 Q1）
@@ -205,8 +214,10 @@
 - ✅ [[Disco Corp]]（已建，2026-06-05）— 雷科切割對手 + 日系獨佔
 - ✅ [[日月光 ASE]] / [[Amkor]] / [[Powertech 力成]]（已建 OSAT 三家整合方 entity，2026-06-05）
 - ✅ [[Corning]] / [[AGC]] / [[SCHOTT]]（已建玻璃材料三巨頭 entity，2026-06-05）
+- ✅ [[Absolics]] / [[Samsung Electro-Mechanics]]（已建韓國陣營兩家 entity，2026-06-05）— SK 集團 vs Samsung 集團對撞
+- ✅ [[欣興]] / [[南電]] / [[景碩]]（已建 ABF 載板三雄 entity，2026-06-05）— displacement 對沖視角
 - 群創（3481，FOPLP 線轉型）
-- 欣興 / 南電 / 景碩（ABF 載板廠）
+- Unimicron 興進（NVDA/AMD 載板供應）— SEMCO 直接對手
 
 ### 延伸 concept
 - 對齊稅（alignment tax）、Sovereign AI、模型商品化、AI Liability（投資版）

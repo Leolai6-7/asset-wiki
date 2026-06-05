@@ -200,3 +200,114 @@
   - **三家對台股設備廠最大訊息**：玻璃材料供應充足、不創造威脅；下游 LPKF（雷射改質 IP）+ Disco（切割壟斷）+ Absolics（KR interposer 量產第一）才是 binary 風險源
   - 同步更新：index.md（新增「TGV 玻璃材料」分類段 + 待 ingest 清單打勾）
   - 累計：43 concept + **34 entity** + 41 summary
+- ingest: TGV 國際對手 韓國陣營 entity（subagent 並行）
+  - entity [[Absolics]]（SKC 子公司、母公司 KRX: 011790、未上市子公司）— **全球第一條商業化量產玻璃中介層**
+    - 母公司 SKC 70.1% + Applied Materials 29.9% 策略入股、Georgia Covington 廠
+    - 補貼累積：CHIPS Act USD 75M + NAPMP USD 100M + Georgia 州補貼 + AMAT USD 39M 入股 = USD 200M+ 政府補貼背書
+    - **客戶 design-in 揭露排序**（強→弱）：
+      1. **[[AMD]]**（最具體）：2026 Q1 起 MI400-series AI accelerator volume sample、Q3 2025 AMD approval announcement、prototype validation 完成
+      2. **[[AMZN]] AWS**（中等）：Trainium / Graviton 入測但**quality test 延後**、節奏不可控
+      3. **[[AVGO]]/Marvell**（low）：non-embedding 路徑「美國通訊半導體公司」第二代產品線、客戶身分未公開（疑似 AVGO 或 Marvell）
+      4. **[[Intel]]**（間接）：2025-08 Intel licensing 開啟、Absolics 是受惠者非客戶
+      5. **[[NVDA]]**（未具體）：無公開 design-in
+    - 雙軌路線：**Embedding**（玻璃內嵌 IPD 被動元件，AI 高階）+ **Non-Embedding**（純玻璃載板、商業化更快，2026 內可能先量產）
+    - F&S Electron 獨家 TGV 設備合約 **2026-03 到期** → 轉 dual sourcing → **第二供應商 slot 空出**（鈦昇潛在窗口）
+    - Phase 1 12,000 m²/年完工 + Phase 2 60,000-72,000 m² 暫延（管理層承認 demand 未爆發）
+    - SKC 2025 全年淨損 KRW -734B、Q1 2026 OP +76.2B（10 季首正）、Rights Offering KRW 1.17T 募資
+    - 主要 takeaway：**對台廠設備是「中性 demand creator」**（不做設備、不做切割），**但對台廠 OSAT 是 Intel/AMD 鏈 fab 服務層分食者**
+  - entity [[Samsung Electro-Mechanics]]（KRX: 009150 / 삼성전기）— Samsung 集團 panel-level 載板平台
+    - Samsung 集團旗下、與 Samsung Electronics 主體分離上市（**可賣集團外**）→ 拿 Apple Baltra + AVGO 訂單關鍵
+    - 市值 **KRW 126.4T（USD 92B）**、Forward PE 78.7、Q1 2026 史上首破 3T 韓元單季營收
+    - Q1 2026 Package Solutions 段（FC-BGA）KRW 725B、**YoY +45%**、OP +40%
+    - 2026 ABF 載板**全年產能售罄**、客戶名單：Alphabet（Google TPU）+ Tesla + Apple + AWS + AVGO
+    - 玻璃基板：Sejong pilot line + Sumitomo Chemical/Dongwoo Fine-Chem JV（2025-11 MOU、2026 H2 簽正式合約）+ 2027 量產目標
+    - **Apple Baltra**（AI server chip 代號）glass substrate sample 已交付（2025 至今）—— TSMC N3E 製造、chiplet 架構、2027 量產
+    - 與 AVGO Broadcom：Sample 2025 起、Broadcom OpenAI USD 10B 訂單→ 載板需求倍增
+    - Samsung **Triple Alliance**：Samsung Display（玻璃加工經驗）+ Samsung Electronics（HBM/Foundry）+ SEMCO（substrate）整合
+    - 主要 takeaway：**對台廠設備不直接競爭**（採購 LPKF + Disco），**但對台廠 OSAT 在 Apple/Google/AVGO 鏈是平行存在的規模壓制**
+  - **對台廠的核心結論**：
+    1. **Absolics 客戶 design-in 揭露排序**：AMD（最具體 volume sample）→ AWS（延後）→ AVGO/Marvell（non-embedding 未公開）→ Intel licensing 受惠 → NVDA 未確認
+    2. **SEMCO 對 [[鈦昇]] 是平行存在 + 間接威脅**（採購 LPKF 設備強化 LPKF IP 收入 → 鈦昇 IP 風險上升；fab 服務層搶 Apple/Google/AVGO 鏈 → 台 OSAT 機會被擋）
+    3. **韓系自家分裂**：SK 集團 [[Absolics]] vs Samsung 集團 [[Samsung Electro-Mechanics]] 兩條軌道對撞——SK 早 1 年量產但規模小、Samsung 晚 1 年但規模 30 倍 + Samsung HBM4 集團整合 → 中長期 SEMCO 勝率更高
+    4. **bull/bear 結論**：**整體是「加大餅」**（驗證 panel-level glass interposer 路線、創造設備需求 → 台廠設備鏈全受惠），**但同時「分食 fab 服務層的餅」**（從 [[日月光 ASE]] / [[Amkor]] / [[Powertech 力成]] / [[東捷]] 等台廠 OSAT 手中拿 Apple/Google/AVGO 鏈 panel-level interposer 訂單）
+    5. **五軸評分**：
+       - [[Absolics]] 16/25（路線敏感 4 / 站別關鍵 5 / 耗材 2 / IP 2 / 客戶分散 3）—— 與 [[Amkor]] 16/25 並列「美亞 OSAT-style 整合方」
+       - [[Samsung Electro-Mechanics]] 19/25（路線敏感 5 / 站別關鍵 4 / 耗材 2 / IP 3 / 客戶分散 5）—— 列「foreign competitor」第三高（次於 [[Disco Corp]] 21/25、[[LPKF]] 20/25）
+  - 同步更新：index.md（新增「TGV 韓國陣營」分類段 + 待 ingest 清單兩家打勾）
+  - 累計：43 concept + **36 entity** + 41 summary
+
+## 2026-06-05（追補：ABF 載板三雄 displacement 對沖視角）
+
+- ingest: **ABF 載板三雄**（[[欣興]] 3037 / [[南電]] 8046 / [[景碩]] 3189，台股）— WebSearch 驅動建檔 + displacement concept 校準
+  - **目的**：完成 [[ABF 載板 vs 玻璃基板 displacement]] concept 內三家命運的實證填補，從「subagent 推測」→「實證 entity」
+  - entity [[欣興]]（3037.TW，台股 ABF 龍頭）— 跨 Intel + TSMC 兩大體系**唯一**
+    - 市值 NT$1.54 兆 / PE 142.9（TTM）/ Forward PE ~55-60（2026 EPS ~17）/ 已發行 15.9 億股
+    - **2026 Q1 EPS NT$3.28 = 13 季新高**（QoQ +41%、YoY +447%）
+    - **2026 CapEx NT$254 億**（+30.93%、70% 投 ABF）+ 2027 長交期設備 25 億
+    - 載板產能 YoY 2026 **+35%~+40%**
+    - **高階 ABF（16L+）占 ABF 營收 60%、AI 相關 >50%、GPU AI server 20-30%**
+    - **NVDA Blackwell 載板第二供應商、份額 30%**（IBIDEN #1）
+    - 跨 Intel EMIB/Foveros（全球僅 IBIDEN + 欣興兩家有量級供應）+ TSMC CoWoS/CoPoS
+    - AMD EFB 體系欽點、2026-2027 在台百億美金擴產直接點名
+    - **玻璃 design partner with Intel**：2026-03 完成 sample 一階驗證（搭聯致 SR-6000RE 低 CTE 介電）、2026-07 自建 TGV 試產線完工、2026 Q4 批量裝機、2027 小量、2028 商業化
+    - 大摩 EPS 2025-2028 CAGR **105%**
+    - Re-rate 三角形 3/4（OpEx 因 CapEx 加碼遞延折舊）
+    - **校準後 displacement 命運：受惠（雙曲線）**——concept 內「受害 + 受惠」中「受惠」比例 > 「受害」
+    - 主要 takeaway：**displacement 中最不會被切的台廠**，因已在玻璃 side 拿到 Intel design partner 位
+  - entity [[南電]]（8046.TW，台股 ABF #2 + 800G/1.6T 寡占）— ASIC 三巨頭隱形賣水人
+    - 市值 ~NT$5,685 億（6.46 億股 × NT$880）/ PE ~290（TTM 低基期）/ Forward PE ~108（2026 EPS 估 ~8）
+    - **2026 Q1 EPS NT$2.03**（QoQ +9%、YoY +534%）/ OP margin 8.6%
+    - 2025 全年 EPS NT$3.01、營收 NT$401.7 億、毛利率 15.85%（仍在谷底回升）
+    - **IC 載板占營收 85%**（ABF 50-55% + BT 30%）、網通 49%
+    - **ASIC 三巨頭（AVGO + AMD + Marvell）合計 60% 營收** = 集中極高
+    - **800G/1.6T 高階交換器市佔 >70%**（隱形龍頭）
+    - 高階 ABF 占營收：2025 H1 <20% → **2027 >40%**（翻倍以上）
+    - **NVDA Vera Rubin（CoWoS-L + ABF）路線**：Rubin R100 Q4 2026 sample / 2027 Q1 量產 / Rubin Ultra 因 yield 縮成 dual-die / **不轉 CoWoP** = 南電 NVDA 線 2026 H2 ramp
+    - 玻璃自做**落後欣興**：研發樣品有但卡雷射槽孔 + 穿孔電鍍 + 增層材質
+    - 客戶玻璃化威脅：**AVGO Tomahawk 8 走玻璃路徑**（Toppan 新加坡/日本 JV 線）+ AMD/Marvell 跟進 → 2028 後 ASIC 高階 ABF TAM 被切
+    - 大摩 EPS 2025-2028 CAGR **113%**（三雄最高）/ 外資目標價最高 NT$1,115
+    - Re-rate 三角形 2/4（毛利率 15.85% 仍低 + CapEx 折舊壓力）
+    - **校準後 displacement 命運：短期受惠（2026-2027）/ 中期受害（2028+）**——concept 原預測「純受害？取決於 NVDA 路線」**已部分翻案**（NVDA 仍 ABF），但 ASIC 玻璃化中期威脅未變
+    - 主要 takeaway：**「短期 ABF 王者、中期 displacement 主受害者」**雙面性最大
+  - entity [[景碩]]（3189.TW，台股 ABF #3 + BT 強項）— **相對受益者**
+    - 市值 NT$2,866 億（5.27 億股 × NT$544）/ PE 145.56（TTM）/ Forward PE ~60-70（2026 EPS 預估 7.75-9.2）
+    - **2026 Q1 EPS NT$1.17**（QoQ -17%、YoY +92%）
+    - 2025 Q3 毛利率 **18.96%**、淨利率 5.92%
+    - 主業 mix：**ABF 40% + BT 33% + 隱形眼鏡/消費 18% + 基地台 5%** = **三雄客戶分散度最高**
+    - **2026 打入 NVDA AI GPU 第三供應商**（IBIDEN #1 + 欣興 #2 + 景碩 #3）
+    - **美系 AI CPU 供貨率 10% → 50%**（重大訂單外溢受惠）= 來自 IBIDEN/欣興產能爆滿外溢
+    - **ABF 稼動率 86% → 95%**
+    - BT 33% 受惠 T-glass 缺料漲價（手機高階 + 記憶體）
+    - 2026-2027 ABF 擴產 +25%、CapEx **NT$235 億**（$744M）
+    - 2026 全年營收 YoY 估 +30%
+    - 玻璃對應策略：**觀望 + 後段 RDL 增層卡位**（不自做 core、做 RDL 增層與細微線路電鍍）
+    - 外資目標價：富邦 NT$620、美銀 NT$565
+    - Re-rate 三角形 3/4（毛利率僅 18.96% 但稼動率拉升）
+    - **校準後 displacement 命運：相對受益**——concept 內「中低階守住、相對受益」**完全成立 + 加碼校準**（不只「相對受益」，還拿到 AI CPU 訂單外溢 + NVDA AI GPU design-in）
+    - 主要 takeaway：**三家中 risk-adjusted return 最佳**（客戶分散度最高 + displacement 曝險最低 + 兩個雙曲線受惠）
+  - **三家業務 mix 對照**（2026）：
+    | 公司 | 高階 ABF | 中階 ABF | BT | 其他 | AI 集中度 |
+    |---|---|---|---|---|---|
+    | 欣興 | 高（60% ABF / 16L+）| 中 | 低 | HDI/PCB | 50%+（AI 載板）|
+    | 南電 | 中→高（2027 >40%）| 中 | 高（30%）| 隱形眼鏡少 | ASIC 60%（AVGO/AMD/Marvell）|
+    | 景碩 | 低 | 中（主力）| 高（33%）| 隱形眼鏡 18% + 基地台 5% | <30%（AI CPU 外溢 + NVDA #3）|
+  - **三家對玻璃基板應對策略**：
+    1. **欣興 = 自做（Intel design partner）**：2026-03 sample 通過、2026-07 試產線、2028 量產
+    2. **南電 = 自研樣品但落後**：卡雷射槽孔 + 穿孔電鍍、增層材質需重做
+    3. **景碩 = 觀望 + 後段 RDL 增層**：不自做 core、做後段
+  - **校準後 displacement 命運排序**：
+    1. **欣興**：**受惠（雙曲線）**——displacement 過渡期最大贏家
+    2. **景碩**：**相對受益**——risk-adjusted return 最佳、客戶分散度最高
+    3. **南電**：**短期受惠 / 中期受害**——2028 後 ASIC 玻璃化主要受害者
+  - **pair trade 提案**：
+    - 「做多 TGV 設備廠 + 做空 ABF 廠」**最佳對沖 = [[鈦昇]] / [[雷科]] / [[弘塑]] / [[辛耘]] 多 + 南電 空**（南電是 displacement 中期主受害者、Forward PE 108 已 price in 多年漲價）
+    - 「做多玻璃材料 + 做多 ABF 廠」**互補配對 = [[Corning]] / [[AGC]] 多 + 景碩 多**（景碩是 displacement 中期最不受害的 ABF 廠 + 高 risk-adjusted）
+    - 「displacement 雙頭曝險買單一 entity = 欣興」（自身 ABF 漲價週期受惠 + 玻璃 design partner 期權同時持有）
+  - **五軸評分**（路線敏感 / 站別關鍵 / 耗材 / IP / 客戶分散，滿分 5/5/5/5/5 = 25）：
+    - **欣興 19/25**（路線敏感 4 / 站別關鍵 5 / 耗材 4 / IP 3 / 客戶分散 3）—— 雙曲線受惠
+    - **南電 14/25**（路線敏感 5 / 站別關鍵 4 / 耗材 3 / IP 1 / 客戶分散 1）—— ASIC 集中 60% + IP 弱 + 玻璃落後
+    - **景碩 17/25**（路線敏感 3 / 站別關鍵 3 / 耗材 4 / 玻璃化曝險低 = IP 不適用算 2 / 客戶分散 5）—— risk-adjusted 最佳
+  - 同步更新：
+    - index.md（新增「ABF 載板廠（displacement 對沖視角）」分類段 + 待 ingest 清單三家打勾）
+    - [[ABF 載板 vs 玻璃基板 displacement]] concept（三家段落 update 為實證版 + 增加最新校準）
+  - 累計：43 concept + **39 entity** + 41 summary
