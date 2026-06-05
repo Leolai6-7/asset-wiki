@@ -125,6 +125,7 @@
 - [[Samsung Electro-Mechanics]]（KRX: 009150 / 삼성전기）— Samsung 集團 panel-level 載板平台（FC-BGA + Glass core 雙軌）；**2026 ABF 售罄**（Alphabet/Tesla/Apple/AWS/AVGO 鎖死）；Sejong pilot + Sumitomo JV、2027 玻璃量產；Apple **Baltra** AI server chip sample 已交付；市值 KRW 126.4T（USD 92B）、Forward PE 78.7
 
 ### 標的：ABF 載板廠（displacement 對沖視角，第四波）
+- [[IBIDEN]]（4062.JP，日股）— **ABF 載板全球 #1**、AI server build-up substrate 55% 市佔（2023 85% → 2026）、**NVDA Blackwell 載板 75% 市佔**（[[欣興]] 25%）、Intel EMIB 主供、Apple iPhone 18/M5 載板、5,000 億日圓擴產（2028 倍增至 2.5x）；市值 ¥4.78 兆（USD 330 億）/ Forward PE 60 / FY2026 OP +30%、FY2027 自家指引 OP +45% / Re-rate 3/4；**displacement 命運：受惠 + 玻璃化曝險中等**（NVDA Rubin/Rubin Ultra 仍走 ABF、但玻璃 design partner 全給 [[欣興]]/[[Samsung Electro-Mechanics]]）；五軸 19/25 = 與 [[欣興]] 並列最高
 - [[欣興]]（3037.TW）— ABF 載板**全球龍頭**、跨 Intel EMIB/Foveros + TSMC CoWoS/CoPoS **台廠唯一**、NVDA Blackwell 載板第二供應商（拿 3 成份額）、2026-03 完成 Intel 玻璃 sample 一階驗證、2027 試產線 + 2028 量產；市值 NT$1.54 兆 / Forward PE ~55-60（2026 EPS ~17）/ Re-rate 3/4；**displacement 命運：受惠（雙曲線）**
 - [[南電]]（8046.TW）— ABF 載板第二大、800G/1.6T 高階交換器**寡占 >70%**、ASIC 三巨頭（AVGO+AMD+Marvell）綁定 60%、NVDA Vera Rubin（CoWoS-L + ABF）2026 H2 ramp；市值 ~NT$5,685 億 / Forward PE ~108 / Re-rate 2/4；**displacement 命運：短期受惠 / 中期受害**（Tomahawk 8 等 ASIC 玻璃化將切走 TAM）
 - [[景碩]]（3189.TW）— ABF 載板第三大、產品線**中階為主**（ABF 40% + BT 33% + 隱形眼鏡 18%）、2026 打入 NVDA AI GPU **第三供應商**、美系 AI CPU 供貨率 10%→50%、稼動率 86%→95%；市值 NT$2,866 億 / Forward PE ~60-70（2026 EPS 預估 7.75-9.2）/ Re-rate 3/4；**displacement 命運：相對受益**（高階玻璃化切的是欣興/南電/IBIDEN，景碩反吃外溢訂單）
@@ -216,6 +217,7 @@
 - ✅ [[Corning]] / [[AGC]] / [[SCHOTT]]（已建玻璃材料三巨頭 entity，2026-06-05）
 - ✅ [[Absolics]] / [[Samsung Electro-Mechanics]]（已建韓國陣營兩家 entity，2026-06-05）— SK 集團 vs Samsung 集團對撞
 - ✅ [[欣興]] / [[南電]] / [[景碩]]（已建 ABF 載板三雄 entity，2026-06-05）— displacement 對沖視角
+- ✅ [[IBIDEN]]（已建，2026-06-05）— ABF 載板全球 #1、NVDA Blackwell 75% 市佔、補齊 ABF 廠四家圖譜
 - 群創（3481，FOPLP 線轉型）
 - Unimicron 興進（NVDA/AMD 載板供應）— SEMCO 直接對手
 

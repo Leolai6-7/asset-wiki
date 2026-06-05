@@ -311,3 +311,112 @@
     - index.md（新增「ABF 載板廠（displacement 對沖視角）」分類段 + 待 ingest 清單三家打勾）
     - [[ABF 載板 vs 玻璃基板 displacement]] concept（三家段落 update 為實證版 + 增加最新校準）
   - 累計：43 concept + **39 entity** + 41 summary
+
+## 2026-06-05（追補：IBIDEN 4062.JP 補完 ABF 廠四家圖譜）
+
+- ingest: **[[IBIDEN]]**（4062.JP，日股，foreign competitor 變體）— WebSearch 驅動建檔（12 次 WebSearch + 3 次 WebFetch）
+  - **目的**：補齊 ABF 廠四家圖譜（[[欣興]] + [[南電]] + [[景碩]] + IBIDEN）+ subagent 之前提到「NVDA AI GPU 第一供應商 IBIDEN #1 + 欣興 #2 + 景碩 #3」的 #1 漏網
+  - entity [[IBIDEN]]（4062.JP，全球 ABF #1 + NVDA AI GPU 歷史獨家）
+    - 市值 **¥4.78 兆**（USD 330 億，2026-05-13）/ Forward PE 60 / TTM PE 84-106（峰值 2026-03）
+    - 股價 ¥21,135（2026-06-02）/ 52 週區間 ¥2,853 → ¥22,670 / 12 個月漲幅 **+530%**
+    - **FY2026 全年（截至 2026-03）**：營收 **¥4,162 億**（+12.7% YoY）/ OP **¥620.3 億**（+30.3%）/ 淨利 **¥637.1 億**（+89.0%）/ EPS **¥228.16**
+    - **Electronics segment（IC 基板）= 65% 營收**：¥2,433 億（+23.4% YoY）/ OP ¥452.5 億（+68.5% YoY）= 主成長引擎
+    - **Ceramics segment**（汽車排氣濾清器）= 23%：-1.8% / OP -37.4% = 拖後腿
+    - **FY2027 自家指引**：營收 ¥5,000 億（+20.1%）/ OP ¥900 億（+45.1%）= 營業槓桿全開
+    - **市佔**：AI server build-up substrate 2023 **85%** 一家獨大 → 2026 降至 **55%**（[[欣興]] 拉至 25%）
+    - **NVDA Blackwell 載板 75%**（[[欣興]] 25%）= 絕對龍頭
+    - Intel EMIB 全球僅兩家有量級供應之一（搭 [[欣興]]、加 Shinko + AT&S）
+    - Apple iPhone 18 / M5 mac 載板（旗艦消費級）+ 開始 allocate（限量）= 賣方市場
+    - **三年 CapEx ¥5,000 億日圓**（USD 32-33 億，2026-2028）：
+      - 河間 Gama Plant **¥2,200 億**（FY2027 起陸續量產）
+      - 大野 Ono Plant **¥2,800 億**（2025-10 開、FY2027 階段性量產）
+      - AI 用 IC 基板產能 FY2028 擴至 2024 的 **2.5 倍**
+    - **NVDA Vera Rubin / Rubin Ultra 仍走 CoWoS-L + ABF**（不轉 CoWoP，已校準）= IBIDEN 主場繼續吃到 2028
+      - Rubin Ultra 載板**比 Rubin 大、層數多** = ABF 用量 15-18 倍 = IBIDEN 受惠倍增
+    - 玻璃基板對應策略：**觀望 / 探索**
+      - 2023-2027 CapEx 計畫明確列「glass core substrate」R&D
+      - 停在 exploration stage、未 sample 通過 / 未量產時程
+      - **沒拿到玻璃 design partner 位**（Intel CW Forest → [[欣興]] / Apple Baltra → [[Samsung Electro-Mechanics]] / AVGO T8 → Toppan）
+      - 跟 [[南電]] 同檔（兩家都「樣品有但落後」）、落後 [[欣興]] + [[Samsung Electro-Mechanics]] + [[Absolics]]
+    - MLCC 嵌入式基板：5,000 億涵蓋這條路線、[[Samsung Electro-Mechanics]] 先發 IBIDEN 追擊 = 開第二戰場
+    - 分析師目標價：平均 ¥8,359 / 最高 ¥13,900 / 最低 ¥5,000（10 家）— **股價已遠超 sellside 平均** = 市場比分析師更看多 or 將迎目標價上修週期
+    - Re-rate 三角形 **3/4**（OpEx ⚠️ 因 5,000 億 CapEx 折舊壓力 FY2027-2030 + Ceramics 拖累）
+    - **校準 displacement 命運：受惠（短期 2026-2028 ABF 大循環）+ 玻璃化曝險中等（長期 2028 後）**
+    - 主要 takeaway：**「ABF 載板絕對龍頭 + 玻璃化觀望者」雙面**——跟 [[南電]] 像（兩家都「ABF 王者 + 玻璃落後」），但 IBIDEN 客戶結構（NVDA + Intel + Apple）優於南電（AVGO + AMD + Marvell 60% 集中）
+  - **vs 台廠 ABF 三雄整合對照**：
+
+    | 維度 | IBIDEN | [[欣興]] | [[南電]] | [[景碩]] |
+    |---|---|---|---|---|
+    | ABF 全球排名 | **#1** | #2 | #3 | #4 |
+    | AI server build-up 市佔 | **55%** | ~25% | <10% | <5% |
+    | NVDA Blackwell 載板 | **75%** | 25% | 0%（吃 Vera Rubin）| 第三供應商 design-in |
+    | NVDA Vera Rubin（ABF）| 主供 | 主供 | **2026 H2 ramp** | 第三 design-in |
+    | Intel EMIB | 主供 | 主供 | 弱 | 弱 |
+    | AMD EFB | 弱 | 欽點 | 欽點 | 欽點 |
+    | AVGO ASIC | 弱 | 有 | **強（含 Marvell 60%）** | 弱 |
+    | Apple | 強（iPhone/M）| 弱 | 弱 | BT |
+    | 玻璃自做進度 | **觀望** | **Intel design partner** | 樣品有但落後 | **觀望（後段 RDL）** |
+    | 五軸總分 | **19/25** | **19/25** | 14/25 | 17/25 |
+    | Forward PE | 60 | 55-60 | **108** | 60-70 |
+    | 12 個月股價漲幅 | **+530%** | +770% | n/a | n/a |
+    | Re-rate 三角形 | 3/4 | 3/4 | 2/4 | 3/4 |
+
+  - **IBIDEN vs [[南電]] displacement 命運對照（兩家「ABF 王者 + 玻璃落後」）**：
+    - 相似：兩家玻璃進度都「樣品有但落後 [[欣興]]」、都沒拿 Intel/Apple/AVGO 玻璃 design partner 位
+    - 差異 #1（客戶結構）：IBIDEN（NVDA + Intel + Apple 三強）vs [[南電]]（AVGO + AMD + Marvell ASIC 60% 集中）→ IBIDEN 客戶結構優於 [[南電]]
+    - 差異 #2（玻璃化曝險）：IBIDEN 客戶（NVDA Rubin Ultra 確認 ABF / Intel EMIB 推 ASIC / Apple Baltra 已被 SEMCO 拿但 iPhone 載板仍 IBIDEN）= **玻璃化曝險「分散且時程模糊」** vs [[南電]]（Tomahawk 8 玻璃化已確認、AMD/Marvell 跟進）= **玻璃化曝險「集中且時程明確」**
+    - 差異 #3（規模壁壘）：IBIDEN AI build-up 55% 一家獨大 vs [[南電]] 集中 ASIC 60% 但市佔分散 → IBIDEN 規模壁壘更高
+    - 結論：**IBIDEN 不是「純受害」**（NVDA Rubin Ultra 仍走 ABF + Intel EMIB 撐第二曲線 + Apple iPhone 載板續吃 = 至少撐到 2028）、vs [[南電]] 是「ASIC 玻璃化主受害者」（2028 後 ASIC ABF TAM 被切）
+  - **bull / bear for 台廠 ABF 三雄**：
+    1. **Bull**：IBIDEN 守舊不轉玻璃 → [[欣興]] 在玻璃 side 反超（Intel design partner 位）+ IBIDEN 擴產確認 ABF 大循環、訂單外溢 → [[景碩]] risk-adjusted 最佳
+    2. **Bear**：IBIDEN 自轉玻璃成功 → 鎖死 NVDA / Apple / Intel 鏈 → [[欣興]] 只剩 ABF 老本、[[南電]] 失去 ASIC 路徑 + IBIDEN 5,000 億 CapEx 倍增產能 → 2028 後 ABF 供過於求、漲價週期提前結束
+  - **bull / bear for 台廠 TGV 設備廠**（[[鈦昇]] / [[雷科]] / [[弘塑]] / [[辛耘]] / [[萬潤]] / [[敘豐]]）：
+    1. **Bull**：IBIDEN 玻璃化慢 → TGV 設備鏈台廠先吃過渡期 + IBIDEN 5,000 億擴 ABF 同時 R&D 玻璃 = 設備需求兩條軌道 + [[敘豐]] 跟欣興同步擴
+    2. **Bear**：IBIDEN 玻璃化突破 → 採購 [[LPKF]] / [[Disco Corp]] 設備（日德陣營）→ 台 TGV 設備廠被擋在 IBIDEN 鏈外
+  - **五軸評分**（路線敏感 / 站別關鍵 / 耗材 / IP / 客戶分散）：
+    - **IBIDEN 19/25**（4 / 5 / 3 / 4 / 3）—— 與 [[欣興]] 並列 ABF 鏈最高、勝在「IP」（百年技術 + 全製程內製）/ [[欣興]] 勝在「耗材」（電鍍蝕刻消耗 + [[敘豐]] 在地化）
+  - **整合啟示**：補 IBIDEN 後 ABF 廠四家圖譜新洞察：
+    1. **NVDA Blackwell 載板分配確定**：IBIDEN 75% + 欣興 25%（之前只知道「欣興是第二」，現在知道 #1 與 #2 比例 3:1）
+    2. **AI server build-up 兩段式變化**：2023 IBIDEN 85% 一家獨大 → 2026 IBIDEN 55% + 欣興 25%（欣興 5 年內從 ~10% 翻 2.5 倍至 25%）= **欣興是過去 3 年最大贏家**（而不是 IBIDEN）
+    3. **玻璃化路線 ABF 四廠全落後韓國**：[[Samsung Electro-Mechanics]]（Apple Baltra design-in）+ [[Absolics]]（AMD MI400）vs IBIDEN（觀望）+ 欣興（Intel design partner 但量產 2028）+ 南電（樣品落後）+ 景碩（觀望 RDL）→ **2030 玻璃化主流期到來時、ABF 四家排名可能完全洗牌**
+    4. **IBIDEN ≠ [[南電]]**：兩家都「ABF 王者 + 玻璃落後」但 IBIDEN 客戶結構（NVDA + Intel + Apple）優於南電（AVGO + AMD + Marvell 60% 集中）= **IBIDEN 不是純受害、是「ABF 大循環 2026-2028 主受惠 + 玻璃化緩慢 displacement 2028+」**
+    5. **pair trade 校準**：「做多玻璃材料 + 做空 IBIDEN（or 南電）= 押 2028 後 displacement」、「做多 IBIDEN + 做多欣興 = 雙重壓 ABF 大循環」（IBIDEN 海外 hedge + 欣興 + 玻璃 option）
+    6. **MLCC 嵌入式基板第二戰場揭曉**：SEMCO 先發、IBIDEN 5,000 億追擊、欣興 / 南電 / 景碩跟進 → 同樣四家戰場、台廠落後最大
+  - 同步更新：
+    - index.md（「ABF 載板廠 displacement 對沖視角」分類段加 IBIDEN 為第一個 + 待 ingest 清單打勾）
+    - 本 log.md（加追補段落）
+  - 累計：43 concept + **40 entity** + 41 summary
+
+## 2026-06-05（追補：F&S Electron — Absolics 唯一 TGV contract fab 外包商）
+
+- ingest: entity [[F&S Electron]]（韓國未上市 / S.E.A. 子公司）— WebSearch 驅動建檔
+  - **觸發背景**：Absolics entity 內標示「F&S Electron 獨家 TGV 設備合約 2026-03 到期 → Absolics 轉 dual sourcing → 第二供應商 slot 空出」是 [[鈦昇]] 的潛在期權窗口；需要把 F&S Electron 獨立 entity 化以校準 thesis
+  - **資料豐富度**：**medium**（介於路徑 A 完整 entity 與路徑 B concept 註解之間，最終走路徑 A 因為 5 個獨立來源組合起來夠 sticky）
+  - **公司結構（high confidence）**：
+    - 2021-05 Incheon 成立、雙 CEO（Choi Byung-chul + Shin Jae-ho）
+    - 量產廠 Songdo cleanroom 2024-05 啟用、R&D Gumi、員工 36（YoY -5%）
+    - 母公司：S.E.A.（에스이에이）+ Fuseimenix（후세메닉스）雙股東
+    - **2025-11 S.E.A. 取得 majority stake**（垂直整合「設備 + 服務」雙層押注，類 [[LPKF]] + Vitrion 模式）
+    - 私募未上市、Series A、僅 4 件韓國註冊專利
+  - **業務（high confidence）**：
+    - 唯一已公開客戶 [[Absolics]]、做 TGV 雷射鑽孔 + Metallization (PVD) 一站式 contract fab
+    - 510×515mm panel、sub-10μm 線路精度
+    - 2024-05 業界首發量產半導體玻璃基板
+  - **S.E.A. 母公司快照**：2024 營收 USD 80M（89% 賣美國）+ USD 47M backlog、CEO Jaeho Shin（前三星貿易）、280 員工、四韓國廠 + 馬來西亞、550+ 出貨設備
+  - **無法驗證的細節**：
+    - F&S Electron 自身財報（營收、毛利）
+    - 設備規格（laser 類型、孔密度、aspect ratio、yield）
+    - IP 持有現況（是否買 LPKF LIDE / 與 LPKF IP 衝突）
+    - second supplier 第二位是誰（dual sourcing 結果未揭露）
+  - **鈦昇拿 Absolics second source slot 的四道障礙**：
+    - **IP 戰** 🔴 binary（LPKF LIDE EPO/KPCA/中國三線確認、Absolics 是 Intel licensing 受惠者不會冒 IP 風險）
+    - **地緣** 🟠 high（Absolics 是 SK 集團 + Georgia + CHIPS Act 政治組合，優先韓國本土 Philoptics/Hana/PNT/LG）
+    - **技術差距** 🟡 medium（鈦昇是「設備商」而非「contract fab 玩家」業務模式錯位）
+    - **產能 + 客戶優先序** 🟠 high（鈦昇 Intel/TSMC 已有 anchor、不會把產能優先給 Absolics）
+    - → 機率 **<15%**
+  - **2026 Q1/Q2 追蹤訊號**：（a）SKC 2026 Q2 法說會、（b）TrendForce/The Elec dual sourcing 第二位名單、（c）F&S Electron 員工人數變化、（d）Absolics Phase 2 重啟、（e）S.E.A. 海外擴張、（f）鈦昇法說會是否提 SK 集團接觸、（g）2027 Q1 Absolics 公開 AMD MI400 量產供應商鏈
+  - **五軸評分 13/25**（不適合直接比較設備商）；客戶分散 1/5 是極端風險訊號（Absolics 議價權反向放大）
+  - 同步更新：
+    - [[Absolics]] entity（line 103 F&S Electron 加 wikilink）
+    - index.md（新增 [[F&S Electron]] 到「TGV 韓國陣營」分類 + 待 ingest 清單三家打勾）
+  - 累計：43 concept + **40 entity** + 41 summary
