@@ -612,3 +612,97 @@
     - index.md「待 ingest 延伸 半導體 / 算力供應鏈 entity」段 CIEN/NOK partial → ✅ 已建
     - 本 log.md（追加本段）
   - 累計：**46 concept + 47 entity + 41 summary**（DCI 兩家 +2）
+- ingest: **信昌電 6173 補完**（MLCC 賽道中高壓 niche 漏網）— 單 entity 補建
+  - 觸發：[[MLCC 嵌入式基板賽道]] subagent 點名「信昌電中高壓 MLCC 在 NVDA Rubin 1MW 機櫃結構性受惠（3-4K → 10K+ 顆），但嵌入式滲透到高壓時會被切」
+  - method：6 WebSearch + 2 WebFetch（BigGo FY2026 Q1 法說會 + 鉅亨網法說會詳細）並行
+  - entity [[信昌電]]（6173.TWO）— **全台唯一陶瓷粉末自製 + 中高壓大尺寸 MLCC 垂直整合 niche specialist**
+    - 上櫃股、母公司 **[[華新科]] 持股 43.13%**（集團子公司）
+    - 主攻 1206-2220 + 千伏級 + **Mega Cap 堆疊式電容（單價 7-9x 一般單體）** + **NP0 共振電容（單價 3x+ 同尺寸 X7R）**
+    - 2026 Q1 營收 NT$10.17 億（+8% YoY）/ EPS NT$1.19（+70% YoY）/ 毛利率 **28.4%**（+6.1pp YoY 跳升，從 22.3% 大幅 re-rate）
+    - 市值 NT$370.7 億 / PE 57.77（同業均 119.07，**折價一半**）/ Re-rate 三角形 **3/4**
+    - AI 占 6.5-8% → 全年 >10%、16 週交期 + 85-90% 稼動率 + 訂單能見度 6 個月以上
+    - 客戶結構：透過電源 / BBU 大廠進 **NVDA Rubin AVL**（公司未具名、工商時報 2026-05-07 報導）
+  - **⭐ NVDA Rubin 1MW 機櫃曝險數字驗證**（公司法說 2026-05-21 親口）：
+    - GB200 132kW 機櫃：單 5.5kW PSU = 1,400-1,800 顆大尺寸 MLCC、單 BBU = 700-960 顆 → **單機櫃 3-4K 顆**
+    - Rubin 1MW 機櫃：**逾 10,000 顆**（公司明示「直接突破 1 萬顆大關」）
+    - ⚠️ **單一來源警告**：3K → 10K+ 僅公司法說自己揭露、未交叉驗證外資 / Digitimes / 賣方研報
+    - 但 [[MLCC 嵌入式基板賽道]] concept 已引用 EE Times / Big News Network 「VR200 NVL72 機櫃 MLCC BOM USD 4,320（GB300 1,530 → +182%）」= 方向一致（~2.5-3x BOM 倍增）
+  - **跟 [[國巨]] / [[華新科]] 業務 mix 差異化**（重要區分）：
+    - [[國巨]]：鉭電容 #1（>50%）+ 晶片電阻 #1 + MLCC #3、全品線併購王、X6S 0402-0805 中小尺寸（GB200 主板 85%）
+    - [[華新科]]：MLCC 純度 46.4% + 中階通用 + 630V 中高壓研發中、馬來西亞地緣分散
+    - **信昌電**：MLCC 52% + 介電粉末 24% + **1206-2220 大尺寸 + 千伏級 niche**、垂直整合粉末自製
+    - 三家**完全不重疊**：國巨打主板小尺寸、華新科打中階通用 + 中高壓研發、**信昌電專攻電源 PSU/BBU 大尺寸高壓**
+  - **MLCC 嵌入式戰場曝險分析**：
+    - **短期**（2026-2028）：✅ **niche 不被切**（中高壓嵌入式商業化未到、信昌電大放量）
+    - **中長期**（2029-2031）：⚠️ **時程賽跑**——[[村田 Murata]] 2026 已量產 **1.25kV C0G 1210 size** = 高壓 MLCC 嵌入化物理條件具備
+    - 真正威脅來自村田 / SEMCO 高壓嵌入版本，不是國內競爭
+  - **五軸評分 19/25**（賽道 4 + 客戶分散 2 + IP 4 + 時點 5 + 估值 4）
+    - 跟 [[Ciena]] / [[Coherent]] / [[Lumentum]] / [[Nokia]] / [[IBIDEN]] / [[欣興]] 同分
+    - **niche 押注的高分代表**（賽道 + IP + 時點 + 估值四軸滿、客戶分散因 AI niche pure-play 本質弱）
+  - **pair trade「多信昌電 / 空 [[華新科]]」分析**：
+    - 體質 / 估值 / Re-rate / 嵌入式曝險四軸**全勝信昌電**：毛利率 +10pp、PE 折價 30%、Re-rate 3/4 vs 2/4
+    - **同集團風險**（[[華新科]] 43.13% 持股）+ 流動性差距（370 億 vs 2,052 億）+ 上櫃處置股風險
+    - **結論**：信昌電可獨立做多、不需 pair；如要對沖，**空中國 MLCC / 空 [[南電]] / 空通用 MLCC ETF** 比空 [[華新科]] 乾淨
+  - 同步更新：index.md（MLCC 段補入信昌電條目）、log.md 追加本段
+  - 累計：**46 concept + 48 entity + 41 summary**（信昌電 +1）
+
+- 2026-06-05 ingest（[[太陽誘電 Taiyo Yuden]] + [[TDK]]） — **日系國際被動元件三巨頭最後兩隻補齊**（村田 + Taiyo Yuden + TDK，[[MLCC 嵌入式基板賽道]] 第二戰場完整 4 大玩家 entity 落地）
+  - 任務來源：[[MLCC 嵌入式基板賽道]] subagent 之前漏網的「日陣營協同 / IP first-mover + 多元組合王」兩隻
+  - 完成兩個 foreign_competitor entity：
+    - [[太陽誘電 Taiyo Yuden]]（6976.JP）— **嵌入式 MLCC（ECP）IP 世界首發者**
+      - 2025-08 玉村廠量產 1005M 22μF 嵌入式 MLCC（X6S 4V / X7T 2.5V）
+      - 2025-11 加碼量產 2012 size 100μF 嵌入式 MLCC（sample ¥120/顆）= lineup 完整
+      - FY2025 營收 ¥3,553 億（+4.1%）、淨利 ¥148 億（+535.9%、5.4 倍暴衝）、Q4 訂單破 ¥1,000 億（五年首見）+ book-to-bill 1.25
+      - FY2026 自家指引營收 ¥3,840 億（+8.1%）+ OP +50%
+      - 市值 ¥2.01 兆（USD 135 億）、一年漲 555%、Forward PE 82、分析師中位目標 ¥5,739（隱含 -64%、已 priced in to perfection）
+      - 美系大型券商目標價 ¥7,100、CEO 對 AI 需求稱 "scary"
+      - 全球 MLCC top 4（市佔 ~10%、日陣營第三）
+      - **MLCC 嵌入式戰場：IP first-mover + lineup 完整**（純嵌入式 MLCC 路線、不同 Murata iPaS 鋁電解 + coil 整合模組範式）
+      - 客戶 design-in 名單**未公開**（無 NVDA / Apple / hyperscaler 確認）= **校準點 1**
+      - Re-rate 三角形 3/4 滿
+      - 五軸 **19/25**：IP 軸 5 分（賽道唯一 5 分）、客戶分散 1 分（賽道倒數）= 純 IP first-mover 押注
+      - 最大威脅：[[Samsung Electro-Mechanics]] 越南 USD 12 億嵌入式 MLCC 產線 2026 H2 量產 → first-mover IP 時間窗口僅 12-18 月
+    - [[TDK]]（6762.JP）— **多元組合王 + SESUB 嵌入式模組獨家 + Apple iPhone 電池主供 + HDD 磁頭**
+      - 四大事業群（能源裝置 55% / 被動元件 24% / 磁性 11% / 感測器 9%）
+      - SESUB（Semiconductor Embedded in SUBstrate）：300μm 1-2-1 4 層基板 + IC + passives 全嵌、面積比傳統模組減 65%、偏 smartphone PMU + Bluetooth + 健康穿戴
+      - FY2026 營收 ¥2.50 兆（+13.6%）、OP ¥272.4 億（+21.5%）創新高、四事業群全增
+      - **CEO Saito 宣告 AI data center 用被動元件 10 倍成長 by FY2031**、AI 占總營收 15% by FY2027
+      - 矽負極第 4 代 2026-09 上市（Apple 折疊機 / iPhone 17 Air 採用）
+      - FY2027 自家指引營收 ¥2,580 億（+3%）+ OP ¥295 億（+8.3%）+ HDD 磁頭出貨 +50%、CapEx ¥370 億（+¥90 億）
+      - 市值 ¥7.50 兆（USD ~470 億）、Forward PE 33.12、分析師中位目標 ¥2,947（隱含 -28%、已 priced in）
+      - **MLCC 嵌入式戰場：SESUB 模組差異化 + 鋁電解 AI PSU 多腳賣水**
+      - SESUB **尚未切到 AI server**（仍偏 smartphone PMU + Bluetooth + 健康穿戴）= **校準點 2**
+      - Re-rate 三角形 2/4 滿（FY2027 OP 指引 +8.3% 比 FY2026 +21.5% 大幅放緩）
+      - 五軸 **19/25**：多元組合 5 軸均 3-4 分無 weakness、規模 + 客戶廣度勝 Taiyo Yuden、IP 純度輸 Taiyo Yuden / Murata
+  - **必返回 6 個問題的答案**：
+    1. **太陽誘電 ECP 首發具體客戶**：**未公開**——產品 spec、廠房、時程全揭露（玉村 2025-08 + 11 量產），但客戶 design-in 名單沒公開；只有 CEO 評論 AI 需求 "scary" 暗示能見度極強。**結論：標「未驗證」**
+    2. **TDK SESUB vs Murata iPaS 哪家技術更領先**：**範式不同、不直撞**——
+       - SESUB = IC + passives 全埋 300μm 4 層、偏 smartphone PMU + Bluetooth（成熟商業化）
+       - iPaS = 鋁電解 + 平面 coil + VPD power module、偏 AI server / accelerator package（高端化）
+       - **客戶滲透 Murata iPaS 領先**（已切 AI 數據中心 power module）、技術新穎度兩家相當
+       - 規模對比：村田 ¥18.97 兆 vs TDK ¥7.50 兆（2.5 倍）
+       - **校準：iPaS 在 AI 鏈領先、SESUB 在 smartphone 鏈領先**
+    3. **兩家對 [[國巨]] / [[華新科]] 是「擴大餅」還是「分食餅」**：
+       - 中短期（2026-2028）：**擴大餅為主**——AI server MLCC TAM 4 倍（Goldman 估 FY2025→FY2030 ¥2,150 億→¥9,200 億）、台廠跟著吃漲價
+       - 中長期（2028+）：**分食餅為主**——日陣營三家整鏈閉環、台廠純分立 MLCC 廠無嵌入式產品線、design partner 機會被擠
+       - **對信昌電高壓 MLCC 利基的直接威脅**：TDK 高壓 + 鋁電解 800V → NVDA Rubin 1MW 機櫃高壓鏈直接競爭
+       - **結論**：bull（量增）vs bear（mix 切走 mid-high end）並存、但 2028+ bear case 漸顯
+    4. **五軸評分 + 跟既有對照**：
+       - 太陽誘電 **19/25**、TDK **19/25**——與 SEMCO / IBIDEN 並列賽道第二集團
+       - 村田 24/25 仍是賽道最高、5 軸均勝
+       - 對照：太陽誘電 IP 軸 5 分賽道唯一、TDK 5 軸均 3-4 分多元組合無 weakness
+    5. **校準之前 MLCC subagent 的估算（太陽誘電 18 / TDK 17）**：
+       - **太陽誘電：18 → 19**（IP 軸從 4 改 5、因 2025-11 完整 lineup 確認 + 玉村廠製程 know-how 證實）
+       - **TDK：17 → 19**（路線軸從 3 改 4，因 FY2026 CEO Saito AI 10 倍成長宣告 + Infineon SiC + 矽負極第 4 代多元線兌現；耗材軸從 4 維持但因 Apple 電池 + HDD 半耗材性質）
+       - 兩家都實際比之前估值高 1-2 分、反映過去 6-12 月 AI 鏈兌現速度
+    6. **嵌入式戰場 4 大玩家排名**：
+       - **#1 [[村田 Murata]]（24/25）**——分立 MLCC 70%+ 高階 + iPaS 商業化 + 矽電容寡占三線並進全吃
+       - **#2 [[Samsung Electro-Mechanics]]（19/25）**——載板 + MLCC + 矽電容 + Samsung 集團整合、規模 USD 92B、越南 USD 12 億產線 2026 H2 量產
+       - **#3 [[太陽誘電 Taiyo Yuden]]（19/25）**——嵌入式 MLCC IP first-mover、lineup 完整、規模 USD 135 億 = 純技術突破型
+       - **#4 [[TDK]]（19/25）**——多元組合王、SESUB 模組獨家但偏 smartphone、AI server 嵌入式 IP 仍輸 Taiyo Yuden / Murata
+       - **=（#5 [[IBIDEN]] 19/25 載板廠陣營、不直接競爭）**
+  - 同步更新：
+    - index.md「MLCC / 被動元件」段插入 [[太陽誘電 Taiyo Yuden]] + [[TDK]] 兩條目（在村田之後 / 國巨之前）
+    - [[MLCC 嵌入式基板賽道]] concept 的「待 ingest 延伸」段標 ✅ 已建
+    - 本 log.md 追加本段
+  - 累計：**46 concept + 50 entity + 41 summary**（Taiyo Yuden + TDK +2）

@@ -159,10 +159,13 @@ confidence: medium
 
 ## 待 ingest 延伸
 
-- ✅ [[村田 Murata]]（已建本次、entity）
-- [[太陽誘電 Taiyo Yuden]]：嵌入式 MLCC 世界首發、日陣營協同
-- [[TDK]]：SESUB + AI 全鏈布局
-- [[國巨]] / [[華新科]] / [[信昌電]]：台廠 MLCC 三角的嵌入式曝險具體量化
+- ✅ [[村田 Murata]]（已建、entity）
+- ✅ [[太陽誘電 Taiyo Yuden]]（已建 2026-06-05、entity）：嵌入式 MLCC 世界首發（1005M 22μF + 2012 100μF lineup 完整）、IP first-mover、五軸 19/25（IP 5 / 客戶分散 1）
+- ✅ [[TDK]]（已建 2026-06-05、entity）：SESUB 模組獨家 + Apple iPhone 電池 + 鋁電解 AI PSU + HDD 多元組合、CEO 宣告 AI data center 用被動 10 倍成長 by FY2031、五軸 19/25
+- ✅ [[國巨]] / [[華新科]] / [[信昌電]]（已建，2026-06-05）：台廠 MLCC 三角的嵌入式曝險具體量化
+  - [[國巨]]：MLCC #3 + 全品線、嵌入式落後（無 embedded MLCC、無載板廠盟友）、Re-rate 4/4
+  - [[華新科]]：大中華 #1 + 中階通用、嵌入式完全缺席（規模 + 技術 + 通路三缺）、Re-rate 2/4
+  - [[信昌電]]：中高壓 niche specialist（粉末自製 + 大尺寸 1206-2220 + Mega Cap）、嵌入式**短期不切、2029+ 時程賽跑**（村田 1.25kV C0G 1210 已量產）、Re-rate 3/4、五軸 19/25
 - 嵌入式被動元件 vs 分立元件**單機 BOM 成本曲線**（追蹤 NVDA Rubin → Rubin Ultra 用量變化）
 
 ## 相關連結
