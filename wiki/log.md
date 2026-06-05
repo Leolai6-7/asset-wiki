@@ -163,3 +163,40 @@
       - 力成：客戶集中度高（Micron + AMD + Intel 60%+）+ 記憶體週期性
   - 同步更新：index.md（新增「標的：先進封裝 OSAT」段、移出待 ingest 清單）
   - 累計：43 concept + **31 entity** + 41 summary
+- ingest: **TGV 玻璃材料三巨頭**（Corning / AGC / SCHOTT，國際）— WebSearch 驅動建檔
+  - entity [[Corning]]（NYSE: GLW，美國）— 玻璃材料 + AI 光纖雙引擎
+    - 市值 USD 166.1B / Forward PE **55.99**（AI 期權已 price in）/ 2025 全年營收 USD 15.63B（+19.14% YoY）
+    - **Glass core substrate 市佔約 25%**（三巨頭中第一梯隊）
+    - **Nvidia $3.2B 戰略投資（2026-05-06）**：$500M pre-funded + $2.7B warrants、3 座光纖工廠（北卡+德州）、光連接器產能 10x
+    - Meta $6B 光纖長約（2026-01）+ TSMC 台灣廠 CoWoS 玻璃載板合作
+    - Hemlock Semiconductor 美國 wafer 廠 2025 Q4 commission、1M wafer/day、2GW/年
+    - Advanced Packaging Glass Carriers / Semiconductor Glass Wafers 已商業化
+    - 主要 takeaway：**對台廠「背書 thesis、不創造威脅」**——Corning 不做下游 TGV 加工、不搶台廠 8 站設備
+  - entity [[AGC]]（5201.JP，旭硝子，日本）— 玻璃 + EUV mask blank + CMP slurry 三軌
+    - 市值 JPY 1.19T / Forward PE **14.45**（三巨頭中最便宜）/ 52 週 JPY 4,180 → 8,294
+    - FY2024 Electronics 段營收 JPY 364.5B + 營業利益 JPY 54.5B
+    - **Electronic Materials JPY 183.6B 首度超 Display**（EUV mask blank 驅動、YoY +50%）
+    - **TGV 玻璃規格揭露最完整**：EN-A1 / 20-150μm / 0.1-1.0mm / panel 510×515mm
+    - 應用直接點名 Chiplet + CPO substrate + RF
+    - low-CTE 硼矽 sheet 供 Intel Arizona pathfinding line
+    - 全球僅 3 家 EUV mask blank 供應商之一
+    - 主要 takeaway：**Forward PE 14 沒反映 EUV + 玻璃雙引擎 → 潛在 re-rate trigger**
+  - entity [[SCHOTT]]（德國非上市，Carl Zeiss Foundation 100% 持有）— HermeS 預製 TGV wafer
+    - **無法直接押注**（Foundation 章程禁 IPO）
+    - 2024/2025 集團營收 EUR 2.83B / 2023/2024 EBIT EUR 400M / EBIT margin ~14%
+    - 半導體業務估算 2025 營收 USD 150-180M（占集團 ~5-6%）
+    - **HermeS Glass Wafer with TGV** 2014 起商業化（MEMS 為主、現擴至先進封裝）
+    - 超短脈衝雷射 TGV 鑽孔專利（與 LPKF LIDE 不同路徑 → 兩家專利不衝突）
+    - 2024-08 成立半導體事業部（Dr. Christian Leirer 領銜、15 年半導體經驗）
+    - 2025-01 收購 QSIL GmbH（強化石英玻璃）
+    - 主要 takeaway：**對台廠是「TGV 技術可行性 derisk」的對照組**，不是可投資標的
+  - **三家在 TGV 玻璃基板 design-in 證據強度排序**：
+    1. **Corning**（Nvidia / Meta / TSMC 三巨頭資本綁定 + Glass core 25% 市佔）
+    2. **AGC**（規格揭露最完整 + Intel Arizona pathfinding low-CTE sheet + EUV mask blank 半導體深度）
+    3. **SCHOTT**（HermeS 已商業化但 chipmaker 大客戶 commitment 未具名）
+  - **真正 bottleneck 結論**（Yole 2025 + TrendForce 確認）：**設備 / 加工 ecosystem（LPKF TGV 雷射、Disco 切割、CMP、metrology、carrier cleaning）**——**不在材料端**。Corning + AGC + SCHOTT + NEG 控 90%+ 低 CTE 玻璃配方、供應充足
+  - **對台廠 bull thesis**：玻璃材料供應**不會成為** TGV 賽道 bottleneck（三巨頭鼎立 + 韓國 KCC/LX Glass 追趕中）→ 台廠 8 站下游加工生意不受材料端壓縮
+  - **對台廠 bear thesis**：但**下游 interposer fabrication（Absolics、Samsung SEMCO、LG Innotek）+ 設備（LPKF、Disco）**才是真正 binary risk；Corning 與 TSMC 直接合作 panel-level 載板可能搶 FOPLP 加工層機會給 [[東捷]] 等台廠
+  - **三家對台股設備廠最大訊息**：玻璃材料供應充足、不創造威脅；下游 LPKF（雷射改質 IP）+ Disco（切割壟斷）+ Absolics（KR interposer 量產第一）才是 binary 風險源
+  - 同步更新：index.md（新增「TGV 玻璃材料」分類段 + 待 ingest 清單打勾）
+  - 累計：43 concept + **34 entity** + 41 summary

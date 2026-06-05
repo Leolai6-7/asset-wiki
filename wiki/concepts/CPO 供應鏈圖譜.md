@@ -30,6 +30,9 @@ confidence: high
 | **5. 先進封裝** | CoWoS-X、L 系列封裝 | [[TSMC]] |
 | **6. 連接器** | CPO 模組與系統互連 | Amphenol、Molex |
 | **7. 電源 / 雷射** | 電源管理 + 光源 | MPS、ADI、TXN（電源）；Lumentum/Coherent（雷射） |
+| **8. 玻璃中介層 / TGV** ⭐ | CPO 物理載體（Intel 2023 LIDE-CPO 專利明寫） | [[Corning]]、[[AGC]]、[[SCHOTT]] 玻璃；[[LPKF]]（LIDE IP）；[[鈦昇]]、[[雷科]]、[[弘塑]]、[[辛耘]]、[[萬潤]] 製程 |
+
+⭐ **第 8 層是 2026-06 新增的依賴關係校準**——詳見 [[TGV × CPO 依賴圖]]。CPO 不只是「跟 TGV 平行的姊妹 thesis」，**Intel 2023 專利明寫 LIDE-formed TGV 用於 CPO 架構**——TGV 是 CPO 的底層使能技術。
 
 ## 賣水人位階
 
@@ -93,6 +96,14 @@ confidence: high
 - [[半導體基礎建設化]]：CPO 是 infra 重估的細項
 - [[HBM iPhone moment]]：CPO 是另一個 iPhone moment 候選
 - [[控制點轉移（投資版）]]：光引擎 vs 賣水人的控制權搶奪
+- [[TGV × CPO 依賴圖]] ⭐：第 8 層的 IP / 技術依賴詳細展開
+- [[TGV 製程鏈圖譜]]：第 8 層的製程深度
+- [[先進封裝互聯路線圖]]：CPO 跟其他互聯路線的並存
+
+## llm-wiki 跨庫對應
+
+- llm-wiki [[CPO（共同封裝光學）]]：技術 anchor 視角，補充本 concept 的工程定義
+- 詳見 [[跨庫對照（asset-wiki ↔ llm-wiki）]]
 
 ## 待 ingest 延伸（CPO entity 化）
 
