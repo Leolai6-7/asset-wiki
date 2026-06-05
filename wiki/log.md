@@ -106,3 +106,60 @@
   - 待 ingest 延伸：力成 6239 / 日月光 3711 / Samsung Electro-Mechanics 009150.KS
   - 同步更新：index.md（TGV 段新增）
   - 累計：**43 concept** + 28 entity + 41 summary
+
+## 2026-06-05 — ingest: 先進封裝 OSAT 三家整合方 entity
+
+- ingest: **3 家 OSAT entity**（日月光 ASE 3711 / Amkor AMKR / Powertech 力成 6239）— WebSearch 驅動建檔
+  - 對應 TGV 製程鏈下游關鍵節點：**封裝整合誰做？**——三家 OSAT 是 [[TGV 製程鏈圖譜]] 8 站設備與化學品的下游客戶
+  - 觸發角度：[[CoWoS 三傑差異化]] 講賣水人三家位置，但**整合方位**（誰用這些設備做產線）尚未覆蓋
+  - 三家分工：
+    1. **[[日月光 ASE]]**（3711.TW / NYSE: ASX）— 全球最大 OSAT + CoWoS 委外雙頭 + SPIL/NVDA CoWoP + TPK/2026 Q3 TGV pilot
+       - 市值 NT$1.57 兆 / PE 57 / 2026 Q1 EPS NT$3.24（YoY +85%）/ 2026 LEAP 營收 guide **>$3.5B（YoY +118%）**
+       - 2026 資本支出 **$85 億美元**（2 次上修，21% 增幅）
+       - ATM 毛利率 26-27%（vs 同業 ~22%）/ LEAP 佔比 14%（2026）→ 33%（2027）= 第二波 re-rate
+       - **Re-rate 三角形 4/4 滿**（跟 [[弘塑]]、[[德律]] 並列）
+       - 跟 [[TSMC]] 是「**協力 + 分工 + 局部競爭**」三層關係（拿 60-80k CoWoS wafer 委外）
+       - 多軌押注：CoWoP / FoCoS / FOPLP / TGV 四軌並進
+    2. **[[Amkor]]**（NASDAQ: AMKR）— 美系 OSAT 第二大 + Intel EMIB 三地外包獨家 + Arizona $2B 廠（CHIPS Act）+ 玻璃基板「3 年內商業化」
+       - 市值 $12.03B / 股價 $75.62 / 2026 Q1 EPS $0.33（beat consensus $0.22 by 50%）
+       - 2026 Q1 營收 **$1.685B（YoY +27%）** = record / Q1 gross margin 14.2%
+       - 2028 目標營收 $9.0B / 2030 $11B+ GM 22%+（Arizona ramp）
+       - **Re-rate 三角形 2/4**（毛利率 14.2% 短期低 + OpEx Arizona 折舊壓力前置）
+       - 跟 [[TSMC]] 是「**協力 + 補位**」二層關係（拿 180-190k CoWoS wafer = ASE 3 倍）
+       - 跟 [[Intel]] EMIB 三地外包獨家：Korea Songdo K5（已量產）→ Portugal → Arizona
+       - 玻璃基板「3 年內商業化」（Yoo Dong-soo 公開、暗示 2028-2029）
+    3. **[[Powertech 力成]]**（6239.TW）— 台廠 FOPLP 主力 + 記憶體 HBM 龍頭（Micron 獨家）+ AMD Zen 7「**業界首例 2.5D panel-based interconnect**」共認證
+       - 市值 NT$2,634 億 / 股價 NT$335-343（5 月 22 漲停 NT$283 → 6 月突破 NT$335）
+       - **PE 13.7 倍（fwd）= 三家 OSAT 中最便宜、跟 [[弘塑]]/[[萬潤]] 60-67 倍差 5 倍**
+       - 2026 Q1 營收 NT$213.14 億（YoY +37.6%）= record / EPS NT$2.50（YoY +58%）/ 毛利率 19.4% → Q2 guide >20%
+       - FOPLP 良率 **>90%（接近 95%）**、2026 H2 客戶認證、2027 中量產
+       - **3D 光引擎** EIC+PIC 整合驗證完成、**2026 年底量產**（CPO 真實 design-in）
+       - 2026 資本支出 NT$500 億（從 NT$400 億 +25%，朝 NT$700 億方向）
+       - **Re-rate 三角形 3/4**（OpEx Arizona 廠房友達接收前置）
+       - 跟 [[TSMC]] 是「**分工 + 客戶切割**」二層關係（最 pure-play AI panel-level）
+  - **三家 TGV / 玻璃中介層 design-in 強度排序**：Amkor > ASE > 力成
+    - **Amkor**：跟 Intel 玻璃基板計畫**直接綁定 packaging 端**（玻璃 design-in 最強）
+    - **ASE**：跟 TPK 中壢 pilot line（2026 Q3）= 第一條台灣 TGV 整線 + 跟 SPIL 主導 NVIDIA CoWoP
+    - **力成**：FOPLP 不一定綁玻璃 + AMD Zen 7「2.5D panel」首例 + 3D 光引擎用 TSV（不是 TGV）
+  - **跟 [[TSMC]] CoWoS 的關係**：
+    - **ASE = 「協力 + 分工 + 局部競爭」三層**（CoWoS 60-80k 委外 + CoWoP 替代路線 + FoCoS-Bridge 同層）
+    - **Amkor = 「協力 + 補位」二層**（CoWoS 180-190k 委外大頭 + 美國端區域補位）
+    - **力成 = 「分工 + 客戶切割」二層**（panel-level vs wafer-level + AMD vs NVDA） — **最獨立於 TSMC**
+  - **「TGV 量產真正受惠者」**（賺整合服務費）排序：
+    - **第一**：**[[Amkor]]**——拿到 Intel 玻璃基板 packaging 端獨家（2028-2029 量產 anchor）+ TSMC CoWoS 委外 180-190k
+    - **第二**：**[[日月光 ASE]]**——跟 TPK TGV pilot + SPIL/NVDA CoWoP + LEAP 2027 佔比 33%
+    - **第三**：**[[Powertech 力成]]**——FOPLP 主軸（不必綁玻璃）+ AMD Zen 7 認證 + 3D 光引擎
+    - 三家**都是設備買方**（給三傑、[[鈦昇]]、[[雷科]]、[[LPKF]]、[[Disco Corp]] 等下游訂單）+ 整合方
+  - **bull / bear thesis**：
+    - **Bull（三家整合方）**：TSMC CoWoS 產能瓶頸延續至 2027 + 玻璃基板 2027-2028 量產 + AI CapEx 持續 → 三家整合方都吃
+    - **Bear（三家整合方）**：（a）TSMC 自己擴 CoWoS-L 把外包收回、（b）玻璃基板量產延後（如 2030+）、（c）AI CapEx 拐點（CSP 三大 cooling）→ 整合方先吃苦
+    - **Bull（個股）**：
+      - ASE：LEAP 2027 33% 佔比 + Q1 EPS YoY +85%
+      - Amkor：Intel EMIB 獨家 + Arizona 2027 H2 量產 + CHIPS Act
+      - 力成：FOPLP 良率 95% + AMD Zen 7 認證 + Micron HBM 獨家 + **PE 13.7 折價最大**
+    - **Bear（個股）**：
+      - ASE：PE 57 已部分 priced in + CapEx $85B 折舊壓力
+      - Amkor：GM 14.2% 結構性低 + Arizona 2027-2028 ramp 風險
+      - 力成：客戶集中度高（Micron + AMD + Intel 60%+）+ 記憶體週期性
+  - 同步更新：index.md（新增「標的：先進封裝 OSAT」段、移出待 ingest 清單）
+  - 累計：43 concept + **31 entity** + 41 summary

@@ -110,6 +110,16 @@
 - [[LPKF]]（XTRA: LPK，德國）— LIDE 雷射改質**專利擁有者**，鈦昇路線祖宗；EPO/KPCA/中國三線專利戰，市值 EUR 536M
 - [[Disco Corp]]（6146.JP）— 半導體切割研磨**60-70% 市佔壟斷**，雷科厚板/SiC 切割對手；2025-12 DFD6080 切入玻璃基板，市值 JPY 7.59T
 
+### 標的：先進封裝 OSAT（第四波 — 整合方位）
+- [[日月光 ASE]]（3711.TW / NYSE: ASX）— 全球最大 OSAT + CoWoS 委外雙頭 + SPIL/NVDA CoWoP + TPK/2026 Q3 TGV pilot；市值 NT$1.57 兆 / PE 57 / Re-rate 4/4；多軌押注（CoWoP/FoCoS/FOPLP/TGV 四軌並進）
+- [[Amkor]]（NASDAQ: AMKR）— 美系 OSAT 第二大 + Intel EMIB 三地外包獨家 + Arizona $2B 廠（CHIPS Act）+ 玻璃基板「3 年內商業化」；市值 $12B / PE 38（fwd 30.86x）/ Re-rate 2/4；TSMC CoWoS 委外大頭（拿 180-190k wafer = ASE/SPIL 3 倍）
+- [[Powertech 力成]]（6239.TW）— 台廠 FOPLP 主力 + 記憶體 HBM 龍頭（Micron 獨家）+ AMD Zen 7「業界首例 2.5D panel」共認證 + 3D 光引擎 2026 年底量產；市值 NT$2,634 億 / PE 13.7（fwd）/ Re-rate 3/4；OSAT 中 **PE 最便宜**、最 pure-play AI panel-level
+
+### 標的：TGV 玻璃材料（第四波 thesis 校準對照）
+- [[Corning]]（NYSE: GLW）— 全球玻璃材料巨頭、**Glass core 25% 市佔**；Nvidia $3.2B 戰略投資 + Meta $6B 光纖長約 + TSMC 台灣廠 CoWoS 玻璃載板合作；市值 USD 166B、Forward PE 56（AI 期權已 price in）
+- [[AGC]]（5201.JP，旭硝子）— 玻璃 + EUV mask blank + CMP slurry 多軌；TGV 玻璃規格揭露最完整（EN-A1 / 20-150μm / 510×515mm panel）；Forward PE 14.45（三巨頭中最便宜）；半導體段 <3% 但成長最快
+- [[SCHOTT]]（德國非上市，Carl Zeiss Foundation 100% 持有）— **HermeS 預製 TGV 玻璃 wafer**（2014 商業化、與 LPKF LIDE 走不同路徑）；2024-08 成立半導體事業部；無法直接押注但**證明雷射 TGV 路線技術可行多年**
+
 ## 摘要 (summaries)
 
 ### 宋分備忘錄系列（月度宏觀，2026 Q1）
@@ -193,10 +203,10 @@
 - ✅ [[德律]] / [[東捷]] / [[敘豐]]（已建 ⚠️ 觀察 entity，2026-06-05）
 - ✅ [[LPKF]]（已建，2026-06-05）— 鈦昇對手 LIDE 專利擁有者
 - ✅ [[Disco Corp]]（已建，2026-06-05）— 雷科切割對手 + 日系獨佔
+- ✅ [[日月光 ASE]] / [[Amkor]] / [[Powertech 力成]]（已建 OSAT 三家整合方 entity，2026-06-05）
+- ✅ [[Corning]] / [[AGC]] / [[SCHOTT]]（已建玻璃材料三巨頭 entity，2026-06-05）
 - 群創（3481，FOPLP 線轉型）
 - 欣興 / 南電 / 景碩（ABF 載板廠）
-- Powertech 力成（6239，FOPLP 主力）、日月光 ASE（3711）
-- Corning (GLW)、SCHOTT、AGC（玻璃材料巨頭）
 
 ### 延伸 concept
 - 對齊稅（alignment tax）、Sovereign AI、模型商品化、AI Liability（投資版）
