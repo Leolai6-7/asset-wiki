@@ -6,8 +6,8 @@ created: 2026-06-05
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
-tags: [TGV, 玻璃通孔, FOPLP, 半導體, 先進封裝, 台股, 賣水人, Intel, AMD, Broadcom]
-confidence: high
+tags: [TGV, 玻璃通孔, FOPLP, 半導體, 先進封裝, 台股, 賣水人, Intel, AMD, Broadcom, market_size_unverified]
+confidence: medium
 ---
 
 # TGV 玻璃通孔賽道 — sennn.nnna 原文 + 7 家台股驗證

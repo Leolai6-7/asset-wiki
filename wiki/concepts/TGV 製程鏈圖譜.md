@@ -86,7 +86,8 @@ confidence: high
 ## 待 ingest 延伸
 
 - 國際大廠 entity：LPKF（德國，鈦昇對手）、Disco（雷科切割對手）、AMAT、TEL
-- 台股漏網：**萬潤**（CoWoS 三傑之一）、群創（FOPLP 線轉型）、欣興/南電/景碩（ABF 載板廠）
+- 台股漏網：群創（FOPLP 線轉型）、欣興/南電/景碩（ABF 載板廠）
+- 已補：[[萬潤]]（6187，CoWoS 三傑第三家，WoS 後段點膠+散熱+AOI 近壟斷）— 對 TGV 中性、TGV 完成後仍要回到後段過萬潤機台
 - 玻璃材料廠：Corning、SCHOTT、AGC
 
 ## 相關連結
