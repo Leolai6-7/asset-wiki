@@ -102,6 +102,21 @@ confidence: medium
 - **短期被切的 TAM** < **整體先進封裝 TAM 成長**
 - → 多數 ABF 廠的 thesis 是「**慢慢被切但總量還在成長**」
 
+## 跟第二戰場（嵌入式 MLCC）的關係
+
+ABF 廠**並行押注**兩個 displacement 戰場：
+
+| 戰場 | 玻璃化（向外） | 嵌入式 MLCC（向內） |
+|---|---|---|
+| **動作** | 換基板材料 | 把被動元件埋入載板 |
+| **先發** | [[Samsung Electro-Mechanics]] / [[Absolics]] | [[Samsung Electro-Mechanics]] / [[太陽誘電 Taiyo Yuden]] |
+| **IBIDEN 動作** | 觀望 / R&D | ¥5,000 億 CapEx 含嵌入式產線 |
+| **欣興動作** | Intel design partner（先發） | 評估中 |
+| **南電 / 景碩** | 樣品落後 | 觀望 |
+| **對台 MLCC 廠（[[國巨]] / [[華新科]]）影響** | 無直接影響 | 直接被切 displacement |
+
+→ 見 [[MLCC 嵌入式基板賽道]]。**ABF 廠對玻璃化是「受害方」、對嵌入式 MLCC 反而是「主導方」**——把上游 MLCC 廠的料件吃進來、control point 上移。台廠 ABF 三雄是否跟進嵌入式（不是玻璃）也是 displacement 的觀察軸。
+
 ## 跟 wiki 既有 concept 連結
 
 - [[玻璃基板與 FOPLP 賽道]]：本 concept 的反面（玻璃贏 vs ABF 輸）

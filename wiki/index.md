@@ -54,6 +54,7 @@
 - [[ABF 載板 vs 玻璃基板 displacement]] — 欣興/南電/景碩三種命運（codex 補）
 - [[CoWoS 三傑差異化]] — 弘塑/辛耘/萬潤位置與商業模式對照（codex 補）
 - [[手機與邊緣晶片端 TGV-FOPLP watchlist|手機與邊緣晶片端 TGV/FOPLP watchlist]] — Apple Baltra/Qualcomm/Samsung/ByteDance/Tesla 三條獨立採用曲線（codex P2 補）
+- [[MLCC 嵌入式基板賽道]] — 第二戰場、被動元件從板面嵌進載板內：SEMCO 先發、IBIDEN ¥5,000 億追擊、ECP/LSC/iPaS/silicon capacitor 三線並進、台 ABF + MLCC 雙鏈全落後
 
 ### 操作框架
 - [[修正三階段]]
@@ -129,6 +130,11 @@
 - [[欣興]]（3037.TW）— ABF 載板**全球龍頭**、跨 Intel EMIB/Foveros + TSMC CoWoS/CoPoS **台廠唯一**、NVDA Blackwell 載板第二供應商（拿 3 成份額）、2026-03 完成 Intel 玻璃 sample 一階驗證、2027 試產線 + 2028 量產；市值 NT$1.54 兆 / Forward PE ~55-60（2026 EPS ~17）/ Re-rate 3/4；**displacement 命運：受惠（雙曲線）**
 - [[南電]]（8046.TW）— ABF 載板第二大、800G/1.6T 高階交換器**寡占 >70%**、ASIC 三巨頭（AVGO+AMD+Marvell）綁定 60%、NVDA Vera Rubin（CoWoS-L + ABF）2026 H2 ramp；市值 ~NT$5,685 億 / Forward PE ~108 / Re-rate 2/4；**displacement 命運：短期受惠 / 中期受害**（Tomahawk 8 等 ASIC 玻璃化將切走 TAM）
 - [[景碩]]（3189.TW）— ABF 載板第三大、產品線**中階為主**（ABF 40% + BT 33% + 隱形眼鏡 18%）、2026 打入 NVDA AI GPU **第三供應商**、美系 AI CPU 供貨率 10%→50%、稼動率 86%→95%；市值 NT$2,866 億 / Forward PE ~60-70（2026 EPS 預估 7.75-9.2）/ Re-rate 3/4；**displacement 命運：相對受益**（高階玻璃化切的是欣興/南電/IBIDEN，景碩反吃外溢訂單）
+
+### 標的：MLCC / 被動元件（[[MLCC 嵌入式基板賽道]] 第二戰場視角，第四波）
+- [[村田 Murata]]（6981.JP）— **全球 MLCC 絕對龍頭**（40-50% 市佔、高階 AI server 70%+）、矽電容跟 [[TSMC]] 並列**歷史寡占雙頭**、iPaS™ 嵌入式基板已商業化 = 賽道**唯一「不被切的純被動元件廠」**；FY2026 營收 ¥1.83 兆（+5%）、AI server MLCC 訂單**為產能 2 倍**、市值 ¥18.97 兆（USD ~1,300 億）、Trailing PE 24.79 / FY2027 自家指引 OP **+34.8%** / ¥330 億 CapEx（含 ¥80 億 emergency）；**MLCC 嵌入式戰場：三線並進全吃**（分立 MLCC + iPaS + 矽電容）；Re-rate 三角形 **3/4**；五軸 **24/25**（賽道最高分）；**唯一風險**：SEMCO 矽電容 USD 10 億合約是 Murata+TSMC 寡占首度破口
+- [[國巨]]（2327.TW）— 全球**鉭電容 #1**（>50% 市佔）+ 晶片電阻 #1 + MLCC #3（追村田/SEMCO）+ 一站式併購王（Pulse/KEMET/Shibaura $44 億）、2026 Q1 營收 NT$381.66 億創高 EPS 3.90 +44.7% YoY、毛利率 **38.1%**、AI 占比 14-15%（鉭電容線 >30%）、75% 高門檻 mix、市值破兆、大摩/摩根大通目標千元；**MLCC 嵌入式戰場：落後**（無 embedded MLCC 產品 + 無載板廠盟友）；Re-rate 三角形 **4/4 滿**
+- [[華新科]]（2492.TW）— 台廠 MLCC **二哥** + 大中華第一 + 全球第四（~14% 市佔）、2026 Q1 營收 NT$95.38 億 EPS 1.69、毛利率 **18.3%**（vs 國巨 38.1% 落差顯著）、MLCC 純度 46.4%（比國巨高 3 倍）、AI 占 5-10%（毛利率比公司均高 10pp）、中高壓 MLCC + LTCC + 安規切入 AI 電源 + 車用；市值 NT$2,052 億 / Forward PE ~73-77；**MLCC 嵌入式戰場：完全缺席**（規模 + 技術 + 通路三缺）；Re-rate 三角形 **2/4 滿**（純漲價週期 beta + 次級轉單）
 
 ## 摘要 (summaries)
 
