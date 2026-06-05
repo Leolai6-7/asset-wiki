@@ -522,3 +522,93 @@
     - [[ABF 載板 vs 玻璃基板 displacement]] concept（末段新加「跟第二戰場（嵌入式 MLCC）的關係」）
     - 本 log.md（追補段落）
   - 累計：**44 concept + 43 entity + 41 summary**
+- ingest: **光通訊 / DCI 第三戰場開戰** — Leo DCI/Hyper-Rail 研究筆記驅動 + WebSearch 補完
+  - 1 raw (`raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md`) → 2 concept
+  - method：subagent + ~13 WebSearch 並行驗證（Ciena 官方 / Nokia 官方 / Ciena Q2 2026 法說會逐字稿 / DriveNets scale across 定義 / Lumentum Q3 FY2026 出貨 / Jevons 學術原典 / DeepSeek 案例 / saturation 失效條件）
+  - concepts:
+    - [[Hyper Rail / Multi-Rail（光通訊整合技術）]] — CIEN/NOK 把 EDFA+WSS 整合成 1U 4-rail，128-160 fiber pairs/rack（32x-40x 密度），2027 起放量；補完 Leo 直覺到 LCOS WSS 像素提升 + EDFA pump 整合的精確機制
+    - [[Jevons Paradox（投資版）]] — 學術原典（Jevons 1865 煤炭）+ AI/cloud/DeepSeek/Hyper-Rail 案例 + 三條失效情境（saturation/replacement/regulation）+ 五軸框架整合
+  - 關鍵 finding:
+    - **Hyper-Rail vs Multi-Rail 是同概念不同命名**（Ciena 先發、Nokia OFC 業界用語），但**規格差距 25%**（NOK 160 vs CIEN 128）+ **時程倒過來**（NOK 2026 H2、CIEN 2027 起跑、CIEN 首單已在手）
+    - **scale across = NVDA Spectrum-XGS 詞彙**（DriveNets 寫成業界定義）= 跨 DC / 跨園區 / 80-1000km / **由 DCI 廠商（CIEN/NOK）掌控控制權，不在 NVDA 手裡**
+    - **Leo「pump laser 用量會反而上升」判斷正確且保守**：rough estimate 4-6x TAM（單機 4x × 部署量 1.5x），Lumentum Q3 FY2026 pump laser 出貨 **+80% YoY** 已 P&L 印證
+    - **對 [[CPO 供應鏈圖譜]] 第 2 層補強**：LITE/COHR pump laser 業務不會被 CPO 整合掉——CPO 是 intra-rack scale up、Hyper-Rail 是 inter-DC scale across，**兩條獨立第二曲線**
+  - 同步更新：
+    - index.md（新增「光通訊 / DCI（第三戰場）」分類；「待 ingest 延伸 半導體 / 算力供應鏈 entity」段落補註 LITE/COHR/CIEN/NOK 已 partial 補充於 Hyper-Rail concept）
+    - 本 log.md（追加本段）
+  - 待 ingest：CIEN/NOK/LITE/COHR 四家 entity 走 [[公司 Entity 模板（Step 1-3 三段式）]] 三段式（concept 已蓋技術面，個股財務狀態快照下次）
+  - 累計：**46 concept + 43 entity + 41 summary**
+- ingest: **光通訊光引擎兩家 entity 補完** — Lumentum / Coherent
+  - method：subagent + 10 WebSearch 並行（Q3 FY2026 法說 / NVDA $2B 戰略 / pump laser 競爭 / SiC vs Wolfspeed / 估值 / Hyper Rail 受惠 / 6-inch InP 產能 / 1.6T 模組需求 / CPO Spectrum-X / NOK Multi-Rail 規格）
+  - entities:
+    - [[Lumentum]]（NASDAQ: LITE）— **InP / EML / pump laser 純度首選**
+      - Q3 FY2026 營收 $808M（+90% YoY）/ Non-GAAP OP margin 32.2% / 47.9% 毛利
+      - 200G EML **全球唯一量產者**、pump laser 全球前三、OCS backlog >$400M、CPO 多億美元 2027 H1 訂單
+      - NVDA 2026-03-02 $2B 戰略投資 + Greensboro NC 6-inch InP 廠（2028 中量產）
+      - 供需缺口 >30%（CEO 揭露）
+      - Forward PE 52-59 / 12 個月 +1,542% / Re-rate 4/4
+      - 五軸 19/25（路線 4 / 站別 5 / 耗材 3 / IP 5 / 客戶 2）
+    - [[Coherent]]（NYSE: COHR）— **光通訊 + SiC 雙曲線**
+      - Q3 FY2026 營收 $1.81B（+21% YoY）/ Datacenter & Comm 75% +41% / Industrial 25% +2%
+      - 光收發器全球 ~25% 市佔（FY2025 $5.81B、規模龍頭）+ 6-inch InP 線追趕 EML（next quarter 2x、2027 年底再 2x）
+      - SiC 150mm/200mm 10kV 量產 + 300mm 平台 + Thermadite XPU cooling
+      - NVDA 2026-03-02 $2B 戰略投資（與 LITE 同日同額對倒）+ CPO 多年供應協議 + AI 訂單能見度 **2028**
+      - Forward PE 44-49 / 12 個月 +362% / Re-rate 3/4
+      - 五軸 19/25（路線 4 / 站別 4 / 耗材 3 / IP 4 / 客戶 4）
+  - **Leo thesis 校準（必返回）**：
+    - 「LITE 純度首選 + COHR SiC 後來成優勢」**完全成立**——五軸總分 19/19 打平、各有勝場
+    - LITE 勝在「**laser 純度 + EML IP**」（200G EML 唯一量產 + InP 純度）
+    - COHR 勝在「**SiC 第二曲線 + 客戶分散度**」（AI 雲端 + EV + 工業 + 半導體製程四軌客戶）
+    - NVDA 同日同額投兩家 = 戰略**不選邊**+ lock up 全球高階雷射元件至 2027
+    - **Hyper Rail 受惠程度**：兩家**對等受惠**——Ciena 把 pump laser 整合（LITE/COHR 都供）、Nokia 1830 GX Multi-Rail 160 fiber pairs/rack 需要 pump laser 數量增加（兩家分食）
+    - 校準後押法：**LITE + COHR 一籃子**（過去 [[CPO 供應鏈圖譜]] 寫「不押光引擎誰贏」現已改為「光引擎 2-3 家寡占成形」）
+  - 同步更新：
+    - index.md（新增「光通訊 / DCI / 光引擎（第五波）」分類段；「待 ingest」內 LITE / COHR partial 補充改為 ✅ 已建）
+    - [[CPO 供應鏈圖譜]] 第 2 層 + 第 7 層 + 賣水人位階 + 待 ingest + 相關連結 五處 wikilink 補完
+    - [[SiTime]] 待 ingest 段（客戶列表 LITE/COHR wikilink）
+    - 本 log.md（追加本段）
+  - 本 subagent 貢獻：entity +2（Lumentum + Coherent）
+  - 注：同期另一 subagent 並行建 [[Ciena]] / [[Nokia]] entity，整體累計待主 agent 合併後標定（實際檔案計數：48 entity）
+- ingest: **DCI 設備商雙頭 entity 補完** — Ciena (CIEN) / Nokia (NOK)
+  - 1 raw（同 [[Hyper Rail / Multi-Rail（光通訊整合技術）]] concept、`raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md`）→ 2 entity
+  - method：subagent + 10 WebSearch 並行（Ciena Q2 FY2026 法說會 / HyperRail 部署 / cloud 客戶集中度 / WaveLogic 6 / supply constraint / Nokia 1830 GX RD66 D2ILA / Multi-Rail 出貨 / Infinera 整合 / Q1 2026 hyperscaler 訂單 / Nokia vs Ericsson 分歧）
+  - entities：
+    - [[Ciena]]（NYSE: CIEN）— **DCI 純度王 + scale across 物理層絕對龍頭**
+      - WaveLogic 6 Extreme 1.6T 單載波全球第一、HyperRail RLS co-designed with hyperscaler
+      - **Industry's first multi-rail order 已收**（hundreds of millions、跨多年）、2026 standardization → **2027 deployment ramp**
+      - FY2026 Q2 營收 $1.57B（YoY **+40%**）/ Cloud 客戶 46%（YoY +70%）/ 兩家客戶占 34%（A: $321M、B: $212M）
+      - Backlog **$7.7B**（QoQ +$600M）= ~1.2 年能見度
+      - FY2026 全年指引 $6.3B（+32%）
+      - Forward PE 80-91x / GF Value 估 532% overvalued
+      - Re-rate 3/4、五軸 **19/25**（路線 5 / 站別 5 / 耗材 3 / IP 5 / **客戶分散僅 1**）
+      - **「supply constrained」CFO 法說會明示** = Leo 訂單外溢 thesis 校準成立
+    - [[Nokia]]（NYSE: NOK / NOKIA.HE）— **DCI 廣度王 + Infinera 整合 hyperscaler 對沖配置**
+      - **9 of top 10 hyperscaler 都用 Nokia 光網路** = 廣度王
+      - 1830 GX RD66 + D2ILA Multi-Rail OLS **2026 H2 出貨**（160 fiber pairs/rack、規格略勝 CIEN 128）
+      - Infinera 併購（$2.3B、2025-02 完成）帶入自研 coherent DSP + InP fab = **部分內製**降低對 LITE/COHR 依賴
+      - Q1 2026 集團營收 €4.50B、Optical Networks €821M（YoY **+20% comparable / +56% reported**）
+      - AI & Cloud 訂單 **€1B**（+49%）、占集團 8%
+      - NI segment GM 43.4%、FY2026 NI 指引 +12-14% / Optical+IP +18-20%
+      - Forward PE **43x**（vs CIEN 80-91x **折價一半**）/ 分析師目標 $12.9-13.12（共識）vs 現價 $16.62（市場已超共識）
+      - Re-rate 2/4（Mobile Networks 拖累）、五軸 **18/25**（路線 3 / 站別 4 / 耗材 3 / IP 4 / **客戶分散 4 壓制 CIEN**）
+      - **跟 Ericsson 已策略分歧**：Ericsson 退出 DCI / 聚焦 5G 獨立 RAN、Nokia 走 hyperscaler 光網路 + NVDA 5G/6G AI-RAN 抱大腿
+  - **Leo thesis 校準（必返回）**：
+    - 「CIEN Hyper Rail 2027 部署 + 供應跟不上需求」**完全成立**（CFO 法說會明示）
+    - 「NOK Multi-Rail 2026 H2 出貨」**完全成立**（1830 GX RD66 + D2ILA 官方公告）
+    - 「Hyper Rail 跟 Multi-Rail 概念相同、細節有差異」**完全成立**——兩家都是「multi-fiber-pair 共用 amplifier / pump laser」整合架構；CIEN 128 fiber pairs vs NOK 160 fiber pairs、NOK 規格略勝
+    - 「NOK 沒落後」**完全成立、甚至樂觀有理**——Nokia 規格略勝 + 出貨時程領先 + 9 of top 10 滲透 + Q1 2026 €1B hyperscaler 訂單
+    - 「訂單外溢給 NOK」**方向正確、可量化**——CIEN supply-constrained 官方確認 + Nokia Q1 2026 hyperscaler 訂單 €1B (+49%) 是承接證據
+    - **新增校準（純度 vs 廣度框架）**：
+      - CIEN = 純度王（DCI 100%）+ 高估值（PE 80-91x）+ 高客戶集中度（兩家占 34%）= **三高 entity**
+      - NOK = 廣度王（DCI 是 Network Infra 一支）+ 中估值（PE 43x）+ 低客戶集中度（9 of top 10）= **三中 entity**
+      - CIEN 對 DCI thesis 槓桿大、NOK 對 DCI thesis 槓桿被 Mobile 稀釋一半但業務多元緩衝
+  - **CIEN/NOK 對 [[Lumentum]] / [[Coherent]] 採購關係（校準）**：
+    - **CIEN ramp = LITE/COHR 高槓桿受惠**（CIEN 100% 外採 pump laser + WSS + DSP 自研但其他元件外採）
+    - **Nokia ramp = LITE/COHR 中度受惠**（部分 InP 元件 Infinera 自研、pump laser + WSS 仍外採）
+    - [[Coherent]] Q3 FY2026 法說會「leading DCI OEM 拿到 uncooled 3-pin micropump multiyear design win」極大概率匹配 CIEN 或 NOK 或兩家
+    - → 修正 [[CPO 供應鏈圖譜]] 賣水人位階「兩家對等受惠」描述：CIEN ramp 對 LITE/COHR 槓桿 > NOK ramp 對 LITE/COHR 槓桿（因 Infinera 部分內製）
+  - 同步更新：
+    - index.md「光通訊 / DCI / 光引擎（第五波）」分類段新增 [[Ciena]] / [[Nokia]] 兩條目（與 LITE/COHR 同段）
+    - index.md「待 ingest 延伸 半導體 / 算力供應鏈 entity」段 CIEN/NOK partial → ✅ 已建
+    - 本 log.md（追加本段）
+  - 累計：**46 concept + 47 entity + 41 summary**（DCI 兩家 +2）

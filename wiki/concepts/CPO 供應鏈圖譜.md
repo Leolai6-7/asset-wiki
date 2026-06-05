@@ -24,12 +24,12 @@ confidence: high
 | 層 | 內容 | 主要玩家 |
 |---|---|---|
 | **1. 交換 ASIC** | CPO 的「腦袋」，決定整個系統架構 | [[AVGO]] Tomahawk/Jericho、Marvell Teralynx |
-| **2. 光引擎** | 光電轉換核心、CPO 的競爭主戰場 | Lumentum (LITE)、Coherent (COHR)、博通自研 |
+| **2. 光引擎** | 光電轉換核心、CPO 的競爭主戰場 | [[Lumentum]] (LITE)、[[Coherent]] (COHR)、博通自研 |
 | **3. DSP** | 訊號處理；CPO 反向風險最大（可能被整合消失） | Marvell |
 | **4. Timing 元件** | 高頻時脈，每升一代 BOM 量翻倍 | [[SiTime]]、TXC、京瓷 |
 | **5. 先進封裝** | CoWoS-X、L 系列封裝 | [[TSMC]] |
 | **6. 連接器** | CPO 模組與系統互連 | Amphenol、Molex |
-| **7. 電源 / 雷射** | 電源管理 + 光源 | MPS、ADI、TXN（電源）；Lumentum/Coherent（雷射） |
+| **7. 電源 / 雷射** | 電源管理 + 光源 | MPS、ADI、TXN（電源）；[[Lumentum]] / [[Coherent]]（雷射） |
 | **8. 玻璃中介層 / TGV** ⭐ | CPO 物理載體（Intel 2023 LIDE-CPO 專利明寫） | [[Corning]]、[[AGC]]、[[SCHOTT]] 玻璃；[[LPKF]]（LIDE IP）；[[鈦昇]]、[[雷科]]、[[弘塑]]、[[辛耘]]、[[萬潤]] 製程 |
 
 ⭐ **第 8 層是 2026-06 新增的依賴關係校準**——詳見 [[TGV × CPO 依賴圖]]。CPO 不只是「跟 TGV 平行的姊妹 thesis」，**Intel 2023 專利明寫 LIDE-formed TGV 用於 CPO 架構**——TGV 是 CPO 的底層使能技術。
@@ -41,7 +41,7 @@ confidence: high
 ```
 高敏感（押誰贏） ←─────────────────────────► 低敏感（誰贏都受惠）
 
-光引擎 (LITE/COHR)
+光引擎 ([[Lumentum]]/[[Coherent]]) — NVDA 2026-03 同日 $2B 對倒投資、Leo「LITE 純度 + COHR SiC」一籃子押法
     │
    DSP (Marvell)
     │
@@ -107,8 +107,8 @@ confidence: high
 
 ## 待 ingest 延伸（CPO entity 化）
 
-- Lumentum (LITE)
-- Coherent (COHR)
+- ✅ [[Lumentum]] (LITE)（已建，2026-06-05）— 第 2 層光引擎「純度首選」+ 第 7 層雷射光源；NVDA $2B 戰略
+- ✅ [[Coherent]] (COHR)（已建，2026-06-05）— 第 2 層「規模 + 多軌」+ SiC 第二曲線；NVDA $2B 戰略
 - Marvell (MRVL)
 - 中際旭創（中國 CPO 玩家）
 
@@ -117,6 +117,7 @@ confidence: high
 - [[SiTime]]
 - [[AVGO]]
 - [[TSMC]]
+- [[Lumentum]]、[[Coherent]]
 - [[賣水人選股邏輯（投資版）]]
 - [[半導體基礎建設化]]
 - [[HBM iPhone moment]]

@@ -46,6 +46,10 @@
 - [[CPO 供應鏈圖譜]] — 七層分工 + 賣水人位階
 - [[AI 資安攻防成本曲線]] — 攻防成本同時下降，總支出不降反升
 
+### 光通訊 / DCI（第三戰場）
+- [[Hyper Rail / Multi-Rail（光通訊整合技術）]] — CIEN/NOK 把 EDFA+WSS 整合成 1U 4-rail，128-160 fiber pairs/rack，2027 起放量，**scale across 指標性技術**
+- [[Jevons Paradox（投資版）]] — 效率提升反向放大需求；Hyper-Rail / DeepSeek / 雲端通用適用，連 [[預期差]] alpha 來源
+
 ### TGV / 玻璃基板賽道（第四波）
 - [[TGV 製程鏈圖譜]] — 八站分工 + 賣水人位階表（CPO 圖譜的姊妹篇）
 - [[TGV 路線分歧（雷射改質 vs 雷射打孔）]] — 鈦昇 vs 雷科 binary outcome
@@ -89,6 +93,12 @@
 ### 標的：半導體製造 / 算力供應鏈
 - [[Intel]] — IDM 2.0 + 18A + Terafab $25B anchor
 - [[SiTime]] — 「賣水人之中的賣水人」，CPO 三倍 BOM + 六條放量曲線
+
+### 標的：光通訊 / DCI / 光引擎（第五波）
+- [[Lumentum]]（NASDAQ: LITE）— **InP / EML / pump laser 純度首選**：200G EML 全球唯一量產者、pump laser 全球前三、OCS Google 唯一商業化、NVDA 2026-03 $2B 戰略投資 + Greensboro NC InP 廠 2028 量產；FY2026 Q3 營收 $808M（+90%）/ Q4 指引 $960M-$1.01B（+85%）/ Forward PE 52-59 / 12M 漲幅 +1,542% / Re-rate 4/4；五軸 19/25（純度 + IP 強、客戶分散弱）
+- [[Coherent]]（NYSE: COHR）— **光通訊 + SiC 雙曲線**：transceiver 全球 ~25% 市佔（FY2025 $5.81B）、6-inch InP 線追趕 EML、SiC 10kV MOSFET + 300mm 平台切 AI datacenter 配電、NVDA 2026-03 $2B 戰略投資（與 LITE 同日同額對倒）+ AI 訂單能見度 2028；Q3 FY2026 營收 $1.81B（+21%）/ Datacenter & Comm +41%、Forward PE 44-49 / 12M 漲幅 +362% / Re-rate 3/4；五軸 19/25（路線 + 客戶分散勝、EML 短期落後 LITE）
+- [[Ciena]]（NYSE: CIEN）— **DCI 純度王 + scale across 物理層絕對龍頭**：WaveLogic 6 Extreme 1.6T 單載波全球第一、**HyperRail / Multi-Rail RLS** co-designed with hyperscaler、industry's first multi-rail order 已收（hundreds of millions、跨多年）、2026 standardization → **2027 deployment ramp**；FY2026 Q2 營收 $1.57B（YoY **+40%**）/ Cloud 客戶 46%（YoY +70%）/ backlog **$7.7B**（QoQ +$600M）/ FY2026 指引 $6.3B（+32%）/ Forward PE 80-91x（極貴、GF Value 估 532% overvalued）/ Re-rate 3/4；五軸 **19/25**（路線 + 站別 + IP 三軸滿、**客戶分散僅 1 分**——兩家 hyperscaler 占 34%）；**訂單外溢給 Nokia 已被法說會本人證實「supply constrained」**
+- [[Nokia]]（NYSE: NOK / NOKIA.HE）— **DCI 廣度王 + Infinera 整合的 hyperscaler 對沖配置**：**9 of top 10 hyperscaler 都用 Nokia 光網路**、1830 GX RD66 + D2ILA Multi-Rail OLS **2026 H2 出貨**（160 fiber pairs/rack、規格略勝 CIEN 128）、Infinera 併購（$2.3B、2025-02 完成）帶入自研 coherent DSP + InP fab；Q1 2026 集團營收 €4.50B、Optical Networks €821M（YoY **+20% comparable / +56% reported**）、AI & Cloud 訂單 €1B（+49%）、NI segment GM 43.4%、FY2026 NI 指引 +12-14% / Optical+IP +18-20%；Forward PE **43x**（vs CIEN 80-91x **折價一半**）/ Re-rate 2/4（Mobile Networks 拖累）；五軸 **18/25**（**客戶分散 4 分壓制 CIEN 1 分**、路線敏感 / 站別 / IP 輸 CIEN）；**跟 Ericsson 已策略分歧**（Ericsson 退出 DCI / 聚焦 5G 獨立 RAN、Nokia 走 hyperscaler 光網路 + NVDA 5G/6G AI-RAN 抱大腿）
 
 ### 標的：中國 AI
 - [[華為]] — 昇騰 NPU + Atlas SuperPoD + CANN，DeepSeek V4 唯一硬體合作方
@@ -196,7 +206,9 @@
 ## 待 ingest 延伸（subagent 提案，未來補）
 
 ### 半導體 / 算力供應鏈 entity
-- Lumentum (LITE)、Coherent (COHR)、Marvell (MRVL)：CPO 光引擎/DSP 三巨頭
+- ✅ [[Lumentum]] / [[Coherent]]（已建，2026-06-05）— CPO 第 2 層光引擎兩家 NVDA $2B 戰略對倒、Leo「LITE 純度 + COHR SiC」thesis 校準（五軸打平 19/25）
+- ✅ [[Ciena]] / [[Nokia]]（已建，2026-06-05）— DCI 系統整合商雙頭、純度王 vs 廣度王、估值對比（PE 80-91x vs 43x）；Leo Hyper-Rail / Multi-Rail thesis 校準（NOK 在 DCI 沒落後 + 訂單外溢已驗證）
+- Marvell (MRVL)：DSP / coherent engine
 - 中芯國際 SMIC、長鑫存儲 CXMT：中國 AI 算力替代瓶頸節點
 - Tesla / xAI / SpaceX：Musk 帝國垂直整合算力
 - TXC、京瓷、村田：SiTime 競爭對手（時脈）

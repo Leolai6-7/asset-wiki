@@ -53,7 +53,7 @@ llm-wiki 已有 [[SiTime（SITM）]] entity——asset-wiki 這版本從**投資
 ## 待 ingest 延伸
 
 - 競爭：TXC、京瓷、村田（傳統石英晶振）
-- 客戶：博通、Marvell、Coherent、Lumentum 都是
+- 客戶：博通、Marvell、[[Coherent]]、[[Lumentum]] 都是（光引擎兩家 entity 已建 2026-06-05）
 
 ## 相關連結
 
