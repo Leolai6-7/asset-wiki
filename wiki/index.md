@@ -53,6 +53,7 @@
 - [[先進封裝互聯路線圖]] — TGV vs TSV vs Hybrid Bonding vs RDL Fan-Out 多軌對比（codex 補）
 - [[ABF 載板 vs 玻璃基板 displacement]] — 欣興/南電/景碩三種命運（codex 補）
 - [[CoWoS 三傑差異化]] — 弘塑/辛耘/萬潤位置與商業模式對照（codex 補）
+- [[手機與邊緣晶片端 TGV-FOPLP watchlist|手機與邊緣晶片端 TGV/FOPLP watchlist]] — Apple Baltra/Qualcomm/Samsung/ByteDance/Tesla 三條獨立採用曲線（codex P2 補）
 
 ### 操作框架
 - [[修正三階段]]

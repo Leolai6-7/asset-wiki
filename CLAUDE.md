@@ -109,6 +109,47 @@ confidence: high | medium | low
 
 **Lint 時要 flag**：Re-rate 三角形快照若超過 6 個月未更新 → 需重新評估，標 confidence: low。
 
+## 時效 metadata schema（lint 規範）
+
+完整見 [[時效 metadata schema（lint 規範）]]。
+
+Snapshot 與時點性 claim **必須**標註：
+
+```yaml
+---
+as_of: 2026-06-05              # snapshot 適用日期（已有慣例）
+check_after: 2026-12-05        # 何時要重檢（半年/年）
+expires_on: 2026-12-31         # 過了自動降 confidence 至 low（適用具體時點 claim）
+evidence_url: https://...      # 主要佐證來源
+---
+```
+
+**適用範圍**：
+- Entity Step 3 財務狀態快照 → `as_of` 強制 + `check_after` 強制（3-6m）
+- Entity 催化清單時點（如「Intel 2026 H2 量產」） → `expires_on` 強制
+- 89% CAGR 類未驗證 claim → `expires_on` + `evidence_url` 強制
+- Concept 方法論 → `check_after` 建議（24m）
+
+**Lint 規則（自動執行）**：
+1. `check_after` 已過 → 列出需重檢
+2. `expires_on` 已過 → 自動 `confidence: high → low` + flag
+3. `evidence_url` 失效 → flag
+
+## 跨庫對照
+
+asset-wiki 跟 llm-wiki 各自獨立維護，**wikilink 不能跨 vault**。完整對照表見 [[跨庫對照（asset-wiki ↔ llm-wiki）]]。
+
+**何時跨庫查詢**：
+- 找方法論補強（如七件事快篩、研究方法五步）→ llm-wiki
+- 找 AI/技術背景（MCP 協議、LLM 內部機制）→ llm-wiki
+- 找 KOL 跨領域觀點 → 雙 wiki 對照
+
+**同名 entity 政策**：
+- 兩邊各自維護、**不自動同步**
+- 同名 entity 兩邊內容可不同（不同切角）
+- 更新時 manual sync 重要 finding
+- 衝突時：**asset-wiki 信投資側、llm-wiki 信 AI 側**
+
 ## ⚠️ Disclaimer
 
 此 wiki 為**個人研究筆記，非投資建議**。

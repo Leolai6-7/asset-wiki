@@ -92,3 +92,17 @@
   - 三家差異化一句話：**德律 = 檢測層中性受惠的「本業已 Re-rate 完成」option call**、**東捷 = G2C+ 聯盟整線的「治理改造 + 業務 mix 翻倍」轉型故事**、**敘豐 = 載板濕製程龍頭的「客戶集中 + 剛上櫃」追蹤候選**
   - 同步更新：index.md（移出待 ingest 清單、加入 TGV 製程鏈台股段）
   - 累計：42 concept + **28 entity** + 41 summary
+- ingest: **手機 / 邊緣晶片端 TGV/FOPLP watchlist concept**（codex P2 盲點補完）— WebSearch 驅動建檔
+  - concept [[手機與邊緣晶片端 TGV-FOPLP watchlist]]：Apple/Qualcomm/Samsung/ByteDance/Tesla/xAI/MediaTek 終端 thesis 校準
+  - **核心結論：三條獨立採用曲線**
+    1. **Data center**（Intel/AMD/Broadcom）2026-2028 TGV 主菜（既有 Tier 1）
+    2. **手機高端 + 自研 server**（Apple/Qualcomm/Samsung）FOPLP/FOWLP 已商用、TGV 2027+ 觀察
+    3. **邊緣 AI / 新興 ASIC**（ByteDance/Tesla/xAI）binary outcome，可能直跳 TGV/CoPoS
+  - ⭐ **Apple Baltra 是第二根 anchor**：2026-04 確認直接向 Samsung Electro-Mechanics 採玻璃基板樣品，TSMC 3nm N3E + chiplet
+  - ⚠️ **Samsung Electro-Mechanics 拿 Apple + Broadcom 雙訂單**：韓系玻璃供應鏈卡位完成，對 [[鈦昇]] LIDE 路線是直接威脅
+  - ⚠️ **ByteDance 自研 ASIC 封裝路線未公開**：5nm CoWoS 為主，是否走 CoPoS 待 2027 第二代 ASIC 驗證
+  - 不押 Tier 2（手機 SoC TGV 採用太慢 + 韓系玻璃卡位風險）；Tier 1 + Tier 3 + Tier 4（鈦昇 CoPoS 入場券追蹤）為投資焦點
+  - **新追蹤訊號**：（a）TSMC CoPoS pilot line 2026-06 完成設備供應商名單、（b）鈦昇法說會 TSMC CoPoS / WMCM 認證進度、（c）雷科 Intel Terafab design-in、（d）ByteDance 第二代 ASIC 規格
+  - 待 ingest 延伸：力成 6239 / 日月光 3711 / Samsung Electro-Mechanics 009150.KS
+  - 同步更新：index.md（TGV 段新增）
+  - 累計：**43 concept** + 28 entity + 41 summary
