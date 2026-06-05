@@ -100,7 +100,7 @@ confidence: high
 - AWS quality test 延後 = 大客戶採用節奏不可控
 - Samsung SEMCO 2027 量產追上 + Samsung Foundry 內部鏈封閉 → 整個 Samsung 鏈 design-in 機會極低
 - 「[[Intel]] 自用 + Samsung 自用 + 台廠 [[TSMC]] CoWoS 自用」三大客戶內製 → Absolics 真實 merchant market 規模 cap 在 fabless（AMD / AVGO / NVDA） + hyperscaler（AWS / Meta） 兩塊
-- 與 F&S Electron 獨家 TGV 設備合約 2026-03 到期 → 改 dual sourcing（疑似引入 [[LPKF]] 或新供應商），轉換成本 + yield 風險
+- 與 [[F&S Electron]] 獨家 TGV 設備合約 2026-03 到期 → 改 dual sourcing（疑似引入 [[LPKF]] 或新供應商），轉換成本 + yield 風險
 
 ## ⭐ 對台股 TGV 設備廠的意義
 
@@ -108,7 +108,7 @@ confidence: high
 
 - **Absolics 自己不做設備、不做切割、不做檢測**——它買 [[LPKF]] LIDE、[[Disco Corp]] 切割、TSMC/SEMCO 級濕製程 → **與台廠 8 站設備生意 100% 無衝突**
 - Absolics 是 panel-level **「demand creator」**：每多一條 12,000 m²/年產線 = 多一條雷射改質設備 + 切割 + 蝕刻 + 電鍍 + AOI 需求 → 台廠 [[鈦昇]] / [[雷科]] / [[弘塑]] / [[辛耘]] / [[德律]] **全鏈受惠**
-- F&S Electron 獨家 TGV 合約到期 + dual sourcing → **第二供應商 slot 空出**，鈦昇雷射改質若能繞過 [[LPKF]] LIDE 專利範圍 → 可能切入
+- [[F&S Electron]] 獨家 TGV 合約到期 + dual sourcing → **第二供應商 slot 空出**，鈦昇雷射改質若能繞過 [[LPKF]] LIDE 專利範圍 → 可能切入
 - Absolics 量產**先於** Intel/Samsung 自用線 → 證明 panel-level glass interposer 路線商業化可行 → derisk 整個 [[TGV 製程鏈圖譜]] 賽道 → 台廠 design-in 路徑被 derisk
 - AMD MI400 用 Absolics 載板 = AMD/AVGO ASIC 鏈未來推進 panel-level → [[雷科]]（AMD 認證 2026 Q1 定案）、[[弘塑]]、[[辛耘]] 的 AMD/AVGO 鏈聯動
 
@@ -125,7 +125,7 @@ confidence: high
 
 1. **設備層**：Absolics 不做設備 → 鈦昇 / 雷科 / 弘塑 / 辛耘 / 萬潤 / 德律 全部受惠（demand 加成）
 2. **fab 服務層**：Absolics 直接吃 Intel Arizona 鏈 merchant 訂單 → 鈦昇若想透過台 OSAT（如 [[日月光 ASE]] TPK pilot）打進 Intel 鏈 → Absolics 是直接競爭者
-3. **F&S Electron 合約到期窗口**：dual sourcing 的第二位 slot 空出 → 鈦昇若有繞過 [[LPKF]] LIDE 專利範圍的雷射改質工法 → **理論上可以入 Absolics 鏈**（極小機率但路徑存在）
+3. **[[F&S Electron]] 合約到期窗口**：dual sourcing 的第二位 slot 空出 → 鈦昇若有繞過 [[LPKF]] LIDE 專利範圍的雷射改質工法 → **理論上可以入 Absolics 鏈**（極小機率但路徑存在）
 
 → **總結：Absolics 是「加大餅」**（驗證玻璃基板路線 + 創造設備需求），**但搶 Intel/AMD 鏈 fab 服務層的餅**（從 [[Amkor]] / [[日月光 ASE]] / TPK 等台廠 OSAT 手中拿單）。對台廠設備是受惠、對台廠 OSAT 是分食。
 
