@@ -46,6 +46,11 @@
 - [[CPO 供應鏈圖譜]] — 七層分工 + 賣水人位階
 - [[AI 資安攻防成本曲線]] — 攻防成本同時下降，總支出不降反升
 
+### TGV / 玻璃基板賽道（第四波）
+- [[TGV 製程鏈圖譜]] — 八站分工 + 賣水人位階表（CPO 圖譜的姊妹篇）
+- [[TGV 路線分歧（雷射改質 vs 雷射打孔）]] — 鈦昇 vs 雷科 binary outcome
+- [[玻璃基板與 FOPLP 賽道]] — 89% CAGR claim + Intel/AMD/Broadcom 終端
+
 ### 操作框架
 - [[修正三階段]]
 - [[三個風險指標]]
@@ -59,6 +64,7 @@
 
 ### 分析師
 - [[宋分（美股送分題）]] — Substack 美股分析師，估值教學 + 月度宏觀備忘錄
+- [[sennn.nnna]] — Threads/X 半導體製程級產業文寫手（TGV 年度工事）
 
 ### 標的：M7 / AI 半導體
 - [[NVDA]] — AI GPU 龍頭，M7 最便宜
@@ -85,6 +91,12 @@
 
 ### 接口 / 平台
 - [[MCP（Model Context Protocol）]] — Anthropic 接口控制權，9700 萬安裝
+
+### 標的：TGV 製程鏈台股（第四波）
+- [[鈦昇]]（8027）— 雷射改質 first-mover，Intel Clearwater Forest design-in，TGV 純度最高（虧損中卡位）
+- [[雷科]]（6207）— 多刀流雷射（CoWoS + TGV + SiC + 厚板），AMD/NVDA 認證 2026 Q1 定案
+- [[弘塑]]（3131）— 跨蝕刻+電鍍+CMP 中性賣水人，Re-rate 三角形 4/4，PE 同業折價 4 倍
+- [[辛耘]]（3583）— CoWoS 三傑 + 晶圓再生現金流 + E-Core 聯盟成員
 
 ## 摘要 (summaries)
 
@@ -140,6 +152,9 @@
 - [[開源戰略 — Netflix 第一個開源 AI 模型]]
 - [[接口控制 — MCP 九千七百萬次安裝]]
 
+### TGV 賽道（第四波）
+- [[TGV 玻璃通孔賽道 — sennn.nnna 原文 + 7 家台股驗證]] — 原文 + 7 家對照 + bull/bear
+
 ## 待 ingest 延伸（subagent 提案，未來補）
 
 ### 半導體 / 算力供應鏈 entity
@@ -161,6 +176,16 @@
 
 ### AI 行業 entity
 - Oracle（為 OpenAI 蓋資料中心借 $50B 債）、Alexandr Wang
+
+### TGV / 玻璃基板賽道 entity（第四波延伸）
+- **萬潤**（CoWoS 三傑第三家，必補）
+- **德律 3030 / 東捷 8064 / 敘豐 3485**（快篩完成、列為「⚠️ 觀察」未建獨立 entity）
+- LPKF（德國，鈦昇對手 LIDE 專利擁有者）
+- Disco Corp（6146.JP，雷科切割對手 + 日系獨佔）
+- 群創（3481，FOPLP 線轉型）
+- 欣興 / 南電 / 景碩（ABF 載板廠）
+- Powertech 力成（6239，FOPLP 主力）、日月光 ASE（3711）
+- Corning (GLW)、SCHOTT、AGC（玻璃材料巨頭）
 
 ### 延伸 concept
 - 對齊稅（alignment tax）、Sovereign AI、模型商品化、AI Liability（投資版）
