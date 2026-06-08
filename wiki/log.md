@@ -2,6 +2,51 @@
 
 每次 ingest / update / lint / query 的紀錄。
 
+## 2026-06-08（continued）
+- ingest: **codex P1-5 + P1-6 兩個盲點交叉 concept 落地（純設計，不建 entity）**
+  - concept [[HBM4E × Glass Interposer × TGV 交會]]（P1-6 補位）—— 把散落在 [[AI 記憶體結構性供給短缺]] Tier 3 與 [[玻璃基板與 FOPLP 賽道]] 時間線的「2028 三戰場 anchor」收束成單一交叉概念
+    - 三戰場：HBM4E（SK Hynix/Samsung/Micron 2027-2028 量產）+ TSMC CoPoS 玻璃中介層（pilot 2026-06、ramp 2028-29）+ 玻璃載板（Absolics 2026 H2 / SEMCO 2027 H2 / Intel Rio Rancho 2030）
+    - 物理鎖死關係：HBM4E 16-Hi 需玻璃中介層撐良率、玻璃中介層需 TGV 八站、TGV 需玻璃載板客戶。三戰場必須同時 ramp，缺一個整 stack 推遲
+    - alpha 分層：短週期（2026 H2-2027 H1）= Absolics ramp / CoPoS pilot / HBM4E first race；中週期（2027 H2-2028）= complete stack 溢價 / SEMCO 韓系閉環；長週期（2028+）= Intel Rio Rancho 美洲玻璃鐵三角 / TGV 八站全鏈
+    - 5 個風險：HBM4E 時程錯位、Hybrid Bonding 跳過 TGV、玻璃翹曲撞良率牆、Intel Rio Rancho 卡關、NVDA 路線變更、反壟斷
+    - 觀察訊號：10 個季度級 anchor（2026 Q3 → 2030）
+    - WebSearch 8 query 驗證（HBM4E 量產 / CoPoS 時程 / Intel 2030 / Absolics / Samsung HBM5）
+  - concept [[NVDA 網路 stack map]]（P1-5 補位）—— 釘死 NVDA 7 chip + NVLink Fusion 的層級關係
+    - Rubin 平台 7 chip：Vera CPU + Rubin GPU + NVLink 6 Switch + ConnectX-9 SuperNIC + BlueField-4 DPU + Spectrum-6 Ethernet Switch + Quantum-X800/Photonics InfiniBand Switch + Spectrum-X Photonics + Spectrum-XGS + NVLink Fusion
+    - scale up / scale out / scale across × NIC / Switch / OLS / DCI 一張表釘死
+    - 回答 codex 4 個反饋：CX9 = ConnectX 7→8→9 命名後續（非新產品線）、Spectrum-X (Ethernet/Cloud) vs Quantum-X (InfiniBand/HPC) 客戶差異、NVDA 內部僅「銅 vs Photonics CPO」世代躍遷無真直接競爭、NVDA 不做 OLS → CIEN/NOK 互補非競爭
+    - NVDA vs 對手：scale up vs UALink、scale out vs AVGO Tomahawk 6 + Marvell Teralynx、scale across 與 CIEN Hyper-Rail/NOK Multi-Rail 互補
+    - CPO 第 1-2-4-8 層 anchor 客戶位置確認
+    - WebSearch 7 query 驗證（ConnectX-9 / Spectrum-X / Quantum-X / NVLink 6 / Spectrum-XGS / BlueField-4 / NVLink Fusion）
+  - 同步：index.md 在「光通訊 / DCI」加 [[NVDA 網路 stack map]] entry、在「TGV / 玻璃基板賽道」加 [[HBM4E × Glass Interposer × TGV 交會]] entry
+  - 兩個 concept 都是純交叉設計，未建 entity（受惠玩家全部已存在於 wiki）
+- ingest: **Serenity 重押光電 5 家逐一交付 — AAOI 第 1 家落地**
+  - entity [[AAOI]]（NASDAQ: AAOI / Applied Optoelectronics）— **Bottleneck Theory 第 5 層 + 跨第 4 層 ELSFP**
+  - 一句話定位：全球少數 laser chip → epi → 模組組裝全垂直整合的光模組廠、北美 hyperscaler 唯一非中國 1.6T LPO 量產商（Sugar Land Texas）
+  - Serenity reasoning：公開 7x 報酬、原推「frontran institutions with photonics with names like $AAOI, $AXTI, $LITE, $COHR」、vertical integration 純度 = 第 5 層最深 chokepoint、ELSFP 跨第 4 層 hedge
+  - 五軸 **18/25**（路線 5 滿、客戶分散 1 慘）vs IQE 17 / LITE 19 / COHR 19
+  - Re-rate 三角形 1-2/4（營收已驗證 ✅、毛利 / OpEx / 營業利益仍 thesis）
+  - 催化：Q1 2026 +51% YoY、$200M 1.6T 訂單、CEO 揭露 actual demand $1.4-1.5B、Sugar Land 2027 擴 350%
+  - 風險：客戶集中 Top1>40%、Top2>70%、Forward PE 226.58、GF Value 估值 912% 高估
+  - 同步：index.md 新增「Serenity 重押光電 5 家（第七波）」段落
+- ingest: **Serenity 重押光電 5 家逐一交付 — TSEM（Tower Semiconductor）第 2 家落地**
+  - entity [[Tower Semiconductor]]（NASDAQ: TSEM）— **Bottleneck Theory 跨第 4-5 層 SiPho PIC foundry**
+  - 一句話定位：全球領導級 specialty foundry、矽光子 PIC foundry 龍頭、AI 光通訊鏈跨層 SiPho 平台「賣水人之中的賣水人」（Migdal Haemek 以色列）
+  - Serenity reasoning：與 Soitec ($SOI) 並列「**Safest Longs**」defensible compounder、低 beta、跨第 4-5 層多客戶 anchor（NVDA + Coherent + Marvell + Cisco + Lumentum 同時綁定）
+  - 五軸 **22/25**（耗材 + 客戶分散雙滿）vs AAOI 18 / IQE 17 / LITE 19 / COHR 19 = **5 家中最高分**
+  - Re-rate 三角形 **3/4**（營收 + 毛利 + 營業利益實質驗證、OpEx 偏重但被 SiPho 抵銷）
+  - 催化：2026-02 NVDA 1.6T SiPho partnership、2026-03 Coherent 400Gbps/lane demo、Q1 2026 SiPho +3x YoY、客戶預付款 $290M、Q2 guidance +22%、Intel 2024 起角色反轉變 300mm 容量供應商
+  - 風險：NVDA / TSMC / GF SiPho 擴張、以色列地緣風險、Forward PE 69.93 / 12M +580% 估值偏高
+- ingest: **Serenity 重押光電 5 家逐一交付 — AEHR（Aehr Test Systems）第 3 家落地**
+  - entity [[AEHR]]（NASDAQ: AEHR / Aehr Test Systems）— **Bottleneck Theory 第 6 層 Testing & Qualification 唯一 anchor**
+  - 一句話定位：全球少數能做 wafer-level burn-in（WLBI）+ package-level burn-in（PLBI）+ 矽光子早期 burn-in 整合平台、SiC + AI processor + 矽光子三腳鼎立 hyperscaler 設備商
+  - Serenity reasoning：原推「**$AEHR +14.28% / 矽光子下個瓶頸的中心、$1.1B、tons of hyperscalers qualifying it / Was kind of undervaluing it**」、Serenity 承認低估
+  - 五軸 **20/25**（站別 5 + 耗材 5 雙滿、客戶分散 2 拖累）vs TSEM 22 / LITE 19 / COHR 19 / AAOI 18 / IQE 17 = **5 家中第二高**
+  - Re-rate 三角形 0-1/4（仍 thesis 階段、bookings $92M+ + Book-to-Bill 3.5x+ anchor 強、但實質營收 ramp 尚未驗證）
+  - 催化：Q3 lead AI accelerator $14M follow-on（9 顆 300mm wafer 平行）+ Q3 lead silicon photonics customer follow-on（sample → 量產）+ Q3 Taiwan SiC FOX-XP + Q4 $41M record AI 訂單 + Q4 預期回到 non-GAAP profitability
+  - 風險：FY 2026 H1 ON Semi 下滑營收 YoY -44%、Advantest / Cohu 規模競爭、客戶集中、Forward PE 2,106 估值無 anchor
+  - 累計：waiting for AXTI/SIVE 落地後總計
+
 ## 2026-06-04
 - init: asset-wiki created (mirror of llm-wiki, 財經適配)
 - cp: 40 raw materials migrated from llm-wiki/raw (Tier 1 宋分 24 + Tier 2 產業 3 + Tier 3 AI 行業 13)
@@ -866,3 +911,229 @@
     4. **「Applied Materials 支持 Absolics」具體細節**：（a）2023-01 AMAT 出資 USD 39M / 51 億韓元、取得 29.9% 持股（既有）；（b）**2025-2026 玻璃 handling 設備合作開發**（新）—— specialized robotics + suction-based 運輸系統解玻璃易碎難題（high-speed assembly bottleneck）、是設備 + 投資雙重承諾、不只財務 stake；（c）AMAT 同時是 SEMCO / Intel 等對手鏈的設備商 → 中性賣水人結構維持
     5. **魏哲家「CoPoS 2-3 年」校準是否真有此發言**：✅ **真有**——2026-06 TSMC 股東會明確表態「先進封裝永遠是世界第一、CoPoS 試產線已建置、CoPoS 仍需 2-3 年量才會明顯擴大」（聯合新聞網 / 經濟日報 / 業務情報媒體多家報導）；跟 TrendForce 市場預期相當接近（2028-2029 量產）= Leo 引用準確
   - 累計：**47 concept + 55 entity + 41 summary**（Sumitomo Chemical + Serenity +2）
+
+- ingest: **[[AI infra CapEx 三階段論]] 第三階段最關鍵 anchor entity — IQE**（Leo 2026-06-08 raw 補完 + 三家整鏈喊緊時序檢核）
+  - 1 新 entity：
+    - **[[IQE]]**（LSE: IQE.L、International Quantum Epitaxy）
+      - 全球純 play 化合物半導體 epi（磊晶）代工龍頭、InP / GaAs / GaN / VCSEL 整合 epiwafer foundry
+      - **2024 推出全球首條 6" InP DFB Laser 平台**（同業仍主流 4 吋、單晶圓 die ~2.25x）+ 6" InP PIN photodetector / FP / EML
+      - InP epi 全球**三家獨立 pure-play** 之一（vs LandMark Optoelectronics、VPE），是 [[Lumentum]] / [[Coherent]] 自家 InP fab 容量瓶頸補位
+      - **2026-04 £81M 融資 + MACOM £45M 戰略入股 11.5% + 長期供應協議**（COO+VP 進董事會）、淨現金 +£27.9M
+      - FY 2025 photonics 段 £57.1M（+15% YoY）、總營收 £97.3M（-17.6% YoY 因 wireless -40%）、**FY 2026 自家指引 >20% 成長 + adjusted EBITDA 轉盈剛起步**
+      - 產能：**英 3 廠**（Cardiff HQ、Newport 大廠世界最大化合物 epi foundry、Milton Keynes）+ **美 3 廠**（Greensboro NC 主力、Taunton MA、Spokane WA；Pennsylvania Bethlehem 2024-12 售出）+ **台 1 廠**
+      - 市值 **£594M（USD $688M）**、12M 漲幅 +900-1,300%、Re-rate 0-1/4（仍 thesis 階段）
+      - 五軸 **17/25**（路線 4 / 站別 4 / 耗材 3 / IP 4 / 客戶分散 2）= **比 LITE/COHR 低 2 分**，主要在站別 / IP 略遜（非 EML 唯一量產者、非規模龍頭）
+      - **三階段論第三階段最關鍵 anchor 上游 entity**
+  - 2 既有 entity update：
+    - **[[Coherent]]** 催化段加 🆕 2026-06-08 InP 供應緊繃 anchor（InP delivery >26 週 + 影響 15-20% 營收 + 整鏈三家 2026-05 同月喊緊時序校準）+ wikilink [[IQE]] + sources 加 2026-06-08 raw
+    - **[[Lumentum]]** 催化段加 🆕 2026-06-08 InP 供應緊繃 anchor（供應限制延伸 2026 全年 + EML 缺口 >30% + 日本 wafer fab fully allocated）+ wikilink [[IQE]] + sources 加 2026-06-08 raw
+  - 1 既有 concept update：
+    - **[[AI infra CapEx 三階段論]]** 訊號 2 表格三家公司加日期具體時點（COHR 2026-05-06 / LITE 2026-05-05 / IQE 2026-04 + 2026-05-28）+ wikilink IQE 全部由 ⚠️ 改為 ✅
+  - 同步：
+    - index.md：新增「**標的：InP 上游 epi / 化合物半導體（第五波）**」sub-section + [[IQE]] 條目（在 Nokia 之後、中國 AI 之前）
+    - 本 log.md（追加本段）
+  - **必返回 6 問答**：
+    1. **IQE 2025-2026 具體融資金額 + 20%+ 成長指引 source**：✅ **£81M 總計（2026-04 公告）**——MACOM £45M（£30M 股權 = 151.5M 股 @ 19.8p 取得 11.5% + £15M 無息可轉換票據）+ £23M 現有 noteholder 再投資 + £13M placing/retail；HSBC RCF 還清後淨現金 +£27.9M。FY 2026 指引 **>20% 營收成長 + high-single digit ~ low double-digit £M adjusted EBITDA**（2026-05-28 IQE FY 2025 results 公告）
+    2. **IQE 美/英/台產能比例 + 主要客戶**：英 3 廠（Cardiff、Newport 大廠、Milton Keynes）+ 美 3 廠（Greensboro NC、Taunton MA、Spokane WA；Pennsylvania Bethlehem 2024-12 售出）+ 台 1 廠（位置公開度有限）；**主要客戶**：MACOM（11.5% 股權 + 長期供應）+ [[Lumentum]] / [[Coherent]] 業界共識補位但**未直接 disclosure**（confidence: medium）+ 美國國防 / 航太（aerospace & defence 段 H2 2025 美軍方資金釋出）+ 智慧手機 VCSEL
+    3. **IQE vs [[Sumitomo Chemical]] InP 業務對比**：**完全不是對手、是平行賽道**——[[Sumitomo Chemical]]（4005.JP）主做半導體光阻劑 + 高純度製程化學品 + SEMCO 玻璃 JV、不直接做 InP；**真正的 InP 對手是 Sumitomo Electric（5802.JP）+ SESMI**，他們做 InP **substrate**（基板）= IQE 的**上游原料**。IQE 是 substrate 之上的 epi 層代工，跟 LandMark Optoelectronics / VPE 並列三家獨立 pure-play epi house
+    4. **Coherent + Lumentum + IQE 三家「整鏈喊緊」是否真的成立（時序檢核）**：✅ **完全成立 + 時序高度收斂**——LITE Q3 FY26 法說 **2026-05-05**（供應限制延伸 2026 全年 + EML 缺口 >30%）+ COHR Q3 FY26 法說 **2026-05-06**（InP delivery >26 週 + 影響 15-20% 營收）+ IQE FY 2025 results **2026-05-28**（£81M 融資 + FY 2026 >20% 成長指引）= **三家在 2026-05 4 週內同月喊緊**、整鏈瓶頸時序高度收斂、**不是巧合**
+    5. **五軸評分**：IQE **17/25**（路線 4 / 站別 4 / 耗材 3 / IP 4 / 客戶分散 2）；比 LITE 19/25 + COHR 19/25 **低 2 分**——主要在站別（不是 EML 唯一量產者）+ IP（不是 InP 純度首選）略遜；但反映「pure play 上游期權」性質
+    6. **三階段論第三階段最有 alpha 的 entity 是 IQE 還是 LITE/COHR？**
+       - **IQE = 最尖端 alpha + 最尖端風險**（最小市值 + 純 thesis + 6" 平台 industry-first option、若 thesis 完美實現 +200%、若 thesis 失效 -50%+）
+       - **LITE = 最確定品質 alpha**（200G EML 唯一量產者 + NVDA $2B + Greensboro 2028 anchor 確定，回檔 floor 較硬）
+       - **COHR = 最 hedged 但 alpha 較小**（SiC 第二曲線 hedge、回檔最輕但翻倍空間最有限）
+       - **Leo 最佳策略：「LITE + COHR 一籃子 anchor 部位 + IQE 5-10% 衛星期權部位」**——anchor 是 thesis 不變的核心、IQE 是「第三階段最尖端 alpha + 最尖端風險」的選擇權型衛星部位、必須**季季追蹤** photonics 段成長率 + LITE/COHR fab 進度 + MACOM 關係穩定性
+  - 累計：**47 concept + 56 entity + 41 summary**（IQE +1）
+
+## 2026-06-08（CPO 戰場 4 家漏網 entity 補位 — Stage 1 MPS）
+- ingest: **CPO 漏網 entity 第 1 家 — [[MPS]]（MPWR、Monolithic Power Systems）**（subagent 並行交付、逐一落地）
+  - 任務背景：CPO 戰場 8 層分工已建主要玩家（[[AVGO]] / [[Marvell]] / [[Lumentum]] / [[Coherent]] / [[Ciena]] / [[Nokia]] / [[SiTime]] / [[TSMC]] / [[IQE]]），仍漏 4 家：MPS（第 7 層電源）/ Amphenol（第 6 層連接器）/ POET Technologies（矽光初創）/ Ayar Labs（光晶片初創，需先確認 public/private）
+  - 走 [[公司 Entity 模板（Step 1-3 三段式）]] + foreign competitor 變體 + 時效 metadata + 五軸 25 分制
+  - **[[MPS]]**（NASDAQ: MPWR）—— CPO 第 7 層電源賣水人
+    - 一句話定位：「**AI server 電源管理 IC 最薄但最關鍵站位**」——BCD 製程整合 + 模組化 power module 雙產品線、直接卡在 NVDA GPU + hyperscaler AI server 的「最後一吋電源轉換」
+    - Q1 2026 營收 **$804.2M（YoY +26.1%、QoQ +7.1%、創高）**、EPS $5.10 beat、**Enterprise Data YoY +97.7%**
+    - Q2 2026 指引 **$890-910M**（加速）、Enterprise Data 段全年成長下限指引從 +50% **拉高到 +85%**、製造產能目標上修到 **$6B**
+    - **NVDA Blackwell 60-70% 流失給 Infineon**（Edgewater Research / Stocktwits 2025-04 起證實）+ Renesas 切入 digital power
+    - **NVDA Vera Rubin（VR200 NVL144 / R200 HGX）反攻 ~70% 市佔**（KeyBanc 供應鏈研究 2025-10）+ 預估 **2026 增收 $100M+、2027 年化 $420M、EPS +$4**
+    - **CPO 第 7 層光模組電源切入**（Q1 2026 法說會明點 enterprise data 成長驅動 = "AI、server power、optical modules"）
+    - 股價 **$1,624.99（2026-06-02）**、市值 **~$81-83B**、Forward PE **52-68 倍**（GuruFocus 52、Simply Wall St 68）、GF Value 判定 overvalued 54%（公允價值 $1,053）
+    - GAAP 毛利率 **55-56%**、12M YTD +70%
+    - Re-rate 三角形 **2/4**（營收品質 + 營業利益 ✅、毛利率 + OpEx ⚠️）
+    - 五軸 **17/25**（路線 3 / 站別 4 / 耗材 3 / IP 3 / 客戶分散 4）
+    - vs [[SiTime]] 21/25：SiTime 中性純度 + 平方放大 vs MPS 可替代 + 線性放大 = **SiTime 為 CPO 中性賣水人首選，MPS 為 AI server 電源 + CPO 第 7 層配套**
+    - vs [[Marvell]] 18/25：Marvell IP 路線數略勝、MPS 客戶分散勝 = 接近平手
+    - **Rubin 反攻時程**：2026 Q1-Q2 黃金期 / Q3-Q4 空窗（Blackwell 流失影響顯現、Rubin 未量產）/ 2027 H1 Rubin 量產（市場 price in）/ 2027 H2 Rubin Ultra 才是真 alpha（5.7kW GPU = power IC BOM 三倍放大）
+  - 同步：
+    - index.md：**「標的：半導體製造 / 算力供應鏈」** 段加入 [[MPS]] 條目（在 [[SiTime]] 之後）
+    - 本 log.md（追加本段）
+  - 必返回 5 點：
+    1. **Ticker**：MPWR（NASDAQ）✅ 確認 public
+    2. **一句話定位**：AI 資料中心電源管理 IC「最薄但最關鍵」站位、CPO 第 7 層中性賣水人
+    3. **五軸總分**：**17/25**
+    4. **CPO 戰場位置 + 對台廠意義**：第 7 層電源（與 Renesas / Infineon / ADI / TXN 同層）；台廠 ODM（鴻海/廣達/緯穎）透過 ODM 採購 MPS PMIC = 間接連動；台達電/光寶為「電源系統」廠（PSU+BBU）= 層級不同、無直接競爭
+    5. **五大催化 / 風險**：
+       - 催化：Vera Rubin 70% 反攻 + 光模組電源 CPO 切入 + Enterprise Data +85% 下限指引 + 製造產能 $6B 上修 + 1.6T 光模組 BOM 翻倍
+       - 風險：NVDA 集中度（估 15-25% 營收）+ Blackwell 60-70% 流失給 Infineon + Forward PE 52-68 估值高 + 2026 Q3-Q4 空窗期 + GF Value overvalued 54%
+
+- ingest: **CPO 漏網 entity 第 2 家 — [[Amphenol]]（APH）**（subagent 並行交付、逐一落地）
+  - **[[Amphenol]]**（NYSE: APH）—— CPO 第 6 層連接器三軌賣水人
+    - 一句話定位：「**全球高速互連 connector 龍頭、CPO 第 6 層三軌賣水人（高速電 + 光纖 + 電源）**」——電子連接器 / 互連方案龍頭、IT Datacom 段最大且最快成長（Q1 2026 占 41%）
+    - Q1 2026 營收 **$7.62B（YoY +58%、創高、beat $7.09B 預期）**、EPS $1.06（+68% YoY、beat $0.94）
+    - **IT Datacom 段 +99% YoY（含 CCS）/ organic +81%** = 純 AI 驅動成長
+    - **訂單 $9.435B（YoY +78%、book-to-bill 1.24:1）** = 訂單能見度 4-6 季
+    - Q2 2026 指引 **$8.1-8.2B**（YoY +43-45%）+ EPS $1.14-1.16（+41-43%）
+    - **NVDA GB200 NVL72 NVLink spine 獨家初始 Paladin HD 224G/s connector + Ultrapass backplane**（每 NVL72 用 18 個、每 Blackwell GPU 連 72 differential pair）
+    - **2026-01 完成 $10.5B 收購 CommScope CCS**（fiber optic + rack-to-rack、2026 全年加 $4.1B 營收、EPS +$0.15）= **主動 hedge 光化風險**戰略
+    - 股價 **$139.56（近 2026-05）**、市值 **$157B**、Forward PE **29.15-29.51**、GF Value $133（fairly valued、stock 略 overvalued 4.9%）、GF Score 97/100、12M +98.4%
+    - 客戶分散度極高：**100,000+ 客戶、無單一客戶超過 10%**（vs MPS NVDA 集中度 15-25%）
+    - 競爭對手：TE Connectivity（TEL）、Molex（Koch 子公司、私有）、Yamaichi、Hirose、Foxconn FIT
+    - Re-rate 三角形 **3/4**（營收品質 + 毛利率 + 營業利益 ✅、OpEx ⚠️ CCS 整合）
+    - 五軸 **20/25**（路線 5 / 站別 4 / 耗材 4 / IP 3 / 客戶分散 4）
+    - vs MPS 17/25 + SiTime 21/25：APH 寬度 + 估值乾淨 + 客戶分散最高、是「**乾淨進場 AI infra exposure 最佳選擇**」
+    - 中期風險：2028-2030 scale-up 224G 銅纜 backplane 光化（部分萎縮 30-40%）、但 mix shift 到 MPO/MTP 光纖 connector + 電源 connector（CCS 補完）
+  - 同步：
+    - index.md：**「標的：半導體製造 / 算力供應鏈」** 段加入 [[Amphenol]] 條目（在 [[MPS]] 之後）
+    - 本 log.md（追加本段）
+  - 必返回 5 點：
+    1. **Ticker**：APH（NYSE）✅ 確認 public
+    2. **一句話定位**：全球高速互連 connector 龍頭、CPO 第 6 層三軌賣水人（高速電 + 光纖 + 電源）、「乾淨進場 AI infra exposure 最佳選擇」
+    3. **五軸總分**：**20/25**（4 家中第 2 高）
+    4. **CPO 戰場位置 + 對台廠意義**：第 6 層連接器（與 TE Connectivity / Molex / Foxconn FIT 同層）；**台廠：鴻海 FIT 是 APH 直接對手**（高速 connector 領域）、鴻海整機 server（NVDA DGX）APH 是 backplane connector 直接供應、廣達/緯穎 ODM 也採購 APH connector
+    5. **五大催化 / 風險**：
+       - 催化：NVDA GB200 NVL72 Paladin HD 獨家初始 + CommScope CCS $10.5B 收購補完光纖 + 訂單 $9.4B book-to-bill 1.24 + Q2 指引 +41-43% + 客戶分散度高（>100,000 客戶無單一 >10%）
+       - 風險：2028-2030 scale-up 銅纜 backplane 光化 + CommScope CCS 整合風險（商譽 ~$5B+）+ Forward PE 29-30 已 price in + AI CapEx 週期化風險 + China 製造/銷售曝險
+
+- ingest: **CPO 漏網 entity 第 3 家 — [[POET Technologies]]（POET / PTK）**（subagent 並行交付、逐一落地）
+  - **[[POET Technologies]]**（NASDAQ: POET / TSXV: PTK）—— CPO 第 2 層光引擎整合 platform 初創 option play
+    - 一句話定位：「**矽光 Optical Interposer / EOI 整合 platform 初創、CPO 第 2 層 option play**」——把 lasers + modulators + 矽電子整合在 wafer-scale interposer、alignment-free wafer-scale 製程核心 IP
+    - **Ticker**：POET（NASDAQ）+ PTK（TSXV）= ✅ 確認 public（dual-listed）
+    - Q1 2026 營收 **$503K（YoY +200% 但規模仍極小）**、beat $250K 預期
+    - Q1 2026 淨損 **-$12.3M（-$0.08 EPS）**（vs 2025 Q1 淨利 $6.3M 大幅倒退）
+    - 累計 R&D ~$20M（800G + 1.6T Tx/Rx chiplets + Optical Interposer + 外部光源 + CPO）
+    - **2026-05-14 與 Lumilens 簽戰略供應 + JV**：初始 **$50M PO + $500M five-year framework** + 22.9M 股 warrant @ $8.25 九年期、工程樣品 **2026 H2** / 量產 **2027** 對齊 hyperscaler
+    - 自家 2026 規劃出貨 **>30,000 光引擎**
+    - 歷史合作：Mitsubishi Electric Teralight 1.6T（4 lasers vs 業界 8 lasers）+ Foxconn FIT 800G/1.6T pluggable（馬來西亞廠）+ Celestial AI ELS（已被 [[Marvell]] 收）
+    - **Nightmare Market Research 2026 公開質疑** Marvell / Foxconn / LITEON / Lumilens 多家 partnership 為「recycled hollow promotion」
+    - 股價 **$11.68（2026-06-07）**、52 週區間 **$3.87-$20.81（5x 區間）**
+    - 市值多源差異大：$0.93B / $2.05B / $2.27B（計算方式不一致需查證、warrant 結構複雜）
+    - **無 forward PE**（虧損中）= 無估值錨點
+    - Re-rate 三角形 **0/4**（典型矽光初創）
+    - 五軸 **13/25**（路線 3 / 站別 2 / 耗材 3 / IP 3 / 客戶分散 2）= 4 家中最低
+    - 競爭定位（重要校準）：
+      - **Ayar Labs 被 [[NVDA]] $6.5B 收（2026-05）**= 矽光閉門 + POET 短期打擊
+      - **Celestial AI 被 [[Marvell]] 收（2025-08）**= POET 客戶關係變更
+      - **POET 是矽光初創整合 platform「最後一家獨立 option」**
+      - vs Lightmatter（光學運算未上市）/ AVGO 自研 / TSMC + OSAT 整合
+    - **投資定性**：「**催化劑驅動 option play**」、不適合 anchor 部位、衛星 1-3%（不超過 5%）
+    - 退場條件：30,000 光引擎指引 miss / Lumilens framework 實現率 <20% / 任何主要 partnership 再被質疑 dead / 稀釋融資 round >$50M
+  - 同步：
+    - index.md：**「標的：光通訊 / DCI / 光引擎（第五波）」** 段加入 [[POET Technologies]] 條目（在 [[Nokia]] 之後）
+    - 本 log.md（追加本段）
+  - 必返回 5 點：
+    1. **Ticker**：POET（NASDAQ） + PTK（TSXV）✅ public 確認 + dual-listed
+    2. **一句話定位**：矽光 Optical Interposer / EOI 整合 platform 初創、CPO 第 2 層「催化劑驅動 option play」、最後一家獨立矽光整合 platform（Ayar/Celestial 已被收）
+    3. **五軸總分**：**13/25**（4 家中最低）
+    4. **CPO 戰場位置 + 對台廠意義**：第 2 層光引擎（整合 platform 端）+ 跨第 5 層先進封裝；**台廠 Foxconn FIT 是 POET 製造夥伴**（馬來西亞廠 800G/1.6T pluggable）、其他模組廠（旭創/新易盛/Innolight）未直接採用 POET 光引擎
+    5. **五大催化 / 風險**：
+       - 催化：Lumilens $50M PO + $500M five-year framework + 工程樣品 2026 H2 / 量產 2027 + 30,000 光引擎出貨指引 + Mitsubishi Teralight 4 lasers 成本優勢 + Foxconn FIT 馬來西亞廠
+       - 風險（**遠多於催化**）：Q1 $503K 規模極小 + Nightmare Market Research 質疑多家 partnership dead + Ayar/Celestial 被收後賽道整合擠壓 + 市值來源差異大（$0.93-2.27B）+ 5x 區間極高波動 + 無 PE 估值錨點 + 反覆稀釋融資 + 執行風險 > 技術風險
+
+- ingest: **codex P1-7 補位 — 3D NAND 沒獨立戰場**（1 concept + 3 entity、NVDA 路線圖第三條記憶體腿補完）
+  - 1 新 concept：
+    - **[[AI infra 3D NAND 戰場]]**
+      - 回答 codex P1-7 提的關鍵問題「3D NAND 是主戰場還是附屬 BOM？」→ Leo 判斷 **「半主戰場 + 半附屬 BOM」**（目前 60% 附屬 BOM、40% 主戰場、2027 H2 HBF 落地後升到 60% 主戰場）
+      - 三軸對照：HBM（主記憶體 / 寡占 3 家）vs LPDDR5X（系統記憶體）vs **3D NAND（儲存 / 6 家分食）**
+      - 4 大玩家結構（Q1 2026 Counterpoint）：Samsung 29% / SK+Solidigm 22% / Kioxia 14% / Micron 13% / SanDisk 13% / YMTC 13%
+      - **NAND BIG 6 結構變化（2025-2026）**：
+        - 2025-02-24 [[Western Digital]] 分拆 SanDisk → WDC 變純 HDD、SanDisk 接 NAND（NASDAQ: SNDK）
+        - 2024-12-18 [[Kioxia]] IPO（1,455 yen → 36,000 yen 18M +2,400%）
+        - SK Hynix 透過 [[Solidigm]] 全包 enterprise QLC（51% majority share 2025）
+      - **NVDA 4 產品路線圖 NAND 用量**：Vera Rubin NVL72 = 1,152TB SSD/rack（ICMS）= NAND BOM $1M+/rack；其他 3 個產品（Vera CPU / RTX Spark / Jetson Thor）NAND 是 BOM 配角但路線圖鎖死
+      - Enterprise SSD vs Consumer NAND：合約價 Q1 2026 +60% vs +40% / 同 wafer 切 enterprise = 切 consumer 3-5 倍營收 / Phison CEO 2026 售罄、2027 pricing apocalypse
+      - **PB 估值法仍適用嗎**：✅ 分段適用——Consumer NAND 保 PB / Enterprise SSD 切 Forward PE 10-15x / AI Enterprise SSD 切 Forward PE 15-20x（infra 半套用）
+      - **HBF (High Bandwidth Flash) 2026-02-25 SanDisk + SK Hynix 標準化**：NAND-based 替代 HBM 部分功能、容量 8-16× HBM、頻寬 1.6TB/s、量產 2027；NAND 開始長出 HBM 形狀
+      - **與 HBM iPhone moment 對比**：本 concept 是它「**遲到 12-18 個月的姊妹篇**」（2026 H2 啟動、2027 H1 anchor 確認、2028 全 re-rate）
+  - 3 新 entity：
+    - **[[Kioxia]]**（TYO: 285A、原 Toshiba Memory）
+      - **NAND #3（14% 市佔）+ Enterprise SSD 純度最高 pure-play + 日本國家半導體最後一張牌**
+      - 2024-12-18 從 Bain Capital 私有化 6 年後 IPO 重返東京 Prime Market（1,455 yen → 36,000 yen / 18 個月 +2,400%）
+      - FY2025 營收 **¥2.34T**（YoY +37%）+ OP **¥876B**（YoY +95%）創歷史新高、Q4 OP +314% QoQ
+      - **BiCS 8（218-layer）量產 + BiCS 10（332-layer）2026 提前量產**（原 2027、加速到 2026）
+      - **CBA 製程獨家**（CMOS Bonded to Array）vs Samsung V9 string stacking 製程哲學分歧
+      - Bain Capital 持股 <30%（2026-03 減持後）+ 套現 $3.5B + Nikkei 225 納入（2025 H2）
+      - 跟 SanDisk 從 JV 解體（2024-2025）→ HBF 標準化合作重建（製造分離、客戶分離 50/50、HBF 三方標準化）
+      - 市值 USD ~110-125B / Forward PE 15-20x / Re-rate 4/4
+      - **五軸 19/25**（時點扣分 +2,400% 後接 Bain 棒、其他四軸接近 HBM BIG 3 水準）
+    - **[[Western Digital]]**（NASDAQ: WDC、2025-02-24 純 HDD 公司）
+      - ⚠️ **2025-02-24 完成 SanDisk spin-off 後變身純 HDD pure-play**——本 entity 不再是 NAND 戰場玩家、是 NAND 戰場 rival（HDD 端）
+      - **全球 HDD 雙頭壟斷 #1（45% 市佔 / nearline 主導）+ AI 資料中心儲存 rival storage 最大受惠者**
+      - Q3 FY2026 營收 **$3.34B**（YoY +45%）+ Cloud **$3.0B**（占 89%、YoY +48%）+ nearline 出貨 **199 EB**（YoY +37%）
+      - GAAP 毛利率 **50.2%** + non-GAAP 50.5% 創歷史新高（UltraSMR mix > 50% margin booster）
+      - **2026 全年 HDD 產能售罄 + 多年合約延伸 2027-2028** + Q4 guidance $3.65B / 毛利率 51-52%
+      - 12 個月漲幅 **+880-970%**（mega re-rate）/ YTD 2026 +115-155%（S&P 500 top-5 performer）
+      - HAMR 路線追 Seagate 落後（Seagate 已先 ramp、WDC 2026 H2 起追）
+      - 市值 USD ~$180B / Forward PE 15-25x / Re-rate 4/4
+      - **五軸 15/25**（NAND 戰場 rival、非戰場玩家、賽道扣分；但 storage AI 主題 1-2% 衛星對沖配置）
+    - **[[Solidigm]]**（[[SK Hynix]] 100% 子公司 / 私有公司 / 不可直接押注 stub entity）
+      - **SK 集團 Enterprise QLC SSD pure-play 子公司**（QLC 全球市佔 **51% / majority share**）+ **從 Intel NAND 部門 2021 USD 9B 收購**而來
+      - 2024 全年營收 **KRW 9.3T** / 淨利 KRW 613B / **2026 估營收 11.8T**（USD ~$8.6B）/ 淨利 **1.4T**（+128%）
+      - **Enterprise 100% pivot 完成**（2024 退出 consumer 市場）+ **245TB PCIe Gen5 QLC**（PS1101 / PS1012）AI workload 主推
+      - 黃仁勳 2026-06-08 NVDA-SK Hynix 多年合約「3D NAND 棧」隱性主供之一
+      - 跟 [[Kioxia]] 對比：純度更高（95%+ Enterprise vs Kioxia 50%）但製程跟隨（V8/V9 vs Kioxia BiCS 8/10 領先）
+      - **押注路徑：必須透過 [[SK Hynix]] 母公司**（KRX: 000660）——Solidigm 是 SK Hynix HBM 主戰場 + NAND 第二曲線整合的隱性 sweetener
+      - 假設 IPO 五軸 17/25（時點扣分 private 無估值釋放）；但作為 SK Hynix 23/25 評分的一部分已含
+  - 同步：
+    - index.md：
+      - 「3D NAND / Enterprise SSD（codex P1-7 補位、第七波）」concept 段加 [[AI infra 3D NAND 戰場]]
+      - 「標的：3D NAND / Enterprise SSD（第七波）」entity 段加 [[Kioxia]] / [[Solidigm]] / [[Western Digital]]（在 Micron 之後）
+    - 本 log.md（追加本段）
+  - **必返回 6 問答**：
+    1. **4 玩家 NAND 市佔 2026 最新**（Q1 2026 Counterpoint Research）：
+       - Samsung **29%**（#1）
+       - SK Hynix + Solidigm **22%**（#2、合計）
+       - Kioxia **14%**（#3）
+       - Micron **13%**（#4 ties）
+       - SanDisk **13%**（#4 ties、從 WDC 2025-02-24 spin-off 後獨立）
+       - YMTC **13%**（中國本土）
+       - → CR3 65%、6 家分食 vs HBM 3 家寡占 = NAND 估值結構性輸 HBM 一個量級
+    2. **AI 用 NAND（Enterprise SSD） vs Consumer NAND 規格 / 利潤差**：
+       - **介面**：Consumer PCIe Gen4 為主 / **Enterprise PCIe Gen5 量產 → Gen6 規劃 2027**
+       - **容量單顆**：Consumer 256GB-2TB / **Enterprise 61TB → 245TB**（SK Hynix PS1012/PS1101）
+       - **耐用度**：Consumer 0.3-1 DWPD / Enterprise 1-10 DWPD
+       - **PLP（電源保護）**：Consumer 無 / Enterprise 必備
+       - **散熱**：Consumer 被動 / Enterprise **液冷支援**（Solidigm liquid-cooled SSD）
+       - **合約價（Q1 2026 TrendForce）**：Client SSD QoQ +40% / **Enterprise SSD QoQ +60%**
+       - **wafer 經濟**：「同一片 wafer 切 enterprise = 切 consumer 的 **3-5 倍營收**」→ 廠商集體把 wafer 從 Client 切到 Enterprise
+       - **市場結構**：Enterprise SSD 2026 起成為 NAND 最大 application segment（TrendForce 確認）
+    3. **NAND 在 NVDA 路線圖每個產品的具體用量**：
+       - **Vera Rubin AI 超級電腦（NVL72）**：**1,152TB SSD / rack**（ICMS = Inference Context Memory Storage）= NAND BOM **$1M+ / rack**（13% of $7.8M）= **唯一主戰場用量**
+       - **Vera CPU**（standalone Arm 88 核）：OS + checkpoint storage（容量未揭露、推測 <100GB / chip）= **<5% BOM**（LPDDR5X 才是主軸）
+       - **RTX Spark AI PC**（GB10 Superchip）：4-8TB local SSD 推估（NVIDIA 未明確）= **~10% BOM**（LPDDR5X 128GB 是主記憶體）
+       - **Jetson Thor 機器人**：128GB-1TB SSD 推估 = **~10% BOM**（LPDDR5X 128GB 是主記憶體）
+       - → **Vera Rubin ICMS 是唯一「主戰場」**、其他 3 個 NAND 是「BOM 配角但路線圖鎖死」
+       - **2026 估計 30,000 units Vera Rubin → NAND 需求 34.6M TB = 全球 NAND 產能 2.8%**
+       - **2027 估計 100,000 units → 115.2M TB = 全球 9.3%**（NAND 廠當前**沒 price in**）
+    4. **NAND 是主戰場還是附屬 BOM？— Leo 判斷**：
+       - **「半主戰場 + 半附屬 BOM」**——目前 60% 附屬 BOM、40% 主戰場
+       - **2027 H2 HBF 落地 + Vera Rubin 100K units 出貨後**，會升到「60% 主戰場 + 40% BOM」
+       - **但永遠不會像 HBM 那樣 100% 主戰場**——物理性質決定（可獨立採購 + 6 家分食 + QLC commodity 屬性）
+       - **理由**：
+         - HBM die-bonded lock-in、6 家分食 NAND 物理可獨立採購、估值結構差一級
+         - HBM 寡占 3 家、NAND 6 家分食 = 議價力結構性弱
+         - HBM 有 NVDA multi-year contract anchor、NAND 仍按 segment / 多源策略採購
+         - **但 NAND 開始長出 HBM 形狀**：HBF 標準化（NAND-as-DRAM）+ Solidigm Enterprise 100% pivot + Kioxia FY2025 OP +95% = 結構性新需求軸成形
+    5. **三家五軸評分（25 分制）**：
+       - **[[Kioxia]] 19/25**（賽道 4 / 路線 4 / IP 4 / 客戶分散 4 / 時點 3）= 比 HBM BIG 3 略低一級、時點扣分（+2,400% 漲幅後 Bain 仍 30% 持股 overhang）
+       - **[[Solidigm]] 17/25 假設**（賽道 4 / 路線 3 / IP 3 / 客戶分散 4 / 時點 3）= 私有公司不可直接押、必須透過 [[SK Hynix]] 母公司套利
+       - **[[Western Digital]] 15/25**（賽道 3 / 路線 3 / IP 3 / 客戶分散 3 / 時點 3）= NAND 戰場 rival、非戰場玩家、賽道扣分；storage AI 主題對沖配置
+       - 對照 HBM BIG 3：[[SK Hynix]] 23/25、[[Samsung Electronics]] 21/25、[[Micron]] 20/25 = NAND 戰場 entity 仍輸 HBM 戰場 entity 1-2 軸
+    6. **PB 估值法仍適用 NAND 嗎？**：
+       - **適用、但需要分段估值改良版**
+       - **Consumer NAND**（手機 / PC）= **PB 框架完全適用**
+       - **Mobile eMMC / UFS** = PB 框架
+       - **Enterprise SSD（datacenter）**= **混合：PB 守底 + Forward PE 10-15x**
+       - **AI Enterprise SSD（NVDA ICMS）**= **Forward PE 15-20x**（infra 級半套用、不到 HBM 廠 40-60x 水準）
+       - **Thesis switching trigger**：Enterprise SSD 營收占比 > 50% + ASP QoQ > 40% → 切到 Forward PE 框架（Kioxia FY2025 已過、SanDisk FY2026 Q3 已過、Solidigm 透過母公司套利）
+       - **退場時點**：Enterprise SSD ASP 連續兩季 QoQ 負成長 → 退回 PB 框架
+       - **跟 HBM 差別**：HBM iPhone moment 是「全 segment re-rate」（傳統 DRAM 都被拉上）、3D NAND 是「分段 re-rate」（Enterprise SSD 拉、Consumer NAND 仍週期）
+  - 累計：**48 concept + 59 entity + 41 summary**（[[AI infra 3D NAND 戰場]] concept +1、[[Kioxia]] / [[Solidigm]] / [[Western Digital]] entity +3）
