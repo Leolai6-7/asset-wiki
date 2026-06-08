@@ -3,9 +3,9 @@ title: AI infra 散熱戰場
 aliases: [AI infra 散熱, 散熱戰場, AI 散熱, AI 液冷戰場, AI 機櫃散熱]
 type: concept
 created: 2026-06-08
-updated: 2026-06-08
-as_of: 2026-06-08
-check_after: 2026-12-08
+updated: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-12-09
 expires_on: 2027-12-31
 sources:
   - https://thecoolingreport.com/intel/nvidia-rubin-liquid-cooling-standard-not-optional
@@ -204,25 +204,37 @@ PUE:    1.6-1.8     →  1.1-1.3            →  <1.05
 |---|---|---|---|
 | **[[Vertiv]]**（VRT）| 整合 turnkey（cooling + power）、Strategic Thermal Labs + ThermoKey 雙併購 | $15B backlog、NVDA 800V DC 架構協同開發 | **22/25**（純度 + 站別 + 客戶分散三高）|
 | **[[台達電]]**（2308.TW）| 雙軌整合（power 60% AI server + 液冷 8% 衝 11%）、2.4MW / 3MW L2L CDU | NVDA GTC 2026 共展 800V DC + GB300 NVL72 In-Rack CDU | **20/25**（多元組合分散）|
+| **[[奇鋐 3017|奇鋐]]**（3017.TW）⭐ 2026-06-09 補位 | Cold Plate 50%+ 市佔王 + 4 大 CSP CDM 主供 + 3D VC + UQD 認證 | NVDA GB200/GB300 主供、Rubin VR 系列送樣中、2026 Q1 EPS 20.17 創新高 | **20/25**（規模 + 市佔 + hyperscaler 直接）|
+| **[[高力 8996|高力]]**（8996.TW）⭐ 2026-06-09 補位 | BPHE 真空硬銲 9 成台灣市佔 + CDU 心臟級 + Bloom Energy SOFC 第二曲線 | 間接（透過 CDU 廠採購）、2026 Q1 EPS 6.54 +347% YoY、1-5 月 +153% YoY | **20/25**（niche specialist + 雙引擎）|
 | **[[雙鴻]]**（3324.TW）| Cold Plate + Manifold + CDU 全鏈、台廠液冷代表 | Rubin sample 驗證中、2026 液冷占比 55%、營收目標上修 70% | **19/25**（純度 + 客戶分散弱）|
 
 漏網但提及（不建 entity，本次）：
-- **奇鋐**（3017.TW）：cold plate 50%+ 市佔、CDM 4 大 CSP 主供——下一波應補建
-- **[[高力 8996|高力]]**（8996.TW）：BPHE 9 成台灣市佔 + CDU 心臟、niche specialist——下一波應補建
 - **川湖**（2059.TW）：機櫃滑軌、漏網提及
 
-## 散熱戰場 anchor 排名（推測，2026-06-08）
+## 散熱戰場 anchor 排名（2026-06-09 更新後）
 
-按 Leo 「結構性受惠 + 五軸 + 估值合理性」標準推測：
+按 Leo 「結構性受惠 + 五軸 + 估值合理性」標準：
 
-1. **[[Vertiv]]（VRT）** — anchor #1：**整合 turnkey 龍頭 + $15B backlog + NVDA 800V DC 雙軌共開發**——比信昌電位階更高（power + cooling 雙軌） + 比雙鴻位階更高（規模 + 客戶分散）
-2. **[[雙鴻]]（3324）** — anchor #2：**台廠液冷純度首選 + Rubin 全鏈 + 1.6MW L2L CDU IP**——比奇鋐位階略高（CDU + manifold + cold plate 三鏈完整、奇鋐強在 cold plate 50%+ 市佔但 CDU 弱）
-3. **[[台達電]]（2308）** — anchor #3：**雙軌 power + cooling + 800V HVDC 護城河**——多元組合稀釋（電動車 / 5G / 家電混合）但**現金流 + 規模**勝
-4. （**奇鋐 3017** 待建——cold plate 市佔最高但 CDU 弱、IP 略遜雙鴻 1.6MW CDU）
-5. （**高力 8996** 待建——BPHE niche 9 成市佔 + CDU 心臟、純度高但市值小）
+1. **[[Vertiv]]（VRT）** — anchor #1（**22/25**）：**整合 turnkey 龍頭 + $15B backlog + NVDA 800V DC 雙軌共開發**——比信昌電位階更高（power + cooling 雙軌） + 比雙鴻位階更高（規模 + 客戶分散）
+2. **[[台達電]]（2308）** — anchor #2（**20/25**）：**雙軌 power + cooling + 800V HVDC 護城河**——多元組合稀釋（電動車 / 5G / 家電混合）但**現金流 + 規模**勝
+3. **[[奇鋐 3017|奇鋐]]（3017）** — anchor #3（**20/25** ⭐ 2026-06-09 補位）：**台廠液冷規模王 + cold plate 50%+ 市佔王 + 4 大 CSP CDM 主供 + UQD + Rubin VR 系列送樣**——規模 6x 雙鴻、Q1 EPS 20.17 元創新高、大摩 PT NT$3,333、Citi PT NT$2,055；vs 雙鴻：規模型 vs 純度型分歧
+4. **[[高力 8996|高力]]（8996）** — anchor #4（**20/25** ⭐ 2026-06-09 補位）：**CDU 心臟級 BPHE niche specialist + 台灣 9 成市佔 + 全球前五大 + Bloom Energy SOFC 第二曲線**——「賣水人之中的賣水人」純度位置不可繞過、Q1 EPS 6.54 +347% YoY、雙引擎雙爆發（AI 液冷 + 氫能）
+5. **[[雙鴻]]（3324）** — anchor #5（**19/25**）：**台廠液冷純度首選 + Rubin 全鏈 + 1.6MW L2L CDU IP**——CDU + manifold + cold plate 三鏈完整、Rubin sample 客製化高利潤、純度型代表
 
-→ **若只能買 3 家** = Vertiv + 雙鴻 + 台達電（涵蓋整合 / 純度 / 雙軌三軸）
+→ **若只能買 3 家** = Vertiv + 台達電 + 雙鴻（整合 + 雙軌 + 純度三軸）
 → **若可以買 5 家** = +奇鋐 + 高力（補 cold plate 市佔王 + BPHE niche specialist）
+→ **800V HVDC 三角 niche specialist 賣水人籃子**（跨「電力 + 散熱」孿生戰場）= [[信昌電]]（電源 MLCC）+ [[雙鴻]]（液冷三鏈）+ [[高力 8996|高力]]（CDU 心臟 BPHE）= 「規格深度型 + niche 壟斷」籃子（vs 整合方 / 規模王）
+→ **台廠液冷雙頭** = [[奇鋐 3017|奇鋐]] 規模王（cold plate 50%+ + 4 大 CSP）+ [[雙鴻]] 純度型（CDU IP + 三鏈整合 + Rubin sample）
+
+## ⭐ 台廠散熱「最強的一張牌」（vs 玻璃基板 / MLCC 嵌入式對照）
+
+| 戰場 | 台廠位置 | 代表 entity |
+|---|---|---|
+| **散熱（第六）** | **最強的一張牌**：cold plate 70%（奇鋐 50%+ + 雙鴻 15-20%）+ manifold（雙鴻 UBS 估 27% 全球 + 奇鋐 4 大 CSP 主供）+ BPHE（高力 9 成台灣 + 全球前五大）+ CDU（雙鴻 1.6MW + 台達 2.4/3MW）| **[[奇鋐 3017|奇鋐]] + [[雙鴻]] + [[高力 8996|高力]] + [[台達電]]** |
+| 玻璃基板（第四）| 設備 / 材料 layer 落後（[[鈦昇]] / [[雷科]] 期權）、ABF [[欣興]] design partner | 期權型受惠 |
+| MLCC 嵌入式（第二）| **完全缺席**（[[華新科]] / [[國巨]] / [[信昌電]] 都無嵌入式產品線）| [[信昌電]] 中高壓 niche specialist 唯一例外 |
+
+→ **散熱是台廠 niche 最強的一張牌**——四家 entity 全部 19-20/25 分、cold plate 70% 市佔 + manifold 主供 + BPHE 全球前五大 + CDU 1.6-3MW IP，四角覆蓋液冷全鏈
 
 ## 跟其他 wiki 概念連結
 
@@ -245,8 +257,7 @@ PUE:    1.6-1.8     →  1.1-1.3            →  <1.05
 - [[半導體基礎建設化]]
 - [[信昌電]]
 - [[NVDA]]
-- [[Vertiv]]、[[台達電]]、[[雙鴻]]
-- [[高力 8996|高力]]（待補 entity）
+- [[Vertiv]]、[[台達電]]、[[雙鴻]]、[[奇鋐 3017|奇鋐]]、[[高力 8996|高力]]
 - [[CPO 供應鏈圖譜]]
 
 ## Sources
