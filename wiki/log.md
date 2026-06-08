@@ -1542,3 +1542,43 @@
     - [[AI infra 3D NAND 戰場]] Tier 2 補強 SanDisk 描述（HBF + capex +40% + JV 50/50）
     - [[index.md]] entity 段加 SanDisk 條目（美 NAND pure-play + HBF）
   - 累計：**50 concept + 70 entity + 41 summary**（[[SanDisk]] entity +1）
+
+- 2026-06-09 ingest: **電力戰場 7 家漏網逐一建檔（Talen Energy / Eaton / ABB / Schneider Electric / Navitas Semiconductor / Hitachi / Siemens）**
+  - 來源：用戶任務 + 既有 raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md + codex P1-3 校準 + 800V HVDC 灰白區重劃 sources
+  - 任務背景：[[AI infra 電力戰場]] anchor triplet（CEG / VST / GEV）已建、但戰場三層分工漏網 7 家：
+    - 第一層電力產生漏 **Talen Energy**（AWS Susquehanna 1.92GW 17 年 PPA + Three Mile Island restart 對照 Constellation）
+    - 第二層電力傳輸漏 **ABB**（變壓器 + switchgear 雙料 + NVDA 800V HVDC 共定義者）+ **Hitachi**（Hitachi Energy 全球 HVDC + NVDA Spectrum-XGS 軟體合作）+ **Siemens**（Siemens Energy 拆分母公司 + Digital Industries 軟體）
+    - 第三層電力分配漏 **Eaton**（800V HVDC reference architecture 首發）+ **Schneider Electric**（EcoStruxure + 1MW rack 白皮書 + APC UPS 全球 #1）+ **Navitas Semiconductor**（GaN pure-play vs Wolfspeed Chapter 11 對照）
+  - 7 家五軸 25 分制評分（按分數排序）：
+    - **[[Eaton]] 22/25**（戰場第三層配電 #1 anchor、800V HVDC reference architecture 首發 + turnkey 北美 backlog 領先 + 客戶分散 5 分）
+    - **[[Schneider Electric]] 22/25**（戰場第三層配電 #2 anchor、EcoStruxure 軟體深 + APC UPS 全球 #1 + 1MW rack 白皮書定義者）
+    - **[[Hitachi]] 22/25**（戰場第二層傳輸 #2 anchor、Hitachi Energy 全球 HVDC + 變壓器 + NVDA Spectrum-XGS 軟體 + conglomerate 折價 PE 15-18）
+    - **[[Siemens]] 21/25**（戰場第二+第三層雙層 anchor、Digital Industries 工業軟體 #1 + Siemens Energy 17% 持股 + NVDA Omniverse + Healthineers）
+    - **[[ABB]] 20/25**（戰場第二+第三層 anchor、配電變壓器 + 中壓 switchgear 三巨頭 + Process Automation + Robotics 多元）
+    - **[[Talen Energy]] 19/25**（戰場第一層產生 pure-play alpha、Susquehanna 2.5GW + AWS 17 年 PPA 1.92GW + Caithness 補完、**客戶集中 AWS 單一 2 分扣分**）
+    - **[[Navitas Semiconductor]] 19/25**（戰場第三層配電 GaN pure-play、10kW 98.5% 首發 + Wolfspeed Chapter 11 救命、**客戶集中 + 估值高 2+2 分扣分**）
+  - **關鍵發現**：
+    - **800V HVDC 三角 vs 整合 turnkey 兩條路線最贏家**：
+      - **800V HVDC 三角**：Eaton 22（reference architecture 首發）+ Schneider 22（整合平台 + 1MW rack 白皮書）+ Navitas 19（GaN pure-play IC）
+      - **整合 turnkey**：Eaton（北美 backlog）+ Schneider（全球軟體深）= dual leader 不同地緣
+    - **Hitachi Energy vs ABB vs Siemens Energy 三巨頭分工**（補正 2020 拆分後）：
+      - **Hitachi Energy**（前 ABB Power Grids 80.1%）= 全球 HVDC + 大型變壓器主場（亞太 + 北美 + 歐洲分散）
+      - **ABB**（本體保留）= 配電變壓器 + 中壓 switchgear 三巨頭（與 SU / ETN）+ Process Automation + Robotics 多元
+      - **Siemens Energy**（2020 拆分、Siemens AG 17% 持股）= 歐洲輸電 + 燃氣輪機（與 GEV / MHI）+ Siemens Gamesa 風電
+    - **Three Mile Island restart 跟 Constellation 對照**：
+      - TLN Susquehanna PPA 簽 2024-03、**比 MSFT-CEG TMI 早 6 個月** = TLN 是「核電 IPP AI 模型」first-mover
+      - TLN 規模勝 CEG（單筆 1,920MW vs 835MW）但 narrative 被 CEG TMI 政治 symbol 蓋過
+      - 共同形成「核電 AI baseload」narrative 雙頭
+    - **Wolfspeed Chapter 11 vs Navitas 對照**：純 SiC + 偏 EV 曝險 + AI ramp 來不及救 fatal；Navitas GaN + SiC 雙路線 pure-play 唯一 going concern
+    - **NVDA Spectrum-XGS（Hitachi）vs NVDA Omniverse（Siemens）**：跨界軟體合作兩種模式 = Hitachi 把 AI 軟體整合到變壓器 + Lumada / Siemens 把 NVDA AI 加速 Xcelerator 工業軟體 simulation
+    - **codex 沒提的新洞見**：
+      1. **ABB 2020 賣超高壓變壓器給 Hitachi → 雙料壟斷邏輯需校正**：ABB 本體在「大型 transformer 200-500MVA、500kV+」段已不在主場、Hitachi Energy 反而是 ABB 變壓器部門接班
+      2. **Schneider Motivair 收購 = VRT 直接競爭加碼**：SU 從 UPS / 建築級擴張到機架液冷、開始侵入 VRT 主場
+      3. **Talen 純度勝 CEG 但 narrative 弱於 CEG TMI 政治 symbol**：Talen 1.92GW 單筆 AWS PPA 大於 CEG 835MW MSFT TMI，但 narrative 認知度 CEG 勝（首次美國商業退役核電復役 + Trump $1B 貸款）
+      4. **三家 conglomerate 折價機會**：Hitachi PE 15-18 / Siemens PE 20-23 vs GEV PE 35-40、Lumada DX + Digital Industries Software 是 conglomerate sum-of-parts re-rating 隱藏 trigger
+      5. **Navitas + Wolfspeed 對照證明「pure-play 需多路線」**：Wolfspeed 純 SiC + 偏 EV fatal、Navitas GaN + SiC 雙路線 + AI ramp 救命
+  - **連動更新**：
+    - [[賣水人選股邏輯（投資版）]] master 表加 7 家五軸分數 + 新加「AI infra 電力戰場（第六戰場 power-anchor）」段落
+    - [[AI infra 電力戰場]] 三層 wikilink 矩陣補完 7 家 + 「已建 entity 完整圖譜（2026-06-09 更新）」段落取代「待 ingest 玩家延伸」
+    - [[index.md]] 標的段補完「AI infra 電力戰場補完 7 家（2026-06-09 漏網延伸）」段落
+  - 累計：**50 concept + 77 entity + 41 summary**（電力戰場 +7 entity）

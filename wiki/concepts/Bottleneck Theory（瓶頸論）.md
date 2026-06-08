@@ -104,6 +104,10 @@ Serenity 區分三個概念、Leo 也應該分清：
 - [[AXTI]]、[[AAOI]]、[[SIVE]]、[[TSEM]]、[[AEHR]]（5 家光電重押）
 - [[Lumentum]]、[[Coherent]]（第 4-5 層既有）
 - [[Corning]]（第 7 層光纖）
+- ⭐ **[[信越化學]]**（第 2 層 pBN crucible 單一供應商 + 跨光阻劑 + 矽晶圓多賽道、2026-06-09 補完 entity）
+- ⭐ **[[Innolight]]**（第 5 層 OEM 模組廠全球規模 #1 + 中國光模組 #1、2026-06-09 補完 entity Beneficiary 代表）
+- ⭐ **[[Foxconn Interconnect FIT]]**（第 6 層 connector 鴻海集團 80% 持股 + AI server ODM 內製、2026-06-09 補完 entity Beneficiary 代表）
+- ⭐ **[[GlobalFoundries]]**（跨第 4-5 層 SiPho foundry 對手位 + Ayar Labs 戰略投資 + Mubadala 88% 持股、2026-06-09 補完 entity Tower 對沖）
 - [[CPO 供應鏈圖譜]]（同類七層、台股版）
 - [[賣水人選股邏輯（投資版）]]、[[控制點轉移（投資版）]]、[[跳出個股看三層：產業、目的、供應]]
 - [[AI infra CapEx 三階段論]]、[[Jevons Paradox（投資版）]]、[[Hyper Rail / Multi-Rail（光通訊整合技術）]]

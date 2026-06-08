@@ -146,6 +146,17 @@
 - [[華為]] — 昇騰 NPU + Atlas SuperPoD + CANN，DeepSeek V4 唯一硬體合作方
 - [[幻方量化]] — DeepSeek 母公司，算力本業派原型
 
+### 標的：1.6T 光模組首批採購者（第十波 — [[AI infra CapEx 三階段論]] 第三階段 anchor 客戶，2026-06-09 補位）⭐
+- [[CoreWeave]]（NASDAQ: CRWV）— **neocloud 龍頭 + NVDA 戰略客戶兼投資人 + NVDA $6.3B backstop + 1.6T 光模組首批採購者 + 循環投資 anchor 樣本**：Microsoft 60%+ / Top 3 90%+ 客戶集中極端、$50B+ backlog（OpenAI $11.9B + Meta $14.2B + Microsoft + IBM）、FY2026 自家指引 $15-18B (+200%+)、2026-08 Spectrum-XGS 首批跨 DC 部署、Re-rate 1/4、Forward PE n/a；五軸 **12/25**（路線 + 站別中、客戶分散僅 1 分極端）；「Cloud 二線打贏一線」結構性論點（NVDA 把 CoreWeave 變成銷售管道）
+- [[Lambda]]（**⚠️ 私募、未上市、NOT-INVESTABLE**）— **neocloud #2 first-mover + NVDA NCP Elite tier + 1.6T 光模組首批採購者 + GPU AI cloud 開拓者**：2012 起源、業界最早 GPU cloud、2025-07 Series D $480M @ $4-5B、客戶分散（Top 5 ~40-50%）、研究機構 / AI native 客戶忠誠、傳言 2026 H2 - 2027 H1 IPO 窗口；五軸 **13/25**（客戶分散勝 CoreWeave、但規模較小 + 私募）；reference 追蹤、實際投資需等 IPO 後重評
+- [[Oracle]]（NYSE: ORCL）— **老牌資料庫龍頭 + Stargate 主力 + OpenAI $300B 五年合約 + Larry Ellison AI infra 押注 + 1.6T 光模組首批採購者**：FY2025 營收 $57.4B / OCI YoY +52% / FY2026 OCI 指引 +70%+ / 市值 $700-900B、12 月 +130-180%、Forward PE 35-45x、$163B 長期債、Re-rate 2/4；五軸 **18/25**（三家中最高，Database 30 年護城河 + OpenAI $300B anchor）；2025-09-09 公告 $300B 合約日 +35% 單日跳升 = 紀念性 anchor 事件
+
+### 標的：台灣 AI server 系統整合廠（第十波 — [[AI infra CapEx 三階段論]] 第三階段台灣鏈條對接，2026-06-09 補位）⭐
+- [[鴻海 2317]]（鴻海精密、Foxconn / Hon Hai）— **全球最大電子代工龍頭 + AI server #1 代工（市佔 ~40-50%）+ GB200 NVL72 主代工 50-60% + AI cloud / edge 雙引擎**：FY2025 營收 NT$6.86 兆 (+11%) / EPS +30%、AI cloud FY2026 估營收 NT$1.0-1.2 兆 (+100-150%)、Tesla Cybercab Robotaxi + Apple Vision Pro 第二代主代工、Apple iPhone 30%+ 營收 anchor、市值 NT$3.5 兆+、Forward PE 18-22x、Re-rate 2/4；五軸 **16/25**（規模最大 + NVDA reference design + 雙引擎）；郭台銘 2025-09 退休、Young Liu 劉揚偉接任轉型「鴻海 = AI infra system integrator」
+- [[廣達 2382]]（Quanta Computer）— **全球 NB 代工龍頭 + AI server #2 代工（市佔 30-40%）+ Meta MTIA 主代工 + NVDA DGX 系列主代工 + Apple Mac 主代工**：FY2025 營收 NT$1.55 兆 (+25%) / EPS +50% / 毛利率 8.5%（vs 鴻海 6.4% 高 2pp）、AI server 占比 FY2026 估 35-40%、Meta 集中度 20%+ 營收、市值 NT$1.0-1.2 兆、Forward PE 25-30x、Re-rate 3/4；五軸 **15/25**（AI server pure-play + 高毛利於鴻海）
+- [[緯創 3231]]（Wistron）— **AI server #3 代工 + GPU baseboard 主代工 30-40%（NVDA HGX 8-GPU baseboard）+ Wiwynn 緯穎 27.5% 持股子公司 AI HPC 主力**：FY2025 營收 NT$1.05 兆 (+15%) / EPS +35-50% / 毛利率 6.8%（vs 鴻海 6.4% / 廣達 8.5%）、Wiwynn 持股價值貢獻緯創市值 40-50%（雙軌掛牌結構）、AI server + GPU baseboard 占比 FY2026 估 40-45%、市值 NT$500-700B、Forward PE 20-25x、Re-rate 3/4；五軸 **14/25**（GPU baseboard niche specialist + Wiwynn 雙軌）；Acer 派系系統廠
+- [[智邦 2345]]（Accton Technology）— **全球白牌交換器 #1 代工 + AI networking switch 純度首選 + Spectrum-X 鏈條台廠對接 + NVDA Spectrum-6 主代工 + AVGO Tomahawk 6 multi-source**：FY2025 營收 NT$555 億 (+30%) / EPS +60-80% / **毛利率 26-28%（vs 鴻海 / 廣達 / 緯創 高 3-5x）**、白牌全球市佔 35-45%、Meta 25%+ / Microsoft SONiC / AWS Hyperion 主供、AI networking switch 占比 FY2026 估 55-60%、800G ramp + 1.6T pre-ramp 雙引擎、市值 NT$400-500B、Forward PE 30-40x、Re-rate 3/4；五軸 **18/25**（**台廠 AI 系統整合廠最高分、與 Oracle 並列**）；唯一不直接競爭 server / NB 的台廠 anchor、在 [[NVDA 網路 stack map]] scale out 層 Switch ASIC 整機代工 anchor、「賣水人之中的賣水人」
+
 ### 接口 / 平台
 - [[MCP（Model Context Protocol）]] — Anthropic 接口控制權，9700 萬安裝
 
