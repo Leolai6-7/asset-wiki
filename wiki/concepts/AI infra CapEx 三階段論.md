@@ -4,6 +4,7 @@ aliases: [CapEx 三階段, AI 基礎建設三階段, 三階段論]
 type: concept
 created: 2026-06-08
 updated: 2026-06-08
+last_minor_update: 2026-06-08 IQE entity 補完
 as_of: 2026-06-08
 check_after: 2026-12-08
 expires_on: 2027-12-31
@@ -46,7 +47,7 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 物理供應鏈瓶頸**從 NVDA 往上游傳導**：
 - 光模組（1.6T）量爆增
 - 光引擎（[[Lumentum]] / [[Coherent]]）供應限制
-- InP 晶圓（[[Lumentum]] / [[Coherent]] / **IQE**）整鏈緊繃
+- InP 晶圓（[[Lumentum]] / [[Coherent]] / [[IQE]]）整鏈緊繃
 - 對應 [[Jevons Paradox（投資版）]]：技術升級 → 元件 TAM 暴增
 
 ## 第三階段具體判斷依據（2026-06-08 訊號）
@@ -71,9 +72,9 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 
 | 公司 | 訊號 | 強度 |
 |---|---|---|
-| **[[Coherent]]** | InP delivery >26 週、影響 **15-20% 營收** | 🔴 |
-| **[[Lumentum]]** | 供應限制延伸到 **2026 全年** | 🔴 |
-| ⚠️ **IQE**（待 ingest） | 剛融資 + 給 **20%+ 成長** | 🔴 |
+| **[[Coherent]]** | InP delivery >26 週、影響 **15-20% 營收**（2026-05-06 法說） | 🔴 |
+| **[[Lumentum]]** | 供應限制延伸到 **2026 全年**、EML 缺口 >30% / 日本 wafer fab fully allocated（2026-05-05 法說） | 🔴 |
+| **[[IQE]]** | **£81M 融資**（MACOM £45M 戰略入股 11.5% + 長期供應協議）+ **FY 2026 >20% 成長**指引（2026-04 + 2026-05-28 公告） | 🔴 |
 
 > 三家同時講一件事 = **不是巧合，整條鏈一起到瓶頸了**
 
@@ -138,7 +139,7 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 ### 第三階段（**現在**）
 - 光通訊：[[Lumentum]] / [[Coherent]] / [[Ciena]] / [[Nokia]]
 - DCI / 接口：[[Ciena]] / [[Nokia]]（透過 Hyper Rail / Multi-Rail 傳導）
-- InP 上游：⚠️ IQE / ⚠️ Inrad
+- InP 上游：[[IQE]] / ⚠️ Inrad
 - 矽光生態：⚠️ POET / ⚠️ Ayar Labs
 
 ### 第四階段（**潛在下一段**，AWS/Azure/Google 全面跟進）
@@ -162,7 +163,7 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 ## 待 ingest 延伸（第三階段缺的玩家）
 
 ### InP / 光通訊上游
-- **IQE**（InP 晶圓代工，剛融資 + 給 20%+ 成長）
+- ✅ **[[IQE]]**（已建 2026-06-08）：InP 晶圓 epi 代工龍頭、£81M 融資 + MACOM 11.5% 入股 + FY 2026 >20% 成長指引、6" InP DFB industry-first、五軸 17/25、alpha 最尖端但風險最濃
 - **POET Technologies**（矽光整合）
 - **Ayar Labs**（光晶片初創）
 
@@ -185,5 +186,5 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 - [[Hyper Rail / Multi-Rail（光通訊整合技術）]]
 - [[AI 記憶體結構性供給短缺]]
 - [[控制點轉移（投資版）]]
-- [[NVDA]]、[[Lumentum]]、[[Coherent]]、[[AVGO]]、[[Ciena]]、[[Nokia]]
+- [[NVDA]]、[[Lumentum]]、[[Coherent]]、[[IQE]]、[[AVGO]]、[[Ciena]]、[[Nokia]]
 - [[TSMC]]、[[日月光 ASE]]、[[Amkor]]

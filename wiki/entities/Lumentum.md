@@ -3,11 +3,12 @@ title: Lumentum
 aliases: [LITE, Lumentum Holdings, Lumentum Holdings Inc, 流明, NASDAQ:LITE]
 type: entity
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-08
 as_of: 2026-06-05
 check_after: 2026-12-05
 sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
+  - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 美股, 光通訊, 光引擎, CPO, pump laser, EML, InP, DCI, foreign_competitor, NVDA]
 confidence: high
 ---
@@ -136,6 +137,8 @@ confidence: high
 
 ### ✅ 催化
 
+- 🆕 **2026-06-08 InP 供應緊繃 anchor**（Leo 2026-06-08 筆記）：Lumentum 法說揭露**供應限制延伸到 2026 全年**、EML 供需缺口從上季 30%+ 持續擴大、日本 wafer fab fully allocated + premium pricing——跟 [[Coherent]] InP delivery **>26 週** + [[IQE]] £81M 融資 + FY 2026 **>20% 成長**指引**同月（2026-05）4 週內同步揭露**、整鏈瓶頸**時序高度收斂、不是巧合**
+- 對 [[AI infra CapEx 三階段論]] 第三階段是最強訊號
 - 1.6T 模組需求 2025→2026 從 1.8M units 跳到 30M+ units（17 倍增量、NVDA 占 60%）
 - 200G EML 全球唯一量產者 + ASP 漲價（$14 → $20）持續
 - pump laser 受 [[Hyper Rail / Multi-Rail（光通訊整合技術）]] 拉動（Ciena 2027 / Nokia 2026 H2 雙催化）
@@ -234,6 +237,7 @@ LITE 在 CPO 第 2 層的地位：
 - [[AVGO]]：Tomahawk 8 / Jericho CPO 模組需要 LITE EML / pump laser
 - [[SiTime]]：CPO 三倍 BOM timing 與 LITE EML 雙協同
 - [[Corning]]：NVDA 同時投資 Corning 玻璃纖維（$3.2B）+ LITE / COHR laser = NVDA 光通訊全堆疊投資
+- [[IQE]]：純 play 化合物半導體 epi foundry、LITE 自家 InP fab（日本 fully allocated + Greensboro NC 2028 中量產）的**外部 epi 補位** + IQE 6" InP DFB 平台 industry-first 對 LITE 主流 4" 線是 IP 壓力、未來 LITE Greensboro 廠 2028 上線可能去 IQE 庫存
 
 ## 相關連結
 
@@ -246,6 +250,7 @@ LITE 在 CPO 第 2 層的地位：
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 - [[Coherent]]、[[NVDA]]、[[AVGO]]、[[SiTime]]、[[Corning]]
 - [[Ciena]]、[[Nokia]]
+- [[IQE]]、[[AI infra CapEx 三階段論]]
 
 ## Sources
 

@@ -3,11 +3,12 @@ title: Coherent
 aliases: [COHR, Coherent Corp, II-VI, IIVI, II-VI Incorporated, NYSE:COHR]
 type: entity
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-08
 as_of: 2026-06-05
 check_after: 2026-12-05
 sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
+  - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 美股, 光通訊, 光引擎, CPO, pump laser, EML, InP, SiC, 功率半導體, DCI, foreign_competitor, NVDA]
 confidence: high
 ---
@@ -144,6 +145,8 @@ confidence: high
 
 ### ✅ 催化
 
+- 🆕 **2026-06-08 InP 供應緊繃 anchor**（Leo 2026-06-08 筆記）：InP delivery 拉到 **>26 週**，還會影響 **15-20% 營收**——同時 [[Lumentum]] 講供應限制延伸到 2026 全年、[[IQE]] 剛 £81M 融資 + MACOM £45M 戰略入股 + 給 **FY 2026 >20% 成長**指引 = 整鏈三家在 **2026-05 4 週內**同月喊緊、整鏈瓶頸**時序高度收斂、不是巧合**
+- 對 [[AI infra CapEx 三階段論]] 第三階段是最強訊號
 - 1.6T 模組需求 17 倍增量（2025 1.8M → 2026 30M+ units）、NVDA 占 60%
 - **InP 產能**：next quarter 2 倍、2027 年底再 2 倍 = laser die 規模優勢加速
 - AI 訂單能見度延伸到 **2028**
@@ -254,6 +257,7 @@ COHR 在 CPO 第 2 層的地位：
 - [[AVGO]]：Tomahawk / Jericho CPO 模組配套 COHR transceiver
 - [[SiTime]]：CPO 三倍 BOM timing 與 COHR transceiver 雙協同
 - [[Wolfspeed]]（如未來建）：SiC 直接對手、300mm 路線競爭
+- [[IQE]]：COHR 6" InP 線追趕 LITE EML 的範式**與 IQE 6" InP 平台 industry-first 直接對應**——IQE 是 COHR 自家 InP fab 容量瓶頸（>26 週交期）時的**外部 epi 補位**，2028 後 COHR next quarter 2x / 2027 再 2x 完成可能去 IQE 庫存
 
 ## 相關連結
 
@@ -266,6 +270,7 @@ COHR 在 CPO 第 2 層的地位：
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 - [[Lumentum]]、[[NVDA]]、[[AVGO]]、[[SiTime]]
 - [[Ciena]]、[[Nokia]]
+- [[IQE]]、[[AI infra CapEx 三階段論]]
 
 ## Sources
 
