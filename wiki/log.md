@@ -45,7 +45,27 @@
   - Re-rate 三角形 0-1/4（仍 thesis 階段、bookings $92M+ + Book-to-Bill 3.5x+ anchor 強、但實質營收 ramp 尚未驗證）
   - 催化：Q3 lead AI accelerator $14M follow-on（9 顆 300mm wafer 平行）+ Q3 lead silicon photonics customer follow-on（sample → 量產）+ Q3 Taiwan SiC FOX-XP + Q4 $41M record AI 訂單 + Q4 預期回到 non-GAAP profitability
   - 風險：FY 2026 H1 ON Semi 下滑營收 YoY -44%、Advantest / Cohu 規模競爭、客戶集中、Forward PE 2,106 估值無 anchor
-  - 累計：waiting for AXTI/SIVE 落地後總計
+- ingest: **Serenity 重押光電 5 家逐一交付 — AXTI（AXT Inc.）第 4 家落地**
+  - entity [[AXTI]]（NASDAQ: AXTI / AXT Inc.）— **Bottleneck Theory 第 1 + 第 3 層 + 跨第 2 層三重 chokepoint + 政策第 4 重 chokepoint**
+  - 一句話定位：InP substrate 雙頭壟斷之一（與 Sumitomo Electric 並列 60-70%+）+ 垂直整合 4 個 chokepoints 下 1 個供應鏈（業界唯一）+ 全球唯一上市 pure-play 化合物半導體 substrate 廠（100% 中國生產：北京 + 河北 + 邯鄲）
+  - Serenity reasoning：「**Strait of $AXTI**」隱喻（vs Hormuz 海峽、雙倍 chokepoint、$LITE / $GOOGL 客戶）+ 「**The AI 'Growth' story ends in 2026 if there's no solution to InP**」+ 從 $12-15 喊 PT $150（公開最早提出 + 報酬最高、12M +6,686%）
+  - 五軸 **20/25**（路線 5 + 站別 5 雙滿、客戶分散 2 拖累）vs TSEM 22 / AEHR 20 / LITE 19 / COHR 19 / AAOI 18 / IQE 17 = **5 家中與 AEHR 並列第二高**
+  - Re-rate 三角形 1-2/4（營收已 ramp 但其他三軸仍 thesis driven、option value 極高）
+  - 催化：Q1 2026 InP backlog $60M → $100M+（+67%）、2026 全年 InP 產能 doubling + 2027 再 doubling、目標 quarterly $35M（2.6x ramp）、$632.5M capital raise、7N indium 飆破 $1K+/kg、中國 2025-02 InP 出口管制
+  - 風險：中國地緣政治雙刃（100% 中國產能）、Sumitomo +40% 產能 2027、LITE Greensboro NC 2028 + COHR 6"InP 2028 ramp、股價 12M +6,686% + 52 週 $1.72→$143（漲幅 8,219%）= 估值無 anchor、追高風險極大
+- ingest: **Serenity 重押光電 5 家逐一交付 — SIVE（Sivers Semiconductors）第 5 家落地 = 全 5 家完成 ⭐⭐**
+  - entity [[SIVE]]（OMXSTO: SIVE / Sivers Semiconductors）— **Bottleneck Theory 第 4 層 Laser Sources 唯一 pure-play CW DFB pure anchor**
+  - 一句話定位：CPO 外部光源 CW DFB laser 全球唯一獨立 pure-play 供應商（fab-lite + Glasgow 自有 InP fab + WIN Semi 代工容量提前鎖定）、Bottleneck Theory 第 4 層純 chokepoint 期權、acquisition target 概率最高（瑞典 Kista）
+  - Serenity reasoning：「**$SIVE is the most compelling CPO exposure stock to me. Despite the volatility.**」+ 「**NVDA ate up all the capacity with COHR, LITE after their new $2B+ spending spree. Same playbook with EML early 2025, causing the bottleneck seen today.**」+「**acquisition chain: $SIVE → Win → $POET → Celestial → $MRVL**」+「**Photonics Supercycle here, Soitec ($SOI) or Sivers ($SIVE) chokepoints**」
+  - 五軸 **19/25**（路線 5 + 站別 5 雙滿、耗材 3 + 客戶分散 2 拖累）vs TSEM 22 / AEHR 20 / AXTI 20 / LITE 19 / COHR 19 / AAOI 18 / IQE 17 = **5 家中第三、與 LITE / COHR 並列**
+  - Re-rate 三角形 **0/4**（仍 thesis 階段、design wins 24 個 + pipeline $799M 強、但實質營收 ramp 尚未驗證）
+  - 催化：opportunity pipeline +77% YTD（$799M）、24 design wins、O-Net + Enablence CPO partnership、Ayar Labs SuperNova 4Tbps、Jabil 1.6T LRO（30% 能效優勢）、2026 Q4 LiDAR 量產（NVDA DRIVE Hyperion）、CPO laser qualification 2026 + volume ramp 2027、Acquisition target 期權（AVGO/Marvell/Apple/NVDA）
+  - 風險：CPO timeline 不確定、CPO 路線分歧（SiPho integrated laser）、Q1 2026 營收 -22% YoY、Forward PE 仍負、12M +2,073% + 52 週漲幅 6,186% 估值高、acquisition premium 已 price in、瑞典 OMXSTO 流動性、客戶集中
+- **Serenity 重押光電 5 家全部交付完成（2026-06-08）** ⭐⭐
+  - **5 家總分排序**：TSEM 22 ⭐⭐ > AEHR 20 = AXTI 20 > AAOI 18 / SIVE 19（並列 LITE 19 / COHR 19）/ IQE 17
+  - **Bottleneck Theory 7 層覆蓋**：L1 + L3 = AXTI、L4 = SIVE、L5 + 跨 L4 = AAOI、L6 = AEHR、跨 L4-L5 = TSEM、L1 + L2 + L3 + 政策 L4 = AXTI 業界唯一垂直整合 4 重 chokepoint
+  - **risk spectrum**：低 beta defensible compounder = TSEM；中 beta vertical integration = AAOI；超高 beta pure chokepoint 期權 = AXTI / SIVE / AEHR
+  - **12 個月漲幅**：AXTI +6,686% > IQE +900-1,300% > AEHR +968% > AAOI +896% > TSEM +580% > SIVE +2,073%（單獨計算後 SIVE 排第二）
 
 ## 2026-06-04
 - init: asset-wiki created (mirror of llm-wiki, 財經適配)
@@ -1268,3 +1288,188 @@
 - 姊妹題 [[AI infra 散熱戰場]] concept 獨立化（codex P1-3 同時點名 Power + Thermal）
 
 累計：**49 concept + 62 entity + 41 summary**（[[AI infra 電力戰場]] concept +1、[[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] entity +3）
+
+- ingest: **CPO 漏網 entity 第 4 家 — [[Ayar Labs]]（私人 / 未上市 / NOT-INVESTABLE）**（subagent 並行交付、逐一落地）
+  - **[[Ayar Labs]]**（私人公司 / 2026-03-03 Series E $500M @ $3.75B 估值 / 未上市）—— CPO 第 2 層光 I/O chiplet 純度首選 reference entity
+    - **Public/Private 確認** ⭐：經多源交叉驗證（Photonics Spectra / The Register / NextPlatform / SuperbCrew / Ayar Labs 官網 / SEC NVDA 8-K）、**Ayar Labs 仍是私人公司、未上市、不可直接投資**
+    - **一句話定位**：「**矽光 optical I/O chiplet 純度首選 + NVDA NVLink Fusion partner**」——TeraPHY chiplet（8 Tbps + 10 ns latency + UCIe 標準 + SuperNova 16-wavelength laser）= 業界首發 UCIe optical chiplet
+    - 創立：**2015**（CEO Mark Wade + CTO Vladimir Stojanovic）、累計融資 **$870M**
+    - **2026-03-03 Series E $500M @ $3.75B 估值**（Neuberger Berman 領投、NVIDIA + AMD + ARK Invest 跟投）
+    - **2026-06-02 加入 NVIDIA NVLink Fusion ecosystem**（partnership、不是 acquisition）
+    - 戰略投資人陣容：**NVIDIA + AMD + Intel Capital + GlobalFoundries + HPE + Lockheed Martin + ARK Invest**
+    - **IPO 時程**：2026-03 公告「Charting Path to IPO」、業界估 **2027-2028**、若 IPO 預期估值 **$7-10B**
+    - 競爭定位：vs [[POET Technologies]]（規模小）/ Lightmatter（光學運算、私人）/ Celestial AI（**2025-08 被 [[Marvell]] 收 $3.25B**）/ AVGO 自研
+    - **間接 exposure**：[[NVDA]] / [[AMD]] / ARK Invest（ARKK / ARKQ）/ Forge Global / pre-IPO 二級市場平台
+  - **⚠️ 重要 lint 校準**：之前 entity 中的「NVDA $6.5B 收購 Ayar Labs（2026-05）」是**錯誤訊息**：
+    - [[Marvell]] entity：原寫「NVDA 收購 Ayar Labs（2026-05、$6.5B）」→ ❌ 錯誤、應改為「NVDA $500M 戰略投資 Ayar Labs（Series E 2026-03、$3.75B 估值）+ NVLink Fusion ecosystem 2026-06-02」
+    - [[POET Technologies]] entity 內 + index.md POET 條目：index.md 已修正、entity 文檔內陳述待 lint round 修正
+    - 後續 lint 行動：grep `Ayar Labs` 全 wiki 校準陳述
+  - 同步：
+    - index.md：**「標的：光通訊 / DCI / 光引擎（第五波）」** 段加入 [[Ayar Labs]] 條目（在 [[POET Technologies]] 之後）+ 修正 POET 條目錯誤陳述
+    - 本 log.md（追加本段）
+  - 必返回 5 點：
+    1. **Ticker**：⚠️ **無公開 ticker**（私人公司、未上市）+ Series E $3.75B 估值（2026-03）
+    2. **一句話定位**：矽光 optical I/O chiplet 純度首選、NVDA NVLink Fusion partner、CPO 第 2 層 reference entity
+    3. **五軸總分**：**N/A**（私人公司不適用五軸投資評分）
+    4. **CPO 戰場位置 + 對台廠意義**：第 2 層光 I/O chiplet + 跨第 5 層 + 跨第 1 層 ASIC 整合；間接 exposure via [[NVDA]] / [[AMD]]、無直接台廠合作
+    5. **五大催化 / 風險**：
+       - 催化：NVDA NVLink Fusion 兼容 + Series E $3.75B（NVDA + AMD + ARK 跟投）+ 11 年累積 + 8 Tbps TeraPHY chiplet UCIe 領先 + IPO 2027-2028 預期
+       - 風險：**不可直接投資**（散戶 only via 二級平台）+ IPO 時程不確定 + Celestial AI 被 Marvell 收後 Marvell 將自研競品 + AVGO 自研 CPO 光引擎
+
+## ⭐ CPO 4 家對比總報告（2026-06-08）
+
+### 四家對比表
+
+| 維度 | [[MPS]] (MPWR) | [[Amphenol]] (APH) | [[POET Technologies]] (POET) | [[Ayar Labs]] (private) |
+|---|---|---|---|---|
+| Ticker | MPWR (NASDAQ) | APH (NYSE) | POET (NASDAQ) + PTK (TSXV) | ⚠️ 私人未上市 |
+| CPO 層 | 第 7 層 電源 | 第 6 層 連接器 | 第 2 層 光引擎（整合 platform） | 第 2 層 光引擎（chiplet） |
+| 市值 | $81-83B | $157B | $0.93-2.27B（多源差異） | $3.75B（Series E 估值） |
+| Forward PE | 52-68（GF Value overvalued 54%） | 29.15-29.51（fairly valued） | N/A（虧損中） | N/A（私人） |
+| Q1 2026 營收 | $804.2M（+26.1%） | $7.62B（+58%） | $503K（+200% 規模極小） | N/A（私人） |
+| Re-rate | 2/4 | 3/4 | 0/4 | N/A |
+| 五軸總分 | **17/25** | **20/25** | **13/25** | N/A |
+| 客戶集中度 | NVDA 15-25% | 無單一 >10% | Lumilens 一家集中 | NVDA 生態分散 |
+| 性質 | AI server 電源垂直 + Rubin 反攻 | 多軌全面 + 估值乾淨 | option play / 衛星 1-3% | reference 不可投資 |
+
+### 哪家最有 alpha？
+
+排名（依「乾淨進場 AI infra + 結構性 alpha」）：
+
+1. **APH 20/25** — 「乾淨進場 AI infra exposure 最佳選擇」：客戶分散度最高 + 估值最乾淨 + CommScope CCS hedge 光化風險 + 三軌都受惠
+2. **MPS 17/25** — Rubin 反攻 + 光模組電源 CPO 切入雙催化、但進場時點敏感（$1,625 + 2026 Q3-Q4 空窗期）；Rubin Ultra 2027 H2 才是真 alpha（5.7kW GPU = power IC BOM 三倍放大）
+3. **POET 13/25** — 「催化劑驅動 option play」、衛星 1-3% 部位；hyperscaler design-in 實現 = +200% / thesis 失敗 = -70%；Lumilens 2026 H2 工程樣品交付是第一個里程碑
+4. **Ayar Labs N/A** — reference 不可投資、間接 exposure via NVDA / AMD / ARK Invest、IPO 2027-2028 預期估值 $7-10B
+
+### Marvell DSP 被整合消失的時程校準
+
+> Leo 原 thesis：「Marvell DSP 業務可能被 CPO 整合消失」
+
+校準（綜合 4 家 entity + 既有 [[Marvell]] entity 寫的時程）：
+
+```
+2026-2027：DSP 黃金期
+- PAM4 DSP 量產加速（Marvell Ara 3nm 1.6T 量產）
+- MPS「光模組電源」Q1 法說會切入 = 光模組產業仍是 PAM4 DSP 主場
+- APH GB200 NVL72 NVLink spine 銅纜 backplane 高速量產（224G）
+- POET / Ayar Labs CPO 仍在 sample / Lumilens 工程樣品 2026 H2
+
+2028：CPO 量產第一波
+- NVDA Spectrum-X Photonics 全面量產
+- Ayar Labs CPO chiplet 進 NVLink Fusion rack-scale（2026-06-02 兼容性確認）
+- POET Lumilens 量產對齊 hyperscaler 2027
+- APH 224G 銅纜 backplane 開始萎縮（scale-up 內部 30-40%）
+- MPS 光模組電源切入規模化
+
+2028-2030：DSP scale-up 端萎縮
+- 估 Marvell DSP scale-up 端**損失 20-30% TAM**
+- scale-out（800G/1.6T 仍需 PAM4 DSP）+ DCI（coherent DSP）不受影響
+- Marvell 護城河靠 custom XPU + Teralynx 補位
+
+2030+：CPO 全面化
+- APH 光纖 + 電源 connector 補位（mix shift 完成）
+- MPS 光模組電源 + Rubin Ultra 配套加碼
+- Marvell DSP 業務轉型為「custom XPU 設計 + Teralynx ASIC」雙引擎
+```
+
+**校準結論**：
+- Leo 原 thesis「Marvell DSP 被整合消失」**部分成立**：scale-up 端確實會萎縮（CPO 整合）、scale-out + DCI 端不會消失（800G/1.6T 模組 + 跨 DC 距離仍需 DSP）；估 **DSP 業務中期（2028-2030）損失 20-30% TAM**、非全部消失
+- **4 家 entity 對應**：[[MPS]] + [[Amphenol]] = 「CPO 過程都受惠的中性賣水人」（mix shift 但不會消失）；[[POET]] + [[Ayar Labs]] = 「CPO 整合方案提供者」（直接受惠光化但執行風險）；三者對 Marvell DSP 形成「**部分蠶食 + 部分中性 + 部分競合**」三角壓力
+
+累計：**49 concept + 66 entity + 41 summary**（MPS + Amphenol + POET Technologies + Ayar Labs = +4 entity）；CPO 戰場 8 層分工從 9 家完整玩家 → 13 家（補完第 6 + 第 7 層 + 第 2 層 option play + reference private）
+
+## 2026-06-08（第九波 — codex P1-3 校準補位「AI infra 散熱戰場」第六戰場）⭐
+
+- ingest: **1 新 concept [[AI infra 散熱戰場]] + 3 新 entity（[[Vertiv]] + [[台達電]] + [[雙鴻]]）**（codex P1-3 校準 + WebSearch 驅動 + 並行電力戰場 subagent 孿生戰場 ingest）
+  - 1 新 concept：
+    - **[[AI infra 散熱戰場]]**（asset-wiki **第六戰場**、跟 [[AI infra 電力戰場]] **孿生戰場**）
+      - **為什麼是第 6 戰場**：機櫃功率密度 5 年 30kW → 1MW（**33x**）= 散熱**從 IT 室空調升級為基礎建設層**、物理強制度 100%（vs MLCC 嵌入式時程未定）、跟電力戰場孿生（同 800V HVDC trigger + 整合方重疊）
+      - **三階段轉變**：氣冷（2010-2023、退場中、5-30kW/rack 上限）→ **液冷（2024-2030、現在、30-1,000kW/rack）**→ 浸沒式（2030+、觀察、single-phase vs two-phase 兩派）
+      - **四大組件分工**（跟 [[CPO 供應鏈圖譜]] 七層分工結構類比）：
+        - **Cold Plate**（直接觸晶銅板）：Vertiv（STL 併購）/ Boyd / CoolIT / **雙鴻** 15-20% / **奇鋐 50%+**
+        - **Manifold**（分流管）：**雙鴻 27% 全球市佔 UBS 估** / 奇鋐 4 大 CSP 主供 / Boyd
+        - **CDU**（Coolant Distribution Unit 心臟）：Vertiv（reference architecture）/ **台達電 2.4MW/3MW L2L + 4RU 140kW** / **雙鴻 1.6MW** / 高力 BPHE 心臟
+        - **QD**（Quick Disconnect 漏液關鍵）：Parker / Staubli / CPC 外商寡占（**台廠弱**）
+      - **NVDA Blackwell vs Rubin 代際差距**：
+        - Blackwell GB200 132kW + 1,000W TDP per GPU + **6 個獨立小 cold plate per Compute Tray**（GB300 改設計、漏液點多）+ 單機櫃 $50K
+        - Rubin NVL144 **1MW**（GB200 7.5x）+ 1,800W TDP per GPU + **回大 cold plate + 微通道 + universal QD 標準化 + 45°C 冷卻液**（從 32°C 升）+ 單機櫃 **$57K（+14%）**
+        - Rubin Ultra 2027+：2,300W TDP per GPU（傳聞 3,600W per package）+ **MLCP 規格成本 3-5x 現有方案**
+      - **台廠 niche 強勢**：cold plate（雙鴻 + 奇鋐 合計 70%+ NVDA GB200）+ manifold（雙鴻 27% 全球）+ CDU（台達 / 雙鴻）+ **真空硬銲熱交換器 BPHE**（高力 8996 台灣 9 成市佔、全球少數）
+      - **對接**：[[AI infra 電力戰場]] 孿生 + [[AI infra CapEx 三階段論]] 第三階段同步 + [[賣水人選股邏輯（投資版）]] 不押誰贏首選 + [[控制點轉移（投資版）]] NVDA 規格收斂中介 + [[信昌電]] 跨戰場 800V HVDC 上游 MLCC
+  - 3 新 entity：
+    - **[[Vertiv]]**（NYSE: VRT）—— **資料中心散熱 + 電源整合 turnkey 龍頭 + pure-play 80% AI 資料中心**
+      - 2026 Q1 營收 **$2.65B（+30% YoY、adj EPS +83% YoY）**、FY2026 指引 $13.5-14.0B（organic +27-29%）、**$15B+ backlog**（12-18 個月能見度）、Americas 70% / +44% YoY
+      - 2026-03 **ThermoKey**（heat rejection、外側散熱 chiller / dry cooler）+ 2026-04 **Strategic Thermal Labs**（伺服器側 cold plate 設計 + 高密度驗證、內側）= **「外側 + 內側 + 中間 CDU」全棧 turnkey 閉環**
+      - **NVDA 800V DC 共定義者 + reference architecture co-developer**（2026-03 GTC 共同發布、2026 H2 對齊 Rubin 量產）
+      - 五軸 **22/25**（路線 5 / 站別 5 / 耗材 3 / IP 4 / 客戶分散 5）= **散熱戰場最高分**、僅次於 [[Disco Corp]] 24 / [[村田 Murata]] 24
+      - **散熱戰場 anchor #1**（純度 + 規模 + NVDA 規格定義權三軸全勝）
+      - vs [[台達電]] power module 重疊 80%（PSU + UPS + 800V DC + CDU 完全同台、客戶結構 hyperscaler turnkey vs ODM 友好避免正面對打）
+    - **[[台達電]]**（2308.TW）—— **全球 AI server PSU 60% 市佔絕對龍頭 + 800V HVDC 共定義者 + 液冷雙軌**
+      - 2026 Q1 營收 NT$1,593.53 億（**+34% YoY**）、毛利率 **37.5%**、EPS **NT$7.91（+100% YoY、單季新高）**、外資調升 FY2028 EPS 至 98.5 元
+      - 液冷產品占比 **2024 < 1% → 2025 全年 8% → 2025 Q3 衝 11% → 2026 持續上升**
+      - **2.4MW / 3MW L2L CDU**（4°C approach、800VDC、N+1）+ **4RU In-Rack 140kW L2L CDU 專為 NVDA GB300 NVL72 設計**（MGX 架構對齊）
+      - **±400V 2026 出貨 + 800V 2027 主升段**、CapEx NT$140 億+ 擴產
+      - 業務組合：資料中心 ~40% + 電動車 ~15-20% + 工業 ~25% + 5G/家電 ~15%（多元組合稀釋 AI 純度但下檔保護強）
+      - DEI（Delta Thailand）持股 ~41-50%（⚠️ 推測未交叉驗證、待校準）
+      - 五軸 **20/25**（路線 5 / 站別 5 / 耗材 2 / IP 4 / 客戶分散 4）= 跟 [[Micron]] / [[LPKF]] / [[SiTime]] 同分
+      - **散熱戰場 anchor #3**（純度低於 Vertiv / 雙鴻、但 power + cooling 雙軌規模 + ODM 鏈條勝）
+    - **[[雙鴻]]**（3324.TW）—— **台廠液冷散熱純度首選 + cold plate + manifold + CDU 三鏈整合 + 1.6MW L2L CDU 超前部署 IP**
+      - 2025 EPS NT$28.26（創新高、+101% YoY）、2026 1 月營收 NT$30.41 億（**+121% YoY**）+ 3 月 NT$33.29 億（+91.7% YoY）、2026 全年營收目標**上修 +50% → +70% YoY**（~NT$400 億）+ 毛利率衝 **30%+**
+      - 液冷產品占比 2026 衝 **55%+**
+      - UBS 估 **rack manifold 27% 全球市佔（2025）**（維持 19-22% 至 2030）
+      - **Supermicro cold plate 主供 + 美系 top 5 cloud manifold 主供 + NVDA Rubin 客製化高利潤 sample 驗證中**（2026 Q2 法說自揭）
+      - cold plate 月產 ~30 萬顆 + **泰國新廠 2026 1 月開出**（營收 121% YoY 跳升）
+      - 五軸 **19/25**（路線 5 / 站別 4 / 耗材 3 / IP 4 / 客戶分散 3）= 跟 [[Ciena]] / [[Coherent]] / [[Lumentum]] / [[Nokia]] / [[IBIDEN]] / [[欣興]] / [[信昌電]] 同分
+      - **散熱戰場 anchor #2**（台廠液冷純度首選、CDU + cold plate + manifold 三鏈完整）
+      - vs 奇鋐：cold plate 市佔 15-20% vs 50%+（奇鋐勝 2.5-3x）/ rack manifold 27% vs 4 大 CSP 主供（雙鴻略勝）/ CDU 1.6MW IP（雙鴻完勝）
+  - 同步：
+    - index.md：頂部新增「**AI infra 散熱戰場（第九波 codex P1-3 校準後獨立化）⭐**」section + concept 一句話、entities 段新增「**標的：AI infra 散熱 anchor triplet（第九波）**」section + 3 entity 條目
+    - 本 log.md（追加本段）
+  - **必返回 6 問答**：
+    1. **Vertiv vs 台達電 power module 重疊度（同台競爭 OR 互補？）**：
+       - **80% 重疊 + 直接同台對打**（PSU + UPS + 800V DC + CDU 完全同型）
+       - **但客戶結構不同避免正面對打**：Vertiv 走 hyperscaler turnkey、台達走 ODM 友好供應商（鴻海 / 廣達 / 緯創）+ 部分 hyperscaler 直接
+       - **arbitrage**：Vertiv 80% AI 純度 + Forward PE 40x+ vs 台達 40% AI 純度 + Forward PE 25-30x（多元組合下檔保護）
+       - **服務 moat 不同**：Vertiv 17% services recurring + hyperscaler turnkey 認證 vs 台達弱（製造業 model + ODM 鏈條）
+       - **規模**：台達 $20B+ 多元 vs Vertiv $13.5B 純度
+       - → **結論：競爭 + 互補並存**，雙 anchor 配置最佳（Vertiv 純度型 / 台達 多元組合型）
+    2. **雙鴻 vs 奇鋐在 NVDA Cold Plate 市佔**：
+       - **GB200 cold plate 全球市佔**：奇鋐 **50%+**（4 大 CSP 主供）vs 雙鴻 **15-20%**（Supermicro 主供）= **奇鋐勝 2.5-3x**
+       - **rack manifold 全球市佔**：雙鴻 **27%**（UBS 估、2025）vs 奇鋐主供 4 大 CSP CDM = **雙鴻數字明確、奇鋐更集中於 CSP**
+       - **CDU**：雙鴻 **1.6MW L2L 超前部署 IP** vs 奇鋐弱 / 無 = **雙鴻完勝**
+       - **三鏈整合度**：雙鴻 cold plate + manifold + CDU **全鏈** vs 奇鋐純零件廠（cold plate + manifold）= **雙鴻完勝**
+       - **客戶結構**：奇鋐 4 大 CSP 集中 vs 雙鴻 Supermicro + top 5 cloud + Rubin sample = **雙鴻分散**
+       - **2026 毛利率**：雙鴻衝 30%+ vs 奇鋐 25-30%
+       - → **結論：「奇鋐 cold plate 市佔王 + 雙鴻 CDU IP + 三鏈整合」分歧路線**，類比 [[國巨]]（全品線併購王）vs [[信昌電]]（niche specialist）
+    3. **液冷代際變化 — Blackwell vs Rubin 在液冷規格差距**：
+       - **Blackwell GB200 NVL72**：132kW 機櫃 + 1,000W TDP per GPU（GB300 升 1,400W）+ cold plate **6 個獨立小 cold plate per Compute Tray**（GB300 改設計）= 漏液點多、universal QD 不齊
+       - **Rubin NVL144**：**1MW 機櫃**（GB200 7.5x）+ 1,800W TDP per GPU + **回大 cold plate 設計 + 微通道（雷射熔接奈米級流道）+ universal QD 標準化（不同 OEM 互通）+ 45°C 冷卻液**（從 32°C 升、減 chiller 負擔）
+       - **單機櫃散熱系統成本**：$50K（NVL72）→ **$57K（NVL144）+14%**
+       - **Rubin Ultra（2027+）**：2,300W TDP per GPU（傳聞 3,600W per 4 compute + 16 HBM4E chiplet package）+ **MLCP（Micro Liquid Cold Plate）成本 3-5x 現有方案**（NVDA 已向供應商請求開發）
+       - **結構變化**：Blackwell 多 cold plate（漏液風險高、universal QD 不齊） → Rubin **互通標準化 + 規模化壓單一玩家定價權**（universal QD = 不同 OEM 機櫃可共用 cold plate）= **NVDA 把控制點從晶片推到散熱系統規格**
+    4. **三家五軸評分（25 分制）**：
+       - **[[Vertiv]] 22/25**（路線 5 / 站別 5 / 耗材 3 / IP 4 / 客戶分散 5）= **散熱戰場最高分**、僅次於 [[Disco Corp]] 24 / [[村田 Murata]] 24
+       - **[[台達電]] 20/25**（路線 5 / 站別 5 / 耗材 2 / IP 4 / 客戶分散 4）= 多元組合分散下檔保護強、跟 [[Micron]] / [[LPKF]] / [[SiTime]] 同分
+       - **[[雙鴻]] 19/25**（路線 5 / 站別 4 / 耗材 3 / IP 4 / 客戶分散 3）= 純度型代表、跟 [[Ciena]] / [[Coherent]] / [[Lumentum]] / [[Nokia]] / [[IBIDEN]] / [[欣興]] / [[信昌電]] 同分
+    5. **散熱戰場 anchor 排名**：
+       - **anchor #1 = [[Vertiv]]**（22/25、整合 turnkey 龍頭 + pure-play 80% + NVDA 規格共定義者 + $15B backlog）
+       - **anchor #2 = [[雙鴻]]**（19/25、台廠液冷純度首選 + cold plate + manifold + CDU 三鏈完整 + 1.6MW CDU IP + Rubin sample 高利潤）
+       - **anchor #3 = [[台達電]]**（20/25、雙軌 power + cooling + AI server PSU 60% 市佔 + 多元下檔）
+       - 4-5 名待建：**奇鋐 3017**（cold plate 50%+ 市佔王但 CDU 弱）+ **高力 8996**（BPHE 9 成台灣市佔 + CDU 心臟 niche）
+       - **若只能買 3 家** = Vertiv + 雙鴻 + 台達（整合 / 純度 / 雙軌三軸）
+       - **若可以買 5 家** = +奇鋐 + 高力（補 cold plate 市佔王 + BPHE niche）
+    6. **跟 [[信昌電]] 800V HVDC niche 的連結**：
+       - **800V HVDC 是孿生戰場的共同 trigger**：信昌電（MLCC）+ 高力 8996（BPHE / 真空硬銲）+ 雙鴻（CDU）+ 台達（PSU + CDU）+ Vertiv（整合 turnkey）**都因 800V 同步放量**
+       - **信昌電位置**：跨**戰場上游 niche specialist**（中高壓 MLCC 1206-2220 + 千伏級 + Mega Cap + NP0）—— 800V HVDC 直接機制（PSU 110kW 化 → MLCC 用量 3-4K → 10K+ / Rubin 機櫃）
+       - **跟散熱戰場玩家 niche 哲學對比**：信昌電 niche 規格深度型（vs 通用 MLCC 跟隨者） = 跟雙鴻 niche 整合型（vs 奇鋐市佔規模型）**同型賣水人哲學**
+       - **跨戰場 pair**：「**信昌電 + 雙鴻 + 高力 8996 = 800V HVDC 三角賣水人 niche specialist**」 + 「**Vertiv + 台達 = 800V HVDC 整合 turnkey**」 = 完整 800V HVDC 受惠籃子
+  - 漏網提及（未建 entity、待下波補）：
+    - **奇鋐 3017**（cold plate 50%+ 市佔王 + 4 大 CSP CDM 主供、CDU 弱）
+    - **高力 8996**（BPHE 9 成台灣市佔 + CDU 心臟 niche specialist）
+    - **川湖 2059**（機櫃滑軌、漏網提及）
+    - **Boyd**（被 Eaton 2026-03 併購）+ **CoolIT Systems**（私有、CHx2000 2MW + OMNI 4,000W IP）
+    - **Schneider Electric**（直接對手、Vertiv 規模 3x）
+    - **Eaton-Boyd**（2026-03 整合後 power + cooling 雙軌直接對手）
+    - **Supermicro**（雙鴻 cold plate 主供客戶、待建 entity）
+    - **鴻海 / 廣達 / 緯創 / 緯穎**（AI server ODM 三雄、ODM 友好鏈條、待建 entity）
+  - 累計：**50 concept + 69 entity + 41 summary**（[[AI infra 散熱戰場]] concept +1、[[Vertiv]] / [[台達電]] / [[雙鴻]] entity +3）
