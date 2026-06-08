@@ -275,7 +275,8 @@
 - CrowdStrike (CRWD)、Palo Alto (PANW)、Cloudflare (NET)、Zscaler (ZS)、Wiz、Snyk、Semgrep、Okta、CyberArk
 
 ### 電力供應鏈 entity
-- Vistra、Constellation、GE Vernova（AI CapEx 受惠）
+- ✅ [[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] 三家已建（2026-06-08、第八波 [[AI infra 電力戰場]] anchor triplet）
+- Talen Energy（TLN）、Eaton（ETN）、ABB、Schneider Electric、Vertiv（VRT）、Navitas（NVTS）、Infineon（IFX）、Hitachi Energy、Siemens Energy（待 ingest 延伸）
 
 ### 影片 AI entity
 - Runway、Adobe、Scale AI、Muse Spark、VOID

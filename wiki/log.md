@@ -1137,3 +1137,134 @@
        - **退場時點**：Enterprise SSD ASP 連續兩季 QoQ 負成長 → 退回 PB 框架
        - **跟 HBM 差別**：HBM iPhone moment 是「全 segment re-rate」（傳統 DRAM 都被拉上）、3D NAND 是「分段 re-rate」（Enterprise SSD 拉、Consumer NAND 仍週期）
   - 累計：**48 concept + 59 entity + 41 summary**（[[AI infra 3D NAND 戰場]] concept +1、[[Kioxia]] / [[Solidigm]] / [[Western Digital]] entity +3）
+
+## 2026-06-08（ingest #43）— AI infra 電力戰場（第八波 / codex P1-3 校準補位）
+
+- **觸發**：Codex 對抗審核 **P1-3**「AI infra 戰場缺『電力 / 散熱』主戰場；賣水人頁已有電力鏈，[[MLCC 嵌入式基板賽道]]/[[信昌電]]頁也反覆提 1MW rack / 800V HVDC → 建議新增 Power + Thermal battlefield、不要只放在 MLCC 附屬敘事」校準。
+  - 過去這層**附屬**在 [[賣水人選股邏輯（投資版）]] 的「電力供應鏈」子段（Vistra/Constellation/GE Vernova 三家點名但無 entity）+ [[信昌電]] entity 內 NVDA Rubin 1MW 機櫃曝險段 + [[資本重分配（從人力到算力）]] concept 內「電力供應鏈」段
+  - 現獨立為**第八波（第六戰場）** = AI infra 戰場圖譜：①光通訊/DCI ②MLCC嵌入式 ③TGV玻璃基板 ④ABF載板 displacement ⑤InP上游 epi ⑥電力 ⑦3D NAND
+- **新建檔案**（3 entity + 1 concept）：
+  - `wiki/concepts/AI infra 電力戰場.md`（concept、繁中、source URL 完整、時效 metadata）
+  - `wiki/entities/Constellation Energy.md`（entity、NASDAQ: CEG、Mega Cap、五軸 22/25）
+  - `wiki/entities/Vistra.md`（entity、NYSE: VST、Mega Cap、五軸 23/25）
+  - `wiki/entities/GE Vernova.md`（entity、NYSE: GEV、Mega Cap、五軸 22/25）
+- **核心數字** anchor（codex P1-3 必須引用）：
+  - **NVDA Rubin 1MW 機櫃 vs GB200 132kW = 5-8x 電力需求**（Schneider Electric 2025-10 + Introl 2026 + 信昌電法說 2026-05-21 三來源交叉驗證、TechPowerUp 揭露 Rubin 600-1,000kW 範圍）
+  - **800V HVDC NVDA 31 家伙伴**（China Energy Storage 2025-11-25 揭露：ABB / Eaton / Schneider / Vertiv / Infineon / STM / Navitas 等）
+  - 過去 12 個月美國 IPP 累計 hyperscaler PPA：CEG 5,650+ MW + VST 3,000+ MW + Talen 1,920 MW ≈ **>10 GW** 已鎖
+  - 2026-2030 hyperscaler 新增電力需求估算 **+50-80 GW**（缺口比已鎖大 5-8x）= **真正的物理瓶頸**
+
+### 三家具體 hyperscaler 合約（codex 校準必返回）
+
+- **CEG**：
+  - **[[Microsoft]] 20 年 PPA 835 MW**（Three Mile Island Unit 1 復役 = 重命名 Crane Clean Energy Center / CCEC、**首次美國商業退役核電復役**、2028 H1 上線提前一年）
+  - **[[Meta]] 20 年 PPA 1,121 MW**（Clinton Power Station 現有核電廠延伸）
+  - 其他累計 **>5,650 MW** hyperscaler PPA + PJM submit 5,000MW 新容量
+  - **$16.4B 併購 Calpine（EV $26.6B、2026-01 完成）** + Trump 政府 **$1B 貸款支持 TMI 復役**
+- **VST**：
+  - **[[Meta]] 20 年 PPA ~2,600 MW**（跨 PJM 三廠核電、含 uprate、2026-01 簽）
+  - **[[AMZN]] AWS 多年 PPA**（規模未公開）
+  - 累計 **>3,000 MW** hyperscaler PPA
+  - **Cogentrix $4-4.7B 收購**（5,496 MW 跨 PJM/ISO-NE/ERCOT 三 ISO、2026 mid-late 完成）
+  - TXU Energy 德州零售 retail
+- **GEV**：
+  - **MSFT + AWS + Meta + Crusoe** variable agreements **至 2035**
+  - Q1 2026 Electrification 段拿 **$2.4B data center 訂單**（>整個 2025 全年）
+  - **Prolec GE $5.275B 全額收購**（2026-02 完成、北美變壓器 #1）+ Prolec backlog 收購宣布後 **+25% 至 $5B**
+  - **Gas Power backlog 100 GW**（FY 2026 末 ≥110GW、其中 **20 GW 直接綁 data center 客戶**、production slot 排到 2030）
+  - **EMS 軟體 Q1 + Q2 2026 首兩個 hyperscaler 訂單**
+
+### NVDA Rubin 1MW 機櫃對電力 TAM 量化（vs GB200）
+
+- GB200 132 kW → Rubin Ultra Kyber 600-1,000 kW = **純物理需求 5-8x**
+- 全美 hyperscaler 估算 **50,000-80,000 個 1MW rack**（2026-2030）
+- 對應變壓器需求 **60,000-120,000 MVA**（GEV Prolec 北美 #1 主受惠）
+- CEG MSFT TMI 835 MW = **~835 個 1MW rack 純物理上限對照**（含 PUE 1.2-1.4 折扣後 ~500-600 個 servable）
+- VST Meta 2,600 MW = **~2,600 個 1MW rack 純物理上限對照**
+- 800V HVDC vs 54V rack：電壓提高 14.8x → 銅用量減少 45% + 端對端效率提升 5%
+
+### 800V HVDC 趨勢具體標的（哪家最受惠？）
+
+| 排名 | 玩家 | 戰場位置 | 為什麼最受惠 |
+|---|---|---|---|
+| **#1 (整合王)** | **GEV**（已 ingest） | 全棧 power-to-rack 整合 OEM | 從燃氣輪機 → 變壓器 → 開關 → 機架配電唯一一家 |
+| #2 | Eaton（ETN，⚠️ 待 ingest） | 800V DC reference architecture | 2025-10 首發、NVDA 共同制定者 |
+| #3 (高 alpha) | Navitas（NVTS，⚠️ 待 ingest） | GaN power IC pure-play | 10kW 98.5% 效率、800V HVDC 純度首選 |
+| #4 | STM / TI / Infineon | 800V→12V/6V GaN power module | 半導體大廠多軌、NVDA 共同開發 |
+| #5 | Schneider Electric / Vertiv | UPS + 機房配電整合 | NVDA 31 家伙伴之一、整合平台 |
+| #6 | **[[信昌電]]**（已 ingest） | 機櫃內中高壓 MLCC（PSU + BBU） | NVDA Rubin 10K+ 顆 / 機櫃 |
+
+### 三家五軸評分（25 分制、codex 校準必返回）
+
+| 軸 | CEG | VST | GEV |
+|---|---|---|---|
+| 賽道純度 | 5 | 5 | 5 |
+| 客戶分散 | 4 | **5** | **5** |
+| IP / 護城河 | **5** | 4 | 4 |
+| 時點對位 | 5 | 5 | 5 |
+| 估值合理性 | 3 | **4** | 3 |
+| **總分** | **22/25** | **23/25** | **22/25** |
+| **戰場位置** | 第一層電力產生 #1 | 第一層電力產生 #2 | 第二層電力傳輸 #1 |
+| **獨特優勢** | TMI 政治焦點 + 規模 | 客戶分散 + 跨三 ISO + PE 最便宜 | 唯一 power-to-rack 全棧 OEM |
+
+→ **VST 五軸最高（客戶分散 + 估值最佳）、CEG/GEV 並列 22 分**
+
+### 跟 [[宋分 #20 — 能源結構性剛需]] thesis 校準（codex 校準必返回）
+
+**三標準全滿**：
+
+| 條件 | 滿足 ✅/❌ | 證據 |
+|---|---|---|
+| **1. 長期供給結構改變** | ✅ **完全滿足** | TMI 首次美國商業退役核電復役、Calpine $16.4B 整合、Prolec $5.275B 整合、gas turbine slot 排到 2030、NVDA 800V HVDC 把 architecture 從 54V 重定義 |
+| **2. 持續性 CapEx** | ✅ **完全滿足** | CEG 五年 >$30B + VST 五年 >$10B + GEV 五年 >$10B + 31 家 NVDA 800V HVDC 伙伴 R&D |
+| **3. 可持續現金流** | ✅ **完全滿足** | 20 年 PPA + 17 年 PPA + GEV agreements 至 2035 鎖死、20-100GW backlog 平均能見度 10 年 |
+
+→ **電力戰場是宋分 thesis 中最完整的結構性重估個案**（vs 油氣需戰爭 catalyst 不確定、太陽能仍補貼依賴）
+
+### 電力戰場 anchor 玩家排名（codex 校準必返回）
+
+- **#1 CEG**（電力產生 / 核電）= 規模 + TMI 政治焦點 + 政策紅利
+- **#2 GEV**（電力傳輸 / 變壓器 + gas turbine + power-to-rack）= **唯一全棧 OEM**
+- **#3 VST**（電力產生 / 核電 + 氣電 + retail）= 客戶分散 + 估值最佳 + 跨三 ISO
+- #4 Talen Energy（TLN、核電 pure-play、AWS PPA、⚠️ 待 ingest）
+- #5 Eaton（ETN、800V DC 首發、⚠️ 待 ingest）
+- #6 ABB / Schneider / Vertiv / Navitas / STM / TI / Infineon（800V HVDC 配套，⚠️ 待 ingest）
+- #7 [[信昌電]]（機櫃內 PSU MLCC、已 ingest）
+
+### 跟既有 wiki 連結
+
+- [[AI infra CapEx 三階段論]]：電力戰場是第三階段下半場 anchor、是「物理瓶頸」最強證據
+- [[賣水人選股邏輯（投資版）]]：電力戰場 = 「賣水人之中的賣水人」最高純度版本（不押 AI 誰贏、所有 hyperscaler 都需要 24/7 carbon-free baseload）
+- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：電力戰場 = 「被遺忘 AI 受惠者」放大版（vs 宋分原文點名 TXN/ADI 類比 IC）
+- [[宋分 #20 — 能源結構性剛需]]：三標準全滿、最完整結構性重估個案
+- [[效率→安全切換]]：電力戰場 = AI 公司「要 24/7 不斷算力」的安全代價、不再追求 cheapest spot price
+- [[信昌電]]：機櫃內 PSU MLCC（第三層）配套 CEG/VST 的電力供給（第一層）+ GEV 的變壓器（第二層）= **三戰場垂直 stack**
+- [[控制點轉移（投資版）]]：NVDA 800V HVDC 把控制點從晶片推到電網、CEG/VST/GEV 在第一第二層拿控制點
+- [[半導體基礎建設化]]：電力公司走同一路徑（從週期股 → 結構性成長股）
+- [[CapEx 見頂辯論]]：電力公司是「CapEx 不會見頂」的物理證據（gas turbine slot 排到 2030+）
+
+### 本次三家全使用標準格式
+
+- [[公司 Entity 模板（Step 1-3 三段式）]]：一句話定位 + 三層 thesis（產業 / 目的 / 供應）+ 財務狀態快照
+- foreign competitor 變體：Mega Cap + 美股 ticker 雙軌處理（NASDAQ: CEG / NYSE: VST / NYSE: GEV）
+- 時效 metadata（as_of / check_after / expires_on / evidence_url）
+- source URL 完整（每家 10-15 個來源）
+- ⭐ 電力戰場位置（三層分工標籤）
+- ⭐ NVDA Rubin 1MW 機櫃曝險量化（含警語）
+- ⭐ 跟 hyperscaler 直接合約清單
+
+### 更新檔案
+
+- `wiki/index.md`：
+  - 方法論段加「AI infra 電力戰場（第八波）」concept 段（在 3D NAND 段之後）
+  - entity 段加「標的：AI infra 電力戰場 anchor triplet（第八波）」段（在 MLCC 段之後）
+- `wiki/log.md`：本段
+
+### 下一步 ingest 延伸
+
+- Talen Energy（TLN）— 核電 pure-play、AWS $18B 17 年 1,920MW PPA、是「期權型 alpha」
+- Eaton（ETN）— 800V DC reference architecture 首發、NVDA 共同制定者
+- ABB / Schneider Electric / Vertiv / Navitas / Infineon / Hitachi Energy / Siemens Energy
+- 姊妹題 [[AI infra 散熱戰場]] concept 獨立化（codex P1-3 同時點名 Power + Thermal）
+
+累計：**49 concept + 62 entity + 41 summary**（[[AI infra 電力戰場]] concept +1、[[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] entity +3）
