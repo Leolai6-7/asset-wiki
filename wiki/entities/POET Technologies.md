@@ -3,9 +3,9 @@ title: POET Technologies
 aliases: [POET, PTK, POET Tech, NASDAQ:POET, TSXV:PTK]
 type: entity
 created: 2026-06-08
-updated: 2026-06-08
-as_of: 2026-06-08
-check_after: 2026-12-08
+updated: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-12-09
 sources:
   - WebSearch 2026-06-08（Q1 2026 6-K / Lumilens $50M / Foxconn / Mitsubishi / valuation）
 tags: [標的, 美股, 矽光, 光晶片初創, CPO, 光引擎, 高風險高潛在報酬, 仍 thesis 階段, 收入未達規模]
@@ -38,7 +38,7 @@ confidence: medium
 - 競爭格局：
   - vs **[[Lumentum]] / [[Coherent]]**：純度雷射 / EML / 光引擎，POET 是「整合 platform 上游」、不是直接競爭
   - vs **Celestial AI**：是 POET 老客戶（2022 簽 ELS 模組供應）、但 2025 被 [[Marvell]] 收購 = 客戶關係變更
-  - vs **Ayar Labs**：是直接競爭對手（光晶片 + 光互連）、2026-05 被 [[NVDA]] $6.5B 收購 = Ayar 已被「閉門」
+  - vs **Ayar Labs**：是直接競爭對手（光晶片 + 光互連）、2026-05 [[NVDA]] **Series E 戰略入股**（非收購、Ayar 仍獨立）= Ayar 未閉門、繼續為 POET 帶來競爭壓力
   - vs **POET 同類**：[[SIVE]]（CW DFB laser fab）、Marvell（[[Celestial AI]] 整合）、AVGO 自研、Lightmatter（光學運算）
 - 業界訊號：
   - **Lumilens 2026-05 $50M PO + $500M five-year framework**：唯一規模化 design-in 訊號
@@ -73,7 +73,7 @@ confidence: medium
 ### 供應層
 
 - 跟 [[NVDA]] 關係：
-  - **無直接關係**（NVDA 2026-05 $6.5B 收購 Ayar Labs 把矽光閉門 = POET 短期受打擊）
+  - **無直接關係**（NVDA 2026-05 **Series E 戰略入股** Ayar Labs、**非收購**——Ayar 仍獨立、SEC 8-K 確認）= POET 短期 thesis 受打擊（NVDA 站隊 Ayar）但矽光生態未閉門
 - 跟 [[Lumentum]] / [[Coherent]] 關係：
   - **不是直接競爭**（POET 在整合 platform 層、LITE/COHR 在雷射 + 模組層）
   - 但若 POET 成功則部分整合 platform 取代多家 discrete chip 採購 = 中期可能影響 LITE/COHR
@@ -154,7 +154,7 @@ confidence: medium
 - **Lumilens $50M PO 真實性 + warrant 稀釋結構**（22.9M 股 @ $8.25 九年期）
 - **市值區間 $0.93-2.27B 三組差異大** = 計算方式不一致需謹慎查證
 - **競爭壓力**：
-  - Ayar Labs 被 [[NVDA]] $6.5B 收（2026-05）= 矽光閉門 + POET 邊緣化
+  - Ayar Labs [[NVDA]] Series E 戰略入股（2026-05、非收購）= NVDA 站隊但 Ayar 仍獨立、POET 仍承壓
   - Celestial AI 被 [[Marvell]] 收（2025）= 客戶關係變更
   - Lightmatter（光學運算）獨立融資中
   - AVGO 自研 CPO 光引擎
@@ -184,8 +184,8 @@ POET 在 CPO 圖譜的位置：
 ## ⭐ 對台股 / 美股 AI 半導體基礎建設的意義
 
 對 [[NVDA]]：
-- NVDA 收 Ayar Labs $6.5B = 矽光閉門 = POET 短期 thesis 受打擊
-- 但若 POET 成為「**獨立矽光整合 platform 的最後一家 alternative**」= alpha 反向放大
+- NVDA Series E 戰略入股 Ayar Labs（**非收購**、SEC 8-K 確認）= POET 短期 thesis 受打擊（NVDA 站隊 Ayar）但矽光生態未閉門
+- 若 POET 成為「**少數獨立矽光整合 platform alternative**」之一 = alpha 反向放大
 
 對 [[Lumentum]] / [[Coherent]]：
 - 中期若 POET wafer-scale 整合成功 = 部分取代 discrete laser/modulator chip 採購
@@ -222,15 +222,15 @@ POET 在 CPO 圖譜的位置：
 | [[Lumentum]] | 19/25 | 純度首選（雷射 + 光引擎） | 公開上市、規模化 |
 | [[Coherent]] | 19/25 | 規模 + SiC 雙曲線 | 公開上市、規模化 |
 | [[Marvell]] | 18/25 | DSP + custom XPU + 收 Celestial AI | 公開上市、規模化 |
-| Ayar Labs | - | 光晶片初創 | **2026-05 被 NVDA $6.5B 收**（不再獨立） |
+| Ayar Labs | - | 光晶片初創 | **2026-05 NVDA Series E 戰略入股**（非收購、仍獨立）|
 | Celestial AI | - | 光互連 photonic fabric 初創 | **2025-08 被 [[Marvell]] 收**（不再獨立） |
 | **POET Technologies** | **13/25** | **wafer-scale 整合 platform 初創** | **獨立 + 高風險 / 高 alpha option** |
 | Lightmatter | - | 光學運算 | 未上市、獨立 |
 
-→ **POET = 矽光初創整合 platform 的「最後一家獨立 option play」**：
-- Ayar 被 NVDA 收 = 閉門
+→ **POET = 矽光初創整合 platform 的「少數獨立 option play」**：
+- Ayar Labs NVDA Series E 戰略入股（非收購）= NVDA 站隊但 Ayar 仍獨立
 - Celestial AI 被 Marvell 收 = 閉門
-- POET 是少數仍獨立且 CPO 路線圖完整的矽光整合廠
+- POET 仍獨立且 CPO 路線圖完整的矽光整合廠
 - 但執行 + 規模 + 客戶集中度都是大風險
 
 ## ⭐ POET 投資定性（重要）
@@ -266,7 +266,7 @@ POET = 「**催化劑驅動類 option play**」
 - [[資訊擴散四階段]]：散戶 option play、機構未進入
 - [[控制點轉移（投資版）]]：**目標**拿到 wafer-scale 矽光整合 platform 控制點、但**未拿到**
 - [[公司 Entity 模板（Step 1-3 三段式）]]：本 entity 強制格式
-- [[NVDA]]：NVDA 收 Ayar Labs $6.5B 對 POET 短期負面、中期可能反向 alpha
+- [[NVDA]]：NVDA Series E 戰略入股 Ayar Labs（非收購）對 POET 短期負面、中期可能反向 alpha（POET 仍是少數獨立 platform）
 - [[Marvell]]：Marvell 收 Celestial AI 加碼自研矽光、POET 邊緣化壓力
 - [[Lumentum]]、[[Coherent]]：上游雷射 + 整合 platform 中游關係、競合並存
 - [[Amphenol]]：Foxconn FIT 是 POET 製造夥伴、APH 直接對手 = 三角關係
@@ -282,6 +282,19 @@ POET = 「**催化劑驅動類 option play**」
 - [[控制點轉移（投資版）]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 - [[NVDA]]、[[Marvell]]、[[Lumentum]]、[[Coherent]]、[[AVGO]]、[[Amphenol]]、[[SiTime]]、[[MPS]]
+
+## ⚠️ 2026-06-09 校準
+
+**訛傳修正**：原文（建檔 2026-06-08）多處誤寫「Ayar Labs 2026-05 被 NVDA $6.5B 收購、矽光閉門」。**SEC 8-K 確認 NVDA 是 Ayar Labs 的 Series E 跟投人，不是收購方**——是策略性入股而非併購。
+
+影響：
+- Ayar Labs **仍為獨立公司**（非閉門），維持矽光初創競爭關係
+- POET 「Ayar 閉門 = POET 邊緣化壓力」**減半**：NVDA 站隊 Ayar 但 Ayar 仍在獨立融資 + 客戶開發路上
+- POET 「最後一家獨立矽光整合 platform」narrative **不成立**：Ayar 也仍獨立、POET 與 Ayar 仍正面競爭
+- POET 仍是「少數獨立 platform option play」之一、但「最後一家」描述過度
+
+連動修正項：
+- 產業層、供應層、風險清單、CPO 圖譜對照表、POET 投資定性等多處已 rebase
 
 ## Sources
 
