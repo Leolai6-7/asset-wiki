@@ -3,9 +3,9 @@ title: Marvell
 aliases: [MRVL, Marvell Technology, Marvell Tech, NASDAQ:MRVL, 美滿電子]
 type: entity
 created: 2026-06-08
-updated: 2026-06-08
-as_of: 2026-06-08
-check_after: 2026-12-08
+updated: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-12-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 美股, ASIC, 光通訊, DSP, CPO, 交換 ASIC, custom silicon, foreign_competitor, NVDA, AMZN]
@@ -73,7 +73,7 @@ confidence: high
 - 跟 [[NVDA]] 關係：
   - **NVLink vs UALink**：Marvell 2026-01 收購 XConn（CXL switch 龍頭）切入 UALink scale-up fabric = 開放標準對抗 NVLink 閉門
   - **Marvell 直接是 NVDA 模組鏈賣方**：Ara DSP 進 NVDA 配套光模組
-  - **NVDA 收購 Ayar Labs**（2026-05、$6.5B）= 把光互連封閉化、Celestial AI 同類技術變更值錢
+  - **NVDA 透過 Series E 戰略入股 Ayar Labs**（2026-05、跟投人非收購方、據 SEC 8-K）= 光互連 strategic alignment 而非閉門收購、Celestial AI 同類技術仍有獨立 alpha
 - 跟 [[CIEN]] / [[Nokia]] 關係：
   - 既是客戶（買 Orion DSP / Ara DSP 做 transceiver）
   - 也是對手（Ciena 自研 WaveLogic DSP、Nokia 自研 PSE-V DSP）
@@ -141,7 +141,7 @@ confidence: high
 - Google TPU 部分轉 Marvell = 結束 AVGO 對 Google 的獨佔（市場心理大撫慰）
 - AWS Trainium 3/4 順利 ramp（與 Marvell 設計）
 - Microsoft Maia 內部使用率提升 = Maia chips 收入加速
-- Celestial AI 整合補完 scale-up 光互連（vs NVDA 收 Ayar Labs $6.5B 對倒）
+- Celestial AI 整合補完 scale-up 光互連（vs NVDA Series E 戰略入股 Ayar Labs 對倒）
 - XConn UALink scale-up switch FY2028 開始貢獻營收
 - 半導體基礎建設化（[[半導體基礎建設化]]）= 從週期股轉結構性成長股
 
@@ -277,6 +277,20 @@ Marvell 在 CPO 圖譜的位置：
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 - [[AVGO]]、[[NVDA]]、[[Lumentum]]、[[Coherent]]、[[TSMC]]
 - [[Ciena]]、[[Nokia]]、[[SiTime]]
+
+## ⚠️ 2026-06-09 校準
+
+**訛傳修正**：原文（建檔 2026-06-08）誤寫「NVDA 收購 Ayar Labs（2026-05、$6.5B）」。**SEC 8-K 確認 NVDA 是 Ayar Labs 的 Series E 跟投人，不是收購方**——是策略性入股而非併購。
+
+影響：
+- Ayar Labs **仍為獨立公司**（未閉門）= [[POET Technologies]]、[[Celestial AI]] 邊緣化壓力**沒有想像中強**
+- NVDA Ayar Labs 戰略 alignment ≠ 把光互連技術全閉門 = 開放矽光初創仍有獨立空間
+- Marvell 收購 [[Celestial AI]] 的 strategic value **不下修**（自家 scale-up 互連配置不受影響）
+- 「NVDA 把光互連封閉化」這個論述應改為「NVDA 加強光互連戰略 alignment」
+
+連動修正項：
+- 2 (供應層 — NVDA 關係段) 已改寫為 Series E 戰略入股
+- 催化清單已改 Celestial AI 對照敘述
 
 ## Sources
 
