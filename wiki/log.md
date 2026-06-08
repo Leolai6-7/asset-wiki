@@ -1473,3 +1473,43 @@
     - **Supermicro**（雙鴻 cold plate 主供客戶、待建 entity）
     - **鴻海 / 廣達 / 緯創 / 緯穎**（AI server ODM 三雄、ODM 友好鏈條、待建 entity）
   - 累計：**50 concept + 69 entity + 41 summary**（[[AI infra 散熱戰場]] concept +1、[[Vertiv]] / [[台達電]] / [[雙鴻]] entity +3）
+
+## 2026-06-09（lint + ingest — Marvell/POET Ayar Labs 校準 + SanDisk SNDK 建檔）
+
+- **lint**：**Marvell + POET Technologies 校準 NVDA-Ayar Labs 為 Series E 戰略入股（非收購）**
+  - **訛傳源**：原文（2026-06-08 建檔）多處誤寫「NVDA $6.5B 收購 Ayar Labs」、「NVDA 收 Ayar Labs $6.5B」、「矽光閉門」、「Ayar 已被閉門」
+  - **正確事實**：SEC 8-K 確認 NVDA 是 Ayar Labs **Series E 跟投人**（非收購方）
+  - **影響**：Ayar Labs 仍為獨立公司、繼續為 [[POET Technologies]] 帶來競爭壓力、Celestial AI 同類技術仍有獨立 alpha
+  - **修正項**：
+    - [[Marvell]] 第 2 供應層段 + 催化清單修正 + 新加「⚠️ 2026-06-09 校準」段落
+    - [[POET Technologies]] 產業層 + 供應層 + 風險清單 + CPO 圖譜對照表 + POET 投資定性等多處 rebase + 新加「⚠️ 2026-06-09 校準」段落
+- **ingest**：**新建 [[SanDisk]]（NASDAQ: SNDK）entity** — [[AI infra 3D NAND 戰場]] 第 6 家分食補位、美國 NAND 唯一 pure-play
+  - **背景**：2025-02-24 從 [[Western Digital]] spin-off 完成、WDC 變純 HDD 公司、SanDisk 接 NAND 業務獨立上市
+  - **一句話**：全球 NAND #3-4（13% 市佔）+ 美 NAND 唯一 pure-play + HBF 規格定義權共持者
+  - **三層 thesis**：
+    - 產業層：NAND 6 家分食、AI infra 3D NAND 戰場「驗證 → 共識」過渡期、HBF 標準化 2026-02-25 公告
+    - 目的層：BiCS 製程與 [[Kioxia]] 共用 Yokkaichi/Kitakami JV fab、客戶分離 50/50、HBF 與 [[SK Hynix]] 共推
+    - 供應層：四層護城河（BiCS 共製程 + HBF 標準化主導 + 美國 pure-play 政治護城河 + brand legacy）
+  - **財務狀態（As of 2026-06-09）**：
+    - FY2026 Q3 整體營收 $5.95B（QoQ +97%）/ Datacenter +233% YoY ⭐ inflection 已現
+    - capex +40% YoY 同步 Kioxia（美日 NAND 同盟、Yokkaichi/Kitakami 擴產）
+    - Re-rate 三角形 3/4（OpEx 因 capex 重）
+  - **五軸 25 分制評分**：
+    - 路線敏感 4 / 站別關鍵 4 / 耗材 3 / IP 4 / 客戶分散 3 = **18/25**
+    - vs [[Kioxia]] 19/25（NAND pure-play 純度王）/ [[Solidigm]] 17/25（不可直接買）/ [[Western Digital]] 15/25（純 HDD）
+    - 跟 [[Marvell]] 18/25 / [[Nokia]] 18/25 同分
+    - **HBF 規格定義權是唯一加分項**（與 SK Hynix 共持、Samsung / Micron 觀望）
+  - **HBF（High Bandwidth Flash）規格定義權重要差異化**：
+    - NAND-based 替代 HBM 部分推理用途、容量 8-16× HBM、2027 H1 量產目標
+    - 拿到下一代記憶體規格定義權（HBM 是 SK + Samsung + Micron 三家、HBF 是 SanDisk + SK Hynix 兩家）
+    - 若 NVDA Rubin Ultra 或 Feynman 採用 → SanDisk 估值 mirror SK Hynix HBM 路徑（從 NAND 15-20x PE 拉到 HBM 廠 40-60x PE）
+  - **跨對照重點**：
+    - vs [[Kioxia]]：JV 共用 fab、客戶分離、BiCS 製程共享、HBF 通過 SK Hynix 三方合作
+    - vs [[Western Digital]]：前同公司、2025-02-24 spin-off 後完全分離、運營 / 財報 / 股東結構獨立
+    - vs [[SK Hynix]]：HBF 標準化主導夥伴 + NAND 直接競爭（SK + Solidigm 22% vs SanDisk 13%）
+    - vs [[Samsung Electronics]] / [[Micron]]：NAND 戰場直接競爭、SanDisk 純度勝
+  - **連動更新**：
+    - [[賣水人選股邏輯（投資版）]] master 表加 SanDisk 五軸 18/25 + 新加「AI infra 3D NAND 戰場（第四戰場）」段落
+    - [[AI infra 3D NAND 戰場]] Tier 2 補強 SanDisk 描述（HBF + capex +40% + JV 50/50）
+    - [[index.md]] entity 段加 SanDisk 條目（美 NAND pure-play + HBF）
+  - 累計：**50 concept + 70 entity + 41 summary**（[[SanDisk]] entity +1）
