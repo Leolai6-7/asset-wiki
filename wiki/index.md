@@ -50,6 +50,11 @@
 - [[Hyper Rail / Multi-Rail（光通訊整合技術）]] — CIEN/NOK 把 EDFA+WSS 整合成 1U 4-rail，128-160 fiber pairs/rack，2027 起放量，**scale across 指標性技術**
 - [[Jevons Paradox（投資版）]] — 效率提升反向放大需求；Hyper-Rail / DeepSeek / 雲端通用適用，連 [[預期差]] alpha 來源
 
+### 記憶體（HBM / DRAM 估值範式之爭）
+- [[PB 估值法（記憶體週期）]] — 景氣循環論：用淨資產錨點守住週期紀律（傳統 DRAM 適用）
+- [[HBM iPhone moment]] — 早期 re-rate 假說：HBM 從週期商品變 AI infra 元件
+- [[AI 記憶體結構性供給短缺]] ⭐ 2026-06-08 黃仁勳訪韓 + NVDA x SK Hynix 多年合約 anchor 確認；對抗 [[PB 估值法（記憶體週期）]]、雙引擎結構（HBM Forward PE + 傳統 DRAM PB）；NVDA 4 路線（Vera Rubin / Vera CPU / RTX Spark / Jetson Thor）記憶體 design-in、SK Group 預警 shortage 至 2030、記憶體 = Vera Rubin rack BOM 26%
+
 ### TGV / 玻璃基板賽道（第四波）
 - [[TGV 製程鏈圖譜]] — 八站分工 + 賣水人位階表（CPO 圖譜的姊妹篇）
 - [[TGV 路線分歧（雷射改質 vs 雷射打孔）]] — 鈦昇 vs 雷科 binary outcome
@@ -74,6 +79,7 @@
 ### 分析師
 - [[宋分（美股送分題）]] — Substack 美股分析師，估值教學 + 月度宏觀備忘錄
 - [[sennn.nnna]] — Threads/X 半導體製程級產業文寫手（TGV 年度工事）
+- [[Serenity]]（@aleabitoreddit）— X 上 AI 供應鏈 / 光電 chokepoint 分析師，「Bottleneck Theory（瓶頸論）」、中文圈現象級，前 Reddit r/WSB 老手 + AI 研究科學家，2026-06-08 玻璃基板時間線 anchor 引用來源
 
 ### 標的：M7 / AI 半導體
 - [[NVDA]] — AI GPU 龍頭，M7 最便宜
@@ -84,6 +90,11 @@
 - [[Microsoft]] — OpenAI 27% + Azure 雙重曝險
 - [[Google]] — 搜尋廣告 vs AI 廣告危機雙頭壓力
 - [[TSMC]] — 半導體基礎建設化的範例
+
+### 標的：記憶體 BIG 3 / HBM（第六波 — 黃仁勳 2026-06-08 定調結構性短缺、NVDA x SK Hynix 多年合約 anchor）
+- [[SK Hynix]]（KRX: 000660）— **HBM 全球 #1（50-62% 市佔）+ NVDA 多年合約 anchor**：2026-06-08 與 NVDA 簽 multi-year partnership 綁定 Vera Rubin（HBM4）+ Vera CPU（LPDDR5X）+ RTX Spark（LPDDR5X）+ Jetson Thor（LPDDR5X）全棧記憶體；Q1 2026 營收 KRW 52.6T / OP margin **72%** / YoY +198% / Forward PE 6.4x（vs Micron 9x = Korea Discount）/ Re-rate 4/4；五軸 **23/25**；MR-MUF 製程 + HBM4 領先 2-3 季 + Indiana 廠 2028 + Yongin Cluster KRW 120T；**對 [[PB 估值法（記憶體週期）]] thesis 的最強反證**；2026-06-08 韓股熔斷 -7.68% 提供加碼點
+- [[Samsung Electronics]]（KRX: 005930 / 三星電子主公司）— **HBM #2 + DRAM #1（重奪 38.5%）+ Foundry #2 + Galaxy 終端 + Display 三條腿巨獸**：Q1 2026 OP **KRW 57.2T（YoY +756%）**、HBM4 業界第一家量產（2026-02 Pyeongtaek）+ HBM4E 首發 sample（2026-06-01）、Google TPU 60%+ 主供、Tesla AI6 USD 16.5B Foundry 至 2033；市值 USD 1.39T 進全球 top 10 / Trailing PE 23.92 / 12M +456% / Re-rate 3.5/4；五軸 21/25（HBM4 NVDA 份額仍輸 SK 60-70% → 25-30%）⚠️ **不要與 [[Samsung Electro-Mechanics]] 子公司混淆**
+- [[Micron]]（NASDAQ: MU / 美光）— **HBM #3 + DRAM #3（22.4%）+ 美國 CHIPS Act 唯一 anchor**：HBM 全 2026 售罄、HBM4 NVDA Vera Rubin design-in、SOCAMM2 LPDDR5X 業界首發、HBM3E 12-Hi 比對手 -30% 功耗；Q2 FY2026 USD 8.71B（YoY +62%）、Q3 FY2026 guidance USD 33.5B + EPS 19.15 + 毛利率 81%；USD 200B / 20 年美國投資 + CHIPS Act USD 6.4B 補助；市值 USD ~1T / Forward PE **8.45**（SEMI 中位 36 折價 76%）/ 12M +912% / Re-rate 4/4；五軸 20/25（NVDA HBM4 僅 10-20%，結構性弱者）
 
 ### 標的：AI 模型公司
 - [[OpenAI]] — $852B 估值 + $14B 年虧 + IPO 被合約鎖死
@@ -130,10 +141,11 @@
 - [[Corning]]（NYSE: GLW）— 全球玻璃材料巨頭、**Glass core 25% 市佔**；Nvidia $3.2B 戰略投資 + Meta $6B 光纖長約 + TSMC 台灣廠 CoWoS 玻璃載板合作；市值 USD 166B、Forward PE 56（AI 期權已 price in）
 - [[AGC]]（5201.JP，旭硝子）— 玻璃 + EUV mask blank + CMP slurry 多軌；TGV 玻璃規格揭露最完整（EN-A1 / 20-150μm / 510×515mm panel）；Forward PE 14.45（三巨頭中最便宜）；半導體段 <3% 但成長最快
 - [[SCHOTT]]（德國非上市，Carl Zeiss Foundation 100% 持有）— **HermeS 預製 TGV 玻璃 wafer**（2014 商業化、與 LPKF LIDE 走不同路徑）；2024-08 成立半導體事業部；無法直接押注但**證明雷射 TGV 路線技術可行多年**
+- [[Sumitomo Chemical]]（4005.JP，住友化學）— 日本綜合化學集團 + **韓國 Dongwoo Fine-Chem 100% 子公司** + 半導體光阻劑 / 高純度製程化學品 / 玻璃 core 多軌；**2025-11 SEMCO + Sumitomo + Dongwoo Glass Core JV MOU**（小股東 + Dongwoo Pyeongtaek 廠地、正式合約 2026 H2 簽、2027 量產）；市值 JPY 747B（USD 5B）、ICT & Mobility Solutions 段 FY24 JPY 607B（+19.6B YoY、Core OP +20.5B）、ROIC 11% FY2027 目標；五軸 20/25；**角色：韓系 panel-level glass core 鏈的日資化學材料 anchor**
 
 ### 標的：TGV 韓國陣營（第四波 thesis 校準對照）
-- [[Absolics]]（SKC 子公司、母公司 KRX: 011790）— **全球第一條商業化量產玻璃中介層**（Georgia Covington、2026 年底）；SKC 70.1% + AMAT 29.9% 持股；AMD MI400 + AWS Trainium + AVGO 通訊 design-in；SKC 市值 KRW 5.31T（USD 3.9B）但 2025 淨損 KRW 734B
-- [[Samsung Electro-Mechanics]]（KRX: 009150 / 삼성전기）— Samsung 集團 panel-level 載板平台（FC-BGA + Glass core 雙軌）；**2026 ABF 售罄**（Alphabet/Tesla/Apple/AWS/AVGO 鎖死）；Sejong pilot + Sumitomo JV、2027 玻璃量產；Apple **Baltra** AI server chip sample 已交付；市值 KRW 126.4T（USD 92B）、Forward PE 78.7
+- [[Absolics]]（SKC 子公司、母公司 KRX: 011790）— **全球第一條商業化量產玻璃中介層**（Georgia Covington、**2026 H2** ramp，TrendForce 2026-06-08 校準）；SKC 70.1% + AMAT 29.9% 持股 + **[[Applied Materials 投資（待建）|AMAT]] 玻璃 handling 設備合作**；AMD MI400 + AWS Trainium + AVGO 通訊 design-in；SKC 市值 KRW 5.31T（USD 3.9B）但 2025 淨損 KRW 734B
+- [[Samsung Electro-Mechanics]]（KRX: 009150 / 삼성전기）— Samsung 集團 panel-level 載板平台（FC-BGA + Glass core 雙軌）；**2026 ABF 售罄**（Alphabet/Tesla/Apple/AWS/AVGO 鎖死）；Sejong pilot + [[Sumitomo Chemical]] JV、**2027 H2 量產**（TrendForce 2026-06-08 校準）；Apple **Baltra** AI server chip sample 已交付；市值 KRW 126.4T（USD 92B）、Forward PE 78.7
 
 ### 標的：ABF 載板廠（displacement 對沖視角，第四波）
 - [[IBIDEN]]（4062.JP，日股）— **ABF 載板全球 #1**、AI server build-up substrate 55% 市佔（2023 85% → 2026）、**NVDA Blackwell 載板 75% 市佔**（[[欣興]] 25%）、Intel EMIB 主供、Apple iPhone 18/M5 載板、5,000 億日圓擴產（2028 倍增至 2.5x）；市值 ¥4.78 兆（USD 330 億）/ Forward PE 60 / FY2026 OP +30%、FY2027 自家指引 OP +45% / Re-rate 3/4；**displacement 命運：受惠 + 玻璃化曝險中等**（NVDA Rubin/Rubin Ultra 仍走 ABF、但玻璃 design partner 全給 [[欣興]]/[[Samsung Electro-Mechanics]]）；五軸 19/25 = 與 [[欣興]] 並列最高

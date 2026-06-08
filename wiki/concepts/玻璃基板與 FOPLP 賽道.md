@@ -3,16 +3,40 @@ title: 玻璃基板與 FOPLP 賽道
 aliases: [玻璃基板, FOPLP, Glass Core, 扇出封裝, 玻璃中介層]
 type: concept
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-08
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
-tags: [玻璃基板, FOPLP, 半導體, 先進封裝, Intel EMIB, AMD, Broadcom]
-confidence: medium
+  - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
+tags: [玻璃基板, FOPLP, 半導體, 先進封裝, Intel EMIB, AMD, Broadcom, Apple, TSMC CoPoS, TrendForce, Serenity]
+confidence: high
 ---
 
 # 玻璃基板與 FOPLP 賽道
 
 承載 [[TGV 製程鏈圖譜]] 的上位賽道 thesis。**玻璃基板取代 ABF 載板** + **FOPLP 取代圓形封裝** = AI 算力放量的封裝必經之路。
+
+## ⭐ 2026-06-08 完整時間線（TrendForce + [[Serenity]] 整理）
+
+Leo 2026-06-08 引用 [[Serenity]] X 整理的 **TrendForce 玻璃基板時間線** anchor：
+
+| 時點 | 玩家 | 細節 |
+|---|---|---|
+| **2026 H2** | [[Absolics]]（SK 系） | **Applied Materials 支持**（29.9% 持股 + 玻璃 handling 設備合作）+ **[[AMD]] 客戶**（MI400 volume sample → 2026 末 ramp） |
+| **2027 H2** | [[Samsung Electro-Mechanics]] | **[[Sumitomo Chemical]] 合作**（Dongwoo Fine-Chem Pyeongtaek 廠地 + JV 小股東）+ 目標客戶 [[Apple]]（Baltra）/ [[AVGO|Broadcom]] / 大型雲端 |
+| **~2028（2-3 年）** | [[TSMC]] CoPoS | 魏哲家 2026-06 股東會校準「**CoPoS 仍需 2-3 年量才放大**」——CoWoS 玻璃中介層版、跟市場預期相當接近 |
+| **2030** | [[Intel]] | 亞利桑那 + 新墨西哥州產線**標準化與大批量產**（產業公認 anchor）、但時程仍**觀察中** |
+
+### 三段式量產 narrative
+
+- 🔴 **2026 H2 是第一波 anchor**：[[Absolics]] + [[AMD]] MI400 → 證明 panel-level glass interposer 商業化可行
+- 🟡 **2027 H2 是進入主流市場**：[[Samsung Electro-Mechanics]] + [[Apple]] / [[AVGO|Broadcom]] / 大型雲端 → 韓 + 日 + 韓三方整鏈（SEMCO panel fab + Sumitomo 化學材料 + Dongwoo 韓國本土廠地）成型
+- 🟢 **2028+ 是 TAM 全面放大**：[[TSMC]] CoPoS（2-3 年量才放大）+ [[Intel]] 2030 美國本土量產 → 玻璃基板從「替代 ABF」變成「先進封裝預設選項」
+
+### 校準訊號
+
+- 🆕 **「Applied Materials 支持 Absolics」是新公開層次**：除既有的 29.9% 持股 + USD 39M 入股，更明確點到**玻璃高速組裝 handling 設備合作開發**（specialized robotics + suction-based 運輸系統解玻璃易碎難題）
+- 🆕 **TSMC CoPoS「2-3 年量才放大」校準**：魏哲家 2026-06 股東會明確表態（業務情報媒體報導：「CoPoS 仍需 2-3 年量才會明顯擴大」）→ 跟 TrendForce + 市場預期相當接近
+- 🆕 **Intel 2030 + 亞利桑那 / 新墨西哥州雙廠標準化**：產業公認 anchor，但 Serenity / Leo 保留觀察空間（「距離真正量產還有一段距離」）
 
 ## 四個關鍵概念（sennn.nnna 框架）
 
@@ -105,5 +129,6 @@ sennn.nnna 引用「研調機構：玻璃基板與 FOPLP 之 **CAGR of TAM = 89%
 - [[HBM iPhone moment]]
 - [[半導體基礎建設化]]
 - [[Intel]]、[[AMD]]、[[AVGO]]、[[NVDA]]、[[TSMC]]
+- [[Absolics]]、[[Samsung Electro-Mechanics]]、[[Sumitomo Chemical]]（2026-06-08 時間線玩家）
 - [[鈦昇]]、[[雷科]]、[[弘塑]]、[[辛耘]]
-- [[sennn.nnna]]
+- [[sennn.nnna]]、[[Serenity]]（2026-06-08 時間線資料來源）

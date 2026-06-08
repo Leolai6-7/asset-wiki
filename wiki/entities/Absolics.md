@@ -3,12 +3,13 @@ title: Absolics
 aliases: [Absolics, Absolics Inc., SKC Absolics, Absolix, 011790.KS, KRX:011790, SKC]
 type: entity
 created: 2026-06-05
-updated: 2026-06-05
-as_of: 2026-06-05
-check_after: 2026-12-05
+updated: 2026-06-08
+as_of: 2026-06-08
+check_after: 2026-12-08
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
-tags: [標的, 韓國, 美國, 玻璃基板, 中介層, foreign_competitor, OSAT, TGV, SK 集團, 鈦昇對手, 雷射改質]
+  - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
+tags: [標的, 韓國, 美國, 玻璃基板, 中介層, foreign_competitor, OSAT, TGV, SK 集團, 鈦昇對手, 雷射改質, Applied Materials 合作]
 confidence: high
 ---
 
@@ -86,6 +87,7 @@ confidence: high
 
 ### ✅ 催化
 
+- 🆕 **2026-06-08 TrendForce 校準（via [[Serenity]] X）**：2026 下半年量產確認、**[[Applied Materials 投資（待建）|Applied Materials]] 支持** anchor 明確（不只 29.9% 持股 + USD 39M 入股，更包括**玻璃高速組裝 handling 設備合作開發** —— 用 specialized robotics + suction-based 運輸系統解玻璃易碎難題）、主攻 [[AMD]] 客戶（vs 之前已知 AMD MI400 sample）
 - 2026 年底**首條商業化量產玻璃中介層**正式 ramp（SK 集團主席 Chey Tae-won 親自督軍）
 - AMD MI400 volume sample 2026 Q1 起 → Q3 quality approval 預期 → 2026 末 ramp
 - [[AVGO]] 系 non-embedding 通訊半導體 design-in（2026 Q2 揭露）
@@ -157,6 +159,7 @@ confidence: high
 ## 相關連結
 
 - [[Samsung Electro-Mechanics]]（韓國同國競爭者、Samsung 集團 vs SK 集團對撞）
+- [[Sumitomo Chemical]]（SEMCO Glass Core JV 化學材料夥伴、韓系雙軌的日資介入點對照組）
 - [[LPKF]]、[[Disco Corp]]、[[Corning]]、[[AGC]]、[[SCHOTT]]（上游材料 + 設備供應商）
 - [[Amkor]]、[[日月光 ASE]]、[[Powertech 力成]]（OSAT 整合方平行對照）
 - [[Intel]]、[[AMD]]、[[AVGO]]、[[AMZN]]（直接 design-in 客戶）
@@ -168,7 +171,7 @@ confidence: high
 - [[先進封裝互聯路線圖]]
 - [[控制點轉移（投資版）]]
 - [[賣水人選股邏輯（投資版）]]
-- [[sennn.nnna]]
+- [[sennn.nnna]]、[[Serenity]]（2026-06-08 玻璃基板時間線 anchor 引用來源）
 
 ## Source URLs
 

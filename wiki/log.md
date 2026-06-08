@@ -706,3 +706,163 @@
     - [[MLCC 嵌入式基板賽道]] concept 的「待 ingest 延伸」段標 ✅ 已建
     - 本 log.md 追加本段
   - 累計：**46 concept + 50 entity + 41 summary**（Taiyo Yuden + TDK +2）
+
+## 2026-06-08
+
+- ingest: [[SK Hynix]] entity（**HBM 全球 #1 + NVDA 多年合約 anchor**）
+  - 來源：raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md（Leo 個人觀察筆記 + 13 個 web 來源驗證）
+  - 走完整 [[公司 Entity 模板（Step 1-3 三段式）]] + foreign_competitor 變體 + 時效 metadata（as_of/check_after/expires_on）
+  - 核心 thesis：
+    1. **HBM 全球市佔 50-62%**（Counterpoint Q3 2025 53% / Astute Q2 62% / TrendForce 2026 50%）vs Samsung 25-40% / Micron 5-20%
+    2. **2026-06-08 NVDA multi-year partnership** = 不只 HBM、是全棧記憶體（HBM4 + LPDDR5X + 3D NAND）綁定四產品線（Vera Rubin / Vera CPU / RTX Spark / Jetson Thor）
+    3. **NVDA HBM4 訂單分配**：SK Hynix ~70% / Samsung 25-30% / Micron 5-10%（UBS / TrendForce 2026 估計）
+    4. **HBM 消耗晶圓是 DDR5 的 3 倍**（每 GB）+ SK Hynix 30% DRAM 產能已轉 HBM、2027 將近 40%
+    5. **Q1 2026 營收 KRW 52.58T**（YoY **+198%**）+ OP **KRW 37.61T**（OP margin **72%**）+ 淨利率 77% = AI infra 等級獲利力
+    6. **Forward PE 5.9-6.4x** vs Micron 7.8-9x = **Korea Discount 25-30%**；目標價共識 KRW 2.07M（+8.7% upside）/ fair value upgrade KRW 2.26M → 3.33M（+19% → +74%）
+  - **NVDA 合約 4 產品線 specific terms**（已驗證）：
+    - Vera Rubin AI 超級電腦：R100 GPU 288GB HBM4 @ 22 TB/s（2.75x Blackwell）、2027 H1 launch
+    - Vera CPU：1.5TB LPDDR5X @ 1.2 TB/s、<30W、SOCAMM2 192GB 模組已量產
+    - RTX Spark AI PC：128GB LPDDR5X @ 300 GB/s
+    - Jetson Thor 機器人：128GB LPDDR5X @ 273 GB/s、256-bit bus
+  - **2026-06-08 韓股熔斷**：KOSPI -8.29% 至 7,484（史上第 9 次熔斷）、SK Hynix -7.68% 收 KRW 1,911,000、Samsung -10.18%；三角觸發（Broadcom AI guidance miss + Fed 升息恐慌 + 伊朗以色列衝突）；典型 [[資訊擴散四階段]] 階段 3-4 散戶恐慌訊號
+  - **對 [[PB 估值法（記憶體週期）]] thesis 的挑戰**：
+    - PB 派：景氣循環、用 PB 守底
+    - SK Hynix 案：Q1 OP 72% / NVDA 多年合約 / Hyperscaler 預付到 2028 / 客戶提議買 EUV + 出資建廠 = 結構性短缺
+    - **混合估值法**：一般 DRAM（~40% 營收）走 PB / HBM 部分（~60% 營收）走 Forward PE 15-25x infra 級
+    - 加權公平 PE 10-15x = 50-130% upside
+  - **Leo 判斷校準**：「現在結構性短缺而非景氣循環」**thesis 成立**——5 大支撐：
+    1. HBM/DDR5 wafer 3:1 物理性消耗倍數
+    2. NVDA 多年合約 + 全棧記憶體綁定（不是純買賣）
+    3. Macquarie 預測 2027 HBM 合約價 +50%、SK 集團主席「短缺到 2030」
+    4. 客戶提議出資建廠 + 買 EUV 機器 = 產業內部訊號
+    5. Samsung HBM4 落後 SK Hynix 2-3 季 + MR-MUF 製程 20% 良率優勢 = 結構性領先
+  - **五軸評分 23/25**：
+    - 賽道 5/5（HBM AI infra 最稀缺）
+    - 路線 5/5（MR-MUF + HBM4 多軌）
+    - IP / 站別 5/5（HBM3E/HBM4 全球首發、NVDA co-design）
+    - 客戶分散 3/5（NVDA 集中度但 Google/AMD/全 hyperscaler 補位）
+    - 時點 / 估值 5/5（Forward PE 6.4x 嚴重折價 + KOSPI 熔斷加碼點）
+  - 同步更新：
+    - [[HBM iPhone moment]] concept：末段加「2026-06-08 NVDA-SK Hynix 多年合約 anchor 確認」，連結 [[PB 估值法（記憶體週期）]] / [[SK Hynix]] / 半導體基礎建設化
+    - index.md 新建「標的：記憶體（第五波 — HBM iPhone moment anchor）」段，置於「中國 AI」之前
+    - 本 log.md 追加本段
+  - 累計：**46 concept + 51 entity + 41 summary**（SK Hynix +1）
+
+- ingest: concept [[AI 記憶體結構性供給短缺]]（**對抗 [[PB 估值法（記憶體週期）]] 的新估值範式 anchor concept**）— raw: `2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md`、Leo 命題「建一個對抗 PB 派的 concept」
+  - 任務性質：thesis 對抗型 concept，**核心命題：景氣循環論 vs 結構性短缺論**
+  - 預期差來源：市場仍用 [[PB 估值法（記憶體週期）]] 景氣循環框架（KOSPI 給 SK Hynix Forward PE 5.92x、看作循環股），但 NVDA 2026-06-08 multi-year contract + 物理產能限制證實 thesis 已 over-shoot
+  - 結構性短缺三大物理 driver（全部 WebSearch 驗證）：
+    1. **HBM 每 GB 消耗 DDR5 三倍 wafer**（Tom's Hardware / TechTimes 2026-06）+ 每 wafer 營收 3-5x → 廠商已切走 93% 合計產能至 HBM
+    2. **CoWoS 即使翻倍仍 sold out 至 2027**（TSMC 2024 35K → 2026 130K → 2027 170K wafer/月、仍 50+ weeks lead time），DRAM 廠擴產解不了封裝瓶頸
+    3. **NVDA 4 條路線圖綁定**：
+       - Vera Rubin AI 超級電腦 → HBM4 288 GB/22 TB/s（NVL72 rack 20.7 TB HBM4 + 54 TB LPDDR5X）
+       - Vera CPU → LPDDR5X 1.5 TB / 1.2 TB/s（1024-bit / 8 SOCAMM）
+       - RTX Spark AI PC → LPDDR5X 128 GB / 301 GB/s（GB10 Superchip）
+       - Jetson Thor → LPDDR5X 128 GB / 273 GB/s
+  - 震撼數字：Vera Rubin rack 記憶體 = $2M / $7.8M = **26% BOM**，前代 $373K → 暴增 **435-485%**（Tom's Hardware / wccftech）
+  - 黃仁勳定調事件（2026-06-08）：
+    - SK Hynix x NVDA multi-year technology partnership（[SK hynix Newsroom](https://news.skhynix.com/multi-year-tech-partnership-with-nvidia/) 一手）
+    - 「AI 相關股票其實很便宜」+ 警告 shortage「持續多年」+「從 wafer 到 cable connector 全部短缺」
+    - 同日 KOSPI 8.29% 熔斷（Samsung -10.18% / SK Hynix -7.68%）= [[資訊擴散四階段]] 末段警訊 + 1.02 億散戶帳戶單日熔斷
+    - 三因子驅動熔斷：Broadcom 指引失望 + Fed 升息預期 + 以伊衝突
+  - **核心 framework 創新：雙引擎估值（thesis switching trigger）**
+    - HBM segment = Forward PE / DCF（infra 框架）
+    - 傳統 DRAM / NAND = PB 估值法（[[PB 估值法（記憶體週期）]] 仍適用）
+    - 切換 trigger：HBM 占比 > 40% + ASP YoY > 30% → 切到結構性短缺框架
+    - 退場 trigger：HBM ASP 連續兩季 QoQ 負成長 → 退回 PB 框架
+    - 校準 [[宋分備忘錄 #1 — CSP-AI 通縮]]「2028 預付訂單」: 現實已 over-shoot 到 2030 multi-year design-in（OpenAI Stargate 900K wafer/月 LOI + Micron 5 年合約 + SK Group Chey 2030 預警）
+  - 風險完整評估（thesis 失效情境）：
+    1. 模型效率躍進（DeepSeek 2.0、MLA + MoE）→ 但 [[Jevons Paradox（投資版）]] 反向
+    2. AI 需求結構性放緩（CSP CapEx 物理上限、Micron Idaho fab 2027/2028 first-mover oversupply 是 bear case 時間錨）
+    3. 替代記憶體技術（STT-MRAM、HBF、HBM4E + glass interposer 2028 路線）
+    4. 反壟斷干預（2002 DRAM USD 6 億罰款歷史先例、NVDA-SK Hynix multi-year 審查風險）
+    5. 韓國勞工 / 地緣風險（2026-05 Samsung 4.5 萬人罷工威脅）
+    6. 散戶過度進場（已是訊號、韓股熔斷 1.02 億帳戶）
+  - WebSearch 9 次驗證（HBM 3x wafer ratio / NVDA 多年合約 / Vera Rubin specs / Vera CPU / RTX Spark / Jetson Thor / CoWoS bottleneck / DRAM shortage 2030 / SK Hynix valuation / Vera Rubin rack BOM / bear case + DeepSeek tension）
+  - 同步更新：
+    - [[PB 估值法（記憶體週期）]] update：加入「⚠️ 2026-06-08 校準」段（雙引擎結構 + thesis switching trigger + LTA 部分修正 + 預付訂單意義重新解讀）；frontmatter updated 2026-06-04 → 2026-06-08、加入 raw source；標題改 → 「跟 [[HBM iPhone moment]] / [[AI 記憶體結構性供給短缺]] 的張力」；相關連結補 [[AI 記憶體結構性供給短缺]]
+    - index.md：新建「**記憶體（HBM / DRAM 估值範式之爭）**」段（置於「Jevons Paradox」之後 / 「TGV / 玻璃基板賽道」之前），三條目（PB 估值法 / HBM iPhone moment / AI 記憶體結構性供給短缺 ⭐）成為 thesis triad
+    - 本 log.md 追加本段
+  - 累計：**47 concept + 51 entity + 41 summary**（AI 記憶體結構性供給短缺 +1）
+
+- ingest: HBM **BIG 3 #2 + #3 entity 建檔（Samsung Electronics + Micron）** ⭐
+  - 來源：raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md（與 SK Hynix entity 同源、互補完成 BIG 3 三家）
+  - method：subagent 並行（與 SK Hynix subagent 同步、分頭做 BIG 3 #1/#2/#3）；8-12 WebSearch query/家 × 2 家 = ~24 query 全程 1 round
+  - 同步更新：
+    - [[Samsung Electronics]]（主公司 005930.KS）entity 建檔（明確區隔 [[Samsung Electro-Mechanics]] 子公司 009150.KS）
+    - [[Micron]]（MU.NASDAQ）entity 建檔
+    - index.md 把已建的 SK Hynix（line 112）section 合併進「記憶體 BIG 3 / HBM」段，三家齊整於 [[NVDA]]/AI 半導體之後、[[OpenAI]] 模型公司之前
+  - **必返回 6 個問題的答案**：
+    1. **HBM BIG 3 市佔 2026 最新對照**：
+       - **SK Hynix**：50-62% HBM 市佔（最寬區間）、NVDA HBM4 份額 **60-70%**、Q2 2025 巔峰 62% / DRAM Q1 2026 ~27%
+       - **Samsung**：25-40%（區間擴大、HBM4 開始反超 Micron）、NVDA HBM4 份額 **25-30%**、Google TPU 60%+ 主供、DRAM Q1 2026 **#1 重奪 38.5%**
+       - **Micron**：5-24%（變化最大、Q3 2025 短暫越車 Samsung 至 18-21%）、NVDA HBM4 份額 **10-20%**、DRAM Q1 2026 #3 22.4%
+       - **差距**：SK 是 Samsung 的 1.5-2 倍、Micron 是 Samsung 的 ~50-60%；NVDA HBM4 份額三家差距更明顯（60-70% vs 25-30% vs 10-20%）
+    2. **Samsung HBM 追趕進度**：
+       - **HBM3E**：Samsung 2025-09 終於通過 NVDA 12-Hi 認證（18 個月開發後）、過去 5 次失敗
+       - **HBM4**：Samsung **業界第一家量產**（2026-02-12 Pyeongtaek P4/P5 月產 170k → 250k Q4）、HBM4 業界第一家量產給 NVDA 而非 SK Hynix
+       - **HBM4E**：Samsung **業界第一家 sample**（2026-06-01）、Rubin Ultra 2027 design-in 領先
+       - **校準**：Samsung HBM3E 落後但 HBM4 已**並駕齊驅** + HBM4E 領先；但 NVDA HBM4 25-30% 份額仍輸 SK 1.5-2 倍（NVDA 結構性綁 SK）
+    3. **Micron 美國 anchor 對 NVDA 訂單影響**：
+       - **CHIPS Act USD 6.4B 直補 + Big Beautiful Bill ITC**：USD 200B 20 年美國投資（USD 150B 製造 + USD 50B R&D + 9 萬工作）
+       - **Idaho Fab #1**（2027 開出 DRAM 量產）+ **Fab #2**（2026 開工、2028 量產 + HBM 封裝）+ **New York 4 廠** + **Virginia HBM 封裝**
+       - 對 NVDA 訂單影響：**地緣政治護城河 + 美系陣營偏好** → Micron 拿到 SOCAMM2 LPDDR5X 業界首發 design-in + HBM4 認證；但 NVDA HBM 主合約份額仍是 SK 60-70% 結構性綁定（非美國 anchor 能逆轉）
+       - **校準**：Micron 美國 anchor 是「**估值便宜的政治護城河**」（Forward PE 8.45）而非「能搶 SK 主合約的籌碼」
+    4. **Samsung 三條腿哪條最受惠 AI**：
+       - **記憶體（HBM/DRAM）**：⭐⭐⭐⭐⭐ Q1 2026 DS OP KRW 53.7T（YoY **+48 倍**）、HBM 全 sold-out、Memory 段 OP > FY2025 全年
+       - **Foundry**：⭐⭐⭐ Tesla AI6 USD 16.5B 至 2033 + Qualcomm S8E5 + Galaxy S26 Exynos 2600 captive，但**仍輸 TSMC 60+ 個百分點** + 2nm 良率 40-60% vs TSMC 60%+
+       - **終端（DX）**：⭐⭐ Q1 2026 OP **YoY -35%**、Apple 高端流失、Galaxy 中國品牌夾擊
+       - **Display（SDC）**：⭐⭐⭐ Apple iPhone OLED 主供 = 受惠 Apple 18/iPhone 18 顯示器訂單
+       - **結論**：記憶體段 = 100% 受惠（Q1 2026 OP 占公司 93%+ OP）、Foundry = 期權（2028 Taylor 量產才實現）、終端 = 壓力源、Display = 順風車
+    5. **五軸評分**：
+       - **Samsung Electronics 21/25**——僅次 Murata 24（賽道最高）、SK Hynix（預估 22+）、與 Disco Corp 21 / Samsung Electro-Mechanics 19 並列
+       - **Micron 20/25**——與 LPKF 並列、僅次於 Disco 21 / SK Hynix 22+ / Samsung 21
+       - **三家差距**：SK Hynix 22+ > Samsung 21 > Micron 20——五軸分數差距僅 1-2 分（不像 HBM 市佔差距大），反映 BIG 3 都是相對 quality compounder
+    6. **Leo 判斷校準「美光 / 三星都是 HBM 受惠者」**：
+       - **成立但要打折**——三家不是齊頭並進、是「SK Hynix 領跑 + Samsung 追擊 + Micron 第三集團」三層結構
+       - **HBM 純度排名**（推測 Leo 投資考慮）：SK Hynix（NVDA 多年合約綁定 + 50-62% 市佔）> Micron（HBM 全售罄 + Forward PE 8.45 最便宜）> Samsung（三條腿稀釋）
+       - **三條腿排名**（如果你看 Samsung 的整鏈閉環）：Samsung > SK Hynix > Micron
+       - **估值便宜排名**：Micron PE 8.45 > SK Hynix PE 6.4 (Korea Discount) > Samsung PE 23.92（最貴）
+       - **NVDA 集中度排名**：SK Hynix（NVDA 主供）> Micron > Samsung（Google TPU 主供）
+       - **校準結論**：「**美光 + 三星都受惠 HBM**」成立，但**投資策略要區分**：
+         - 想要 HBM 純度 + NVDA 直接綁 → SK Hynix
+         - 想要 HBM 純度 + 估值便宜 + 美國 anchor → Micron
+         - 想要整鏈閉環 + 三條腿 + Foundry option → Samsung
+         - 想要 HBM 玻璃載板 / MLCC / 相機模組 → Samsung Electro-Mechanics 子公司（**不要混淆**）
+  - 累計：**47 concept + 53 entity + 41 summary**（Samsung Electronics + Micron +2）
+
+## 2026-06-08 — ingest: 玻璃基板時間線 anchor + 2 新 entity + 4 update
+
+- ingest: **2 新 entity + 4-5 既有 entity / concept update**（Leo 2026-06-08 raw + WebSearch 驅動）
+  - 1 raw（`raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md`）+ 10 WebSearch + 3 WebFetch
+  - 觸發：Leo 整理 TrendForce + [[Serenity]] X 玻璃基板時間線（SKC Absolics 2026 H2 / SEMCO 2027 H2 / Intel 2030 / TSMC CoPoS 2-3 年）
+  - 2 新 entity：
+    - **[[Sumitomo Chemical]]**（4005.JP，住友化學）
+      - 日本綜合化學集團 + 韓國 Dongwoo Fine-Chem 100% 子公司、SEMCO Glass Core JV 小股東 + Dongwoo Pyeongtaek 廠地
+      - 市值 JPY 747B（USD 5B）、ICT & Mobility Solutions 段 FY24 JPY 607B（+19.6B YoY）/ Core OP +20.5B / ROIC 11% FY2027 目標
+      - 半導體業務：光阻劑（ArF immersion + i-line thick film）+ 高純度製程化學品（Dongwoo 韓國 + 美國新廠）+ 化合物半導體 + 顯示器材料
+      - 玻璃 core JV 角色：**化學材料側貢獻 + 韓國本土製造在地化**（推測）—— **具體技術角色未公開、2026 H2 正式合約才會揭露**（標 medium confidence）
+      - 五軸 **20/25**（路線 3 / 站別 3 / 耗材 5 / IP 4 / 客戶分散 5）= 中性耗材賣水人 + JV 股權順手押注
+      - Re-rate 三角形 0-1/4：綜合化學集團、不是純 thesis 半導體 / 玻璃 pure play
+    - **[[Serenity]]**（@aleabitoreddit，X KOL）
+      - 前 Reddit r/WSB 老手 + AI 研究科學家 + RISC-V Foundation 成員、2025 中期轉場 X
+      - 2026-04：210k 粉絲 / YTD +1,525% / 16+ 部位翻倍；2026-05-06：付費訂閱 4.6 萬人（差 1,000 人超越 Elon Musk）、被中文圈譽為「AI 供應鏈教父」
+      - 「Bottleneck Theory（瓶頸論）」：不買 NVDA、買 NVDA / 雲端業者**不能沒有的、無法被取代的物理供應鏈節點**
+      - 13 層 AI 物理供應鏈框架、重押光電（AXTI 5x / AAOI 5x / [[Lumentum|LITE]] / SIVE / TSEM / AEHR）
+      - 補的位階：**第一位英文圈 + 中文圈現象級雙語擴散的 chokepoint 分析師**（vs [[sennn.nnna]] 繁中製程級深度 / [[宋分（美股送分題）]] 估值教學 / wallstengine 法說會轉述 / aoyamaa 公司七件事）
+  - 4 既有 entity / concept update：
+    - **[[Absolics]]** 催化段加「🆕 2026-06-08 TrendForce 校準」anchor + AMAT 玻璃 handling 設備合作開發補強（specialized robotics + suction-based 運輸系統解玻璃易碎難題）+ wikilink [[Sumitomo Chemical]] / [[Serenity]]
+    - **[[Samsung Electro-Mechanics]]** 催化段加「🆕 2026-06-08 TrendForce 校準」anchor（2027 H2 量產 + Sumitomo 合作 + Apple/AVGO/雲端目標客戶確認）+ 韓+日整鏈閉環四方描述
+    - **[[玻璃基板與 FOPLP 賽道]]** concept 開頭新加「⭐ 2026-06-08 完整時間線（TrendForce + Serenity 整理）」段：四節點時間線表 + 三段式 narrative（2026 H2 第一波 anchor / 2027 H2 主流 / 2028+ TAM 放大）+ 校準訊號（AMAT 設備合作 + 魏哲家 CoPoS 2-3 年 + Intel 2030 雙廠標準化）
+    - **[[Intel]]** entity 新加「玻璃基板路線」段（IP licensing 2025-08 + Clearwater Forest 2026 H2 + EMIB 給 Amkor）+ 「🆕 2026-06-08 校準」催化段（2030 量產 + 亞利桑那 / 新墨西哥州雙廠標準化）+ 風險段（量產時程落後 Absolics / SEMCO / TSMC）
+    - **[[TSMC]]** entity 新加「CoPoS 玻璃中介層」段（魏哲家 2026-06 股東會 + pilot line + Corning 玻璃 sheet 合作）+ 「🆕 2026-06-08 校準」催化段（CoPoS 2-3 年量才放大）
+  - 同步更新：
+    - index.md：「分析師」段加 [[Serenity]]、「TGV 玻璃材料」段加 [[Sumitomo Chemical]]、Absolics + SEMCO 條目加 2026-06-08 校準標籤
+    - 本 log.md（追加本段）
+  - **必返回 5 問答**：
+    1. **Sumitomo Chemical 在 SEMCO 玻璃 core JV 的具體角色**：**未公開**（公告僅提「technology accumulated by Sumitomo Chemical」+ Dongwoo Pyeongtaek 廠地 + 小股東）—— 推測**化學材料側貢獻（光阻 / 樹脂 / 高純度製程化學品）+ 韓國本土製造在地化**，但不會自己賣玻璃 sheet（vs AGC / Corning）；2026 H2 正式合約才揭露 → 標**「未驗證、推測角色」medium confidence**
+    2. **Serenity X profile 找到了沒**：✅ 完整——@aleabitoreddit、前 r/WSB + AI 研究員、2025 中轉場 X、Bottleneck Theory、210k → 500k 粉絲、付費訂閱 4.6 萬人、重押光電（AXTI/AAOI/LITE）= 中文圈現象級雙語擴散
+    3. **TrendForce 時間線 vs 之前 Absolics subagent 報告對照**：**一致 + 補強**——Absolics 2026 H2 量產（wiki 既有 entity 一致）+ AMD MI400（一致）+ AWS Trainium（既有）+ AVGO non-embedding（既有）；新訊號**「Applied Materials 支持」不只 29.9% 持股、還包括玻璃高速組裝 handling 設備合作開發**（從 Digitimes / SKC 1.2 trillion won 增資相關報導補強）
+    4. **「Applied Materials 支持 Absolics」具體細節**：（a）2023-01 AMAT 出資 USD 39M / 51 億韓元、取得 29.9% 持股（既有）；（b）**2025-2026 玻璃 handling 設備合作開發**（新）—— specialized robotics + suction-based 運輸系統解玻璃易碎難題（high-speed assembly bottleneck）、是設備 + 投資雙重承諾、不只財務 stake；（c）AMAT 同時是 SEMCO / Intel 等對手鏈的設備商 → 中性賣水人結構維持
+    5. **魏哲家「CoPoS 2-3 年」校準是否真有此發言**：✅ **真有**——2026-06 TSMC 股東會明確表態「先進封裝永遠是世界第一、CoPoS 試產線已建置、CoPoS 仍需 2-3 年量才會明顯擴大」（聯合新聞網 / 經濟日報 / 業務情報媒體多家報導）；跟 TrendForce 市場預期相當接近（2028-2029 量產）= Leo 引用準確
+  - 累計：**47 concept + 55 entity + 41 summary**（Sumitomo Chemical + Serenity +2）

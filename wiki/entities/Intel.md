@@ -3,10 +3,11 @@ title: Intel
 aliases: [Intel, INTC, Intel Foundry, 18A, IDM 2.0, TeraFab]
 type: entity
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-08
 sources:
   - raw/2026-04-11_intel-terafab-musk-chip.md
-tags: [標的, 美股, 半導體, Foundry, IDM, 美國產能政治]
+  - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
+tags: [標的, 美股, 半導體, Foundry, IDM, 美國產能政治, 玻璃基板]
 confidence: high
 ---
 
@@ -53,6 +54,25 @@ confidence: high
 - 但**單一觸發點**（18A 良率）= 高風險高 reward
 - 對沖：拿 ASML / AMAT 同步追蹤（設備鏈是 fab 擴產的賣水人）
 
+## 玻璃基板（Glass Substrate）路線
+
+- Intel 是**最早高調喊出玻璃基板的元老**——2023 公開 roadmap、自家 Arizona pathfinding line
+- 2025-08 開啟玻璃基板 IP licensing → [[Absolics]] / [[Samsung Electro-Mechanics]] 等韓系 merchant 取得授權、受惠
+- Clearwater Forest（Xeon 6+）採玻璃 core 基板 + EMIB、2026 H2 量產（[[手機與邊緣晶片端 TGV-FOPLP watchlist]] 首根 anchor）
+- Intel EMIB packaging 端**外包獨家給 [[Amkor]]**（Korea Songdo K5 → Portugal → Arizona 三地）
+
+### ✅ 玻璃基板催化
+
+- 🆕 **2026-06-08 TrendForce 校準（via [[Serenity]] X）**：玻璃基板 **2030 量產** + **亞利桑那 + 新墨西哥州**產線全面標準化與大批量產（產業公認 anchor）—— 但 Leo / Serenity 保留觀察空間：「**距離真正量產還有一段距離**」、時程仍觀察
+- 2025-08 IP licensing 啟動 = Intel 從技術領先者轉**技術授權收入者**
+- Clearwater Forest 2026 H2 量產 = 第一個商用玻璃基板 server CPU anchor
+
+### ⚠️ 玻璃基板風險
+
+- 量產時程**遠落後 [[Absolics]]（2026 H2）+ [[Samsung Electro-Mechanics]]（2027 H2）+ [[TSMC]] CoPoS（2028+）**——Intel 2030 是**第四波**才到
+- 自用 + IDM 模式 → 玻璃 design partner 給 [[欣興]]（Intel 鏈台廠 design partner），但 EMIB packaging 給 [[Amkor]]、Intel 自己不做 merchant glass interposer
+- 時程**可能再延後**：18A 進度若再 slip → 玻璃基板配套也跟著推遲
+
 ## 待 ingest 延伸
 
 - [[Tesla]]、[[xAI]]、[[SpaceX]] — Musk 帝國的 AI 算力策略
@@ -67,3 +87,5 @@ confidence: high
 - [[控制點轉移（投資版）]]
 - [[半導體基礎建設化]]
 - [[效率→安全切換]]
+- [[玻璃基板與 FOPLP 賽道]]、[[Absolics]]、[[Samsung Electro-Mechanics]]、[[Amkor]]、[[欣興]]（玻璃基板 2030 anchor 鏈）
+- [[Serenity]]、[[sennn.nnna]]（2026-06-08 玻璃基板時間線 anchor 引用來源）

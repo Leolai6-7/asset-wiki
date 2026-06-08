@@ -3,9 +3,10 @@ title: PB 估值法（記憶體週期）
 aliases: [PB 估值法, PB, 記憶體估值, 麵包店類比]
 type: concept
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-08
 sources:
   - raw/美股送分題-07-AI記憶體PB估值-2026-03-12.md
+  - raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md
 tags: [估值, PB, 記憶體, 景氣循環, HBM, LTA]
 confidence: high
 ---
@@ -86,7 +87,44 @@ confidence: high
 
 > 不要被夏天的排隊人潮沖昏頭。
 
-## 跟 [[HBM iPhone moment]] 的張力
+## ⚠️ 2026-06-08 校準：NVDA 多年合約挑戰純週期論
+
+黃仁勳 2026-06-08 訪韓定調「**結構性供給短缺，不是景氣循環**」+ SK Hynix x NVDA **multi-year technology cooperation** 簽約（[SK hynix Newsroom](https://news.skhynix.com/multi-year-tech-partnership-with-nvidia/)、[Tom's Hardware](https://www.tomshardware.com/pc-components/dram/nvidia-and-sk-hynix-ink-multi-year-memory-co-development-and-supply-agreement-seeks-to-address-extended-development-cycles)）。
+
+**本 concept 仍適用於**：
+- 傳統 DRAM segment（PC、手機通用市場）
+- LPDDR5X 通用市場（非 NVDA 綁定）
+- Spot 市場 / 通用 NAND
+
+**但 HBM segment 需要新估值範式**：
+- → [[AI 記憶體結構性供給短缺]] 提供雙引擎框架
+- NVDA 路線圖綁定 = **sticky design-in、不是 spot 訂單**：Vera Rubin / Vera CPU / RTX Spark / Jetson Thor 四條路線 multi-year commit
+- **物理供給限制**：HBM 每 GB 消耗 DDR5 三倍 wafer、CoWoS 即使翻倍仍 sold out 至 2027
+- **訂單能見度**：SK Hynix 2026 sold out、訂單延伸至 2027、SK Group Chey 警告 shortage 至 **2030**
+
+### 雙引擎結構（建議實務操作）
+
+| segment | 估值工具 | 監控指標 |
+|---|---|---|
+| **HBM / AI 記憶體** | Forward PE / DCF | NVDA Rubin ramp、HBM ASP YoY、segment 營收占比 |
+| **傳統 DRAM / NAND** | **本 concept PB 估值法** | 通用市場 DRAM price、PC/手機需求 |
+
+**Thesis switching trigger**：
+- HBM 營收占比 > 40% + ASP YoY > 30% → 切到 Forward PE 框架
+- HBM ASP 連續兩季 QoQ 負成長 → 退回 PB 框架
+
+**預付訂單訊號的重新解讀**：
+- 原立場：「預付訂單通常出現在週期中段，需謹慎」
+- 新校準（HBM segment）：OpenAI Stargate 900K wafer/月 LOI、Micron **5 年合約**、SK Hynix 2030 預警——**預付不再是週期中段警訊，是 multi-year design-in anchor**
+- 但傳統 DRAM 的預付仍適用舊框架
+
+### LTA 含意的部分修正
+
+原立場（傳統 DRAM）：「LTA 鎖供給不鎖價」仍正確。
+
+HBM segment 新含意：multi-year contract 不只鎖供給，還鎖 **co-design 製程協同**——記憶體廠進入 NVDA 的「co-design partner」位階，價格自然站穩、不再純粹隨 spot 波動。
+
+## 跟 [[HBM iPhone moment]] / [[AI 記憶體結構性供給短缺]] 的張力
 
 | HBM iPhone moment | PB 估值法的反方 |
 |---|---|
@@ -98,6 +136,7 @@ confidence: high
 ## 相關連結
 
 - [[HBM iPhone moment]]
+- [[AI 記憶體結構性供給短缺]]
 - [[Forward PE 估值法]]
 - [[PE 壓縮公式]]
 - [[半導體基礎建設化]]

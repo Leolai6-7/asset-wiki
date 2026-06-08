@@ -3,12 +3,13 @@ title: Samsung Electro-Mechanics
 aliases: [Samsung Electro-Mechanics, SEMCO, 삼성전기, 009150.KS, KRX:009150, KOSE:A009150, 三星電機, Samsung Electro Mechanics]
 type: entity
 created: 2026-06-05
-updated: 2026-06-05
-as_of: 2026-06-05
-check_after: 2026-12-05
+updated: 2026-06-08
+as_of: 2026-06-08
+check_after: 2026-12-08
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
-tags: [標的, 韓國, FC-BGA, ABF 載板, 玻璃基板, 中介層, foreign_competitor, Samsung 集團, Apple Baltra, Broadcom AVGO 鏈, 鈦昇對手]
+  - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
+tags: [標的, 韓國, FC-BGA, ABF 載板, 玻璃基板, 中介層, foreign_competitor, Samsung 集團, Apple Baltra, Broadcom AVGO 鏈, 鈦昇對手, Sumitomo 合作]
 confidence: high
 ---
 
@@ -89,12 +90,13 @@ confidence: high
 
 ### ✅ 催化
 
+- 🆕 **2026-06-08 TrendForce 校準（via [[Serenity]] X）**：**2027 下半年量產確認**、**[[Sumitomo Chemical]] 合作 anchor** 明確（MOU 2025-11、正式合約 2026 H2 簽、Dongwoo Fine-Chem Pyeongtaek 廠地）、目標客戶 [[Apple]] + [[AVGO|Broadcom]] + 大型雲端 → 跟之前 wiki 校準（2027 + Sumitomo MOU）完全一致、Serenity 引用作為「**2027 H2 是 glass interposer 進入主流市場的 anchor**」
 - 2026 ABF 載板**全年售罄**、5 大 hyperscaler 鎖死 → Q2-Q4 2026 訂單能見度極高
 - Q1 2026 **首破 3T 韓元單季**——突破歷史天花板
 - Apple **Baltra** AI server chip glass substrate sample 持續供應（2025-now）→ Apple 2027 量產採用 SEMCO panel-level interposer 機率高
 - [[AVGO]] Broadcom OpenAI USD 10B contract → SEMCO 載板需求倍增
 - Samsung HBM4 + SEMCO 玻璃載板 + Samsung Foundry 「Triple Alliance」整合
-- Sumitomo Chemical JV 2026 H2 簽正式合約 → glass core 材料自主
+- [[Sumitomo Chemical]] JV 2026 H2 簽正式合約 → glass core 材料自主（Dongwoo Pyeongtaek 廠地 + Sumitomo 化學材料技術 + SEMCO panel fab + Apple/Google/AVGO 客戶 = 四方韓+日整鏈閉環）
 - Samsung 集團整體市值 2026-06-01 破 2,000 兆韓元 → SEMCO 連動受惠
 
 ### ⚠️ 風險
@@ -164,6 +166,8 @@ confidence: high
 ## 相關連結
 
 - [[Absolics]]（韓國同國競爭、Samsung 集團 vs SK 集團對撞）
+- [[Sumitomo Chemical]]（Glass Core JV 化學材料夥伴、JV 小股東 + Dongwoo Pyeongtaek 廠地）
+- [[Serenity]]（2026-06-08 玻璃基板時間線 anchor 引用來源）
 - [[LPKF]]（SEMCO 採購 LIDE 設備、間接強化 LPKF IP 收入）
 - [[Disco Corp]]（SEMCO 切割設備供應商）
 - [[Corning]]、[[AGC]]、[[SCHOTT]]（SEMCO 上游玻璃材料、與 Sumitomo JV 部分重疊）

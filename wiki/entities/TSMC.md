@@ -3,12 +3,13 @@ title: TSMC
 aliases: [台積電, Taiwan Semiconductor, 2330, TSM]
 type: entity
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-08
 sources:
   - raw/美股送分題-09-備忘錄2-HBM-Meta-私募-2026-03-16.md
   - raw/美股送分題-10-AI半導體基礎建設-2026-03-17.md
   - raw/美股送分題-22-備忘錄6-市場切換-2026-04-13.md
-tags: [標的, 半導體, 晶圓代工, AI 基礎設施, 護國神山]
+  - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
+tags: [標的, 半導體, 晶圓代工, AI 基礎設施, 護國神山, CoPoS, 玻璃中介層]
 confidence: high
 ---
 
@@ -50,11 +51,28 @@ confidence: high
 - **CoWoS 是 AI 晶片瓶頸**（先進封裝）：[[CapEx 見頂辯論]] 的供給端錨點
 - **AI 算力供應鏈**：所有 AI 晶片 [[NVDA]]、[[AVGO]] 都要過台積電
 
+## CoPoS（CoWoS 玻璃中介層版）
+
+TSMC 的 panel-level 玻璃中介層路線、跟 [[Absolics]] / [[Samsung Electro-Mechanics]] 的 panel-level glass interposer 對撞、但**主要走自用 + 委外 [[Amkor]] / [[日月光 ASE]] 模式**。
+
+### ✅ 玻璃基板催化
+
+- 🆕 **2026-06-08 魏哲家校準（via [[Serenity]] X + TrendForce）**：CoPoS（CoWoS 封裝中介層替換玻璃中介層或有機材質為玻璃版本）**仍需 2-3 年量才放大**——跟市場預期相當接近；魏哲家 2026-06 股東會明確表態「先進封裝永遠是世界第一、CoPoS 試產線已建置」
+- CoPoS pilot line 2026-06 啟動（設備供應商名單揭露 trigger，台廠 [[鈦昇]] / [[雷科]] / [[弘塑]] / [[辛耘]] / [[萬潤]] 追蹤窗口）
+- TSMC 台灣廠 CoWoS 玻璃載板與 [[Corning]] 直接合作（2026 公布、玻璃 sheet 供應端 anchor）
+
+### ⚠️ 玻璃基板風險
+
+- **量產時程「2-3 年」= 2028-2029**——晚 [[Absolics]] 2026 H2 約 2-3 年 + 晚 [[Samsung Electro-Mechanics]] 2027 H2 約 1-2 年
+- TSMC 玻璃中介層走「**自用 + 委外**」模式 → 不直接搶 merchant 市場、但**對台廠 OSAT 委外鏈（[[Amkor]] 180-190k wafer / [[日月光 ASE]] 60-80k wafer）影響大**
+- CoPoS pilot line 2026-06 設備供應商名單未公開 → 台廠 design-in 追蹤是 binary 訊號
+
 ## 待 ingest 延伸
 
 - CoWoS 產能 / 路線圖（未獨立 ingest）
 - 美國 / 日本 / 德國 fab 在 [[效率→安全切換]] 的角色（重要！）
 - 台積電 vs Intel / Samsung 製程競爭
+- CoPoS / Panel-level interposer 賽道內 vs [[Absolics]] / [[Samsung Electro-Mechanics]] 的時間差優劣
 
 ## 相關連結
 
@@ -64,3 +82,6 @@ confidence: high
 - [[效率→安全切換]]
 - [[宋分（美股送分題）]]
 - [[NVDA]]、[[AVGO]]、[[AMD]]
+- [[玻璃基板與 FOPLP 賽道]]、[[CoWoS 三傑差異化]]、[[先進封裝互聯路線圖]]
+- [[Absolics]]、[[Samsung Electro-Mechanics]]、[[Amkor]]、[[日月光 ASE]]、[[Powertech 力成]]、[[Corning]]、[[欣興]]
+- [[Serenity]]、[[sennn.nnna]]（2026-06-08 玻璃基板時間線 anchor 引用來源）
