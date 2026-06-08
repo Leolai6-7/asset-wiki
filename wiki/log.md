@@ -2,6 +2,35 @@
 
 每次 ingest / update / lint / query 的紀錄。
 
+## 2026-06-09
+
+- ingest: **散熱戰場 2 家（[[奇鋐 3017|奇鋐]] / [[高力 8996|高力]]）** —— 補齊台廠液冷漏網 + 「800V HVDC 三角 niche specialist 賣水人籃子」核心成員
+- entity [[奇鋐 3017|奇鋐]]（3017.TW）— **全球 AI server 散熱模組龍頭 + cold plate 50%+ 市佔王（NVDA GB200/GB300 4 認證供應商之首）+ 北美 4 大 CSP CDM 主供 + 3D VC 自製 + UQD 認證 + Rubin VR 系列送樣中**
+  - 一句話定位：「規模 + 市佔王」型台廠液冷龍頭、跟 [[雙鴻]] 形成「台廠液冷雙頭」、跟 NVDA 共同認證 UQD、跟 4 大 CSP 直接綁定 CDM
+  - 三層 thesis：產業共識階段 + 業務 Q1 伺服器 66.4% + 規模 6x 雙鴻 + 大摩 PT 3,333 + Citi PT 2,055
+  - 財務 anchor（2026-06-09）：2025 營收 NT$1,396 億（+94.59%）/ 2026 Q1 營收 NT$490.38 億（+110.17%）/ Q1 EPS NT$20.17 創高（+146% YoY）/ 毛利率 29.8%（+4pp）/ Trailing PE 47.1x
+  - 五軸 **20/25**（路線 5 + 站別 5 + 耗材 3 + IP 3 + 客戶分散 4）—— 跟 [[台達電]] / [[高力 8996|高力]] 同分、比 [[雙鴻]] 19 高 1 分、比 [[Vertiv]] 22 低 2 分
+  - 散熱戰場 anchor **#3**（規模 + cold plate 市佔王 + hyperscaler 直接）
+- entity [[高力 8996|高力]]（8996.TW）— **台灣唯一大規模 BPHE 真空硬銲板式熱交換器廠 + 台灣市佔 >90% + 全球前五大 ~5.1% 市佔 + CDU 心臟級零件壟斷 + Bloom Energy SOFC 燃料電池 anchor 客戶 + 雙引擎雙爆發（AI 液冷 + 氫能）**
+  - 一句話定位：「賣水人之中的賣水人」CDU 心臟級壟斷 + 雙引擎（AI 液冷 + Bloom Energy SOFC 第二曲線）
+  - 三層 thesis：產業驗證 → 共識加速段 + 業務組合燃料電池 ~40% + AI 液冷 ~20% + 傳統 BPHE ~40% + Bloom 1GW → 2GW 翻倍催化
+  - 財務 anchor（2026-06-09）：2026 Q1 EPS NT$6.54（+347.95% YoY、+89.57% QoQ、單季已逼平 2024 全年 6.56）/ 2026 1-5 月累計營收 NT$50.03 億（+153.34% YoY）/ Forward PE ~50-70x / 中長線理財周刊 PT NT$1,000
+  - 五軸 **20/25**（路線 5 + 站別 5 + 耗材 3 + IP 4 + 客戶分散 3）—— 跟 [[台達電]] / [[奇鋐 3017|奇鋐]] 同分、比 [[雙鴻]] 19 / [[信昌電]] 19 高 1 分、比 [[Vertiv]] 22 低 2 分
+  - 散熱戰場 anchor **#4 + niche specialist 唯一**（CDU 心臟級壟斷 + Bloom Energy 第二曲線）
+- 「**800V HVDC 三角 niche specialist 賣水人籃子**」確認：[[信昌電]] 19/25（電源 MLCC）+ [[雙鴻]] 19/25（液冷三鏈）+ [[高力 8996|高力]] 20/25（CDU 心臟 BPHE）= **跨「電力 + 散熱」孿生戰場 niche specialist 組合**、三家客戶不重疊（信昌：電源大廠 + BBU / 雙鴻：Supermicro + top 5 cloud + ODM / 高力：CDU 廠 + Bloom Energy）
+- 散熱戰場 anchor 排名更新（2026-06-09）：
+  1. [[Vertiv]] **22/25**（整合 turnkey + NVDA 規格定義權）
+  2. [[台達電]] **20/25**（power + cooling 雙軌 + ODM 鏈條）
+  3. [[奇鋐 3017|奇鋐]] **20/25** ⭐（規模王 + cold plate 50%+ + 4 大 CSP CDM 主供）
+  4. [[高力 8996|高力]] **20/25** ⭐（niche specialist + CDU 心臟 + 雙引擎）
+  5. [[雙鴻]] **19/25**（純度首選 + 三鏈整合 + 1.6MW CDU IP）
+- 同步：
+  - `concepts/賣水人選股邏輯（投資版）.md` 加 5 軸：奇鋐 20 / 高力 20（master 表 + 新增「AI infra 散熱戰場」子段）
+  - `concepts/AI infra 散熱戰場.md` 從三家 anchor 升為五家 anchor + 更新「台廠最強的一張牌」對照表
+  - `index.md` 散熱 anchor section 從 triplet 升為 5 家
+  - `entities/雙鴻.md` / `entities/Vertiv.md` / `entities/台達電.md` / `entities/信昌電.md` 補 [[奇鋐 3017|奇鋐]] + [[高力 8996|高力]] 交叉 wikilink
+- 結論：「**台廠散熱是 AI infra 戰場 niche 最強的一張牌**」確認——cold plate 70%（奇鋐 50%+ + 雙鴻 15-20%）+ manifold（雙鴻 UBS 估 27% 全球 + 奇鋐 4 大 CSP CDM 主供）+ BPHE（高力 9 成台灣 + 全球前五大）+ CDU（雙鴻 1.6MW + 台達 2.4/3MW）= **四角覆蓋液冷全鏈**
+
 ## 2026-06-08（continued）
 - ingest: **codex P1-5 + P1-6 兩個盲點交叉 concept 落地（純設計，不建 entity）**
   - concept [[HBM4E × Glass Interposer × TGV 交會]]（P1-6 補位）—— 把散落在 [[AI 記憶體結構性供給短缺]] Tier 3 與 [[玻璃基板與 FOPLP 賽道]] 時間線的「2028 三戰場 anchor」收束成單一交叉概念

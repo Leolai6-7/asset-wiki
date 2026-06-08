@@ -168,7 +168,7 @@ confidence: high
 | **CoolIT Systems**（私有）| 40%（純液冷 IP、無 power）| CoolIT IP 強（OMNI 4,000W / CHx2000 2MW）但無 power 軌、可能被 Vertiv 或 Eaton 併購 |
 | **Boyd Corporation**（已被 Eaton 併購）| 50%（cold plate + manifold + CDU、無 power 直到 Eaton）| 規模 Boyd 比 STL 大 10x、被 Eaton 併購後變 Eaton-Boyd 一體 |
 | **[[雙鴻]]**（3324.TW）| 30%（cold plate + manifold + CDU、無 power 整合）| 雙鴻是**潛在供應商 + 部分競爭者**——Vertiv 採購雙鴻零件 + STL 併購後部分自製 |
-| **奇鋐**（3017.TW）| 25%（cold plate + manifold）| 奇鋐純度更高（cold plate 50%+ 市佔）、無 CDU + power 軌 |
+| **[[奇鋐 3017|奇鋐]]**（3017.TW）| 25%（cold plate + manifold）| 奇鋐純度更高（cold plate 50%+ 市佔）、無 CDU + power 軌 |
 | **[[高力 8996|高力]]**（8996.TW）| 10%（BPHE niche）| 高力是 Vertiv CDU 內部 BPHE **潛在供應商**、不直接競爭 |
 
 ### Vertiv vs [[台達電]] power module 重疊度（**核心回答**）
@@ -227,8 +227,7 @@ confidence: high
 - [[控制點轉移（投資版）]]
 - [[信昌電]]
 - [[NVDA]]
-- [[台達電]]、[[雙鴻]]
-- [[高力 8996|高力]]（待補 entity）
+- [[台達電]]、[[雙鴻]]、[[奇鋐 3017|奇鋐]]、[[高力 8996|高力]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 
 ## Sources

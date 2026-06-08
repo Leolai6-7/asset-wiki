@@ -179,16 +179,18 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 
 | 排名 | 玩家 | 戰場位置 | Anchor 強度 | 為什麼 |
 |---|---|---|---|---|
-| #1 | **[[Constellation Energy]]**（CEG）| 電力產生 / 核電 | 🟢 **最強** | Microsoft 20 年 PPA 直接、Calpine $26.6B 併購補氣電 firm power、32.4GW 核電 + 26GW 氣電 = 美國 IPP 龍頭 |
-| #2 | **[[GE Vernova]]**（GEV）| 電力傳輸 / 變壓器 + 燃氣輪機 | 🟢 **最強** | backlog $163B、Prolec GE 併購、power-to-rack 全棧、Q1 2026 data center 訂單 $2.4B（>2025 全年）、gas turbine 100GW backlog 排到 2030 |
-| #3 | **[[Vistra]]**（VST）| 電力產生 / 核電 + 氣電 | 🟢 **強** | Meta 20 年 2.6GW PPA、Cogentrix 5.5GW 待併、AWS PPA、Trump 政府支持 |
-| #4 | Talen Energy（TLN，⚠️ 待 ingest）| 電力產生 / 核電 | 🟡 中強 | Amazon $18B 17 年 1.92GW PPA |
-| #5 | Eaton（ETN，⚠️ 待 ingest）| 電力分配 / 800V HVDC reference architecture | 🟡 中強 | 2025-10 首發 800V DC ref architecture、NVDA 共同制定 |
-| #6 | ABB（瑞，⚠️ 待 ingest）| 電力傳輸 + 分配 / HVDC | 🟡 中強 | NVDA 共同制定 800V HVDC 標準、歐洲 anchor |
-| #7 | Schneider Electric（法，⚠️ 待 ingest）| 電力分配 / 機房 UPS + PDU | 🟡 中 | EcoStruxure 整合平台、800V DC NVDA 31 家伙伴之一 |
-| #8 | Vertiv（VRT，⚠️ 待 ingest）| 電力分配 + 散熱 | 🟡 中 | 機房液冷 + 800V DC H2 2026 上市 |
-| #9 | Navitas（NVTS，⚠️ 待 ingest）| 電力分配 / GaN power IC | 🟡 中（高 alpha） | 10kW 98.5% 效率、GaN pure-play、800V HVDC 純度首選 |
-| #10 | **[[信昌電]]**（6173.TWO）| 電力分配 / 中高壓 MLCC（機櫃內 PSU + BBU） | 🟡 中 | NVDA Rubin 機櫃 MLCC 3-4K → 10K+ 顆（**現有 entity**）|
+| #1 | **[[Vistra]]**（VST）| 電力產生 / 核電 + 氣電 | 🟢 **最強** | 五軸 **23/25**、Meta 20 年 2.6GW PPA + AWS PPA + Cogentrix 5.5GW 待併、跨 PJM/ISO-NE/ERCOT 三 ISO 地緣分散、客戶分散 5 分勝 CEG |
+| #2 | **[[Constellation Energy]]**（CEG）| 電力產生 / 核電 | 🟢 **最強** | 五軸 **22/25**、Microsoft 20 年 TMI PPA 直接、Calpine $26.6B 併購補氣電 firm power、32.4GW 核電 + 26GW 氣電 = 美國 IPP 龍頭 |
+| #3 | **[[GE Vernova]]**（GEV）| 電力傳輸 / 變壓器 + 燃氣輪機 | 🟢 **最強** | 五軸 **22/25**、backlog $163B、Prolec GE 併購、power-to-rack 全棧、Q1 2026 data center 訂單 $2.4B（>2025 全年）、gas turbine 100GW backlog 排到 2030 |
+| #4 | **[[Eaton]]**（ETN）| 電力分配 / 800V HVDC reference architecture | 🟢 **強** | 五軸 **22/25**、2025-10 首發 800V DC reference architecture、turnkey 北美 backlog 領先、NVDA 31 家共同制定首發位置 |
+| #5 | **[[Schneider Electric]]**（SBGSY / SU）| 電力分配 / EcoStruxure 整合平台 | 🟢 **強** | 五軸 **22/25**、EcoStruxure 軟體 + APC UPS 全球 #1、1MW rack 白皮書定義者、Motivair 收購 800V + 液冷整合 |
+| #6 | **[[Hitachi]]**（HTHIY）| 電力傳輸 / 變壓器 + HVDC | 🟢 **強** | 五軸 **22/25**、Hitachi Energy 全球 HVDC #1（前 ABB Power Grids）+ 訂單 +50% YoY + NVDA Spectrum-XGS 軟體合作 + conglomerate 折價 PE 15-18 |
+| #7 | **[[Siemens]]**（SIEGY）| 第二+第三層雙層 anchor / 工業軟體 | 🟢 **強** | 五軸 **21/25**、Siemens Energy 17% 持股 + Digital Industries Software 工業軟體 #1 + NVDA Omniverse + Smart Infrastructure 配電 |
+| #8 | **[[ABB]]**（ABBNY）| 第二+第三層 anchor / 配電 + switchgear | 🟢 中強 | 五軸 **20/25**、配電變壓器 + switchgear 三巨頭 + Process Automation + Robotics 多元、NVDA 800V HVDC 共同制定者 |
+| #9 | **[[Talen Energy]]**（TLN）| 電力產生 / 核電 pure-play | 🟡 中強（高 alpha） | 五軸 **19/25**、Susquehanna 2.5GW + AWS 17 年 $18B 1.92GW PPA = pure-play alpha、客戶集中 2 分扣分 |
+| #10 | **[[Navitas Semiconductor]]**（NVTS）| 電力分配 / GaN 800V HVDC pure-play | 🟡 中（高 alpha） | 五軸 **19/25**、10kW 98.5% 效率全球首發 + Wolfspeed Chapter 11 救命 + NVDA design-in 深 |
+| #11 | Vertiv（VRT、⚠️ 待 ingest 為 entity）| 電力分配 + 散熱 | 🟡 中 | 機房液冷 + 800V DC H2 2026 上市、跟 Schneider Motivair 競爭 |
+| #12 | **[[信昌電]]**（6173.TWO）| 電力分配 / 中高壓 MLCC（機櫃內 PSU + BBU） | 🟡 中 | 五軸 **19/25**、NVDA Rubin 機櫃 MLCC 3-4K → 10K+ 顆（**現有 entity**）|
 
 ⭐ **anchor 排名邏輯**：
 1. **PPA 鎖定**（20 年 firm contract）> backlog 訂單 > spot 出貨
@@ -247,31 +249,39 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 - [[CapEx 見頂辯論]]：電力公司是「CapEx 不會見頂」的物理證據
 - [[Re-rate 捕捉法]]：CEG / VST / GEV 12 個月 +200-400% 是 re-rate 完整週期範例
 
-## 待 ingest 玩家延伸
+## 已建 entity 完整圖譜（2026-06-09 更新）
 
-### 美系電力 anchor
-- Talen Energy（TLN）— Amazon Susquehanna 1.92GW PPA
-- NRG Energy（NRG）— ERCOT 氣電 + retail
-- Public Service Enterprise（PEG）— 紐約核電
-- Duke Energy（DUK）— 美南電網 + 核電
+### 美系電力 anchor（第一層電力產生）
+- ✅ [[Constellation Energy]]（CEG）— 32.4GW 核電 + Calpine 26GW 氣電 + MSFT TMI 20 年 PPA、五軸 22/25
+- ✅ [[Vistra]]（VST）— 41GW + Meta 20 年 2.6GW PPA + AWS PPA + Cogentrix 5.5GW、五軸 23/25
+- ✅ [[Talen Energy]]（TLN）— Susquehanna 2.5GW + AWS 17 年 $18B 1.92GW PPA + Caithness $3.5B、五軸 19/25
+- ⚠️ 待 ingest：NRG Energy / Public Service Enterprise / Duke Energy
 
-### 變壓器 / 電網設備
-- ABB（瑞士）— HVDC 高壓設備
-- Siemens Energy（德國）— 變壓器、輸電
-- Eaton（ETN，愛爾蘭）— UPS + 配電
-- Schneider Electric（法）— EcoStruxure 整合平台
-- Vertiv（VRT）— 機房液冷 + 配電
-- Hubbell（HUBB）— 配電設備
+### 變壓器 / 電網設備（第二層電力傳輸）
+- ✅ [[GE Vernova]]（GEV）— 北美變壓器 + 燃氣輪機 + 風電、五軸 22/25
+- ✅ [[Hitachi]]（HTHIY）— Hitachi Energy 全球 HVDC + 變壓器 + NVDA Spectrum-XGS、五軸 22/25
+- ✅ [[Siemens]]（SIEGY）— Siemens Energy 持股 17% + Digital Industries 軟體 + NVDA Omniverse、五軸 21/25
+- ✅ [[ABB]]（ABBNY）— 配電變壓器 + 中壓 switchgear + 工業多元、五軸 20/25
+- ⚠️ 待 ingest：Siemens Energy（從 Siemens 拆出獨立、可獨立 entity）
 
-### 800V HVDC power IC（高 alpha 區）
-- Navitas Semiconductor（NVTS）— GaN pure-play
-- Infineon（IFX）— SiC + GaN
-- Wolfspeed（WOLF）— SiC pure-play（已破產 risk）
-- onsemi（ON）— SiC + 類比 IC
+### 800V HVDC turnkey + UPS / 配電（第三層電力分配 SI）
+- ✅ [[Eaton]]（ETN）— 800V HVDC reference architecture 首發 + turnkey 北美、五軸 22/25
+- ✅ [[Schneider Electric]]（SBGSY）— EcoStruxure + APC UPS 全球 #1 + 1MW rack 白皮書、五軸 22/25
+- ⚠️ 待 ingest：Vertiv（VRT）— 機房液冷 + 800V DC + 機架級
 
-### 散熱（power 戰場姊妹題、codex P1-3 同時提到）
-- 待獨立建 [[AI infra 散熱戰場]] concept
-- Vertiv、Asetek、Modine Manufacturing、Schneider
+### 800V HVDC power IC（第三層高 alpha 區）
+- ✅ [[Navitas Semiconductor]]（NVTS）— GaN 10kW 98.5% pure-play + GeneSiC、五軸 19/25
+- ⚠️ 待 ingest：Infineon（IFX）/ Wolfspeed（WOLF Chapter 11）/ onsemi（ON）
+- 大廠多軌：[[Texas Instruments TXN]] / STMicroelectronics（NVDA 31 家共同制定者）
+
+### 跨第三層配電（機櫃內 PSU + BBU）
+- ✅ [[信昌電]]（6173.TWO）— 中高壓 MLCC niche、五軸 19/25
+- ✅ [[台達電]] — 電源管理 + ICT power 主場
+- ⚠️ 待 ingest：[[奇鋐]] / [[雙鴻]] / [[高力]] 已建為散熱戰場 entity 但跨第三層分配
+
+### 散熱（power 戰場姊妹題）
+- 散熱戰場已獨立成 [[AI infra 散熱戰場]] concept（如有）
+- 已建 entity：[[Vertiv]] / [[台達電]] / [[奇鋐 3017|奇鋐]] / [[雙鴻]] / [[高力 8996|高力]]
 
 ## 相關連結
 
@@ -285,7 +295,14 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 - [[Re-rate 捕捉法]]
 - [[Constellation Energy]]
 - [[Vistra]]
+- [[Talen Energy]]
 - [[GE Vernova]]
+- [[Hitachi]]
+- [[Siemens]]
+- [[Eaton]]
+- [[Schneider Electric]]
+- [[ABB]]
+- [[Navitas Semiconductor]]
 - [[信昌電]]
 - [[NVDA]]、[[Microsoft]]、[[Meta]]、[[AMZN]]、[[Google]]、[[OpenAI]]
 

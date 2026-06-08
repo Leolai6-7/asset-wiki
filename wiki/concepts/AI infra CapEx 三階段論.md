@@ -59,12 +59,12 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 | 2025 | ~180 萬顆 | 主力 |
 | **2026** | **3,000 萬顆以上** | **60%+** |
 
-**首批採購者已確認**（待 ingest entity 標 ⚠️）：
-- ⚠️ CoreWeave
-- ⚠️ Lambda
+**首批採購者已確認**：
+- [[CoreWeave]]（已建 2026-06-09）
+- [[Lambda]]（已建 2026-06-09、⚠️ 私募、未上市）
 - [[Meta]]
 - [[Microsoft]]
-- ⚠️ Oracle
+- [[Oracle]]（已建 2026-06-09）
 
 ### 訊號 2：InP 供應鏈三家**同時喊緊**（最關鍵）
 
@@ -105,8 +105,8 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 |---|---|
 | 先進製程 | [[TSMC]] |
 | 先進封裝 | [[日月光 ASE]] / ⚠️ 矽品（已併入 ASE）|
-| AI server 系統落地 | ⚠️ 鴻海 / ⚠️ 緯創 / ⚠️ 廣達（三家待 ingest）|
-| AI networking / switch | ⚠️ 智邦（待 ingest）|
+| AI server 系統落地 | [[鴻海 2317]]（GB200 NVL72 主代工 50-60%）/ [[廣達 2382]]（DGX 主代工 + GB200 30-40%）/ [[緯創 3231]]（GPU baseboard 30-40% + Wiwynn 緯穎 AI HPC）（三家已建 2026-06-09）|
+| AI networking / switch | [[智邦 2345]]（Spectrum-X 主代工 + AVGO Tomahawk 6 multi-source、已建 2026-06-09）|
 
 ## ⚠️ 風險（thesis 失效情境）
 
@@ -167,16 +167,16 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 - **POET Technologies**（矽光整合）
 - **Ayar Labs**（光晶片初創）
 
-### Hyperscaler / 雲算力
-- **CoreWeave**（首批 1.6T 採購者，已在 [[循環投資（CSP-Model 互鎖）]] 提到）
-- **Lambda**（首批 1.6T 採購者）
-- **Oracle**（Stargate + OpenAI 資料中心）
+### Hyperscaler / 雲算力（✅ 2026-06-09 補位完成）
+- ✅ **[[CoreWeave]]**（已建 2026-06-09）— neocloud 龍頭、NVDA 戰略客戶 + 投資人、NVDA $6.3B backstop、1.6T 光模組首批採購者、循環投資 anchor 樣本、五軸 12/25
+- ✅ **[[Lambda]]**（已建 2026-06-09、⚠️ 私募、NOT-INVESTABLE）— neocloud #2、NVDA NCP Elite tier、Series D $480M @ $4-5B、IPO 時程 2026 H2 - 2027 H1 傳言、五軸 13/25
+- ✅ **[[Oracle]]**（已建 2026-06-09）— 老牌資料庫龍頭 + Stargate 主力 + OpenAI $300B 五年合約 + 1.6T 光模組首批採購者、市值 $700-900B、五軸 18/25
 
-### 台灣 AI server 系統
-- **鴻海 2317.TW**（AI server 龍頭）
-- **廣達 2382.TW**（AI server）
-- **緯創 3231.TW**（AI server）
-- **智邦 2345.TW**（AI networking switch）
+### 台灣 AI server 系統（✅ 2026-06-09 補位完成）
+- ✅ **[[鴻海 2317]]**（AI server #1 代工 50-60% market share）— NVDA reference design 主代工 + AI cloud / edge 雙引擎（Tesla Cybercab + Apple Vision Pro 第二代）、五軸 16/25
+- ✅ **[[廣達 2382]]**（AI server #2 代工）— NVDA DGX 系列主代工 + Meta MTIA + NB 龍頭 + Apple Mac、五軸 15/25
+- ✅ **[[緯創 3231]]**（GPU baseboard niche specialist）— NVDA HGX baseboard 主代工 30-40% + Wiwynn 緯穎 27.5% 持股子公司 AI HPC anchor、五軸 14/25
+- ✅ **[[智邦 2345]]**（AI networking switch）— NVDA Spectrum-X 主代工 + AVGO Tomahawk 6 multi-source、白牌 OCP 規格全球 #1、AI networking pure-play 高毛利 25-30%、五軸 18/25
 
 ## 相關連結
 
