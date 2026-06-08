@@ -123,3 +123,6 @@ confidence: high
 - [[HBM iPhone moment]]
 - [[wallstengine]]
 - [[宋分（美股送分題）]]
+- ⭐ **第 5 層 OEM 模組廠**：[[Innolight]]（中國光模組 #1、全球 transceiver 30%+ 市佔、2026-06-09 補完 entity）
+- ⭐ **第 6 層 connector**：[[Foxconn Interconnect FIT]]（鴻海集團 80% 持股 + ODM 內製 + 跟 [[Amphenol]] 對手位、2026-06-09 補完 entity）
+- ⭐ **跨第 4-5 層 SiPho foundry**：[[GlobalFoundries]]（vs [[Tower Semiconductor]] / [[TSMC]] / IMEC 全球 top 4、Ayar Labs 戰略投資 + Mubadala 88% 持股、2026-06-09 補完 entity）

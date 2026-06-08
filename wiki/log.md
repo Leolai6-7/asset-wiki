@@ -2,6 +2,114 @@
 
 每次 ingest / update / lint / query 的紀錄。
 
+## 2026-06-09（continued）
+
+- ingest: **1.6T 採購者鏈條 7 家逐一交付**（[[AI infra CapEx 三階段論]] 第三階段 anchor 補位、subagent 補完）
+
+### Part A — 1.6T 光模組首批採購者（3 家）
+
+- entity [[CoreWeave]]（NASDAQ: CRWV）— **neocloud 龍頭 + NVDA 戰略客戶兼投資人 + NVDA $6.3B backstop + 1.6T 光模組首批採購者 + 循環投資 anchor 樣本**
+  - 一句話定位：only-GPU specialty neocloud、NVDA-aligned 半官方雲、Spectrum-XGS first adopter（2026-08 跨 DC 部署）
+  - 三層 thesis：賽道驗證→共識加速段、客戶極端集中（Microsoft 60%+ / Top 3 90%+）、$50B+ backlog（OpenAI $11.9B + Meta $14.2B + Microsoft + IBM）、雙刃劍循環投資（NVDA → CoreWeave → 訂 NVDA GPU）
+  - 財務快照（as_of: 2026-06-09）：市值 $70-80B / Forward PE n/a / Re-rate 1/4 / FY2026 自家指引 $15-18B (+200%+)
+  - 五軸 **12/25**（路線 3 + 站別 4 + 耗材 2 + IP 2 + 客戶分散 1）—— 7 家中最低、客戶極端集中拖累
+  - Bull：1.6T 首批採購 + Spectrum-XGS first wave + $50B backlog + NVDA $6.3B backstop
+  - Bear：Microsoft 取消合約風險 + $23B 槓桿 + GPU 折舊 + hyperscaler 自家 ASIC 擠壓
+
+- entity [[Lambda]]（**⚠️ 私募、未上市、NOT-INVESTABLE**）— **neocloud #2 first-mover + NVDA NCP Elite tier + 1.6T 光模組首批採購者 + GPU AI cloud 開拓者**
+  - 一句話定位：2012 起源（業界最早 GPU cloud）、NVDA NCP Elite tier、1-Click Cluster 自助化 IP
+  - 三層 thesis：私募追蹤、規模 vs CoreWeave 差 15-20x、客戶結構分散（Top 5 ~40-50%、Anthropic + Microsoft Research + Apple + Sony）、IPO 時程未定（傳言 2026 H2 - 2027 H1）
+  - 財務快照（as_of: 2026-06-09）：估值 $4-5B（2025-07 Series D $480M @ $4-5B、lead Andra Capital）/ Re-rate n/a（私募）
+  - 五軸 **13/25**（路線 3 + 站別 3 + 耗材 2 + IP 2 + 客戶分散 3）—— 客戶分散勝 CoreWeave 但規模較小
+  - Bull：IPO 完成成第二家上市 neocloud + first-mover 結構 + research / AI native 客戶忠誠
+  - Bear：規模 < CoreWeave + NVDA 沒 backstop + IPO 時程未定 + 中間夾擊（vs Crusoe / Nebius）
+
+- entity [[Oracle]]（NYSE: ORCL）— **老牌資料庫龍頭 + Stargate 主力 + OpenAI $300B 五年合約 + Larry Ellison AI infra 押注 + 1.6T 光模組首批採購者**
+  - 一句話定位：Database 30 年護城河 + OCI YoY +52% + OpenAI $300B 五年合約 + Stargate $500B 主力 DC 建商
+  - 三層 thesis：賽道驗證→共識加速段、Microsoft + Oracle + OpenAI 三角閉環 anchor 樣本、Trump 政府背書、Larry Ellison 個人 40% 持股
+  - 財務快照（as_of: 2026-06-09）：市值 $700-900B / Forward PE 35-45x / Re-rate 2/4 / FY2025 營收 $57.4B (+9%) / OCI $10.6B (+52%) / FY2026 OCI 指引 +70%+ / $163B 長期債
+  - 五軸 **18/25**（路線 4 + 站別 4 + 耗材 3 + IP 4 + 客戶分散 3）—— **7 家中與 智邦並列最高分**
+  - Bull：OpenAI $300B 五年合約 + Stargate 主力 + Database 30 年護城河 + Trump 政府背書 + 1.6T 採購者
+  - Bear：OpenAI $300B 集中度（FY2027+ 將佔 ~20-30%）+ $163B 長期債 + 循環投資反向爆破連鎖
+
+### Part B — 台灣 AI server 系統整合廠（4 家）
+
+- entity [[鴻海 2317]]（鴻海精密、Foxconn / Hon Hai）— **全球最大電子代工龍頭 + AI server #1 代工（市佔 ~40-50%）+ GB200 NVL72 主代工 50-60% + AI cloud / edge 雙引擎**
+  - 一句話定位：NVDA reference design 主代工 + Apple iPhone 30%+ 營收 + Tesla Cybercab + Vision Pro 第二代雙引擎、Young Liu 接任轉型「鴻海 = AI infra system integrator」
+  - 三層 thesis：規模壓倒（NT$6.86 兆 vs 廣達 / 緯創 / 智邦 三家加總的 2 倍）、NVDA Stack + Apple + Tesla 三 anchor、AI cloud / edge 雙引擎 hedge
+  - 財務快照（as_of: 2026-06-09）：市值 NT$3.5 兆+ / Forward PE 18-22x / Re-rate 2/4 / FY2025 營收 NT$6.86 兆 (+11%) / EPS +30% / AI cloud FY2026 估營收 NT$1.0-1.2 兆 (+100-150%)
+  - 五軸 **16/25**（路線 4 + 站別 4 + 耗材 2 + IP 3 + 客戶分散 3）—— **台廠 AI server 系統廠次高分**
+  - 站別差異：NVDA GB200 NVL72 主代工 50-60% + AI cloud / edge 雙引擎是規模王
+  - Bull：NVDA reference design + Apple anchor + Tesla Cybercab + Vision Pro 第二代雙引擎
+  - Bear：Apple iPhone 集中度 30%+ + 毛利率薄 6.4% + 接班過渡 + 地緣政治
+
+- entity [[廣達 2382]]（Quanta Computer）— **全球 NB 代工龍頭 + AI server #2 代工（市佔 30-40%）+ Meta MTIA 主代工 + NVDA DGX 系列主代工 + Apple Mac 主代工**
+  - 一句話定位：AI server pure-play（無 iPhone + 無 EV + 無 AI edge）、毛利率 8.5% 高於鴻海 6.4% 2pp
+  - 三層 thesis：Meta MTIA 主代工 + AWS / Google ASIC 多源代工 + NB 龍頭 + Apple Mac、Meta 集中度 20%+ 營收
+  - 財務快照（as_of: 2026-06-09）：市值 NT$1.0-1.2 兆 / Forward PE 25-30x / Re-rate 3/4 / FY2025 營收 NT$1.55 兆 (+25%) / EPS +50%
+  - 五軸 **15/25**（路線 4 + 站別 3 + 耗材 2 + IP 3 + 客戶分散 3）
+  - 站別差異：AI server #2 代工 + Meta MTIA 主代工 + Apple Mac 主代工 = AI server pure-play
+  - Bull：AI server +50% YoY + Meta anchor + 毛利率拉升 + NB 規模穩定
+  - Bear：Meta 集中度 20%+ + 毛利率薄 + 接班過渡（林百里 80+）
+
+- entity [[緯創 3231]]（Wistron）— **AI server #3 代工 + GPU baseboard 主代工 30-40%（NVDA HGX 8-GPU baseboard）+ Wiwynn 緯穎 27.5% 持股子公司 AI HPC 主力**
+  - 一句話定位：GPU baseboard niche specialist + Wiwynn 緯穎雙軌掛牌（緯創持股 27.5% Wiwynn 貢獻市值 40-50%）
+  - 三層 thesis：NVDA HGX baseboard 主代工 + Wiwynn 緯穎 Meta / AWS / Microsoft AI HPC 機櫃主供
+  - 財務快照（as_of: 2026-06-09）：市值 NT$500-700B / Forward PE 20-25x / Re-rate 3/4 / FY2025 營收 NT$1.05 兆 (+15%) / EPS +35-50%
+  - 五軸 **14/25**（路線 3 + 站別 3 + 耗材 2 + IP 3 + 客戶分散 3）
+  - 站別差異：GPU baseboard niche specialist + Wiwynn AI HPC anchor 雙軌結構
+  - Bull：NVDA HGX baseboard 30-40% + Wiwynn 27.5% 持股 + 毛利率拉升
+  - Bear：規模較小 + Wiwynn 持股波動 + 客戶集中（NVDA Stack）+ 競爭加劇
+
+- entity [[智邦 2345]]（Accton Technology）— **全球白牌交換器 #1 代工 + AI networking switch 純度首選 + Spectrum-X 鏈條台廠對接 + NVDA Spectrum-6 主代工 + AVGO Tomahawk 6 multi-source**
+  - 一句話定位：AI networking pure-play（不做 server / NB）+ 白牌 OCP 規格全球 #1 (35-45% 市佔) + 高毛利 25-30%（vs 鴻海 / 廣達 / 緯創 高 3-5x）
+  - 三層 thesis：NVDA Spectrum-X / Spectrum-6 主代工 + AVGO Tomahawk 6 multi-source + Meta MV2 / Microsoft SONiC / AWS Hyperion 主供 = 不押邊 multi-source 中性受惠
+  - 財務快照（as_of: 2026-06-09）：市值 NT$400-500B / Forward PE 30-40x / Re-rate 3/4 / FY2025 營收 NT$555 億 (+30%) / EPS +60-80% / 毛利率 26-28%
+  - 五軸 **18/25**（路線 5 + 站別 4 + 耗材 3 + IP 3 + 客戶分散 3）—— **台廠 AI 系統整合廠最高分、與 Oracle 並列**
+  - 站別差異：唯一不直接競爭 server / NB 的台廠 anchor、scale out 層 Switch ASIC 整機代工 = 「賣水人之中的賣水人」
+  - 在 [[NVDA 網路 stack map]] 位置：Spectrum-6 主代工 + Spectrum-X Photonics 部分代工 + Tomahawk 6 多源代工
+  - Bull：路線敏感 5 滿 + 高毛利結構性 + NVDA + AVGO multi-source + 800G / 1.6T 雙引擎
+  - Bear：規模較小 + Meta 25%+ + 路線分歧 + 白牌定價壓力 + AI networking CPO 化中期風險
+
+### 同步
+
+- master 表 [[賣水人選股邏輯（投資版）]] 加「⭐ AI server / AI cloud / AI networking 系統整合廠（第十波 — 1.6T 採購者鏈條，2026-06-09 補位）」段落 + 7 家 entity 完整五軸評分
+- [[AI infra CapEx 三階段論]]「待 ingest 延伸」段落 ⚠️ 全部移除（CoreWeave / Lambda / Oracle / 鴻海 / 廣達 / 緯創 / 智邦 已建）
+- [[AI infra CapEx 三階段論]]「台灣鏈條對接」段落更新（台 AI server 系統廠四家連結）
+- index.md 加「標的：1.6T 光模組首批採購者」+「標的：台灣 AI server 系統整合廠」兩個新段落（第十波）
+
+### 結束報告（subagent 自評）
+
+**7 家五軸分數排序**：
+1. [[Oracle]] **18/25** ⭐（OpenAI $300B + Database 護城河 + Stargate 主力）
+1. [[智邦 2345]] **18/25** ⭐（AI networking pure-play + 高毛利 + Spectrum-X / Tomahawk 6 multi-source）
+3. [[鴻海 2317]] **16/25**（規模壓倒 + NVDA reference design + AI cloud / edge 雙引擎）
+4. [[廣達 2382]] **15/25**（AI server pure-play + Meta MTIA + NB 龍頭）
+5. [[緯創 3231]] **14/25**（GPU baseboard niche + Wiwynn 雙軌）
+6. [[Lambda]] **13/25**（neocloud first-mover 分散版、⚠️ 私募）
+7. [[CoreWeave]] **12/25**（neocloud 龍頭、客戶極端集中拖累）
+
+**neocloud vs hyperscaler 兩種採購者差異**：
+- neocloud（CoreWeave / Lambda）= **only-GPU specialty + NVDA-aligned 純度高 + 客戶結構窄（Top 3 90%+）**
+- hyperscaler（Meta / Microsoft）= **混搭採購、自家 ASIC 平行、客戶分散**
+- **Oracle = 第三類**：老牌 Database + OCI 雲端 + OpenAI $300B 五年合約 + Stargate 主力
+- **CoreWeave 是「Cloud 二線打贏一線」**：不是打贏 hyperscaler、是「**選擇成為 NVDA 的銷售管道**」、NVDA 把 CoreWeave 變成 reference customer + 規格鎖定 + $6.3B backstop
+
+**鴻海 vs 廣達 vs 緯創 三家代工龍頭的 AI server 站別差異**：
+- **鴻海 = AI server #1（GB200 NVL72 主代工 50-60%、NVDA reference design partner）**+ AI cloud / edge 雙引擎（Tesla Cybercab + Vision Pro 第二代）+ Apple iPhone 30%+
+- **廣達 = AI server #2（NVDA DGX 主代工 + GB200 30-40% 次代工 + Meta MTIA 主代工）**+ NB 龍頭 + Apple Mac
+- **緯創 = AI server + GPU baseboard niche（NVDA HGX baseboard 30-40%）**+ Wiwynn 緯穎 27.5% 持股 AI HPC anchor 雙軌
+
+**智邦在 [[NVDA 網路 stack map]] 的位置**：
+- **scale out 層的 Switch ASIC 整機代工 anchor**
+- **NVDA Spectrum-6 主代工**（102.4 Tb/s SN6810 2U / SN6800 409.6T）
+- **NVDA Spectrum-X Photonics 部分代工**（CPO 版本）
+- **NVDA Quantum-X800 部分代工**（HPC InfiniBand）
+- **AVGO Tomahawk 6 multi-source 部分代工**（hyperscaler 對沖策略）
+- = 不論 NVDA Spectrum-X 還是 AVGO Tomahawk 6 路線贏、智邦都是 hyperscaler 採購的最終整合廠 = 「**賣水人之中的賣水人**」
+
+---
+
 ## 2026-06-09
 
 - ingest: **散熱戰場 2 家（[[奇鋐 3017|奇鋐]] / [[高力 8996|高力]]）** —— 補齊台廠液冷漏網 + 「800V HVDC 三角 niche specialist 賣水人籃子」核心成員
@@ -1582,3 +1690,31 @@
     - [[AI infra 電力戰場]] 三層 wikilink 矩陣補完 7 家 + 「已建 entity 完整圖譜（2026-06-09 更新）」段落取代「待 ingest 玩家延伸」
     - [[index.md]] 標的段補完「AI infra 電力戰場補完 7 家（2026-06-09 漏網延伸）」段落
   - 累計：**50 concept + 77 entity + 41 summary**（電力戰場 +7 entity）
+
+## 2026-06-09（第十一波 — codex P2 backlog 跨戰場圖譜完整度補完 5 家）⭐
+
+- ingest: **5 新 entity（[[信越化學]] + [[Innolight]] + [[Foxconn Interconnect FIT]] + [[GlobalFoundries]] + [[高力 8996|高力]]）**——codex P2 等級「圖譜空連結」補完
+  - **5 家選擇邏輯**：
+    1. 非 P1 級 anchor（如 Disco / 村田 / SK Hynix 整鏈 anchor）
+    2. 每家都是 **≥3 個 entity / concept 已 reference 但無 entity 的「空連結」**
+    3. 被忽略會破壞 [[Bottleneck Theory（瓶頸論）]] / [[CPO 供應鏈圖譜]] / [[AI infra 散熱戰場]] 三個圖譜完整度
+    4. 跨戰場 + 跨光譜（4 國市場：日本 / 中國 / 港股 / 美股 / 台股）
+  - **5 家詳細**：
+    - **[[信越化學]]**（4063.JP）⭐ **24/25**——多賽道全球 #1 / #2（矽晶圓 + 光阻劑 + pBN crucible + PVC + 矽烷氣體）+ Bottleneck Theory **第 2 層 pBN crucible 單一供應商**（跟 [[AXTI]] BoYu JV 共軛壟斷）+ 跨光通訊 InP 整鏈上游；五軸跟 [[Disco Corp]] / [[村田 Murata]] 24 並列**頂級真賣水人**；補完 Serenity 5 家光電重押的**上游 pBN crucible 空缺**
+    - **[[Innolight]]**（300308.SZ / 中際旭創）**17/25**——中國光模組 #1 + 全球 transceiver 30%+ + 1.6T 量產領先（2026 H1）+ NVDA + 4 大 CSP + Ciena + Nokia 全直供 + Thailand 海外廠；Bottleneck Theory **第 5 層 Beneficiary** 規模型 OEM 模組廠典型代表（vs [[AAOI]] 第 5 層 vertical integration chokepoint depth）；客戶分散 5/5 滿是光通訊賽道最高
+    - **[[Foxconn Interconnect FIT]]**（6088.HK / 鴻騰精密）**17/25**——鴻海集團 80% 持股 + 高速 connector 全球 top 3-5 + AI server ODM 內製 + NVDA NVLink / Spectrum-X / ConnectX-9 / BlueField-4 配套；Forward PE **8-12x**（港股估值乾淨、vs APH 29x 顯著折價）；[[CPO 供應鏈圖譜]] 第 6 層 connector 對手位、[[Amphenol]] entity 明寫「鴻海 FIT = APH 的對手」**對位**、典型「鴻海 ODM 整合型 vs APH 純度型」分歧路線
+    - **[[GlobalFoundries]]**（NASDAQ: GFS）**20/25**——全球 #3 純粹 wafer foundry + 特殊製程 specialty（FD-SOI 22FDX + RF + 嵌入式 NVM）+ SiPho silicon photonics platform（top 4 全球）+ **[[Ayar Labs]] 戰略投資人 + 矽光 chiplet 量產合作 foundry** + Mubadala 阿布達比主權基金 88% 持股 + CHIPS Act $1.5B Malta NY 美國本土；客戶分散 5/5 滿；Bottleneck Theory **跨第 4-5 層 SiPho foundry 對手位**（vs [[Tower Semiconductor]] 並列「Safest Longs」defensible compounder 候選）；「Tower 純度 + NVDA 直接 + alpha 速度 vs GFS 多元化 + 規模 + 估值乾淨 + 主權基金 + CHIPS Act」分歧路線
+    - **[[高力 8996|高力]]**（8996.TW）**20/25**——全台唯一真空硬銲板式熱交換器（BPHE）製造商 + 台灣 9 成市佔 + 全球前五大 5.1% + AI 資料中心 CDU 心臟元件 + Bloom Energy SOFC 燃料電池雙引擎；並行第九波散熱戰場已 ingest（重疊但補完 wikilink）；[[AI infra 散熱戰場]] **niche anchor**（BPHE 寡占壟斷地位、同 [[Disco Corp]] / [[村田 Murata]] niche 哲學）+ **800V HVDC 五角賣水人之一**（[[信昌電]] + [[台達電]] + [[雙鴻]] + 高力 + [[奇鋐 3017|奇鋐]]）
+  - **為什麼這 5 家是 P2 等級（不是 P1）**：
+    - 信越化學是 P1 等級的 anchor 但「Bottleneck Theory 圖譜補位」性質而非主要新 thesis、5 家中最 anchor 但 reference 用為主
+    - Innolight / FIT 是 Beneficiary（非 chokepoint）、選股 thesis 弱於 [[AAOI]] / [[Amphenol]] 純度玩家
+    - GFS 是 multi-asset specialty foundry、AI 純度低於 [[Tower Semiconductor]] 而 SiPho niche 占 GFS 業務僅 5-10%
+    - 高力是 niche specialist、規模小（市值 NT$200-400 億 vs 雙鴻 300-450 億 / 奇鋐 5,000-8,000 億）
+    - **共同特性**：補完空連結 > 開新 thesis、結構性受惠但不是 anchor 級玩家
+  - **最 surprising 一家**：**[[信越化學]] 24/25**——以為是無聊老牌化學集團、實際是 Bottleneck Theory **第 2 層 pBN crucible 單一供應商 + 跨多賽道 #1 / #2 + 五軸跟 Disco / 村田並列頂級真賣水人**——「**百年化學集團 + 半導體賽道 multi-anchor**」雙引擎結構性 anchor、補完 [[Bottleneck Theory（瓶頸論）]] / [[AXTI]] 鏈上游空連結
+  - **連動更新**：
+    - [[賣水人選股邏輯（投資版）]] master 表新增 4 家五軸分數（信越化學 24 / GlobalFoundries 20 / Innolight 17 / FIT 17、高力並行已加 20）+ 關鍵發現段更新「頂級真賣水人」三家並列 + 第 5/6 層 Beneficiary 段
+    - [[Bottleneck Theory（瓶頸論）]] 相關連結補完 4 家（信越化學 / Innolight / FIT / GlobalFoundries）跨層 anchor 點名
+    - [[CPO 供應鏈圖譜]] 相關連結補完 3 家（Innolight 第 5 層 / FIT 第 6 層 / GFS 跨第 4-5 層 SiPho foundry）
+    - [[index.md]] 標的段新增「**標的：codex P2 backlog 補完 5 家（第十一波 — 2026-06-09 Bottleneck Theory + CPO 圖譜 + 散熱戰場圖譜完整度補強）**」section + 5 entity 條目
+  - 累計：**50 concept + 82 entity + 41 summary**（codex P2 backlog +5 entity、其中高力 8996 並行也建立）
