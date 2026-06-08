@@ -3,7 +3,7 @@ title: AI infra 3D NAND 戰場
 aliases: [AI 3D NAND 戰場, 3D NAND 賽道, NAND AI 戰場, Enterprise SSD 賽道, NVDA 3D NAND 供應鏈]
 type: concept
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 as_of: 2026-06-08
 check_after: 2026-12-08
 expires_on: 2027-06-08
@@ -208,7 +208,7 @@ confidence: medium
 - **[[Solidigm]]**（[[SK Hynix]] 100% 子）— Enterprise QLC SSD 龍頭、QLC 51% 市占、2026 估營收 KRW 11.8T、推 245TB PCIe Gen5 PS1101、AI 100% pivot（消費市場退出）
 
 ### Tier 2：NAND 純 + 但有 HDD 雙鏈
-- **[[SanDisk]]**（NASDAQ: SNDK）— 從 WDC 切出純 NAND、與 SK Hynix 合作 HBF 標準化（2026-02-25 正式公告）、FY2026 Q3 營收 $5.95B（+97% QoQ）/ Datacenter +233%
+- **[[SanDisk]]**（NASDAQ: SNDK）— **2025-02-24 從 WDC spin-off 完成的美 NAND pure-play + HBF 規格定義權共持者**、與 SK Hynix 合作 HBF 標準化（2026-02-25 正式公告）、FY2026 Q3 整體營收 $5.95B（+97% QoQ）/ Datacenter +233% YoY、capex +40% YoY 同步 Kioxia、與 Kioxia 共用 Yokkaichi/Kitakami JV fab 但客戶分離 50/50、**五軸 18/25**
 - **[[Western Digital]]**（NASDAQ: WDC）— **2025-02-24 spin-off 後變純 HDD 公司**、Q3 FY2026 營收 $3.34B / nearline +37% YoY / Cloud 89%、12M +880-970%、**3D NAND 已不在公司結構內**（但仍是「HDD-NAND 雙鏈 storage AI 受惠者」一員）
 
 ### Tier 3：母公司 NAND + 但 HBM 才是主戰場
