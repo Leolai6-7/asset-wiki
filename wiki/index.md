@@ -62,6 +62,9 @@
 ### AI infra 電力戰場（第八波 — codex P1-3 校準後獨立化）⭐
 - [[AI infra 電力戰場]] ⭐ 2026-06-08 codex P1-3 校準補位：**NVDA Rubin 1MW 機櫃 vs GB200 132kW = 5-8x 電力需求**；過去這層附屬在 [[賣水人選股邏輯（投資版）]] / [[MLCC 嵌入式基板賽道]] 子段，現獨立為第六戰場；三層分工：第一層電力產生（[[Constellation Energy]] / [[Vistra]] / Talen 核電 + 氣電 firm power）+ 第二層電力傳輸（[[GE Vernova]] 變壓器 + 燃氣輪機 + power-to-rack 整合）+ 第三層電力分配（Eaton / Schneider / Vertiv / [[信昌電]] 機櫃內 PSU MLCC、800V HVDC architecture）；hyperscaler 已鎖 ~10GW PPA + 2026-2030 新增 50-80GW 缺口；800V HVDC = NVDA 把控制點從晶片推到電網；對接 [[宋分 #20 — 能源結構性剛需]] 結構性重估三標準**全滿** + [[宋分備忘錄 #3 — AI 半導體受惠者擴散]] **「被遺忘 AI 受惠者」放大版**
 
+### 800V HVDC 物理鐵壁論（第十一波 — 2026-06-09 FOMO SOC 補位、電力戰場核心 thesis 深化）⭐
+- [[800V HVDC 灰白區重劃（物理鐵壁論）]] ⭐ 2026-06-09 [[FOMO SOC]] 框架補位：**P=VI、線損 ∝ I²、GPU 從 100W → 1.5kW、機櫃 5-15kW → 600-1,000kW（5-8x 物理跳階）= 升 800V 不是選項是物理必然**；**自來水隱喻 5 站架構**：水庫（電網）→ 淨水廠（變電站）→ 城市幹管（**灰區重電**）→ 社區水箱（**白區配電**）→ 家中水龍頭（機櫃 PSU）→ 濾水器吸管（晶片 PoL）；**灰白區重劃**：傳統 AC 5 道折返跑（AC→DC→AC→DC→AC）= **500MW data center 25MW 純廢電蒸發**、新架構 SST（固態變壓器）一次到位 + BBU 取代傳統 UPS + 白區擴張；**「800V HVDC 整鏈五站」完整賣水人池**：灰區 SST（[[ABB]] / [[Hitachi]] / [[Eaton]] / [[Siemens]]）→ BBU（[[Vertiv]] / [[Schneider Electric]]）→ 機櫃 PSU（[[台達電]]）→ 白區 PoL 中間態（[[Vicor]] / [[Monolithic Power Systems MPS]]）→ 白區功率 IC（[[Infineon]] / [[Navitas Semiconductor]] / [[Wolfspeed]] / [[Texas Instruments TXN]]）；深化 [[AI infra 電力戰場]] 第六戰場核心 thesis；對應 [[Jevons Paradox（投資版）]] + [[Bottleneck Theory（瓶頸論）]]（電力鏈的 Hormuz 海峽）+ [[控制點轉移（投資版）]] 從變壓器供應商升級為標準制定者；自警惕：「**不會一蹴而就，因為現代的數據中心並不是以直流電為生的**」（全鏈替換需 5-10 年、過熱期可能在 pilot ramp 公告而非全鏈量產）
+
 ### AI infra 散熱戰場（第九波 — codex P1-3 校準後獨立化）⭐
 - [[AI infra 散熱戰場]] ⭐ 2026-06-08 codex P1-3 校準補位：**NVDA Rubin 1MW 機櫃 = 機櫃功率密度 5 年 30kW → 1MW（33x）= 散熱結構性換軌**（氣冷物理上做不了 AI infra）；三階段轉變：氣冷（2010-2023）→ **液冷（2024-2030、現在）**→ 浸沒式（2030+、觀察）；四大組件：**Cold Plate（直接觸晶銅板）+ Manifold（分流管）+ CDU（Coolant Distribution Unit、心臟）+ QD（Quick Disconnect、漏液關鍵）**；NVDA Blackwell GB200 132kW → Rubin NVL144 1MW、cold plate 從多小回大 + 微通道（microchannel）+ universal QD 標準化 + 45°C 冷卻液；單機櫃散熱系統成本 $50K（NVL72）→ $57K（NVL144）；2026 液冷滲透率 76%（券商估）+ 單櫃 BOM 4 倍；台廠強勢 niche：cold plate（[[雙鴻]] 15-20% + [[奇鋐 3017|奇鋐]] 50%+）+ manifold（[[雙鴻]] UBS 估 27% 全球市佔 + [[奇鋐 3017|奇鋐]] 4 大 CSP CDM 主供）+ CDU（[[台達電]] 2.4MW/3MW L2L、[[雙鴻]] 1.6MW、[[Vertiv]] reference architecture）+ 真空硬銲熱交換器（[[高力 8996|高力]] 台灣 9 成市佔 + 全球前五大）；跟 [[AI infra 電力戰場]] **孿生戰場**（800V HVDC 同 trigger、Vertiv / 台達 / Schneider / Eaton-Boyd 整合方雙軌）+ [[信昌電]] 跨戰場上游（MLCC）；對接 [[AI infra CapEx 三階段論]] 第三階段同步爆發 + [[賣水人選股邏輯（投資版）]]「不押誰贏」純度首選 + [[控制點轉移（投資版）]] NVDA 規格收斂中介
 
@@ -240,6 +243,14 @@
 - [[高力 8996|高力]]（8996.TW）⭐ **2026-06-09 補位** — **台灣唯一大規模 BPHE 真空硬銲板式熱交換器廠 + 台灣市佔 >90% + 全球前五大 ~5.1% 市佔 + CDU 心臟級零件壟斷 + Bloom Energy SOFC 燃料電池 anchor 客戶 + 雙引擎雙爆發（AI 液冷 + 氫能）**、2025 全年 EPS NT$6.56、2026 Q1 EPS **NT$6.54（+347.95% YoY、+89.57% QoQ、單季已逼平全年）**、2026 1-5 月累計營收 **NT$50.03 億（+153.34% YoY）**、業務組合燃料電池 ~40% + AI 液冷 ~20% + 傳統 BPHE ~40%、Bloom Energy 2026 產能 1GW → **2GW 翻倍**、Bloom FY2026 營收上修至 $34-38 億 USD、CDU 廠雙線綁定（[[雙鴻]] / [[奇鋐 3017|奇鋐]] / [[台達電]] / [[Vertiv]] CDU 內部 BPHE 採購）；市值 ~NT$300-500 億 / Forward PE ~50-70x / Re-rate **3/4**；**散熱戰場 anchor #4 + niche specialist 唯一**（「賣水人之中的賣水人」CDU 心臟級壟斷）；五軸 **20/25**（niche specialist + 雙引擎）；**「800V HVDC 三角 niche specialist 賣水人籃子」核心成員**（信昌電 MLCC + 雙鴻液冷三鏈 + 高力 CDU 心臟 BPHE）+ 跟 [[AI infra 電力戰場]] [[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] 並列「hyperscaler firm power 解決方案」（Bloom SOFC 第四選擇）；**vs Alfa Laval**（瑞典 BPHE 全球龍頭 >15%）規模 30x 高力，但高力 AI niche + 雙引擎勝
 - [[雙鴻]]（3324.TW）— **台廠液冷散熱純度首選 + cold plate + manifold(CDM) + CDU 三鏈整合 + 1.6MW L2L CDU 超前部署 IP + NVDA Rubin 客製化高利潤 sample 驗證中**、UBS 估 **rack manifold 27% 全球市佔（2025）**、Supermicro 主供 + 美系 top 5 cloud manifold 主供、2025 EPS NT$28.26（創新高、+101% YoY）、2026 1 月營收 NT$30.41 億（**+121% YoY**）+ 3 月 NT$33.29 億（+91.7% YoY）、2026 全年營收目標**上修自 +50% → +70% YoY**（~NT$400 億）+ 毛利率衝 **30%+**、液冷產品占比 2026 衝 **55%+**、cold plate 月產 ~30 萬顆 + 泰國新廠 2026 1 月開出；市值 NT$300-450 億 / Forward PE ~18-25x / Re-rate **3/4**；**散熱戰場 anchor #5**（台廠液冷純度首選、CDU + 三鏈完整）；五軸 **19/25**（純度型代表、奇鋐 cold plate 50%+ 市佔王 vs 雙鴻 CDU IP + 三鏈整合 + 高利潤 Rubin sample 分歧路線）；**vs 奇鋐**：cold plate 市佔 15-20% vs 50%+（奇鋐勝 2.5-3x）/ rack manifold 27% vs 4 大 CSP 主供（互補）/ CDU 1.6MW IP（雙鴻完勝）
 
+### 標的：800V HVDC 白區晶片級電源 IC 3 家（第十一波 — [[800V HVDC 灰白區重劃（物理鐵壁論）]] 補位、FOMO SOC 物理鐵壁論）⭐
+
+[[FOMO SOC]] 2026-06-09 框架補位——前述 Eaton / Schneider / Navitas / Hitachi / ABB / Siemens 是灰區 + 灰白邊界、**白區末端 PoL 48V→core 一直缺位**；補完後「800V HVDC 整鏈五站」完整賣水人池：灰區 SST → BBU → 機櫃 PSU → 白區 PoL 中間態 → 白區功率 IC
+
+- [[Infineon]]（OTC: IFNNY、ETR: IFX）⭐ **2026-06-09 補位** — **歐洲 #1 功率半導體 + GaN+SiC 雙料 + 跨汽車/工業/AI server 三軸最廣分散電力轉換 IC 龍頭**：跟 [[Wolfspeed]] 純 SiC 不同、Infineon 是 **8" SiC 量產領先 1-2 年**（2025）+ GaN 製程整合 + 類比 IC 三軸並進；汽車 50%+ 客戶（Tesla / VW / BYD）+ 工業 25% + AI server 成長中；市值 ~$50B / Forward PE 17-20x；五軸 **22/25**（路線敏感 5 + 站別 4 + 耗材 3 + IP 5 + 客戶分散 5）；**800V HVDC 雙料受惠最廣 + EV 從週期低點回升**；vs [[Vicor]] 純白區 PoL / vs [[Texas Instruments TXN]] 大宗 → Infineon **唯一跨灰白區 + 跨產業最分散**
+- [[Texas Instruments TXN]]（NASDAQ: TXN）⭐ **2026-06-09 補位** — **全球類比 IC + 電源管理 IC 龍頭 + Kilby 半導體祖宗 + 跨汽車工業消費 AI 五軸最廣分散電源管理大宗供應商**：300mm analog fab 業界唯一規模 cost advantage 護城河；汽車 35% + 工業 35% + 消費 + 通信 + AI server 五軸分散、**單一客戶 < 5%**；市值 ~$170B / Forward PE 25-30x / 毛利 60%+（業界最高之一）；2024-2025 工業 destock 壓縮、2026 H1 回升中；五軸 **20/25**（路線 3 + 站別 4 + 耗材 4 + IP 4 + 客戶分散 5）；**對接 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]** 類比 IC「被遺忘的 AI 受惠者」放大版；**防守性最強的電源 IC 賣水人**
+- [[Vicor]]（NASDAQ: VICR）⭐ **2026-06-09 補位** — **48V→core PoL 龍頭 + Factorized Power Architecture 專利持有人 + 800V→48V 中間態的雙刃劍架構商**：專利 IP（VTM + PRM）把 48V→core 兩階段轉換做進單一模組、繞過傳統 multi-phase buck 控制器；NVDA / Amazon / Microsoft 客戶集中（3 分扣分）；市值 ~$3B / 毛利 50%+ / Q1 2026 仍微利、未進入 ramp；五軸 **19/25**（路線 4 + 站別 5 + 耗材 2 + IP 5 + 客戶分散 3）；**架構雙刃劍**：800V→48V 中間態強烈受惠 / 800V 直連 chip 普及則 Factorized Power Architecture 被擠壓；待校準 NVDA Rubin 機櫃白區架構是否確認 800V→48V vs 直連 chip
+
 ## 摘要 (summaries)
 
 ### 宋分備忘錄系列（月度宏觀，2026 Q1）
@@ -314,7 +325,11 @@
 
 ### 電力供應鏈 entity
 - ✅ [[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] 三家已建（2026-06-08、第八波 [[AI infra 電力戰場]] anchor triplet）
-- Talen Energy（TLN）、Eaton（ETN）、ABB、Schneider Electric、Vertiv（VRT）、Navitas（NVTS）、Infineon（IFX）、Hitachi Energy、Siemens Energy（待 ingest 延伸）
+- ✅ [[Talen Energy]] / [[Eaton]] / [[ABB]] / [[Schneider Electric]] / [[Navitas Semiconductor]] / [[Hitachi]] / [[Siemens]] 七家已建（2026-06-09、第八波補完）
+- ✅ [[Vertiv]] / [[台達電]] / [[奇鋐 3017|奇鋐]] / [[高力 8996|高力]] / [[雙鴻]] 散熱 5 家已建（2026-06-08~09、第九波 [[AI infra 散熱戰場]] arc）
+- ✅ [[Vicor]] / [[Infineon]] / [[Texas Instruments TXN]] 白區晶片級電源 IC 三家已建（2026-06-09、第十一波 [[800V HVDC 灰白區重劃（物理鐵壁論）]] 補位）
+- ✅ [[Wolfspeed]] / [[Monolithic Power Systems MPS]]（前期已建、800V 整鏈五站完整賣水人池對照組）
+- Eaton-Boyd、Bloom Energy（待 ingest）、Alfa Laval（瑞典 BPHE 全球龍頭、高力對手、待 ingest）
 
 ### 影片 AI entity
 - Runway、Adobe、Scale AI、Muse Spark、VOID

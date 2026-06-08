@@ -1718,3 +1718,30 @@
     - [[CPO 供應鏈圖譜]] 相關連結補完 3 家（Innolight 第 5 層 / FIT 第 6 層 / GFS 跨第 4-5 層 SiPho foundry）
     - [[index.md]] 標的段新增「**標的：codex P2 backlog 補完 5 家（第十一波 — 2026-06-09 Bottleneck Theory + CPO 圖譜 + 散熱戰場圖譜完整度補強）**」section + 5 entity 條目
   - 累計：**50 concept + 82 entity + 41 summary**（codex P2 backlog +5 entity、其中高力 8996 並行也建立）
+
+### 2026-06-09 ingest #A6 — 800V HVDC 灰白區重劃（物理鐵壁論）+ 白區晶片級電源 IC 3 家補位
+- 觸發：Leo 中途丟入 [[FOMO SOC]] 2026-06-09 文章「**為什麼到了 AI 時代，資料中心內部非得要把電壓一路拉高到 800V，而且還要改成直流電（HVDC）？**」+ 自來水隱喻 5 站 + 灰白區重劃
+- evidence_url: https://www.fomosoc.com/p/800v-hvdc-50hvdc
+- 操作：
+  - 新建 raw `2026-06-09_FOMOSOC-800V-HVDC-灰白區重劃-物理鐵壁論.md`
+  - 新建 summary `2026-06-09_FOMOSOC-800V-HVDC-灰白區重劃-物理鐵壁論.md` + 受惠鏈 5 站圖譜映射
+  - 新建 **concept [[800V HVDC 灰白區重劃（物理鐵壁論）]]**（三條 anchor：物理鐵壁 + 自來水隱喻 + 灰白區重劃；5 站完整圖譜；受惠鏈按灰白區排序；監控指標 5 條）
+  - 新建 3 entity（**白區末端電源 IC** 之前缺位）：
+    - **[[Infineon]] 22/25**（路線 5 + 站別 4 + 耗材 3 + IP 5 + 客戶分散 5）— GaN+SiC 雙料 + 跨汽車工業 AI 三軸最分散、8" SiC 量產領先 [[Wolfspeed]] 1-2 年
+    - **[[Texas Instruments TXN]] 20/25**（路線 3 + 站別 4 + 耗材 4 + IP 4 + 客戶分散 5）— 類比 IC 大宗 + 300mm analog fab 規模 + 跨產業最分散；對接 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]] 類比 IC「被遺忘的 AI 受惠者」放大版
+    - **[[Vicor]] 19/25**（路線 4 + 站別 5 + 耗材 2 + IP 5 + 客戶分散 3）— Factorized Power Architecture 持有人、48V→core PoL 龍頭；架構雙刃劍：800V→48V 中間態受惠 / 800V 直連 chip 普及則被擠壓
+- 連動更新：
+  - [[賣水人選股邏輯（投資版）]] master 表新增「800V HVDC 白區晶片級電源 IC（第五戰場補位）」段（含 3 家五軸 + 整鏈五站完整賣水人池 + 物理鐵壁論一句話）
+  - [[AI infra 電力戰場]] concept 補強「2026-06-09 FOMO SOC 物理鐵壁論深化」段（自來水隱喻 + 灰白區重劃 + 整鏈五站賣水人池）
+  - [[index.md]] 加 concept 段「800V HVDC 物理鐵壁論（第十一波）」+ entity 段「800V HVDC 白區晶片級電源 IC 3 家」+ 電力供應鏈 entity 子段標 ✅ 已建
+- 三條 anchor：
+  - **物理鐵壁**：P=VI、線損 ∝ I²，GPU 從 100W → 1.5kW、機櫃 5-15kW → 600-1,000kW（5-8x 物理跳階）= 升 800V 不是選項是物理必然
+  - **自來水隱喻**：水庫（電網）→ 淨水廠（變電站）→ 城市幹管（灰區重電）→ 社區水箱（白區配電）→ 家中水龍頭（機櫃 PSU）→ 濾水器吸管（晶片 PoL）
+  - **灰白區重劃**：傳統 AC 5 道折返跑 = 500MW data center 25MW 純廢電蒸發、800V HVDC SST 一次到位 + BBU 取代傳統 UPS + 白區擴張
+- 三家補位定位差：
+  - Infineon 22 = 唯一跨汽車工業 AI 三軸 + GaN+SiC 雙料 = 最防守且最受惠
+  - TXN 20 = 大宗 + 規模 + 通路 = 防守性最強的電源 IC 賣水人
+  - Vicor 19 = 架構 IP 持有人 = 800V→48V 中間態受惠 / 800V 直連 chip 被擠壓的雙刃劍
+- 自警惕（FOMO SOC 原文）：「不會一蹴而就，因為現代的數據中心並不是以直流電為生的」→ 全鏈替換需 5-10 年、過熱期可能在 pilot ramp 公告而非全鏈量產
+- 與並行 subagent 衝突管理：A6 共享文件（master 表 / [[AI infra 電力戰場]] / index / log）暫不動，等 A2~A5 全部完成後統一整合避免 race condition；A6 獨立檔案（raw / summary / concept / 3 entity）已在 6 月 9 日中段先落地（A1~A5 subagent 並行 commit 順帶 push）
+- 累計：**51 concept + 85 entity + 42 summary**（A6 +1 concept +3 entity +1 summary，其中 concept 800V HVDC + 3 entity Vicor/Infineon/TXN）

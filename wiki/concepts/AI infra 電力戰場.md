@@ -102,6 +102,23 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 
 → 連 [[控制點轉移（投資版）]]：800V 不是漸進升級，**是 NVDA 把整個 data center 電力 architecture 重新定義一次**
 
+### ⭐ 2026-06-09 FOMO SOC 物理鐵壁論深化（[[800V HVDC 灰白區重劃（物理鐵壁論）]]）
+
+[[FOMO SOC]] 2026-06-09 提出補強框架——把「800V 受惠 narrative」推升為「**物理鐵壁倒逼**」+ 「**灰白區重劃**」雙引擎：
+
+| 維度 | 補強 |
+|---|---|
+| **物理鐵壁** | P=VI、線損 ∝ I²，GPU 從 100W → 1.5kW、機櫃 5-15kW → **600-1,000kW**（5-8x 物理跳階）→ 升 800V **不是選項是物理必然** |
+| **自來水隱喻** | 水庫（電網）→ 淨水廠（變電站）→ 城市幹管（**灰區重電**）→ 社區水箱（**白區配電**）→ 家中水龍頭（機櫃 PSU）→ 濾水器吸管（晶片 PoL）|
+| **灰白區重劃** | 傳統 AC = 5 道折返跑（AC→DC→AC→DC→AC）= 500MW data center **25MW 純廢電蒸發**；800V HVDC = SST 一次到位、BBU 取代傳統 UPS、白區擴張 |
+
+**白區末端電源 IC 補位**（之前缺漏）：
+- **[[Vicor]] 19/25**：Factorized Power Architecture、48V→core PoL 龍頭、800V→48V 中間態受惠 / 800V 直連 chip 反被擠壓的雙刃劍
+- **[[Infineon]] 22/25**：GaN+SiC 雙料、跨汽車工業 AI 三軸最分散、8" SiC 量產領先 [[Wolfspeed]]
+- **[[Texas Instruments TXN]] 20/25**：類比 IC 大宗、300mm analog fab 規模 + 跨產業最分散、防守性最強
+
+→ 「800V HVDC 整鏈五站」完整賣水人池：灰區 SST [[ABB]]/[[Hitachi]]/[[Eaton]]/[[Siemens]] → BBU [[Vertiv]]/[[Schneider Electric]] → 機櫃 PSU [[台達電]] → 白區 PoL 中間態 [[Vicor]]/[[Monolithic Power Systems MPS]] → 白區功率 IC [[Infineon]]/[[Navitas Semiconductor]]/[[Wolfspeed]]/[[Texas Instruments TXN]]
+
 ## 跟 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]] 的對接
 
 > 宋分 #3 點名「**類比 IC 是被遺忘的 AI 受惠者**」（TXN / ADI）—— 因為「AI 資料中心電源管理需求正爆發、估值仍按傳統景氣循環定價 → 結構性低估」
