@@ -1,9 +1,10 @@
 ---
 title: Innolight
-aliases: [Innolight, 旭創, 中際旭創, Eoptolink 對手, 300308, 300308.SZ]
+aliases: [Innolight, 旭創, 中際旭創, Eoptolink 對手, Eoptolink 姊妹廠, 300308, 300308.SZ]
 type: entity
 created: 2026-06-09
 updated: 2026-06-09
+last_minor_update: 2026-06-09 補 Eoptolink 中國光模組 OEM 雙頭對照段
 as_of: 2026-06-09
 check_after: 2026-12-09
 sources:
@@ -191,7 +192,7 @@ confidence: medium
 | **[[AAOI]]**（NASDAQ）| **90%**（第 5 層 transceiver、AAOI vertical integration + 北美本土）| Innolight 規模 + 客戶分散勝（6-8x 營收）、AAOI vertical integration 純度勝 |
 | **[[Lumentum]]**（NASDAQ: LITE）| 60%（LITE 自做 transceiver、Innolight 客戶）| LITE EML vertical integration + InP 上游勝、Innolight 規模 transceiver 勝 |
 | **[[Coherent]]**（NYSE: COHR）| 60%（COHR transceiver $5.81B FY2025 / 25% 市佔、Innolight 客戶）| COHR vertical integration + SiC 多元勝、Innolight 規模 + 客戶分散勝 |
-| **Eoptolink**（新易盛 300502）| **95%**（中國 OEM 雙頭）| Innolight 規模 + NVDA 主供勝、Eoptolink Google 客戶綁定 |
+| **[[Eoptolink]]**（新易盛 300502.SZ、姊妹廠）| **95%**（中國 OEM 雙頭、合計中國 60-70% 市佔）| Innolight 規模 + 全產品線 + hyperscaler 純度勝、Eoptolink **LPO + Pluggable + 電信客戶 + Thailand+Vietnam 雙海外廠**差異化勝 |
 | **HG Genuine**（光迅 002281）+ **Accelink**（昂瑞微 / 武漢光訊）| 80%（中國 OEM 第三梯隊）| Innolight 規模碾壓 |
 
 ## ⭐ 跟 [[AAOI]] 對比（OEM vs vertical integration）
@@ -211,6 +212,32 @@ confidence: medium
 - 想要 **vertical integration + chokepoint 深度 + 北美本土 anchor + Microsoft ROFR** → **AAOI**
 - 想要 **規模 + 客戶分散 + 1.6T 量產領先 + 中國光模組龍頭** → **Innolight**
 - 想要兩家分散 → 持兩家當 pair（**光模組賽道全球雙頭**）
+
+## ⭐ vs [[Eoptolink]] 中國光模組 OEM 雙頭（**2026-06-09 補位**）
+
+[[Eoptolink]]（新易盛 300502.SZ）是 Innolight 的**姊妹廠**——**中國光模組 #2、合計中國 60-70% 市佔、共同壓制中國 OEM 第三梯隊**（光迅 002281 + Accelink / 武漢光訊 + 海信）。兩家在第 5 層 OEM transceiver 同層、五軸 17/25 並列、但**走的是兩條差異化路線**：
+
+| 維度 | Innolight（300308.SZ）| [[Eoptolink]]（300502.SZ）| 優劣 |
+|---|---|---|---|
+| 商業模式 | **OEM 模組廠 + 全產品線規模型** | **OEM 模組廠 + LPO（Linear Pluggable Optics）+ Pluggable optics 純度型** | **路線分歧** |
+| 規模（FY2025）| **CNY 25-30B（USD ~3.5-4.2B）** | **CNY 15-18B（USD ~2.1-2.5B）** | **Innolight 規模 ~1.5x** |
+| 全球 transceiver 市佔 | **30%+**（LightCounting #1 連續 5 年）| **8-12%**（LightCounting top 5）| **Innolight 規模碾壓** |
+| 800G 市佔 | 25-30% | 15-20% | Innolight 勝 |
+| 1.6T 量產時點 | **2026 H1 全球領先** | **2026 H2 追趕** | **Innolight 領先 0.5-1 季** |
+| 路線特色 | **全產品線 transceiver 規模型 + LPO 並重** | **LPO + Pluggable optics 純度型**（CPO 策略上謹慎）| **Eoptolink LPO 純度勝、Innolight 規模勝** |
+| NVDA 客戶 | 800G/1.6T 主供（推估 25-35%）| 800G/1.6T 供應（推估 15-25%）| **Innolight 主供地位勝** |
+| 客戶分散 | **NVDA + 4 大 CSP + Ciena + Nokia 全 hyperscaler 直供 = hyperscaler 純度** | **NVDA + 4 大 CSP + AT&T + Verizon + 中國電信運營商 = hyperscaler + 電信雙軌差異化** | **不同類分散、Innolight hyperscaler 純度勝、Eoptolink 電信差異化勝** |
+| 海外廠 hedge | **Thailand 單廠** | **Thailand + Vietnam 雙廠** | **Eoptolink 多一層 hedge** |
+| 12M 漲幅 | +500-800% | +400-700% | 接近並列 |
+| Bottleneck Theory 定位 | **Beneficiary 規模型**（第 5 層）| **Beneficiary LPO 純度型**（第 5 層）| **同層雙頭分歧路線** |
+| Forward PE | 30-50x | 25-40x | **Eoptolink 略乾淨** |
+
+→ **「**Innolight 規模 + 全產品線 + hyperscaler 客戶分散勝 + Eoptolink LPO + 電信 + 雙海外廠純度勝**」分歧路線**——
+- 想要 **規模 + 客戶分散度滿 + 1.6T 量產領先 + NVDA 主供 + 中國光模組龍頭** → **Innolight**
+- 想要 **LPO + Pluggable optics 純度 + 電信客戶差異化 + 雙海外廠 hedge + 估值略乾淨** → **[[Eoptolink]]**
+- 想要中國 OEM 雙頭分散 → **持兩家當 pair**（合計中國 60-70% 市佔、共同壓制中國第三梯隊 + 互補不互相消滅 + 對美系 vertical integration [[AAOI]] / [[Lumentum]] / [[Coherent]] 雙頭包夾）
+
+⭐ **「**中國 OEM 雙頭 vs 美系 vertical integration 分歧路線**」結構性意義**：Innolight + Eoptolink = **NVDA 1.6T 採購中**非中國替代**鏈條外的另一邊**（vs AAOI Sugar Land 本土 + Lumentum Greensboro NC InP fab + Coherent vertical integration 美系 vertical integration），是 NVDA / CSP 1.6T 供應鏈分散化的**地緣 hedge** anchor——hyperscaler 不會把 1.6T 全綁在美系 vertical integration 4 家（AAOI / LITE / COHR / Marvell），中國 OEM 雙頭提供 **scale + cost + 多源供應鏈**的反向 anchor。
 
 ## 五軸評分（25 分制）
 
@@ -256,6 +283,7 @@ confidence: medium
 - [[控制點轉移（投資版）]]
 - [[半導體基礎建設化]]
 - [[AAOI]]
+- [[Eoptolink]]
 - [[Lumentum]]、[[Coherent]]、[[IQE]]
 - [[NVDA]]、[[Ciena]]、[[Nokia]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]

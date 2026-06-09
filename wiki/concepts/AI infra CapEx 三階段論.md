@@ -3,10 +3,10 @@ title: AI infra CapEx 三階段論
 aliases: [CapEx 三階段, AI 基礎建設三階段, 三階段論]
 type: concept
 created: 2026-06-08
-updated: 2026-06-08
-last_minor_update: 2026-06-08 IQE entity 補完
-as_of: 2026-06-08
-check_after: 2026-12-08
+updated: 2026-06-09
+last_minor_update: 2026-06-09 中國光模組鏈條（Innolight + Eoptolink 雙頭）補位 + 2026-06-08 IQE entity 補完
+as_of: 2026-06-09
+check_after: 2026-12-09
 expires_on: 2027-12-31
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
@@ -65,6 +65,23 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 - [[Meta]]
 - [[Microsoft]]
 - [[Oracle]]（已建 2026-06-09）
+
+### ⭐ 中國光模組鏈條（2026-06-09 補位 — Innolight + Eoptolink 中國 OEM 雙頭）
+
+中國 OEM 雙頭 [[Innolight]] 300308.SZ（中國 #1、全球 transceiver 30%+ 市佔、LightCounting 連續 5 年 #1）+ [[Eoptolink]] 300502.SZ（中國 #2、全球 transceiver 8-12% 市佔）= **NVDA 1.6T 採購中**非中國替代**鏈條（[[Coherent]] / [[Lumentum]] / [[AAOI]] / Marvell 美系 vertical integration 之外）**——合計**中國 60-70% 市佔 + 全球 transceiver 40%+ 市佔**、共同壓制中國 OEM 第三梯隊（光迅 002281 + Accelink + 海信）。
+
+| 公司 | 1.6T 量產時點 | 路線特色 | 客戶結構差異化 | 海外廠 hedge |
+|---|---|---|---|---|
+| [[Innolight]] 300308.SZ | **2026 H1 全球領先** | **全產品線 transceiver 規模型 + LPO 並重** | NVDA + 4 大 CSP + Ciena + Nokia **全 hyperscaler 直供**（純度型） | Thailand 單廠 |
+| [[Eoptolink]] 300502.SZ | **2026 H2 追趕** | **LPO + Pluggable optics 純度型**（CPO 策略上謹慎） | NVDA + 4 大 CSP + **AT&T + Verizon + 中國電信運營商**（hyperscaler + 電信雙軌差異化）| **Thailand + Vietnam 雙廠**（多一層 hedge）|
+
+⭐ **對 NVDA / CSP 1.6T 供應鏈分散化的地緣 hedge 意義**：
+- **多源策略**：NVDA Rubin 1.6T 不會把採購全綁在美系 vertical integration 4 家（AAOI / LITE / COHR / Marvell）、中國 OEM 雙頭提供 **scale + cost + 多源供應鏈**反向 anchor
+- **美中分離極化下的中位策略**：hyperscaler 仍會保留中國 OEM 採購（透過 Thailand + Vietnam 海外廠規避 ITAR / Section 301）、但比例會從 60-70% 降至 40-50%、美系 vertical integration 4 家從 30% 升至 50%+
+- **互補不互相消滅**：Innolight 規模 hyperscaler 純度 + Eoptolink LPO + 電信 + 雙海外廠純度 = **中國 OEM 雙頭分歧路線、不會二選一**
+- **跟美系 vertical integration 對沖意義**：[[AAOI]] / [[Lumentum]] / [[Coherent]] = **chokepoint 深度** + **美國本土 anchor**；Innolight + Eoptolink = **規模 + 成本 + 客戶分散** + **多海外廠 hedge** = 兩種**不同層級結構性 anchor**、可同時持有作為 1.6T 光模組賽道完整曝險
+
+⭐ **跟 [[中國半導體國產替代（投資對沖視角）]] 連結**：中國 OEM 雙頭跟 [[CXMT]] / [[YMTC]] / [[華為]] 不同——CXMT / YMTC / 華為是「**中國市場閉環、國產替代美系**」、Innolight + Eoptolink 是「**中國產能服務全球 hyperscaler + 雙海外廠規避制裁**」開放型而非閉環型；前者打地緣分離 narrative、後者打全球供應鏈成本 + 規模 narrative。
 
 ### 訊號 2：InP 供應鏈三家**同時喊緊**（最關鍵）
 
@@ -137,7 +154,8 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 - 封裝：[[TSMC]] CoWoS / [[Amkor]] / [[日月光 ASE]]
 
 ### 第三階段（**現在**）
-- 光通訊：[[Lumentum]] / [[Coherent]] / [[Ciena]] / [[Nokia]]
+- 光通訊（美系 vertical integration / 第 5 層 chokepoint depth）：[[Lumentum]] / [[Coherent]] / [[AAOI]]
+- 光通訊（**中國 OEM 雙頭** / 第 5 層 Beneficiary 規模 + LPO 純度型）：**[[Innolight]] 300308.SZ + [[Eoptolink]] 300502.SZ**（合計中國 60-70% 市佔 + 全球 transceiver 40%+ 市佔、Thailand + Vietnam 海外廠規避 ITAR、2026-06-09 補位）
 - DCI / 接口：[[Ciena]] / [[Nokia]]（透過 Hyper Rail / Multi-Rail 傳導）
 - InP 上游：[[IQE]] / ⚠️ Inrad
 - 矽光生態：⚠️ POET / ⚠️ Ayar Labs

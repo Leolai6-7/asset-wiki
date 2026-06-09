@@ -3,9 +3,10 @@ title: Bottleneck Theory（瓶頸論）
 aliases: [Bottleneck Theory, 瓶頸論, Serenity Bottleneck, 七層瓶頸框架, AI 供應鏈瓶頸論]
 type: concept
 created: 2026-06-08
-updated: 2026-06-08
-as_of: 2026-06-08
-check_after: 2026-12-08
+updated: 2026-06-09
+last_minor_update: 2026-06-09 第 5 層 Beneficiary 補 Eoptolink wikilink + 中國 OEM 雙頭對照
+as_of: 2026-06-09
+check_after: 2026-12-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
   - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
@@ -33,7 +34,7 @@ confidence: medium
 | **2** | **Growth Equipment**（晶體生長設備） | pBN crucibles（pyrolytic boron nitride 坩堝）= InP boule 必須 | **Shin-Etsu Chemical**（日本單一供應商）|
 | **3** | **InP Substrate Processing**（InP 基板加工） | 「**框架皇冠寶石**」、供應鏈最緊張一層 | **[[AXTI]]** + **Sumitomo Electric**（雙頭壟斷 ~80-90% 全球供應）|
 | **4** | **Laser Sources**（雷射光源） | CW（continuous wave）DFB laser for CPO、2027-2028 拐點 | **[[SIVE]]**（~$290M-$1.3B MC）+ [[Lumentum|LITE]] + [[Coherent|COHR]] |
-| **5** | **Optical Transceivers**（光收發器） | 1.6T 模組組裝 + 系統 | **[[AAOI]]**（vertical integration 路徑）、[[Lumentum|LITE]]、[[Coherent|COHR]]、Innolight |
+| **5** | **Optical Transceivers**（光收發器） | 1.6T 模組組裝 + 系統 | **[[AAOI]]**（vertical integration chokepoint depth）、[[Lumentum|LITE]]、[[Coherent|COHR]]（vertical integration）+ **[[Innolight]] + [[Eoptolink]]**（**中國 OEM 雙頭、合計中國 60-70% 市佔**、Beneficiary 規模型 + LPO 純度型分歧路線）|
 | **6** | **Testing & Qualification**（測試 + 驗證） | wafer-level + package-level burn-in、photonics 早期階段 | **[[AEHR]]** |
 | **7** | **Optical Cable & Fiber**（光纖 + 光纜） | 集群互連物理基礎建設 | **[[Corning|GLW]]**、Prysmian、Furukawa |
 
@@ -54,7 +55,7 @@ Serenity 區分三個概念、Leo 也應該分清：
 
 | 類型 | 定義 | 例子 |
 |---|---|---|
-| **Beneficiaries**（受益者） | 跟著賽道漲、可替代、有競爭 | OEM 模組廠（旭創、新易盛）、CSP（[[AMZN]] / [[Microsoft]] / [[Google]]） |
+| **Beneficiaries**（受益者） | 跟著賽道漲、可替代、有競爭 | OEM 模組廠（[[Innolight]] 規模型 + [[Eoptolink]] LPO 純度型 = 中國 OEM 雙頭）、CSP（[[AMZN]] / [[Microsoft]] / [[Google]]） |
 | **Bottlenecks**（瓶頸） | 控制產能、價格有溢價、但中期可被替代 | [[Coherent|COHR]] EML、[[Lumentum|LITE]] pump laser、[[Tower Semiconductor\|TSEM]] SiPho foundry |
 | **Chokepoints**（咽喉點） | 架構上短期無可替代、被替代代價極高 | [[AXTI]] InP substrate（雙頭壟斷）、[[SIVE]] CW DFB laser（CPO 唯一）、Shin-Etsu pBN |
 
@@ -105,7 +106,8 @@ Serenity 區分三個概念、Leo 也應該分清：
 - [[Lumentum]]、[[Coherent]]（第 4-5 層既有）
 - [[Corning]]（第 7 層光纖）
 - ⭐ **[[信越化學]]**（第 2 層 pBN crucible 單一供應商 + 跨光阻劑 + 矽晶圓多賽道、2026-06-09 補完 entity）
-- ⭐ **[[Innolight]]**（第 5 層 OEM 模組廠全球規模 #1 + 中國光模組 #1、2026-06-09 補完 entity Beneficiary 代表）
+- ⭐ **[[Innolight]]**（第 5 層 OEM 模組廠全球規模 #1 + 中國光模組 #1、2026-06-09 補完 entity Beneficiary 規模型代表）
+- ⭐ **[[Eoptolink]]**（第 5 層 OEM 模組廠中國 #2 + LPO 路線 first-mover + 電信客戶差異化 + Thailand + Vietnam 雙海外廠、2026-06-09 補完 entity Beneficiary LPO 純度型代表、跟 Innolight 並列「中國 OEM 雙頭」合計中國 60-70% 市佔）
 - ⭐ **[[Foxconn Interconnect FIT]]**（第 6 層 connector 鴻海集團 80% 持股 + AI server ODM 內製、2026-06-09 補完 entity Beneficiary 代表）
 - ⭐ **[[GlobalFoundries]]**（跨第 4-5 層 SiPho foundry 對手位 + Ayar Labs 戰略投資 + Mubadala 88% 持股、2026-06-09 補完 entity Tower 對沖）
 - [[CPO 供應鏈圖譜]]（同類七層、台股版）

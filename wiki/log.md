@@ -2,6 +2,86 @@
 
 每次 ingest / update / lint / query 的紀錄。
 
+## 2026-06-09（C2 — Eoptolink + 中國光模組 OEM 雙頭對照）
+
+### 2026-06-09 ingest #C2 — Eoptolink（新易盛 300502.SZ）entity 建檔 + 中國光模組 OEM 雙頭對照補強
+
+- 觸發：Leo「補 1 entity（Eoptolink）+ 1 concept 強化（[[AI infra CapEx 三階段論]] 中國光模組鏈條段）」+ Innolight + Bottleneck Theory 同步補強
+
+#### Part A — 新建 entity [[Eoptolink]]（300502.SZ / 新易盛）
+
+- 一句話定位：**中國光模組 #2 + LPO（Linear Pluggable Optics）+ Pluggable optics 純度型 OEM 模組廠 + 1.6T 量產追趕 [[Innolight]] 2026 H2 ramp + NVDA + 4 大 CSP + AT&T + Verizon + 中國電信運營商雙軌客戶差異化 + Thailand + Vietnam 雙海外廠**——Innolight 姊妹廠、合計中國 60-70% 市佔
+- 三層 thesis：賽道共識階段、規模 ~1.5x 落後 Innolight 但 LPO + 電信 + 雙海外廠三軸差異化、客戶結構 hyperscaler + 電信雙軌（vs Innolight 全 hyperscaler 純度）
+- 財務快照（as_of: 2026-06-09）：FY2025 營收 CNY 15-18B（USD ~2.1-2.5B、YoY +50-70%）/ FY2026 指引 CNY 28-35B（YoY +70-100%）/ 市值 CNY 90-130B（USD ~12-18B、vs Innolight CNY 250-330B 1/3 規模）/ Forward PE 25-40x（略乾淨於 Innolight 30-50x）/ 12M +400-700% / Re-rate 3/4
+- 五軸 **17/25**（路線 4 + 站別 3 + 耗材 3 + IP 2 + 客戶分散 5）—— **跟 [[Innolight]] 17 並列**、跟 [[Foxconn Interconnect FIT]] 17 / [[景碩]] 17 並列
+- Bottleneck Theory 第 5 層 **Beneficiary LPO 純度型 OEM 模組廠代表**（跟 Innolight 規模型分歧路線）
+- 護城河：中國光模組 #2 + LPO first-mover + Pluggable 純度 + 電信差異化 + Thailand+Vietnam 雙廠
+- 風險：OEM 沒控制權 + 規模 6x 落後 Innolight + ITAR/Section 301 升級 + NVDA 繞過 OEM + CPO 取代 LPO（2027-2028）+ 美 hyperscaler 國安偏好美系 vertical integration
+
+#### Part B — 補強 [[Innolight]] 雙頭對照段
+
+- 新增「⭐ vs [[Eoptolink]] 中國光模組 OEM 雙頭」段：完整 12 維度對照表（商業模式 / 規模 / 全球市佔 / 800G / 1.6T / 路線 / NVDA / 客戶分散 / 海外廠 / 漲幅 / Bottleneck / Forward PE）
+- 結論：「Innolight 規模 + 全產品線 + hyperscaler 客戶分散勝 + Eoptolink LPO + 電信 + 雙海外廠純度勝」分歧路線、可單押 / 可同時持有作中國 OEM 雙頭 pair
+- 結構性意義：中國 OEM 雙頭 = NVDA 1.6T 採購中**非中國替代**鏈條外的另一邊（vs AAOI / LITE / COHR / Marvell 美系 vertical integration 4 家）、是 1.6T 光模組賽道完整曝險的反向地緣 hedge anchor
+- 補 aliases：Eoptolink 姊妹廠
+- 補對手表：Eoptolink 從純文字升級為 wikilink + 詳細優劣對照
+
+#### Part C — 補強 [[AI infra CapEx 三階段論]] 中國光模組鏈條段
+
+- 新增「⭐ 中國光模組鏈條（2026-06-09 補位 — Innolight + Eoptolink 中國 OEM 雙頭）」段
+- 中國 OEM 雙頭 = 合計中國 60-70% 市佔 + 全球 transceiver 40%+ 市佔、共同壓制中國 OEM 第三梯隊（光迅 002281 + Accelink + 海信）
+- 對 NVDA / CSP 1.6T 供應鏈分散化的**地緣 hedge** 意義：多源策略 + 美中分離極化下的中位策略（hyperscaler 仍會保留中國 OEM 採購、透過 Thailand + Vietnam 海外廠規避 ITAR / Section 301、比例會從 60-70% 降至 40-50%、美系從 30% 升至 50%+）+ 互補不互相消滅
+- 第三階段受惠鏈圖譜：分「美系 vertical integration（AAOI / LITE / COHR）」+「中國 OEM 雙頭（Innolight + Eoptolink）」雙軌
+- 跟 [[中國半導體國產替代（投資對沖視角）]] 區別連結：中國 OEM 雙頭是「**中國產能服務全球 hyperscaler + 雙海外廠規避制裁**」開放型 / CXMT / YMTC / 華為是「**中國市場閉環、國產替代美系**」閉環型
+
+#### Part D — 補強 [[Bottleneck Theory（瓶頸論）]] 第 5 層 Beneficiary 段
+
+- 七層表第 5 層 Optical Transceivers：Eoptolink wikilink 加入、Innolight + Eoptolink 「中國 OEM 雙頭」標註
+- Beneficiaries vs Bottlenecks vs Chokepoints 表：OEM 模組廠範例升級為 wikilink（[[Innolight]] 規模型 + [[Eoptolink]] LPO 純度型 = 中國 OEM 雙頭）
+- 相關連結段：Eoptolink 從 implicit 升級為 explicit anchor
+
+#### Part E — 補強 [[賣水人選股邏輯（投資版）]] master 表
+
+- TGV / CoWoS / 玻璃基板賽道表加 Eoptolink 行：17/25（路 4 + 站 3 + 耗 3 + IP 2 + 客 5）「中國光模組 #2 + LPO + Pluggable 純度型 + 電信差異化」
+- 光通訊 / DCI（第三戰場）表加 AAOI 18 + Innolight 17 + Eoptolink 17 三家：補完第 5 層 Beneficiary 完整光通訊賽道
+- 第 5 + 第 6 層 Beneficiary 關鍵發現段：Innolight + Eoptolink + Foxconn Interconnect FIT 三家並列 17/25、Innolight + Eoptolink 並列「中國 OEM 雙頭」對美系 vertical integration 4 家反向 anchor
+- 新增「⭐⭐ 中國 OEM 雙頭 vs 美系 vertical integration 分歧路線」段：解構 NVDA 1.6T 多源策略意義 + 互補不互相消滅邏輯
+
+#### 同步
+
+- 新建 entity [[Eoptolink]] 300502.SZ
+- 補強 [[Innolight]] entity + 雙頭對照段
+- 補強 [[AI infra CapEx 三階段論]] concept 中國光模組鏈條段
+- 補強 [[Bottleneck Theory（瓶頸論）]] concept 第 5 層 Beneficiary 補 Eoptolink wikilink
+- 補強 [[賣水人選股邏輯（投資版）]] master 表 + 光通訊 / DCI 表 + Beneficiary 段
+- 補強 index.md「標的：codex P2 backlog 補完 5 家」段加 Eoptolink 條目
+
+#### 結束報告
+
+**Eoptolink 五軸 17/25** 跟 [[Innolight]] 17 / [[Foxconn Interconnect FIT]] 17 / [[景碩]] 17 並列、客戶分散 5/5 滿（hyperscaler + 電信雙軌差異化、vs Innolight 全 hyperscaler 純度）= 跟 Innolight 分歧路線。
+
+**Innolight vs Eoptolink 路線分歧**：
+- **Innolight 規模型 + 全產品線**：transceiver 全產品線 + hyperscaler 純度（NVDA + 4 大 CSP + Ciena + Nokia 全直供）+ Thailand 單廠
+- **Eoptolink LPO 純度型 + 電信差異化**：LPO（Linear Pluggable Optics）+ Pluggable optics 純度型（CPO 策略上謹慎）+ hyperscaler + 電信雙軌（NVDA + 4 大 CSP + AT&T + Verizon + 中國電信運營商三大）+ Thailand + Vietnam 雙海外廠
+
+**LPO 路線 vs 傳統 transceiver 路線差異**：
+- LPO 純度型 = 跟 [[AAOI]] 北美 LPO 並列、CPO 策略上謹慎（不押 CPO ecosystem [[POET Technologies]] / [[Ayar Labs]]）= 中期 CPO 量產時 LPO 業務 displacement 風險、短期 LPO + Pluggable 規模化純度勝
+- 傳統全產品線 transceiver = Innolight 規模 + 客戶 + 認證三軸碾壓中國競爭、覆蓋 100G/200G/400G/800G/1.6T 全線
+
+**中國 OEM 雙頭 vs 美系 vertical integration 分歧路線**：
+- **美系 vertical integration**（[[AAOI]] / [[Lumentum]] / [[Coherent]] / Marvell）= chokepoint 深度 + 美國本土 + Microsoft ROFR + CHIPS Act
+- **中國 OEM 雙頭**（[[Innolight]] + [[Eoptolink]]）= 規模 + 成本 + 客戶分散 + Thailand + Vietnam 雙海外廠 hedge ITAR / Section 301
+- **NVDA 1.6T 多源策略**：NVDA 不會把 1.6T 全綁在美系 4 家、中國 OEM 雙頭提供 scale + cost + 多源供應鏈反向 anchor、是 1.6T 光模組賽道完整曝險的另一邊
+
+**Surprising 發現**：
+- **Innolight + Eoptolink 並非互相消滅、而是分歧路線**：Innolight 規模 hyperscaler 純度 + Eoptolink LPO + 電信 + 雙海外廠純度 = 可同時持有作中國 OEM 雙頭 pair（合計中國 60-70% 市佔、共同壓制中國第三梯隊）
+- **Eoptolink Vietnam 廠是 vs Innolight 差異化亮點**：Innolight 只有 Thailand 廠、Eoptolink 多一層 Vietnam hedge（規避 ITAR / Section 301 升級更穩）= 5 軸海外廠維度若拉出來算、Eoptolink 略勝 Innolight 1 分
+- **電信客戶差異化是 Eoptolink 真實 alpha**：AT&T + Verizon + 中國電信運營商三大電信 anchor 是 Innolight 較弱的領域、電信 5G/6G fronthaul/backhaul 升級節奏雖慢於 hyperscaler 但提供結構性 base + 客戶不會集中
+
+- 累計：**65 concept + 111 entity + 42 summary**（C2 +1 entity Eoptolink + 4 update Innolight / AI infra CapEx 三階段論 / Bottleneck Theory / 賣水人選股邏輯 master 表 + 1 update index.md）
+
+---
+
 ## 2026-06-09（continued）
 
 - ingest: **1.6T 採購者鏈條 7 家逐一交付**（[[AI infra CapEx 三階段論]] 第三階段 anchor 補位、subagent 補完）
