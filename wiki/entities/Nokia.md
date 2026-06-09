@@ -3,11 +3,12 @@ title: Nokia
 aliases: [Nokia, NOK, NOK.US, Nokia Oyj, Nokia Corp, NOKIA.HE]
 type: entity
 created: 2026-06-05
-updated: 2026-06-05
-as_of: 2026-06-05
-check_after: 2026-12-05
+updated: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-12-09
 sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
+  - raw/2026-05-20_FOMOSOC-48-DCI-Nokia-Cisco.md
 tags: [標的, 美股, 歐股, DCI, 光通訊, 設備商, foreign_competitor, AI 基礎設施, hyperscaler, 5G]
 confidence: high
 ---
@@ -225,6 +226,27 @@ Nokia 1830 GX RD66 + D2ILA Multi-Rail OLS 也整合 **pump laser + amplifier + W
 
 **總分：18/25**
 
+## ⭐ FOMO SOC #48 校準（2026-06-09 ingest）
+
+KP@FOMOSoc 第 48 期「**被遺忘的巨人重返巔峰？跨資料中心互連（DCI）成下一重點？**」（2026-05-20）三條 anchor 補強既有 entity：
+
+| KP 點出 | 既有 entity 狀態 | 本次校準 |
+|---|---|---|
+| **NVDA 戰略投資 $1B（2025）具體金額** | 既有「**Nokia 跟 NVDA 簽 5G/6G AI-RAN 戰略合作（2025）**」未具體金額 | ✅ **具體 $1B**——「電信資產獲第二變現路徑」anchor 強化 |
+| **AI-RAN 時程：2026 商業試點 / 2027 商用版本** | 既有「商業化時程不明、可能延遲」 | ✅ **具體時程**——2027 商用版本確認、Nokia 比 Ericsson 走 NVDA 路線的時間表清晰化 |
+| **7220 IXR-H6 資料中心交換器 102.4 Tb/s + Ultra Ethernet** | 既有 Optical Networks + IP Networks segment 整體、未獨立 7220 IXR-H6 | ✅ **新增交換器層 anchor**——直接對標 Cisco Nexus 9k + Arista 7800R + NVDA Spectrum-X、是 Nokia「**第三張牌**」（vs 第一張 Infinera + 第二張 NVDA $1B） |
+| **FY2026 NI 指引 +12-14% 是上修而來**（從 6-8% 起算）| 既有「+12-14% comparable」 | ✅ **上修動能 anchor**——市場原預期 6-8% / 管理層調升至 12-14% = 結構性 surprise + 7220 IXR-H6 / Infinera synergy 雙引擎 |
+
+**KP 立場校準**：
+- KP 把 Nokia 定位為**「被動式轉型」**（時代找上門、非主動戰略先見）= 比 [[Ciena]] 純度王少了「**主動戰略 alpha**」
+- 但 Nokia 三張牌（Infinera + NVDA $1B + 7220 IXR-H6）= 完整 AI infra Scale-Across 廣度王布局
+- KP 是 #48 **主推**（vs Cisco 對沖陪襯）= 跟 wiki 既有「Nokia 18/25 + 折價一半 + 廣度王」立場一致
+
+**7220 IXR-H6 對 [[NVDA 網路 stack map]] 補強**：
+- Nokia 7220 IXR-H6 102.4 Tb/s 是 Ultra Ethernet 規範、進入資料中心交換器 hyperscaler 主場
+- 直接對手：Cisco Nexus 9k / Arista 7800R EOS / NVDA Spectrum-X
+- 配套 hyperscaler scale-out 流量 = 跟 Nokia 1830 GX RD66 scale-across 形成「**雙產品線交叉**」
+
 ### vs Ciena 對照（同 DCI 賽道）
 
 | 公司 | 五軸總分 | 路線敏感 | 站別關鍵 | 耗材 | IP | 客戶分散 |
@@ -248,7 +270,7 @@ Nokia 1830 GX RD66 + D2ILA Multi-Rail OLS 也整合 **pump laser + amplifier + W
 |---|---|---|---|---|
 | [[Ciena]] | **5/5（純）** | 80-91x（極貴）| 1/5（極集中）| 1/5（無）|
 | **Nokia** | **2/5（多元）** | 43x（貴）| 4/5（分散）| 4/5（強）|
-| Cisco | 2/5（多元） | ~17x（便宜）| 4/5（分散）| 5/5（最強）|
+| [[Cisco]] | 2/5（多元） | ~17x（便宜）| 4/5（分散）| 5/5（最強）|
 | [[Ericsson]] | 1/5（退出）| ~14x（便宜）| 4/5（分散）| 4/5（強）|
 
 → **Cisco / Ericsson 是「DCI 配置雜訊」**——估值便宜但 DCI 槓桿極低、AI 紅利吃不到

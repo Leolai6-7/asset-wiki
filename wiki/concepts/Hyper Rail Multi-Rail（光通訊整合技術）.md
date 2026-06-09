@@ -3,12 +3,13 @@ title: Hyper Rail / Multi-Rail（光通訊整合技術）
 aliases: [Hyper Rail, Multi-Rail, Hyperscale Multi-Rail, RLS Hyper-Rail, 光通訊整合, 多軌光通訊]
 type: concept
 created: 2026-06-05
-updated: 2026-06-05
-as_of: 2026-06-05
-check_after: 2026-12-05
+updated: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-12-09
 expires_on: 2027-12-31
 sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
+  - raw/2026-05-20_FOMOSOC-48-DCI-Nokia-Cisco.md
 evidence_url: https://www.ciena.com/insights/what-is/what-is-hyper-rail-or-multi-rail
 tags: [光通訊, DCI, Hyper Rail, Multi-Rail, pump laser, EDFA, CPO, scale across, AI infra]
 confidence: high
@@ -185,6 +186,40 @@ LITE 實際出貨數據 +80% YoY ≈ 介於「傳統部署」與「Hyper-Rail �
 - [[TGV × CPO 依賴圖]]：Hyper-Rail 不依賴 TGV，但與 CPO 在同一 hyperscaler design wins 池
 - [[預期差]]：市場常把「光通元件整合」直覺解讀成需求下降，Jevons 製造預期差
 - [[資訊擴散四階段]]：Hyper-Rail 在 2026 仍處「驗證」階段，未進共識
+
+## ⭐ FOMO SOC #48 校準（2026-06-09 ingest）
+
+KP@FOMOSoc 第 48 期「**DCI + Nokia + Cisco**」（2026-05-20）強化既有 concept：
+
+### 1. 「AI 網路三層架構」術語確認
+
+| 層 | 範圍 | 廠商主場 | KP 點出 |
+|---|---|---|---|
+| **Scale-up** | 機架內 GPU 互連 | NVDA NVLink | scale-up |
+| **Scale-out** | 機房內互連 | AVGO / Marvell ASIC | scale-out |
+| **Scale-across** ⭐ | **資料中心間互連（新戰場）** | **[[Ciena]] / [[Nokia]] / [[Cisco]]** | scale-across（新瓶頸） |
+
+→ KP 把「scale-across」明確列為「**AI 算力時代的新瓶頸**」、跟 wiki 既有「scale up / out / across 三層架構」段一致、但 KP 把「**Cisco 列為第三軌補強位**」是本次校準新加。
+
+### 2. 「單一 DC 無法容納百萬 GPU」物理瓶頸 anchor
+
+KP 原話：「**單一資料中心無法容納百萬 GPU 規模、需要跨資料中心互連技術形成超級電腦**」+「**AI 訓練流量牽一髮而動全身、對延遲 / 無損傳輸要求遠超傳統人類流量網路**」= scale-across 的核心物理 thesis。
+
+### 3. 三家分食架構補位 [[Cisco]]
+
+既有 concept 主要對比 CIEN（純度王）vs NOK（廣度王），本次補入 **[[Cisco]]**：
+
+| 公司 | DCI 純度 | 估值（Fwd PE）| 客戶集中度 | 業務多元緩衝 | AI 紅利 | 關鍵差異 |
+|---|---|---|---|---|---|---|
+| [[Ciena]] | **5/5（純）** | 80-91x | 1/5 | 1/5 | **5/5** | DCI 純度王 + HyperRail co-developed |
+| [[Nokia]] | 2/5（多元）| 43x | 4/5 | 4/5 | 3/5 | 廣度王 + 三張牌（Infinera + NVDA $1B + 7220 IXR-H6）|
+| **[[Cisco]]** | **2/5（多元）** | **~17x** | 4/5 | **5/5** | **1/5** | **估值便宜對沖位、AI 紅利吃不到** |
+
+→ KP 把 Cisco 列為「DCI 賽道補強位 + 估值便宜對沖」、付費牆後可能揭示完整 Cisco 對沖邏輯（Splunk SecOps + Silicon One + Nexus 9k）
+
+### 4. Nokia 7220 IXR-H6 102.4 Tb/s 交換器補入（DCI 概念延伸）
+
+KP 點出 Nokia 第三張牌：**7220 IXR-H6 資料中心交換器、102.4 Tb/s 吞吐量、符合 Ultra Ethernet 規範、直接對標 Cisco / Arista**——是「scale-out」交換器層、與「scale-across」line system 形成 Nokia 在 hyperscaler 資料中心的**雙產品線交叉**。
 
 ## 待 ingest 延伸
 
