@@ -78,7 +78,7 @@ CPO 也可能用矽中介層（TSV）做：
 - 純 TGV：[[鈦昇]]、[[雷科]]
 
 ### Tier 3：押更上游
-- 玻璃材料：[[Corning]] / [[AGC]] / [[SCHOTT]]（待 ingest）
+- 玻璃材料：[[Corning]] / [[AGC]] / [[SCHOTT]]
 - IP 持有：[[LPKF]]（LIDE）— **CPO 採 LIDE → LPKF 從 TGV 賽道穿透到 CPO 賽道**
 
 ## LPKF 的特別地位
