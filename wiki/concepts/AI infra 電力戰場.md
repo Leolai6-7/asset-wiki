@@ -48,15 +48,18 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 
 ### 第一層：電力產生（Generation）
 
-把電做出來——**核電 / 氣電 / 再生能源**。
+把電做出來——**核電 / 氣電 / 再生能源 / SOFC**。
 
 | 玩家 | 類型 | 規模 | 對 AI infra anchor |
 |---|---|---|---|
 | **[[Constellation Energy]]**（CEG）| **核電 #1 美國** | 32.4 GW 核電 + Calpine 併購後 26 GW 氣電 | **Microsoft Three Mile Island 20 年 PPA 835MW**（2024-09 簽、2026 啟動、2028 上線） |
 | **[[Vistra]]**（VST）| **核電 #2 美國 + 氣電** | ~41 GW（核電 6.4GW + 氣電 30GW+ + Cogentrix 5.5GW 待併）| **Meta 20 年 PPA 2.6GW**（2026-01 簽、跨 PJM 三廠核電 + uprate）+ **AWS PPA**（多年合約）|
-| Talen Energy（TLN）| 核電 + 氣電 | 2.5 GW 核電（Susquehanna）| **Amazon $18B 17 年 PPA 1.92GW**（2025-06 簽）（⚠️ 待 ingest）|
+| **[[Talen Energy]]**（TLN）| 核電 + 氣電 | 2.5 GW 核電（Susquehanna）+ Caithness 氣電 | **Amazon $18B 17 年 PPA 1.92GW**（2025-06 簽）|
+| **[[Bloom Energy]]**（BE）⭐ **第四選擇 SOFC** | **SOFC 分散式 firm power** | **2026 1GW → 2GW 產能翻倍** | **Oracle Stargate 多個 GW 級訂單**（hyperscaler 評估中、5-10 分鐘部署 + 跳電網瓶頸）|
 
 → **核電 = 24/7 carbon-free baseload**、是 hyperscaler **AI 永續承諾 + 政治正確雙頭過關**的唯一答案
+
+→ **SOFC（第四選擇）= 分散式 + 快速部署 + 跳電網瓶頸**、是 hyperscaler **2026-2027 急需 + 電網瓶頸地區**的補位 anchor（vs 核電復役延宕 + 變壓器交期 2-3 年）
 
 ### 第二層：電力傳輸（Transmission）
 
@@ -272,6 +275,7 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 - ✅ [[Constellation Energy]]（CEG）— 32.4GW 核電 + Calpine 26GW 氣電 + MSFT TMI 20 年 PPA、五軸 22/25
 - ✅ [[Vistra]]（VST）— 41GW + Meta 20 年 2.6GW PPA + AWS PPA + Cogentrix 5.5GW、五軸 23/25
 - ✅ [[Talen Energy]]（TLN）— Susquehanna 2.5GW + AWS 17 年 $18B 1.92GW PPA + Caithness $3.5B、五軸 19/25
+- ✅ [[Bloom Energy]]（BE）⭐ **2026-06-09 補位 firm power 第四選擇** — SOFC 分散式 firm power、2026 1GW → 2GW 翻倍、FY 2026 營收 $34-38 億 USD +25-30% YoY、Oracle Stargate 多個 GW 訂單、跟 [[高力 8996|高力]] hot box 共生、五軸 19/25
 - ⚠️ 待 ingest：NRG Energy / Public Service Enterprise / Duke Energy
 
 ### 變壓器 / 電網設備（第二層電力傳輸）
