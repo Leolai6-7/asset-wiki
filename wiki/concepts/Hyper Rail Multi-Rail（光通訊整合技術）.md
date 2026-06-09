@@ -1,6 +1,6 @@
 ---
-title: Hyper Rail / Multi-Rail（光通訊整合技術）
-aliases: [Hyper Rail, Multi-Rail, Hyperscale Multi-Rail, RLS Hyper-Rail, 光通訊整合, 多軌光通訊]
+title: Hyper Rail Multi-Rail（光通訊整合技術）
+aliases: ["Hyper Rail / Multi-Rail（光通訊整合技術）", "Hyper Rail / Multi-Rail", Hyper Rail, Multi-Rail, Hyperscale Multi-Rail, RLS Hyper-Rail, 光通訊整合, 多軌光通訊]
 type: concept
 created: 2026-06-05
 updated: 2026-06-09

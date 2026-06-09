@@ -1,6 +1,6 @@
 ---
 title: MPS
-aliases: [MPWR, Monolithic Power Systems, Monolithic Power, 美國芯源, NASDAQ:MPWR]
+aliases: [MPWR, Monolithic Power Systems, "Monolithic Power Systems MPS", Monolithic Power, 美國芯源, NASDAQ:MPWR]
 type: entity
 created: 2026-06-08
 updated: 2026-06-08

@@ -32,7 +32,7 @@ TAM：AI server PoL 模組 2025-2030 估 $5-10B（Vicor 自己預估）
 
 不是賣晶片、是賣「**Power Module**」整合方案。專利 IP（Factorized Power Architecture：VTM + PRM）把 48V→core 兩階段轉換做進單一模組，繞過傳統 multi-phase buck 控制器。
 
-連 [[宋分備忘錄 #2]] 對 Meta 的辨識邏輯：Vicor 不是「電源 IC 公司」、是「**架構解決方案公司**」。
+連 [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE|宋分備忘錄 #2]] 對 Meta 的辨識邏輯：Vicor 不是「電源 IC 公司」、是「**架構解決方案公司**」。
 
 ### 供應層
 
