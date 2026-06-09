@@ -1854,3 +1854,34 @@
   - [[Eaton]] entity：一句話定位補 Boyd 整合 + 散熱戰場 OEM 賽道 anchor + 新建「⭐ Boyd Corporation 段」+ tags 補 cold plate / CDU / thermal management / AI infra 散熱 / Boyd + 連結補 [[Alfa Laval]] / [[高力 8996|高力]] BPHE 採購對象 / [[Vertiv]] 直接對手
   - [[index.md]] 標的段加「AI infra 散熱 + 電力延伸 3 家（2026-06-09 補位 — Eaton-Boyd + Bloom Energy + Alfa Laval）」+ firm power 第四選擇 SOFC 段 + 散熱規模對照組段 + 待 ingest backlog 標已建狀態
 - 累計：**52 concept + 88 entity + 42 summary**（A8 +2 entity Bloom Energy / Alfa Laval + 1 update Eaton-Boyd 整合）
+
+### 2026-06-09 ingest #B1 — codex P3 backlog 補完 7 家 + 6 戰場交集圖譜架構級重構
+- 觸發：Leo 「補 codex P3 backlog（7 家）— 架構級重構 / 較邊緣」+ 並行 B2 (散熱+電力 3 家) + B3 (CXMT 對沖視角) 三 subagent dispatch
+- subagent 從候選池挑 7 家（涵蓋四類補位）：
+  - **(1) 頂級真賣水人 24/25 三家**（master 表 24/25 池從 3 家擴張到 6 家）：
+    - **[[SUMCO]]**（3436.JP）⭐⭐ **24/25** — 矽晶圓全球 #2（~25%）+ 跟 [[信越化學]] 30% 雙頭壟斷另一頭（合計 55-60%）+ 純 300mm + 200mm pure-play + 印尼 fab 2026 H2 量產 (+30% 產能) + AI capex 300mm 結構性短缺最大受惠者；五軸（路線 5 + 站別 5 + 耗材 5 + IP 4 + 客戶分散 5）
+    - **[[Synopsys]]**（NASDAQ: SNPS）⭐⭐ **24/25** — EDA 全球 #1（~33%）+ 訂閱年金（70%+ 毛利 recurring）+ DesignWare IP 標準（USB / PCIe / DDR / Ethernet / SerDes 全業界）+ Ansys USD $35B 巨型併購（multiphysics 整合）+ AI Copilot first-mover；五軸（路線 5 + 站別 5 + 耗材 5 + IP 5 + 客戶分散 4）= 真正的「**賣水人之中的賣水人**」核心 anchor、補完 master 表「Cadence/Synopsys EDA」之前只在文字提到的缺位
+    - **[[Imec]]**（比利時 R&D consortium、非上市）⚠️ **24/25 特殊評估** — 全球唯一規模化 pre-competitive R&D 平台 + 200+ 全球會員（TSMC / Samsung / Intel / ASML / GlobalFoundries / NXP / Infineon / TI / Bosch）+ 共用 EUV + High-NA EUV pilot fab（2023 H2 ASML 首台 pilot）+ SiPho R&D 領先；員工 5,000+ / 預算 ~€870M/年；五軸（路線 5 + 站別 5 + 耗材 4 + IP 5 + 客戶分散 5）⚠️ **非商業 entity、不可直接買入、reference entity**；對 wiki 既有 thesis 的「結構性影響 + R&D 中立性」評估最強
+  - **(2) 化合物半導體 IC**：
+    - **[[MACOM Technology]]**（NASDAQ: MTSI）**19/25** — 美系 GaAs / InP / GaN 化合物半導體 IC fabless + 跨光通訊 / 國防 RF / Power 三軸組合 + 跟 [[IQE]] £45M 戰略入股 11.5% + COO + VP 進 IQE 董事會 + 長期供應協議 + Wolfspeed RF 業務併購 $125M（2024）；跟 [[Coherent]] / [[Lumentum]] / [[Nokia]] 19/25 同級；補完 [[IQE]] entity 上游 + 下游互鎖
+  - **(3) 矽晶圓追趕 + 中國反向 hedge**：
+    - **[[GlobalWafers 6488]]**（6488.TW）**18/25** — 全球矽晶圓 #3（~17%）+ 台廠矽晶圓 #1 + CHIPS Act Texas Sherman fab $406M + 義大利 Bedollo fab 雙軌擴張 + SiC + SOI 第二曲線；中美晶（5483）子公司、2022 試圖併購德國 Siltronic 失敗（~$1B 違約金）後走獨立擴張；vs [[SUMCO]] 24：規模 + 議價權落後 30-50%、但 CHIPS Act 政治紅利 + 多元地緣 + SiC 是差異化
+    - **[[YMTC]]**（中國長江存儲、未上市）**16/25** — 中國 NAND 國產龍頭 + Xtacking 4.0（294 層、wafer-to-wafer hybrid bonding 架構首創者）+ 2026 Q1 13% 全球市佔（並列 [[SanDisk]] / [[Micron]]）+ 美 Entity List 制裁下 capacity 翻倍 + 國產替代「中國 NAND 自給率」唯一頭部廠；客戶結構 = 中國 100% + 部分東南亞；跟 [[CXMT]] 構成「中國半導體記憶體閉環雙頭」（A7 B3 對沖視角 anchor）
+  - **(4) 面板廠跨界 FOPLP 期權型轉型**：
+    - **[[Innolux 3481]]**（3481.TW）**14/25** — 台廠 LCD 面板 #2 + [[鴻海 2317|鴻海]] 集團部分持股 + 2024-2026 戰略轉型「面板廠 → FOPLP 半導體先進封裝廠」first-mover + 透過 [[東捷]] / [[敘豐]] / [[弘塑]] 設備鏈導入玻璃基板製程 + 2024 公告 NT$150 億半導體先進封裝產線 CapEx + 2026-2028 量產 FOPLP 載板 + 玻璃基板 panel level interposer；跟 [[緯創 3231]] 14 並列；期權型受惠（FOPLP 路線需贏 + 量產良率 + 客戶取得三重 binary、但有面板基本盤 + 鴻海 anchor、下檔不純 binary）
+- 架構級重構 deliverable：**新建 concept [[6 戰場交集圖譜]]**
+  - 把 wiki 既有 **8 個戰場**（TGV / MLCC / CPO / DCI / 電力 / 散熱 / 3D NAND / 800V HVDC）的**跨戰場玩家**整理成矩陣
+  - 三類分級：跨 2-3 戰場 = anchor 候選 / 跨 1 戰場 = niche specialist / 跨 0 戰場 = 不投
+  - 跟 [[賣水人選股邏輯（投資版）]] 互補：master 表是「單戰場最佳選」、本 concept 是「跨戰場 anchor 選」
+- 連動更新：
+  - [[賣水人選股邏輯（投資版）]] master 表：頂級真賣水人從 3 家擴張到 6 家、新建第十三波「codex P3 backlog 補完 6 家」段 + 新建「架構級『賣水人之中的賣水人』三巨頭」段（Synopsys 24 + Cadence 22 推估 + Imec 24 特殊評估）
+  - [[index.md]] 新建「標的：codex P3 backlog 補完 7 家（第十三波）」段 + 7 家 entity 條目
+  - 涉及 entity wikilink 補強：[[IQE]]（補 MACOM 雙向 lock-in）+ [[信越化學]]（補 SUMCO 雙頭壟斷對照）+ [[Cadence]]（待 ingest 標記）+ [[Bottleneck Theory（瓶頸論）]]（補 SUMCO 第 0 層 wafer 上游 + Imec 層 0+ R&D 預備層）
+- 架構級新洞見：
+  - **頂級真賣水人池擴張 3 → 6**：Disco / 村田 / 信越化學 / SUMCO / Synopsys / Imec 六家代表六條獨立的「**真賣水人**」哲學
+  - **「賣水人之中的賣水人」概念架構化**：Synopsys 24 + Cadence 22 推估 + Imec 24 特殊評估三家「不押任何商業路線、所有玩家都依賴」
+  - **EDA 三巨頭分食 78%**：Synopsys 33% + Cadence 28% + Siemens EDA 17%（待 ingest Cadence 補完 + Siemens entity 已存在）
+  - **MACOM + IQE 互鎖 vs NVDA + LITE/COHR $4B 互鎖**：兩種「化合物半導體上下游互鎖」結構性 anchor
+  - **vs [[Tower Semiconductor]] / [[GlobalFoundries]] / [[TSMC]] / Imec 四強分食 SiPho foundry**：Imec 補完最後一家（但純 R&D 不商業化）
+- 並行衝突警示：B1 subagent stall 在最後寫 log.md 段（前面 entity + index + master 表 + concept 全部 commit 成功），人工收尾整合 master 表「第十三波 codex P3 補完 6 家」段 + index.md verification（已落地）+ B2 散熱+電力 3 家整合 + 6 戰場交集圖譜 concept 一併 commit 在 b89fe26
+- 累計：**65 concept + 110 entity + 42 summary**（B1 +1 concept [[6 戰場交集圖譜]] + 7 entity SUMCO / Synopsys / Imec / MACOM Technology / GlobalWafers 6488 / YMTC / Innolux 3481、其中 YMTC 跟 B3 重疊算 1 次）
