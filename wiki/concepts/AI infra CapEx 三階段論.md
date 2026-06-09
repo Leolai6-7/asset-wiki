@@ -109,8 +109,8 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 
 ### 訊號 5：POET / Ayar Labs 生態加速
 
-- ⚠️ POET（待 ingest）
-- ⚠️ Ayar Labs（待 ingest）
+- [[POET Technologies]]
+- [[Ayar Labs]]
 - 融資 + 商業化雙加速
 - 整鏈一起動
 
@@ -158,7 +158,7 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 - 光通訊（**中國 OEM 雙頭** / 第 5 層 Beneficiary 規模 + LPO 純度型）：**[[Innolight]] 300308.SZ + [[Eoptolink]] 300502.SZ**（合計中國 60-70% 市佔 + 全球 transceiver 40%+ 市佔、Thailand + Vietnam 海外廠規避 ITAR、2026-06-09 補位）
 - DCI / 接口：[[Ciena]] / [[Nokia]]（透過 Hyper Rail / Multi-Rail 傳導）
 - InP 上游：[[IQE]] / ⚠️ Inrad
-- 矽光生態：⚠️ POET / ⚠️ Ayar Labs
+- 矽光生態：[[POET Technologies]] / [[Ayar Labs]]
 
 ### 第四階段（**潛在下一段**，AWS/Azure/Google 全面跟進）
 - 全面 hyperscaler 採購
@@ -182,8 +182,8 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 
 ### InP / 光通訊上游
 - ✅ **[[IQE]]**（已建 2026-06-08）：InP 晶圓 epi 代工龍頭、£81M 融資 + MACOM 11.5% 入股 + FY 2026 >20% 成長指引、6" InP DFB industry-first、五軸 17/25、alpha 最尖端但風險最濃
-- **POET Technologies**（矽光整合）
-- **Ayar Labs**（光晶片初創）
+- ✅ **[[POET Technologies]]**（已建）— 矽光整合
+- ✅ **[[Ayar Labs]]**（已建）— 光晶片初創
 
 ### Hyperscaler / 雲算力（✅ 2026-06-09 補位完成）
 - ✅ **[[CoreWeave]]**（已建 2026-06-09）— neocloud 龍頭、NVDA 戰略客戶 + 投資人、NVDA $6.3B backstop、1.6T 光模組首批採購者、循環投資 anchor 樣本、五軸 12/25
