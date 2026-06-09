@@ -38,7 +38,7 @@ confidence: medium
 | **6** | **Testing & Qualification**（測試 + 驗證） | wafer-level + package-level burn-in、photonics 早期階段 | **[[AEHR]]** |
 | **7** | **Optical Cable & Fiber**（光纖 + 光纜） | 集群互連物理基礎建設 | **[[Corning|GLW]]**、Prysmian、Furukawa |
 
-→ **[[TSEM]]（Tower Semiconductor）** 在 Serenity 的 framework 中地位特殊：**跨第 4-5 層的 silicon photonics foundry**（為 SiPho PIC 提供代工平台、是 1.6T PIC 唯一量級供應商）、Serenity 將其與 **Soitec ($SOI)** 並列為「**Safest Longs**」defensible compounder（vs SIVE 高 beta、AAOI 中 beta）。
+→ **[[Tower Semiconductor]]** 在 Serenity 的 framework 中地位特殊：**跨第 4-5 層的 silicon photonics foundry**（為 SiPho PIC 提供代工平台、是 1.6T PIC 唯一量級供應商）、Serenity 將其與 **Soitec ($SOI)** 並列為「**Safest Longs**」defensible compounder（vs SIVE 高 beta、AAOI 中 beta）。
 
 ## Demand Wave → Architecture Shift → Bottleneck/Chokepoint → Repricing Path
 
@@ -68,15 +68,15 @@ Serenity 區分三個概念、Leo 也應該分清：
 | [[賣水人選股邏輯（投資版）]] | **chokepoint = 賣水人最純的形式**（不只賣水、是必經河道）|
 | [[控制點轉移（投資版）]] | **Bottleneck Theory 是「物理層控制點」的具體版**（光通訊 vs MCP 是接口層 vs 開發者層）|
 | [[跳出個股看三層：產業、目的、供應]] | **「供應層」一拆七**——Serenity 把供應層拆成 7 個物理層 |
-| [[CPO 供應鏈圖譜]] | 七層 vs 七層、Leo 已建 entity 圖譜跟 Serenity 框架**高度重疊**：[[Lumentum]] / [[Coherent]] / [[Corning]] 都已建 + AXTI/SIVE/TSEM/AEHR/AAOI 本輪補齊 |
+| [[CPO 供應鏈圖譜]] | 七層 vs 七層、Leo 已建 entity 圖譜跟 Serenity 框架**高度重疊**：[[Lumentum]] / [[Coherent]] / [[Corning]] 都已建 + AXTI/SIVE/[[Tower Semiconductor]]/AEHR/AAOI 本輪補齊 |
 | [[AI infra CapEx 三階段論]] | **三階段是 Leo 版、瓶頸論是 Serenity 版**——三階段論說「**第三階段是上游材料 + 光通訊**」、瓶頸論說「**第三階段內部還有 7 層 chokepoint**」、兩個框架可疊用 |
 
 ## 對 Leo 的啟示
 
 1. **wiki 既有 [[CPO 供應鏈圖譜]] 七層分工**已經是同類型框架的台股版本——Bottleneck Theory 把它**延伸到 InP + 原料端**、對應 Leo 「**從台股的 OSAT / 載板 / 設備往材料端走**」的探索方向
-2. **重押光電的具體 5 家**（AXTI / AAOI / SIVE / TSEM / AEHR）是 Serenity 框架的具體落地、Leo 用本 wiki 做**獨立 fact-check**而非盲信
+2. **重押光電的具體 5 家**（AXTI / AAOI / SIVE / [[Tower Semiconductor]] / AEHR）是 Serenity 框架的具體落地、Leo 用本 wiki 做**獨立 fact-check**而非盲信
 3. 7 層中前 3 層（**Raw Materials / Growth Equipment / InP Substrate**）是 Leo wiki 之前**未覆蓋**的維度、本輪補 [[AXTI]] 等於把 wiki 推到供應鏈最上游
-4. **TSEM 跨層 / Soitec defensible compounder** 是兩個 nuance 值得記住：**foundry 賣水人在 chokepoint 框架裡有特殊地位**（不單押任何一層、跨層收租）
+4. **[[Tower Semiconductor]] 跨層 / Soitec defensible compounder** 是兩個 nuance 值得記住：**foundry 賣水人在 chokepoint 框架裡有特殊地位**（不單押任何一層、跨層收租）
 
 ## Serenity 框架是真有 framework 還是事後合理化？
 
@@ -102,7 +102,7 @@ Serenity 區分三個概念、Leo 也應該分清：
 ## 相關連結
 
 - [[Serenity]]（KOL 來源）
-- [[AXTI]]、[[AAOI]]、[[SIVE]]、[[TSEM]]、[[AEHR]]（5 家光電重押）
+- [[AXTI]]、[[AAOI]]、[[SIVE]]、[[Tower Semiconductor]]、[[AEHR]]（5 家光電重押）
 - [[Lumentum]]、[[Coherent]]（第 4-5 層既有）
 - [[Corning]]（第 7 層光纖）
 - ⭐ **[[信越化學]]**（第 2 層 pBN crucible 單一供應商 + 跨光阻劑 + 矽晶圓多賽道、2026-06-09 補完 entity）
