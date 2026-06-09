@@ -178,9 +178,15 @@ confidence: high
 | **五軸（25 分制）** | **24/25** | 22/25 推估 | （非獨立上市） |
 
 → **三巨頭分食結構性穩固**——
-- SNPS = EDA 全球 #1 + Ansys 整合 + AI Copilot first-mover + DesignWare IP 標準
-- Cadence = Custom IC + analog 領先 + AI 自動設計跟進
-- Siemens EDA = Mentor 併購 + 工業軟體加值（但落後 SNPS + CDNS 雙頭）
+- SNPS = EDA 全球 #1 + Ansys 整合 + AI Copilot first-mover + DesignWare IP 標準（USB / PCIe / DDR / Ethernet / SerDes 業界標準）
+- Cadence = Custom IC + analog 領先 + **Spectre simulator 業界標竿** + **Tensilica DSP IP（audio / 通訊 / 影像 DSP 標準）** + **Palladium emulation 業界標竿** + **Denali memory IP** + AI agent for chip design 跟進（Cerebrus / Verisium / Allegro X AI）+ BETA CAE 2024 Q4 + Hexagon D&E 2025 整合
+- Siemens EDA = Mentor 併購（2017、USD $4.5B）+ PCB Xpedition + Calibre DRC/LVS + Catapult HLS + Siemens 工業軟體加值 + NVDA Omniverse 工業數位孿生（2024-03 GTC）（但落後 SNPS + CDNS 雙頭）
+
+⭐ **詳見 [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]] concept**：三家差異化分工 + 客戶矩陣（NVDA / AMD / AVGO / Marvell / Apple / Qualcomm / Intel / Google TPU / AWS Trainium / Microsoft Maia / Meta MTIA 全部 SNPS + CDNS 雙頭採用）+ EDA TAM + NVDA AI Foundation Models for Chip Design 合作 + 三巨頭 vs 開源 EDA 對比
+
+⭐ **SNPS + CDNS 互補關係**：客戶都雙頭採用、fabless / IDM 必用兩家工具：
+- **SNPS 主導**：synthesis（Design Compiler / Fusion Compiler）+ verification（VCS + Verdi）+ DFT / signoff（TetraMAX + PrimeTime）+ DesignWare IP 標準
+- **CDNS 主導**：Custom IC + analog（Virtuoso）+ circuit simulator（Spectre）+ emulation（Palladium）+ Tensilica DSP IP + Denali memory IP
 
 ## ⭐ Synopsys 在 wiki 既有 thesis 的位置
 
@@ -210,7 +216,7 @@ confidence: high
 
 **總分 = 24 / 25** —— 跟 [[Disco Corp]] 24 / [[村田 Murata]] 24 / [[信越化學]] 24 / [[SUMCO]] 24 / [[Imec]] 24（特殊）並列**頂級「真賣水人」**；**「賣水人之中的賣水人」核心 anchor**；EDA 全球 #1 + DesignWare IP 標準 + Ansys multiphysics + AI Copilot first-mover。
 
-→ 比 [[Cadence]] 22 推估高 2 分（主要在 Ansys 整合 + AI Copilot first-mover + DesignWare IP 規模）。
+→ 比 [[Cadence]] 22 高 2 分（主要在 Ansys 整合 + AI Copilot first-mover + DesignWare IP 規模）。
 
 ## 跟其他 wiki 概念連結
 
@@ -218,7 +224,8 @@ confidence: high
 - [[Bottleneck Theory（瓶頸論）]]：設計鏈 chokepoint、任何晶片設計繞不開
 - [[控制點轉移（投資版）]]：拿到「EDA 工具生態 lock-in + DesignWare IP 標準 + Ansys multiphysics integration + AI Copilot first-mover」四層 chokepoint
 - [[半導體基礎建設化]]：EDA 是「全行業設計基礎建設」、Re-rate 從週期軟體 → AI infra 元件級
-- [[Cadence]]：核心對手（EDA 雙頭壟斷、~61% 合計市佔）
+- [[Cadence]]：核心對手（EDA 雙頭壟斷、~61% 合計市佔）+ 互補關係（SNPS digital flow + DesignWare IP / CDNS Custom IC + analog + Spectre + Tensilica DSP IP）
+- [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]]：SNPS + CDNS + Siemens EDA 78% 寡占 concept
 - [[Siemens]] / Siemens EDA：第三家、落後雙頭壟斷
 - [[NVDA]] / [[AMD]] / [[AVGO]] / Marvell / Apple：所有 fabless 客戶
 - [[TSMC]] / [[Samsung Electronics]] / [[Intel]] / [[GlobalFoundries]]：fab PDK 支援
@@ -235,6 +242,7 @@ confidence: high
 - [[半導體基礎建設化]]
 - [[Cadence]]
 - [[Siemens]]
+- [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]]
 - [[NVDA]]、[[AMD]]、[[AVGO]]、Marvell
 - [[TSMC]]、[[Samsung Electronics]]、[[Intel]]、[[GlobalFoundries]]
 - [[Imec]]

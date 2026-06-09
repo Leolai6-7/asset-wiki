@@ -2026,3 +2026,38 @@
   - [[AI 資安攻防成本曲線]] 既有 concept：保留、本次新建 concept 從**市場結構**切跟其互補
   - [[index.md]]：方法論段加 [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] concept + 標的段加新建「AI 資安戰場 三軌 anchor」段（CRWD + PANW 兩家 entity）+ 待 ingest backlog「AI 資安賽道 entity」標 CRWD + PANW 已建
 - 累計：**66 concept + 112 entity + 42 summary**（#C3 +1 concept [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] + 2 entity [[CrowdStrike]] + [[Palo Alto Networks]]）
+
+### 2026-06-09 ingest #C1 — Cadence + EDA 三巨頭分食 concept（subagent stall 後人工收尾）
+- 觸發：Leo「補」C1+C2+C3 三 subagent 並行 dispatch
+- subagent stall 在最後寫 log（前面 entity + concept + master 表 + Synopsys/Siemens/半導體基礎建設化 修改全部已 ready），人工收尾整合 + commit
+- 新建 **[[Cadence]]**（NASDAQ: CDNS）entity — **EDA 全球 #2（~28% 市佔）+ 跟 [[Synopsys]] ~33% + [[Siemens]] EDA ~17% 形成「EDA 三巨頭分食 78%」+ Custom IC + analog IC + Spectre simulator 業界標竿 + Tensilica DSP IP + 2024 Q4 BETA CAE 收購（multiphysics）+ 2025 Hexagon D&E 收購 + AI agent for chip design first-mover 跟進（Cerebrus / Verisium / Allegro X AI）**：
+  - 一句話定位：EDA #2、Custom IC + analog 不可繞過、跟 Synopsys 雙頭分食晶片設計 chokepoint
+  - 三層 thesis：
+    - 產業層：EDA 賽道 ~$15-18B（2025）+ CAGR 12-15%（AI 晶片驅動）+ 三巨頭 78% 寡占 + Cadence backlog $6.7B+
+    - 目的層：訂閱年金（70%+ 毛利 recurring）+ 不做晶片本身只做工具 + IP + Custom IC + analog 領先（vs Synopsys IP + DesignWare 領先）
+    - 供應層：客戶 Apple / NVDA / Qualcomm / Intel / AMD / TSMC / 全球 fabless + IDM AVL
+  - 五軸 **22/25**（路線 5 + 站別 5 + 耗材 5 + IP 4 + 客戶分散 3）= 「**真正的『賣水人之中的賣水人』第二陣營**」、略低於 [[Synopsys]] 24/25（IP 廣度稍弱：SNPS DesignWare + Ansys multiphysics + AI Copilot first-mover、CDNS Custom IC + Spectre + Tensilica）
+  - 跟 Disco Corp / 村田 Murata / 信越化學 / SUMCO / Synopsys / Imec 同陣營「**架構級 EDA + R&D 三巨頭**」
+- 新建 concept **[[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]]**
+  - 一句話：EDA 賽道 ~$15-18B + CAGR 12-15% + 三巨頭 78% 寡占（Synopsys 33% + Cadence 28% + Siemens EDA 17%）
+  - 三家差異化：
+    - **Synopsys 33%**：DesignWare IP（USB / PCIe / DDR / Ethernet / SerDes）+ Ansys $35B multiphysics 整合 + AI Copilot first-mover + DSO.ai
+    - **Cadence 28%**：Custom IC + analog + Spectre simulator + Tensilica DSP + system simulation + BETA CAE 整合
+    - **Siemens EDA 17%**（前 Mentor Graphics、2017 被 Siemens 收購）：PCB design（Xpedition）+ DRC/LVS（Calibre）+ 整合進 Siemens Xcelerator 工業軟體 + NVDA Omniverse 工業數位孿生
+  - AI 時代雙引擎：(1) AI 晶片設計需求暴增（design starts +30-50% YoY）+ (2) AI Copilot 加速 chip design productivity 2-3x
+  - 跟 [[控制點轉移（投資版）]]：EDA 是晶片設計 chokepoint、不可繞過、控制權在三家手上
+  - 跟 [[半導體基礎建設化]]：EDA 是半導體基礎建設化最上游的「設計建設」層
+- 連動更新：
+  - [[賣水人選股邏輯（投資版）]] master 表：(1) line 42 「賣水人之中的賣水人」段加 [[Cadence]] EDA wikilink + (2) line 50 算力供應鏈段加 [[Cadence]] EDA wikilink + (3) 第十三波 codex P3 段加 Cadence 22/25 row + (4) 關鍵發現段「架構級『賣水人之中的賣水人』三巨頭」段更新（Synopsys 24 + Cadence 22 + Imec 24）
+  - [[Synopsys]] entity：補「vs Cadence 對照」段（SNPS DesignWare + Ansys + AI Copilot first-mover vs CDNS Custom IC + analog + Spectre + Tensilica DSP IP）
+  - [[Siemens]] entity：補 Siemens EDA（前 Mentor Graphics 2017 收購）segment 段 + Siemens Xcelerator + NVDA Omniverse 工業數位孿生整合
+  - [[半導體基礎建設化]] concept：補 EDA 三巨頭 wikilink + 設計建設層 anchor
+  - [[index.md]]：方法論段加 [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]] concept 條目 + 標的段加 [[Cadence]] entity 條目
+- 架構級新洞見：
+  - **EDA 三巨頭分食 78%**：Synopsys 33% + Cadence 28% + Siemens EDA 17% = 三家 chokepoint 寡占、不可繞過、AI 時代 chip design starts 倍增 → 結構性受惠
+  - **Synopsys vs Cadence 護城河差異化**：SNPS 走「**IP 廣度 + Ansys multiphysics + AI Copilot first-mover**」、CDNS 走「**Custom IC + analog + Spectre simulator 業界標竿 + Tensilica DSP**」 — 不是零和、雙頭 + 並存且互補
+  - **Siemens EDA 第三陣營**：透過 Siemens Xcelerator + NVDA Omniverse 工業數位孿生整合形成獨立護城河（vs SNPS / CDNS 純晶片設計工具）
+  - **「賣水人之中的賣水人」六巨頭並列**：Disco 24 / 村田 24 / 信越化學 24 / SUMCO 24 / Synopsys 24 / Imec 24 + **Cadence 22 第二陣營**——七家頂級真賣水人完整 ranking
+  - **架構級 EDA + R&D 三巨頭**：Synopsys 24（EDA 訂閱年金）+ Cadence 22（EDA #2 Custom IC + analog）+ Imec 24（R&D 公共財）——「不押任何商業路線、所有玩家都依賴」三家
+- 並行衝突警示：C1 subagent stall 後人工收尾、C2 + C3 subagent 並行 commit 期間有正確衝突意識（C3 subagent 報告：「只 stage 自己 6 個檔案、未 add -A、避免吃到別人尚未完成的 work」）
+- 累計：**67 concept + 113 entity + 42 summary**（#C1 +1 concept [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]] + 1 entity [[Cadence]] + 3 entity update [[Synopsys]] / [[Siemens]] / [[半導體基礎建設化]]）

@@ -9,7 +9,7 @@ check_after: 2026-12-09
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
-tags: [標的, 德股, 工業自動化, 變壓器, 燃氣輪機, AI infra 電力, 800V HVDC, Siemens Energy, Siemens Healthineers, Digital Industries, conglomerate, foreign_competitor, Mega Cap]
+tags: [標的, 德股, 工業自動化, 變壓器, 燃氣輪機, AI infra 電力, 800V HVDC, Siemens Energy, Siemens Healthineers, Digital Industries, Siemens EDA, Mentor Graphics, EDA, PCB Xpedition, Calibre, conglomerate, foreign_competitor, Mega Cap]
 confidence: high
 ---
 
@@ -17,7 +17,7 @@ confidence: high
 
 ## 1. 一句話定位
 
-**德國 178 年工業自動化 conglomerate + Siemens Energy 拆分後的母公司 + 全球變壓器三巨頭（GEV / Hitachi / Siemens Energy）一員**——總部慕尼黑（1847 創立）；事業群（Siemens AG 本體）：**Digital Industries（工業軟體 + 自動化 ~33%）+ Smart Infrastructure（樓宇 + 電氣 ~25%）+ Mobility（鐵道 + EV charging ~15%）+ Siemens Healthineers（醫療 ~16% / 75% 控股）+ Siemens Energy stake（剩餘 17% 持股）**；**2020-04 Siemens Energy 從 Siemens 拆分上市**（IPO 2020）= 燃氣輪機 + 變壓器 + 風電（Siemens Gamesa）+ 輸電 + HVDC 主場交給 Siemens Energy；現在 Siemens 本體保留 **Smart Infrastructure 段電氣設備 + Digital Industries 工業自動化**（vs ABB Process Automation + Robotics）；FY 2025（10/2024-9/2025）營收 **€74.5B**、Digital Industries +5%、Smart Infrastructure +8%、orders backlog **€130B+**；**Siemens Digital Industries Software** 是工業軟體 #1（Mendix + Teamcenter + NX）；**NVDA Omniverse + Siemens digital twin 合作（2024-03 簽）**= 工業 metaverse + AI factory simulation 共同開發；股價 12 個月 **+30-55%**（vs Siemens Energy +120-180%）；是 [[AI infra 電力戰場]] **第二層「電力傳輸」+ 第三層「電力分配」雙層 anchor（透過 Siemens Energy 持股 + Smart Infrastructure 本體）**。
+**德國 178 年工業自動化 conglomerate + Siemens Energy 拆分後的母公司 + 全球變壓器三巨頭（GEV / Hitachi / Siemens Energy）一員 + Siemens EDA（前 Mentor Graphics、2017 USD $4.5B 收購）= EDA 全球 #3（~17% 市佔、跟 [[Synopsys]] ~33% + [[Cadence]] ~28% 形成 EDA 三巨頭分食 78% 寡占）**——總部慕尼黑（1847 創立）；事業群（Siemens AG 本體）：**Digital Industries（工業軟體 + 自動化 ~33%、含 Siemens EDA）+ Smart Infrastructure（樓宇 + 電氣 ~25%）+ Mobility（鐵道 + EV charging ~15%）+ Siemens Healthineers（醫療 ~16% / 75% 控股）+ Siemens Energy stake（剩餘 17% 持股）**；**2020-04 Siemens Energy 從 Siemens 拆分上市**（IPO 2020）= 燃氣輪機 + 變壓器 + 風電（Siemens Gamesa）+ 輸電 + HVDC 主場交給 Siemens Energy；現在 Siemens 本體保留 **Smart Infrastructure 段電氣設備 + Digital Industries 工業自動化 + Siemens EDA**（vs ABB Process Automation + Robotics）；FY 2025（10/2024-9/2025）營收 **€74.5B**、Digital Industries +5%、Smart Infrastructure +8%、orders backlog **€130B+**；**Siemens Digital Industries Software** 是工業軟體 #1（Mendix + Teamcenter + NX）+ **Siemens EDA**（PCB Xpedition + Calibre DRC/LVS + Catapult HLS）；**NVDA Omniverse + Siemens digital twin 合作（2024-03 簽）**= 工業 metaverse + AI factory simulation 共同開發、跟 [[NVDA]] AI Foundation Models for Chip Design 合作；股價 12 個月 **+30-55%**（vs Siemens Energy +120-180%）；是 [[AI infra 電力戰場]] **第二層「電力傳輸」+ 第三層「電力分配」雙層 anchor（透過 Siemens Energy 持股 + Smart Infrastructure 本體）+ EDA 三巨頭第三 anchor（透過 Siemens EDA）**。
 
 ## 2. 三層 thesis
 
@@ -41,7 +41,7 @@ confidence: high
 ### 目的層
 
 - 業務 mix（FY 2025 Siemens AG 本體）：
-  - **Digital Industries（工業軟體 + 自動化）~33%**：**Teamcenter + NX + Mendix + Siemens PLC 全球 #1**（vs ABB Process Automation）
+  - **Digital Industries（工業軟體 + 自動化）~33%**：**Teamcenter + NX + Mendix + Siemens PLC 全球 #1 + Siemens EDA（PCB Xpedition + Calibre DRC/LVS + Catapult HLS、EDA 全球 #3 ~17% 市佔、~USD $2-3B/年 推估）**（vs ABB Process Automation）
   - **Smart Infrastructure（樓宇 + 電氣）~25%**：中壓配電 + 樓宇自動化 + EV charging（**AI data center 第三層**）
   - **Mobility（鐵道 + EV）~15%**
   - **Siemens Healthineers（醫療影像、75% 控股）~16%**：vs GE HealthCare / Philips
@@ -223,6 +223,7 @@ confidence: high
 - Siemens 把「工業軟體 #1」+「NVDA AI 軟體」整合 = AI 工業時代的 AutoCAD
 - 對 Siemens Digital Industries Software 是長期 ramp（軟體 recurring + AI factor 加值）
 - → **Siemens Digital Industries 跨界 AI 工業軟體 anchor**
+- **跟 [[NVDA]] AI Foundation Models for Chip Design 合作**：NVDA + [[Synopsys]] + [[Cadence]] + Siemens EDA 三家 EDA 廠都在做 AI agent for chip design、NVDA 提供 AI Foundation Models（NeMo / NIM）+ EDA 廠提供工具整合（Aprisa AI）
 
 ## ⭐ Siemens Digital Industries Software（工業軟體 #1）
 
@@ -237,6 +238,44 @@ Teamcenter（PLM）+ NX（CAD）+ Mendix（low-code）+ Polarion（ALM）
 - 整合 NVDA Omniverse 後：**Siemens + NVDA = 工業軟體 + AI 加速 first-mover**
 
 ⭐ **這是 Siemens AG（本體）跟 ABB 的核心差異點**：ABB 沒有跨界 AI 工業軟體合作
+
+## ⭐ Siemens EDA（前 Mentor Graphics、2017 USD $4.5B 收購、EDA 三巨頭第三）
+
+**2017-03 Siemens 完成 Mentor Graphics 收購（USD $4.5B）**——把 EDA 業務整合進 Siemens Digital Industries Software、2021 正式改名 **Siemens EDA**。
+
+### EDA 三巨頭分食市佔（2026 推估）
+
+| EDA 廠 | 全球市佔 | 強項 |
+|---|---|---|
+| **[[Synopsys]]**（NASDAQ: SNPS） | **~33%（#1）** | RTL synthesis + verification + DesignWare IP（USB / PCIe / DDR / Ethernet / SerDes 業界標準）+ Ansys USD $35B 整合 + DSO.ai / AI.Copilot first-mover |
+| **[[Cadence]]**（NASDAQ: CDNS） | **~28%（#2）** | Custom IC + analog + Spectre simulator + Tensilica DSP IP + Palladium emulation + AI agent for chip design 跟進 |
+| **Siemens EDA**（Siemens 子公司） | **~17%（#3）** | **PCB design Xpedition + Calibre DRC/LVS + Catapult HLS + Siemens Xcelerator 工業軟體整合 + NVDA Omniverse 工業數位孿生** |
+
+### Siemens EDA 核心強項
+
+- **PCB design Xpedition**：業界標準（vs CDNS Allegro PCB 雙頭）
+- **Calibre DRC/LVS**：驗證流程業界標準（fab 認證標準工具、TSMC / Samsung / Intel / GlobalFoundries 全 PDK 必認證）
+- **Catapult HLS**：high-level synthesis 業界領先
+- **Aprisa AI**：跟進 AI 自動設計（vs SNPS DSO.ai / CDNS Cerebrus）
+- **整合 Siemens Xcelerator 工業軟體生態**：PLM（Teamcenter）+ CAD（NX）+ low-code（Mendix）+ multiphysics（Simcenter）
+- **NVDA Omniverse + Siemens Xcelerator 合作**（2024-03 GTC）= **工業數位孿生 first-mover**
+
+### Siemens EDA 戰略劣勢
+
+- vs SNPS + CDNS 雙頭壟斷（61% 合計市佔 vs 17%）
+- 規模 / 設計工具廣度 / AI 自動設計都落後
+- 但 **PCB + DRC/LVS + HLS** niche 不可繞過 + **Siemens 工業生態加值**（vs SNPS / CDNS 純 EDA）
+
+### 戰略意義
+
+- **Siemens EDA 不獨立財報揭露**（屬 Siemens Digital Industries 內）
+- 估計營收 USD $2-3B / 年（推估、佔 Siemens Digital Industries ~10-15%）
+- 透過 NVDA Omniverse 工業 metaverse 整合 = 把 EDA + PLM + CAD + multiphysics 接入 NVDA AI Foundation Models 工業 metaverse
+- 跟 [[NVDA]] AI Foundation Models for Chip Design 合作（2024 GTC）：NVDA + SNPS + CDNS + Siemens EDA 三家 EDA 廠都在做 AI agent for chip design
+
+⭐ **詳見 [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]] concept**：三家差異化分工 + 客戶矩陣 + EDA TAM + NVDA AI Foundation Models for Chip Design 合作
+
+⭐ **Siemens EDA 是 Siemens AG（本體）跟 ABB / Hitachi 的「額外差異化點」**——ABB / Hitachi 沒有 EDA 業務、Siemens 是唯一跨「工業軟體 + EDA + 工業數位孿生」三軸的歐洲 conglomerate
 
 ## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
 
@@ -310,6 +349,9 @@ Teamcenter（PLM）+ NX（CAD）+ Mendix（low-code）+ Polarion（ALM）
 - [[Hitachi]]
 - [[Eaton]]
 - [[Schneider Electric]]
+- [[Synopsys]]
+- [[Cadence]]
+- [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]]
 - [[Constellation Energy]]
 - [[Vistra]]
 - [[Talen Energy]]
