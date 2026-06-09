@@ -18,7 +18,7 @@ confidence: high
 
 ## 1. 一句話定位
 
-**全球 CPU 架構 IP #1（>99% 智慧手機 + 50%+ 資料中心 CPU 滲透加速 + 全 Edge AI 終端設備設計鏈共用基礎）+ Licensing + Royalty 雙引擎商業模式（前置授權費 + 出貨版稅年金）+ Compute Subsystem（CSS）新業務 platform 整合 + 軟銀 87% 控股 + 「賣水人之中的賣水人」第八位 anchor**——1990 創辦（Acorn Computers / Apple / VLSI 三方合資、英國劍橋）、目前全球所有先進 SoC（[[Apple]] A/M/U/R、[[NVDA]] Grace、AMD MI300、AWS Graviton 4 / Trainium 2、Qualcomm Snapdragon、Mediatek Dimensity、Samsung Exynos、Google TPU host CPU、Microsoft Cobalt 100 / Maia 100）全部用 ARM 架構；**雙身分定位**：(1) **IP licensing fabless company**（不自家造晶片、純授權 IP + service）+ (2) **CPU 架構標準制定者**（ARMv9 ISA + Neoverse 資料中心系列 + Cortex 端點系列 + Mali GPU IP + Ethos NPU IP）；**CPU 復興 KP41 anchor**：FY2026 全年資料中心版稅 YoY +100%+（KP41 揭露）= NVDA Grace + AMD MI300 host CPU + AWS Graviton 4 / Trainium 2 + Microsoft Cobalt 100 / Maia 100 全用 ARM 架構 → ARM 是「**所有 hyperscaler 自研 chip 都必經之路**」；**SoftBank 87% 持股**（孫正義「AI 帝國」核心資產、市值 +$220B 利潤）；2023-09 IPO @ $51（市值 $54B）→ 2026-05 突破 $300B（5.5x、SoftBank 帝國最大單一資產）；CEO Rene Haas 2022-02 接任、Q4 FY2026 營收首破 $1B → 全年 $4.92B（YoY +24%）；**「賣水人之中的賣水人」第八位 anchor**：跟 [[ASML]] 25 / [[Disco Corp]] 24 / [[村田 Murata]] 24 / [[信越化學]] 24 / [[SUMCO]] 24 / [[Synopsys]] 24 / [[Imec]] 24 並列頂級真賣水人池、ARM 24/25 補位「**IP 授權年金 + CPU 架構標準制定**」新類別 anchor。
+**全球 CPU 架構 IP #1（>99% 智慧手機 + 50%+ 資料中心 CPU 滲透加速 + 全 Edge AI 終端設備設計鏈共用基礎）+ Licensing + Royalty 雙引擎商業模式（前置授權費 + 出貨版稅年金）+ Compute Subsystem（CSS）新業務 platform 整合 + 軟銀 87% 控股 + 「賣水人之中的賣水人」第八位 anchor**——1990 創辦（Acorn Computers / Apple / VLSI 三方合資、英國劍橋）、目前全球所有先進 SoC（[[Apple]] A/M/U/R、[[NVDA]] Grace、AMD MI300、AWS Graviton 4 / Trainium 2、Qualcomm Snapdragon、Mediatek Dimensity、Samsung Exynos、Google TPU host CPU、Microsoft Cobalt 100 / Maia 100）全部用 ARM 架構；**雙身分定位**：(1) **IP licensing fabless company**（不自家造晶片、純授權 IP + service）+ (2) **CPU 架構標準制定者**（ARMv9 ISA + Neoverse 資料中心系列 + Cortex 端點系列 + Mali GPU IP + Ethos NPU IP）；**CPU 復興 KP41 anchor**：FY2026 全年資料中心版稅 YoY +100%+（KP41 揭露）= NVDA Grace + AMD MI300 host CPU + AWS Graviton 4 / Trainium 2 + Microsoft Cobalt 100 / Maia 100 全用 ARM 架構 → ARM 是「**所有 hyperscaler 自研 chip 都必經之路**」；**SoftBank 87% 持股**（孫正義「AI 帝國」核心資產、市值 +$220B 利潤）；2023-09 IPO @ $51（市值 $54B）→ 2026-05 突破 $300B（5.5x、SoftBank 帝國最大單一資產）；CEO Rene Haas 2022-02 接任、Q4 FY2026 營收首破 $1B → 全年 $4.92B（YoY +24%）；**「賣水人之中的賣水人」第九位 anchor**（⚠️ **codex 2026-06-09 校準從 24 降為 23**、區分物理 chokepoint vs 合約 chokepoint）：跟 [[ASML]] 25 / [[Disco Corp]] 24 / [[村田 Murata]] 24 / [[信越化學]] 24 / [[SUMCO]] 24 / [[Synopsys]] 24 / [[Imec]] 24 並列「**頂級真賣水人池 7 家物理 chokepoint + ARM 1 家合約 chokepoint**」、ARM **23/25** 補位「**IP 授權年金 + CPU 架構標準制定（合約而非物理）**」新類別 anchor、路線敏感度因 RISC-V 替代結構性風險降為 4。
 
 ## 2. 三層 thesis
 
@@ -180,25 +180,28 @@ confidence: high
 - **股價 12 月 +50-100% 已 partial price in 樂觀**：FY2027 + FY2028 預期已被 price in
 - **AGI 高階 CPU 客製需求 + Compute Subsystem 跨進 silicon**：「歷史性首次跨進 silicon product」可能跟 fabless 客戶（Qualcomm / Mediatek / Apple）和 foundry（TSMC / Samsung）產生戰略張力
 
-## ⭐ ARM 五軸 24/25 — 「賣水人之中的賣水人」第八位 anchor
+## ⭐ ARM 五軸 23/25 ⚠️ **codex 2026-06-09 校準：IP licensing ≠ 物理 chokepoint、從 24 降為 23**
+
+⚠️ **codex 校準 thesis 重點**：ARM 跟 ASML / Synopsys / Disco Corp 等「**物理 chokepoint 賣水人**」**有結構性差異**——ARM 的「chokepoint」是 **IP licensing 合約選擇**而非物理瓶頸。RISC-V 是 viable 替代路線（Tenstorrent 已採 + 中國市場結構性壓力），客戶可選擇遷移，雖然遷移成本高但**非物理上不可能**。對比 ASML EUV / Disco 雷射切割 / 村田 MLCC、這些是物理上沒有替代路線、必須走的賽道。因此路線敏感度從 5 降為 4。
 
 | 軸 | 分數 | 理由 |
 |---|---|---|
-| 路線敏感（逆向）| **5** | ARM 完全不押 NVDA / AMD / Apple / Qualcomm 任何商業路線、所有 fab/fabless/IDM/hyperscaler 自研 SoC 都依賴 ARM 架構（智慧手機 99%+ + 資料中心 50%+ 趨勢 + AI PC 五軌混戰全 ARM）= **多路線都受惠**滿分 |
-| 站別關鍵 | **5** | CPU ISA 架構標準制定 + IP licensing chokepoint、所有 SoC 設計繞不過、跟 [[ASML]] 25 / [[Synopsys]] 24 / [[Cadence]] 22 EDA 雙頭 + [[Imec]] 24 R&D 公共財同等「**架構級 chokepoint**」= **必經之路**滿分 |
+| 路線敏感（逆向）| **4** ⚠️ **codex 校準從 5 降為 4** | ARM 不押任何商業路線、但 **RISC-V 替代路線結構性存在**（Tenstorrent + 中國市場 + 阿里巴巴玄鐵 + SiFive + Andes Technology + 部分 hyperscaler 探索）+ **IP licensing ≠ 物理 chokepoint**（合約選擇可改、不是物理上不可能繞道）+ **長期 Royalty 模型結構性壓力**（Qualcomm 訴訟示警 royalty model 可被法律挑戰、客戶 push-back 結構性存在）= 比真物理 chokepoint（[[ASML]] EUV 25 / [[Disco Corp]] 雷射切割 24 / [[村田 Murata]] MLCC 24）路線敏感度略低 1 分 |
+| 站別關鍵 | **5** | CPU ISA 架構標準制定 + IP licensing chokepoint、所有 SoC 設計繞不過（目前）、跟 [[Synopsys]] 24 EDA 雙頭 + [[Imec]] 24 R&D 公共財同等「**設計級 chokepoint**」= 仍滿分（即使 RISC-V 存在、現階段絕大多數先進 SoC 都選 ARM）|
 | 耗材 recurring | **5** | Royalty 年金結構性（每顆 SoC 出貨抽 1-2%、結構性復合）+ Licensing multi-year service contracts + CSS reference IP block = **耗材 / 年金主導**滿分（跟 [[Disco Corp]] 耗材年金 + [[Synopsys]] 訂閱年金等效） |
 | IP | **5** | ARMv9 ISA 業界標準 + Neoverse 資料中心 + Cortex 端點 + Mali GPU + Ethos NPU + 30+ 年累積 + 持有專利定義權 = **架構級 IP** 滿分（跟 [[Synopsys]] 5 / [[ASML]] 5 / [[Imec]] 5 等效）|
 | 客戶分散 | **4** | NVDA + AMD + Apple + Qualcomm + Mediatek + AWS + Microsoft + Google + Meta + Samsung + SK Hynix + Marvell + Oracle + Broadcom + TSMC + Tesla + 全球 SoC fabless 客戶分散、但 Apple 18-22% + NVDA 16-18% **兩家集中** = 客戶集中度比 [[ASML]] 25 / [[村田 Murata]] 24 等略集中扣 1 分（vs SoftBank 87% 持股流通性風險不算客戶集中度） |
 
-**總分：24/25** ⭐
+**總分：23/25** ⚠️ **codex 2026-06-09 校準：從 24/25 降為 23/25**
 
-→ **「賣水人之中的賣水人」第八位 anchor**：跟 [[Disco Corp]] 24 / [[村田 Murata]] 24 / [[信越化學]] 24 / [[SUMCO]] 24 / [[Synopsys]] 24 / [[Imec]] 24 並列 24/25、形成「**頂級真賣水人池 8 家完整版**」（含 [[ASML]] 25 唯一滿分）。
+→ **「賣水人之中的賣水人」第九位 anchor**（**從第八位「並列頂級」**降為「**次頂級 IP 授權年金代表**」）：跟頂級真物理 chokepoint [[Disco Corp]] 24 / [[村田 Murata]] 24 / [[信越化學]] 24 / [[SUMCO]] 24 / [[Synopsys]] 24 / [[Imec]] 24 / [[ASML]] 25 **形成「物理 chokepoint 7 家 + 合約 chokepoint 1 家（ARM）」雙層結構**。
 
-**為什麼 ARM 是「賣水人之中的賣水人」第八位**：
+**ARM thesis 校準後新位階**：
 
-1. **ARM 完全不押任何商業路線**（不押 NVDA / AMD / Apple / Qualcomm 任何客戶、所有客戶都依賴）
-2. **CPU ISA 架構標準制定 + IP licensing chokepoint + Royalty 年金 三重 chokepoint**結構性
-3. **跟 [[Synopsys]] / [[Cadence]] EDA + [[ASML]] 微影設備 + [[Imec]] R&D 公共財 + [[信越化學]] / [[SUMCO]] 矽晶圓 + [[Disco Corp]] 切割設備 + [[村田 Murata]] 被動元件並列「架構級賣水人之中的賣水人」**
+1. **ARM 仍是賣水人架構**（仍對所有 hyperscaler 自研 chip 都受惠）—— but「**合約選擇而非物理卡點**」、跟 ASML EUV 物理壟斷有本質差異
+2. **CPU ISA 架構標準制定 + IP licensing + Royalty 年金 三重結構性**仍成立，但需 **配上 RISC-V 替代路線結構性監控**（中國市場 + Tenstorrent + 阿里玄鐵 + SiFive 動態）
+3. **跟 [[Synopsys]] / [[Cadence]] EDA 對比**：EDA 雙頭客戶必雙頭採用（fabless 設計剛性需求）、ARM 客戶可 RISC-V 遷移（雖難）= EDA 路線敏感度 5 / ARM 路線敏感度 4 結構性差異
+4. **對 master 表 / KOL 池更新**：把 ARM 從「8 家頂級賣水人之中」改為「**7 家物理 chokepoint + 1 家合約 chokepoint**」雙層；或在 8 家 ranking 中 ARM 從 24 降為 23、明確區分「物理 vs 合約」
 
 ## ⭐ vs [[Synopsys]] / [[Cadence]] / [[Imec]] / [[ASML]] 架構級「賣水人之中的賣水人」對照
 
@@ -211,10 +214,10 @@ confidence: high
 | **[[SUMCO]]** | **24/25** | 並列第 2-8 位 | 矽晶圓全球 25%（雙頭壟斷另一頭）|
 | **[[Synopsys]]** | **24/25** | 並列第 2-8 位 | EDA 全球 #1（~33%）+ Ansys $35B 整合 |
 | **[[Imec]]** ⚠️ 特殊評估 | **24/25** | 並列第 2-8 位 | R&D 公共財 + 200+ 會員（不可投資）|
-| **ARM** ⭐ 2026-06-09 補位 | **24/25** | 並列第 2-8 位 | **CPU 架構 IP + Royalty 年金 + CSS platform** |
+| **ARM** ⚠️ **codex 2026-06-09 校準從 24 降為 23** | **23/25** | 第 9 位（合約 chokepoint、區分於物理 chokepoint）| **CPU 架構 IP + Royalty 年金 + CSS platform**（⚠️ RISC-V 替代 + 合約選擇而非物理卡點）|
 
-→ **8 家「賣水人之中的賣水人」完整池**：架構 → 製造 → 設計 → R&D 全鏈條覆蓋
-- **架構級**：[[ASML]] 25（製造設備）+ ARM 24（CPU 架構 IP）+ [[Synopsys]] 24 + [[Cadence]] 22（EDA 設計工具）+ [[Imec]] 24（R&D 公共財）
+→ **8 家「賣水人之中的賣水人」完整池**：架構 → 製造 → 設計 → R&D 全鏈條覆蓋（⚠️ codex 校準後 ARM 從 8 家併列調為「7 家物理 + 1 家合約」雙層）
+- **架構級**：[[ASML]] 25（製造設備）+ ARM **23 合約 chokepoint**（CPU 架構 IP）+ [[Synopsys]] 24 + [[Cadence]] 22（EDA 設計工具）+ [[Imec]] 24（R&D 公共財）
 - **材料 / 設備級**：[[信越化學]] 24（光阻 + 矽烷 + pBN）+ [[SUMCO]] 24（矽晶圓）+ [[Disco Corp]] 24（切割設備）+ [[村田 Murata]] 24（被動元件）
 
 ## ⭐ ARM 跟 [[NVDA]] / [[AMD]] / [[Intel]] x86 ARM 雙頭分食結構
@@ -228,7 +231,7 @@ confidence: high
 
 ## 跟其他 wiki 概念連結
 
-- [[賣水人選股邏輯（投資版）]]：ARM 五軸 24/25「賣水人之中的賣水人」第八位 anchor（補位 master 表）
+- [[賣水人選股邏輯（投資版）]]：ARM 五軸 **23/25**「賣水人之中的賣水人」第九位 anchor（⚠️ codex 2026-06-09 校準從 24 降為 23、區分於物理 chokepoint 7 家）
 - [[6 戰場交集圖譜]]：ARM 跨「智慧手機 + 資料中心 CPU + AI PC + Edge AI + Automotive + IoT」六戰場 anchor
 - [[控制點轉移（投資版）]]：CPU ISA 架構標準制定 + IP licensing chokepoint + Royalty 年金 + CSS platform 整合 + ARM Foundation Models 五重 chokepoint
 - [[半導體基礎建設化]]：ARM 架構 IP 是「**半導體設計鏈最上游基礎建設**」(設計鏈基礎建設化典範)

@@ -9,7 +9,9 @@ check_after: 2026-12-08
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 英國, InP, GaAs, VCSEL, 化合物半導體, 6-inch InP, epi foundry, CPO 上游, 光通訊, 三階段論, foreign_competitor, MACOM]
-confidence: high
+confidence: low
+score_range: "15-19/25"
+score_flag: thesis-dependent
 ---
 
 # IQE（IQE.L）
@@ -197,7 +199,15 @@ confidence: high
 | IP | **4** | 6" InP DFB Laser 平台 industry-first + 40 年 MOCVD know-how、但 LITE EML / COHR SiC 級別 IP 深度更厚 |
 | 客戶分散 | **2** | MACOM + 模組廠 + 國防 + VCSEL 四軌、但每軌都偏少數大客戶、MACOM 11.5% 股權集中度 = 短期是 anchor、長期是 risk |
 
-**總分：17/25**
+**總分：17/25** ⚠️ **codex 2026-06-09 校準：confidence: low、實際區間 15-19/25、thesis-dependent**
+
+⚠️ **codex 校準注意**：單一精確分數 17/25 是**假精度**——五軸計分裡至少 3 個軸（站別 / IP / 客戶分散）本質上是 thesis-dependent 區間估值、實際應標 **15-19/25 區間** + `confidence: low`：
+- **下限 15/25**（thesis 失敗情境）：LITE / COHR 自家 fab 擴張 partial cannibalize 站別降至 3、MACOM 11.5% 持股集中度長期演變為 risk 客戶分散降至 1
+- **上限 19/25**（thesis 完全驗證情境）：6" InP 平台被三家主供同步採用站別升至 5、MACOM 戰略入股長期演變為穩定 anchor 客戶分散升至 3、長期 epi 耗材年金驗證升至 4
+- **中位 17/25**：依目前可見訊號（FY 2025 photonics +15% + 2026-04 £81M 融資 + 整鏈三家同月喊緊）的 base case
+- 在 master 表 / KOL / 賣水人池中引用時、建議標 **「IQE 15-19/25（thesis-dependent）」** 而非直接寫 17、避免跟可投資穩定 anchor（LITE 19 / COHR 19 / Sumitomo 20）做精確比較
+
+→ **同類 entity 校準提醒**：所有 `confidence: low` 的 entity（如 [[F&S Electron]] 13/25 + [[POET Technologies]] 13/25 + 其他 binary outcome / thesis-dependent 期權型）都應該用區間 + flag 形式呈現、不是單一精確分數。
 
 ### vs [[Lumentum]] / [[Coherent]] 五軸對照
 
