@@ -196,24 +196,32 @@ confidence: high
 
 → **「訂閱年金 + AI agent narrative shift bet + Fortune 500 結構性 lock-in」**：Snowflake 五軸 19/25 跟 [[Accenture]]（待建）+ [[GlobalFoundries]] 20 + [[Coherent]] 19 + [[Lumentum]] 19 同級、低於 [[Oracle]] 18 + [[Accenture]] 19 + 高於 [[CoreWeave]] 12 + [[Lambda]] 13。**主因**：訂閱年金（5/5）+ 跨多雲（4/5）+ Fortune 500 結構性 lock-in（3/5）三軸驅動、但 IP（3/5）落後 Synopsys / Cadence 等真賣水人 + 客戶分散（3/5）受 Fortune 500 集中拖累。
 
-## ⭐ 跟 [[Databricks]] 路線分歧（行業關鍵戰局）
+## ⭐ 跟 [[Databricks]] 路線分歧（行業關鍵戰局、#G1 2026-06-09 [[Databricks]] entity 落地後補強）
 
-**兩家路線分歧 = 企業 AI platform 兩種範式**：
+**兩家路線分歧 = 企業 AI platform 兩種範式 + 五軸 19/25 並列「企業數據雙頭」**：
 
-| 維度 | Snowflake | Databricks |
+| 維度 | Snowflake | [[Databricks]] |
 |---|---|---|
 | 起點範式 | SQL data warehouse | Spark Lakehouse |
 | 結構化 vs 非結構化 | **結構化資料 + BI 優先** | **非結構化 + AI training 優先** |
 | 主場客戶 | Fortune 500 金融 / 零售 / 製造（結構化資料豐富）| Fortune 500 科技 / 媒體 / 互聯網（非結構化 + AI 訓練多）|
-| 治理 governance | Polaris Catalog + 30 年 BI lineage | Unity Catalog + AI / ML 模型治理 |
-| AI 整合 | Cortex AI + NVDA NeMo / NIM | Mosaic AI + Hugging Face + 自研 Foundation Models |
-| Lakehouse 路線 | Polaris Catalog（吃 Databricks 主場）| Lakehouse 始祖 + Spark 主導 |
-| 上市狀態 | 2020-09 上市 NYSE：SNOW | **私募 $62B 估值（2024-12 Series J）+ IPO 2026 H2-2027 H1** |
-| 估值 / 規模 | $48-60B 市值（Forward PE 65-90x）| $62B 私募估值（IPO 後可能 $80-120B）|
-| 客戶 RRR | ~126% | ~140%+（更激進、AI workload）|
+| 治理 governance | Polaris Catalog + 30 年 BI lineage | **Unity Catalog + AI / ML 模型治理 + 多雲統一** |
+| AI 整合 | Cortex AI + NVDA NeMo / NIM | **Mosaic AI + Hugging Face + 自研 Foundation Models DBRX 132B** |
+| Lakehouse 路線 | Polaris Catalog（吃 Databricks 主場）| **Lakehouse 始祖 + Spark 主導** |
+| 跨多雲覆蓋 | AWS 80%+ 主力 + Azure / GCP 第二 | **AWS + Azure + GCP + Oracle + Alibaba 五雲**（勝 SNOW 1 分）|
+| 上市狀態 | 2020-09 上市 NYSE：SNOW | **⚠️ 私募 $62B 估值（2024-12 Series J）+ IPO 2026 H2-2027 H1** |
+| 估值 / 規模 | $48-60B 市值（Forward PE 65-90x）| **$62B 私募估值（IPO 後可能 $80-120B、Forward PE 50-80x 預期）** |
+| 客戶 RRR | ~126% | **~140%+（更激進、AI workload 用量爆炸）** |
 | 商業模式 | 訂閱年金 + 用量計費 | 訂閱年金 + 用量計費（類似）|
+| 戰略合作 | **AWS $60B 5 年合約** | **Microsoft Azure Databricks 17 年戰略合作 + Mosaic AI 整合** |
+| 五軸（25 分制）| **19/25**（路線 4 + 站 4 + 耗 5 + IP 3 + 客 3）| **19/25**（路線 5 跨多雲 + 站 4 + 耗 5 + IP 3 + 客 2 私募集中）|
 
-**結論**：**Snowflake 跟 Databricks 不是「一家贏」、是「雙頭分食 + 共生」**——Fortune 500 客戶必雙頭採用（Snowflake 跑 SQL BI + Databricks 跑 AI 訓練）。但 2026 趨勢匯流（Snowflake 擴 Lakehouse + Databricks 擴 SQL Warehouse）→ 雙頭可能「**互相蠶食 mature workload + 中間客戶開始選邊**」。**Databricks IPO 後是 Snowflake 估值的反向 anchor**——若 Databricks 上市估值 $80-120B + Forward PE 50-70x → Snowflake 估值需要結構性 re-rate。
+**結論**：**Snowflake 跟 Databricks 不是「一家贏」、是「雙頭分食 + 共生」**——Fortune 500 客戶必雙頭採用（Snowflake 跑 SQL BI + Databricks 跑 AI 訓練）。但 2026 趨勢匯流（Snowflake 擴 Lakehouse + Databricks 擴 SQL Warehouse）→ 雙頭可能「**互相蠶食 mature workload + 中間客戶開始選邊**」。**Databricks IPO 後 $80-120B 估值預期是 Snowflake 估值的反向 anchor**——若 Databricks 上市估值 $80-120B + Forward PE 50-80x → Snowflake 估值需要結構性 re-rate（PE 65-90x → 50-70x 收縮 -20 至 -30%）。
+
+⭐ **五軸 19/25 並列差異化**（**#G1 2026-06-09 補位**）：
+- **Snowflake 路線敏感 4 + 客戶分散 3**：AWS 80%+ 集中 + Fortune 500 90%+ AVL 結構性集中
+- **Databricks 路線敏感 5 + 客戶分散 2**：跨多雲 5 家（**勝 SNOW 1 分**）+ 私募階段客戶數小 + Fortune 100 85%+ AVL 集中（**遜 SNOW 1 分**）
+- → 兩家五軸總分相同、結構性分歧路線 = **「企業數據雙頭」並列 anchor**
 
 ## 跟其他 wiki 概念連結
 

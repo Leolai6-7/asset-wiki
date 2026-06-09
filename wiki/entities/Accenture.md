@@ -201,16 +201,16 @@ confidence: high
 
 → **「AI 賣水人之中的賣水人 + 估值 cushion」**：Accenture 五軸 19/25 跟 [[Snowflake]] 19 / [[GlobalFoundries]] 20 / [[Coherent]] 19 / [[Lumentum]] 19 同級、低於 [[Synopsys]] 24 / [[Cadence]] 22 (架構級「賣水人之中的賣水人」EDA 三巨頭 / Forward PE 22-26x 是 wiki 中 AI 賣水人賽道**最便宜**(vs SiTime 35-50 / Coherent 44-49 / Lumentum 52-59 / Snowflake 65-90 / Synopsys 30-40)。**主因**：諮詢年金（5/5）+ 客戶分散（5/5）+ 路線中性（4/5）+ 站別關鍵（4/5）四軸驅動、但 IP（3/5）是「人 + 流程 IP」非「技術 IP」拖累。
 
-## ⭐ Accenture vs Deloitte vs IBM Consulting vs TCS 四家分食
+## ⭐ Accenture vs Deloitte vs IBM Consulting vs TCS 四家分食（#G1 2026-06-09 [[Deloitte]] + [[IBM]] entity 落地後補完）
 
 **業界格局**：
 
-| 公司 | 規模 | AI 投入 | 客戶定位 | 估值 |
-|---|---|---|---|---|
-| **Accenture（ACN）** | **789K 員工 + $65-70B 營收 #1** | **$3B+ AI 投入 + GenAI ARR $4-5B** | Fortune 500 + 政府 + 跨產業 | Forward PE 22-26x |
-| **Deloitte**（私募）| 457K 員工 + $65B 營收 | ~$2B AI 投入 | Fortune 500 + 政府（含 Deloitte Audit 並列）| 非上市、可能 IPO |
-| **IBM Consulting** | 270K 員工 + $20-22B 營收 | ~$1.5B AI 投入 + watsonx | Fortune 500 + 政府（含 IBM HW / SW 整合）| 不單獨估值（IBM 集團）|
-| **TCS** | 615K 員工 + $30B 營收 | ~$1B AI 投入 + TCS Pace | 全球銀行 + 保險（Tata 集團 anchor）| Forward PE 25-28x |
+| 公司 | 規模 | AI 投入 | 業務組合 | 自家 platform | 客戶定位 | 投資路徑 |
+|---|---|---|---|---|---|---|
+| **Accenture（ACN）** | **789K 員工 + $65-70B 營收 #1** | **$3B+ AI 投入 + GenAI ARR $4-5B** | Strategy + Consulting + Technology + Operations + Industry X | **無自家 platform**（純諮詢 + 跨 platform 整合）| Fortune 500 + 政府 + 跨產業 | **✅ 上市 NYSE: ACN、Forward PE 22-26x = 投資路徑乾淨** |
+| **[[Deloitte]]**（**私募合夥制、NOT-INVESTABLE**）| **457K 員工 + $67B 營收 #2** | **$2B+ AI 投入 + GenAI ARR $3B+** | Audit + Consulting + Tax + Risk Advisory | **無自家 platform**（純諮詢 + 跨 platform 整合 + Audit-led）| Fortune 500 + 政府 + Audit-led 額外 anchor | **⚠️ 私募合夥制、NOT-INVESTABLE = reference only** |
+| **[[IBM]] Consulting**（含 IBM 集團）| **270K 員工 + IBM Consulting 段 $22-24B**（IBM 整體 ~$65-68B）| **$1.5B AI 投入 + GenAI ARR $2B+** | Consulting + Software（Red Hat + watsonx）+ Infrastructure（Mainframe + Power）| **✅ 有自家 platform**（Red Hat OpenShift + watsonx + Granite Foundation Models + IBM Z Mainframe）| Fortune 500 + 政府 + IBM HW / SW 整合 | **✅ 上市 NYSE: IBM、Forward PE 18-22x = 整體 IBM exposure 含 Mainframe 稀釋** |
+| **TCS** | 615K 員工 + $30B 營收 | ~$1B AI 投入 + TCS Pace | 印度 IT 服務 + Tata 集團 anchor | 無自家 platform | 全球銀行 + 保險（Tata 集團 anchor）| Forward PE 25-28x |
 
 **Accenture 業界規模 #1 + AI 投入 #1 + 跨 13 大產業 + 跨 200+ 地理 = 結構性護城河**：
 
@@ -218,9 +218,23 @@ confidence: high
 - **AI 上**：$3B+ AI 投入 vs Deloitte $2B / IBM Consulting $1.5B / TCS $1B
 - **GenAI ARR**：$4-5B vs Deloitte ~$3B / IBM Consulting ~$2B / TCS ~$1.5B（推估）
 
+**「企業 AI 諮詢三巨頭」分歧路線**（**#G1 2026-06-09 補位**）：
+- **Accenture 19/25**：規模 + AI 投入 + 跨產業 + 純諮詢 + 上市 = **投資路徑最乾淨**
+- **[[Deloitte]] reference**：規模 + Audit-led + 私募合夥制 = **NOT-INVESTABLE reference only**
+- **[[IBM]] 17/25**：規模相對小 + 自家 platform 整合（Red Hat + watsonx + Mainframe + Hybrid Cloud）= **整體含 Mainframe 稀釋 vs IBM Consulting 段獨立看 17-19/25**
+
+**IBM Consulting 跟 Accenture / Deloitte 核心差異化**（**自家 platform 整合 anchor**）：
+- IBM Consulting 含 **Red Hat OpenShift Hybrid Cloud + watsonx + Granite Foundation Models** = 「**諮詢 + 自家 AI Foundation Models + Hybrid Cloud platform**」三軌整合
+- vs Accenture（純諮詢 + 跨 platform 整合）/ Deloitte（純諮詢 + Audit-led + Tax 多軌）
+- 但 IBM Consulting 規模較小（$22-24B vs Accenture $65-70B / Deloitte $67B）+ IBM Z Mainframe 結構性減速拖累整體 IBM 評分
+
 **Accenture 跟 Palantir 兩家 FDE 戰略 anchor 互補**：
 - **Palantir = 深度 + 政府 + 大型企業（Foundry + Gotham + AIP）**
 - **Accenture = 寬度 + 規模 + 跨產業（FDE + Microsoft Copilot + Anthropic + OpenAI 多 platform）**
+- **Deloitte = 寬度 + 規模 + Audit-led（FDE + Big Four Audit 強制 anchor）**
+- **IBM Consulting = 寬度 + 規模 + 自家 platform 整合（FDE + Red Hat + watsonx）**
+
+⭐ **企業 AI 諮詢市場分食**：~$300-400B（2025、含 Audit + Tax）、五家分食（Accenture + Deloitte + IBM Consulting + PwC + EY + KPMG）+ AI 投入三巨頭（Accenture + Deloitte + IBM Consulting）佔絕大份額
 
 ## 跟其他 wiki 概念連結
 
@@ -235,6 +249,8 @@ confidence: high
 - [[公司 Entity 模板（Step 1-3 三段式）]]：本 entity 強制格式
 - [[Anthropic]]：FDE 戰略 anchor 雙向 lock-in（Accenture 訓練 3 萬員工 Claude）
 - [[OpenAI]] / [[Palantir]]：FDE 戰略並列三家規模化執行樣本
+- [[Deloitte]]：**「企業 AI 諮詢三巨頭」對照組 anchor #2**（Accenture 上市可投資 vs Deloitte 私募 reference）
+- [[IBM]]：**「企業 AI 諮詢三巨頭」對照組 anchor #3**（IBM Consulting 自家 platform 整合 Red Hat + watsonx + Mainframe vs Accenture 純諮詢）
 - [[Microsoft]]：Microsoft Avanade JV + Microsoft-related bookings >$10B + Copilot 部署主執行夥伴
 - [[AMZN]] / [[Google]] / [[NVDA]] / [[Snowflake]] / [[Databricks]]：全 platform 合作的執行夥伴
 
@@ -248,6 +264,7 @@ confidence: high
 - [[預期差]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 - [[Anthropic]]、[[OpenAI]]、[[Palantir]]
+- [[Deloitte]]、[[IBM]]（**「企業 AI 諮詢三巨頭」對照組**）
 - [[Microsoft]]、[[AMZN]]、[[Google]]、[[NVDA]]
 - [[Snowflake]]、[[Databricks]]
 - [[Oracle]]、[[CoreWeave]]、[[Lambda]]

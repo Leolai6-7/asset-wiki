@@ -113,18 +113,30 @@ confidence: high
 
 → **LNG 出口創業需要「強現金流 + 長約 anchor + 大型 strategic partner + FID 時點」四要素全滿**
 
-### ⭐ Woodside Driftwood 重啟現狀（2024-10 至今）
+### ⭐ Woodside Driftwood 重啟現狀（2024-10 至今、#G1 2026-06-09 [[Woodside Energy]] entity 落地後補完）
 
 | 維度 | 細節 |
 |---|---|
-| **2024-10 收購完成** | USD ~$1.2B all-cash、Premium ~75% |
+| **2024-10 收購完成** | USD ~$1.2B all-cash、Premium ~75% over Tellurian 30-day VWAP |
 | **Phase 1 FID 重啟** | 2024 Q4 宣布、目標 2027-2028 ramp |
 | **Phase 1 容量** | ~11 MTPA |
-| **Phase 2-4 容量** | +~16.6 MTPA（視市場） |
-| **客戶長約** | 待簽 |
+| **Phase 2-4 容量** | +~16.6 MTPA（視市場 + Woodside 戰略決策）|
+| **客戶長約** | 待簽（Woodside 將利用全球客戶網絡 Shell / BP / Total / JERA / KOGAS / Aramco 重簽）|
 | **Woodside 全球客戶網絡** | Shell / BP / Total / JERA / KOGAS / Aramco 可能簽 |
-| **整合風險** | 澳洲管理 + 美國運營文化差異 |
-| **跟 Cheniere / Sempra 競爭** | Woodside 是「澳洲 LNG #2」進入美國市場新玩家 |
+| **整合風險** | 澳洲管理 + 美國運營文化差異、Tellurian alumni 部分留任 |
+| **跟 Cheniere / Sempra 競爭** | Woodside 是「澳洲 LNG #1」進入美國市場新玩家、跟 [[Cheniere Energy]] / [[Sempra LNG]] 並列**美澳 LNG 三巨頭** |
+| **股東結構** | [[Woodside Energy]] 100% 持股、澳洲股東主導 |
+| **五軸定位** | [[Woodside Energy]] 整體 **20/25**（**#G1 2026-06-09 補位**）= 跟 Cheniere 22 略遜 2 分（pure-play 純度 + IP 寬度）、跟 Sempra 19 略勝 1 分（地理跨大洋勝 utility 防守）= **美澳 LNG 三巨頭中間選項** |
+
+### ⭐ Woodside Driftwood vs Cheniere / Sempra 三家差異化（#G1 2026-06-09 補位）
+
+| 公司 | 規模（MTPA）| 地理 | 純度 | Forward PE | 五軸 |
+|---|---|---|---|---|---|
+| **[[Cheniere Energy]]** | ~55（含 Stage 3）| 美國 Gulf Coast pure-play | **~95% LNG**（pure-play 純度勝）| 12-15x | **22/25** |
+| **[[Woodside Energy]]（WDS）** | ~36（澳洲 25 + Driftwood 11）| **澳洲 + 美國跨大洋** | ~70% LNG + 25% 油氣（混合）| 12-16x | **20/25** |
+| **[[Sempra LNG]]** | ~35（Cameron + Port Arthur + ECA）| 美國 + Mexico 太平洋 | ~30-35% LNG + 50-55% utility（utility 多元勝）| 18-22x | **19/25** |
+
+→ Tellurian → Woodside 收購是「**美國 LNG 出口賽道擴展 + 澳洲玩家跨入**」結構性事件、Driftwood Phase 1 ramp（2027-2028）後跟 Cheniere / Sempra 共同接管 hyperscaler 海外資料中心 firm power 缺口
 
 ## ⭐ 為什麼建檔成 reference entity（非五軸評分）
 
@@ -138,10 +150,11 @@ confidence: high
 
 ## 跟其他 wiki 概念連結
 
-- [[AI infra 電力戰場]]：本 entity 是 **firm power 第五選擇 anchor 一部分**（透過 Woodside Energy WDS 間接持有）
+- [[AI infra 電力戰場]]：本 entity 是 **firm power 第五選擇 anchor 一部分**（透過 [[Woodside Energy]] WDS 間接持有、**#G1 2026-06-09 Woodside entity 落地**）
 - [[賣水人選股邏輯（投資版）]]：Tellurian 失敗教訓 + Driftwood 未來 ramp（reference only）
-- [[Cheniere Energy]]：**Charif Souki 第一曲線成功 vs Tellurian 第二曲線失敗對照**（同 founder 截然不同結果）
-- [[Sempra LNG]]：utility 多元 + LNG 雙引擎 vs Tellurian pure-play 創業失敗對照
+- [[Cheniere Energy]]：**Charif Souki 第一曲線成功 vs Tellurian 第二曲線失敗對照**（同 founder 截然不同結果）+ **美澳 LNG 三巨頭中 Cheniere pure-play 純度勝**
+- [[Sempra LNG]]：utility 多元 + LNG 雙引擎 vs Tellurian pure-play 創業失敗對照 + **美澳 LNG 三巨頭中 Sempra utility 多元**
+- [[Woodside Energy]]：**2024-10 收購 Tellurian 的母公司、現持有 Driftwood LNG 100% 股權**、**美澳 LNG 三巨頭中 Woodside 跨大洋雙路徑 + 油氣 25% 混合**
 - [[Cameron LNG]]：reference entity sister（合資結構 vs Driftwood 單一股東）
 - [[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] / [[Bloom Energy]] / [[Talen Energy]]：**AI infra 電力戰場 anchor sister entities**
 - [[FOMO SOC KP #46 — LNG 能源結構重塑（美伊戰後五大不可逆轉變）]]：LNG 結構性 thesis 來源
@@ -149,7 +162,7 @@ confidence: high
 
 ## 相關連結
 
-- [[Cheniere Energy]] / [[Sempra LNG]] / [[Cameron LNG]]
+- [[Cheniere Energy]] / [[Sempra LNG]] / [[Cameron LNG]] / [[Woodside Energy]]
 - [[AI infra 電力戰場]]
 - [[賣水人選股邏輯（投資版）]]
 - [[FOMO SOC KP #46 — LNG 能源結構重塑（美伊戰後五大不可逆轉變）]]

@@ -58,6 +58,7 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 | **[[Talen Energy]]**（TLN）| 核電 + 氣電 | 2.5 GW 核電（Susquehanna）+ Caithness 氣電 | **Amazon $18B 17 年 PPA 1.92GW**（2025-06 簽）|
 | **[[Bloom Energy]]**（BE）⭐ **第四選擇 SOFC** | **SOFC 分散式 firm power** | **2026 1GW → 2GW 產能翻倍** | **Oracle Stargate 多個 GW 級訂單**（hyperscaler 評估中、5-10 分鐘部署 + 跳電網瓶頸）|
 | **[[Cheniere Energy]]**（NYSE: LNG）⭐ **#F1 2026-06-09 補位 第五選擇 LNG 出口（境外）** | **LNG 出口 #1 美國 + 境外擴展** | **~55 MTPA**（SPL Sabine Pass 30 MTPA + CCL Corpus Christi 25 MTPA、CCL Stage 3 ramp 加 +10 MTPA 2026-2028） | **SPA 20 年長約 80% + Henry Hub +115% 公式 + 全球客戶 10-15 家（BP / Shell / Total / Equinor / CNOOC / KOGAS / JERA / PetroNet / Naturgy / Galp / Vitol）+ hyperscaler 歐洲 / 日韓 / 印度 / 新加坡海外資料中心 firm power 上游 anchor** |
+| **[[Woodside Energy]]**（NYSE: WDS、ASX: WDS）⭐ **#G1 2026-06-09 補位 第五選擇 LNG 美澳雙路徑** | **澳洲 LNG operator #1 + 美國 Driftwood 跨入** | **~36 MTPA（Driftwood Phase 1 ramp 完成）**（澳洲 NWS 33.33% × 16.9 + Pluto 90% × 4.9 + Scarborough 100% × 5 ~25 net + Driftwood Phase 1 ~11 MTPA、Phase 2-4 potential +16.6 MTPA） | **澳洲 LNG SPA 70-75% + JKM + Brent slope 公式 + 美國 Driftwood Henry Hub +115% 公式雙公式對沖 + 油氣 25% 多元 + 跨大洋 sovereign 分散澳美 + hyperscaler 亞洲 + 歐洲海外資料中心 firm power 上游 anchor** |
 | **[[Sempra LNG]]**（NYSE: SRE）⭐ **#F1 2026-06-09 補位 第五選擇 LNG #2 + utility 多元** | **LNG 出口 #2 + California utility 母體 + Mexico** | **~35 MTPA（2028 ramp 完成）**（Cameron 12 MTPA + Phase 2 +6.75 MTPA + Port Arthur Phase 1 +13 MTPA + ECA Mexico +3.25 MTPA） | **Cameron LNG 50.2% 持股主控 + Total / 三井 / 三菱 16.6% 合資 + Port Arthur Phase 1（2027-2028 ramp）+ ECA Mexico 唯一太平洋出口（2025-2026 ramp）** |
 
 → **核電 = 24/7 carbon-free baseload**、是 hyperscaler **AI 永續承諾 + 政治正確雙頭過關**的唯一答案
@@ -80,13 +81,20 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 | **AI 連結** | hyperscaler **歐洲 / 日韓 / 新加坡海外資料中心**能源 anchor |
 | **政治意涵** | 美國從「LNG 價格接受者」→「LNG 價格制定者」 |
 
-**LNG 玩家 anchor**（#F1 2026-06-09 4 家 entity 落地）：
+**LNG 玩家 anchor**（#F1 2026-06-09 4 家 entity 落地 + #G1 2026-06-09 補完 Woodside Energy 美澳雙路徑 anchor）：
 - ✅ **[[Cheniere Energy]]**（NYSE: LNG、Sabine Pass + Corpus Christi、**已建** 22/25）— 美國 LNG 出口 #1（50%+ 市佔）+ SPL + CCL 兩大廠 ~55 MTPA + SPA 80% 長約 + Henry Hub +115% 公式 + Forward PE 12-15x「old-economy energy 估值」乾淨 + Mega Cap $50-55B
+- ✅ **[[Woodside Energy]]**（NYSE: WDS、ASX: WDS、**#G1 2026-06-09 補位** 20/25）— **澳洲 LNG operator #1**（NWS + Pluto + Scarborough ~25 MTPA）+ **2024-10 收購 [[Tellurian]] → Driftwood LNG Phase 1 ~11 MTPA**（2027-2028 ramp）+ **油氣 25% 業務多元**（Bass Strait + Sangomar + Trion + Mad Dog）+ **JKM + Brent slope（澳洲）+ Henry Hub +115%（美國）雙公式對沖** + **跨大洋 sovereign 分散澳美** + Forward PE 12-16x + Mega Cap $50-60B = **美澳 LNG 三巨頭**之一（跟 Cheniere / Sempra 並列）
 - ✅ **[[Sempra LNG]]**（NYSE: SRE、Cameron + Port Arthur + ECA Mexico、**已建** 19/25）— 美國 LNG #2 + utility 母體（California utility 50-55% + LNG 30-35% + Mexico 10-15%）+ Cameron 50.2% 主控 + 唯一太平洋出口（ECA Mexico）+ Forward PE 18-22x utility 溢價 + Mega Cap $50-55B
 - ✅ **[[Cameron LNG]]**（**已建 reference only**）— Sempra Infrastructure 50.2% 持股 + Total / 三井 / 三菱各 16.6% 合資、Phase 1 ~12 MTPA + Phase 2 +6.75 MTPA + Phase 3 pending FID = Sempra LNG segment 第一大資產拆解 anchor、**非可投資 entity**
-- ✅ **[[Tellurian]]**（**已建 reference only / 2024-10 被 Woodside 收購、現為 Woodside Driftwood LNG**）— Charif Souki（Cheniere 創辦人）第二曲線創業失敗教訓、99%+ drawdown、Phase 1 ~11 MTPA 2027-2028 ramp、跟 Cheniere / Sempra 並列美國 LNG 三巨頭但澳洲股東主導（透過 Woodside Energy WDS 間接持有）、**LNG 出口需要「強現金流 + 長約 anchor + 大型 strategic partner + FID 時點」四要素全滿**結構性教訓
+- ✅ **[[Tellurian]]**（**已建 reference only / 2024-10 被 Woodside 收購、現為 Woodside Driftwood LNG**）— Charif Souki（Cheniere 創辦人）第二曲線創業失敗教訓、99%+ drawdown、Phase 1 ~11 MTPA 2027-2028 ramp、跟 Cheniere / Sempra 並列美國 LNG 三巨頭但澳洲股東主導（透過 [[Woodside Energy]] WDS 間接持有）、**LNG 出口需要「強現金流 + 長約 anchor + 大型 strategic partner + FID 時點」四要素全滿**結構性教訓
 
 → LNG 出口擴展「電力戰場」的地理邊界——從美國境內核電 baseload → **全球 LNG 出口 anchor**、跟 SOFC 同為「**對沖核電復役延宕的 firm power 補位**」。
+
+⭐ **美澳 LNG 三巨頭分歧路線**（**#G1 2026-06-09 補位**）：
+- **[[Cheniere Energy]] 22**：pure-play 純度勝 + 美國 LNG 出口 #1（50%+）+ SPA 80% 長約 + Forward PE 12-15x「old-economy energy 估值」乾淨
+- **[[Woodside Energy]] 20**：澳洲 LNG #1 + 美國 Driftwood 跨入 + 油氣 25% + 跨大洋 sovereign + Forward PE 12-16x 估值乾淨「**美澳 LNG 三巨頭**」中間選項
+- **[[Sempra LNG]] 19**：utility 多元 + Cameron 50.2% + Port Arthur + ECA Mexico 三線 + 加州 utility 50-55% + Forward PE 18-22x utility 溢價
+- → 三家分歧路線：**純度（Cheniere）+ 跨大洋雙路徑（Woodside）+ utility 多元（Sempra）**
 
 ⭐ **Cheniere vs Sempra 路線差異化**（**LNG 雙頭分歧**）：
 - **Cheniere（22/25 pure-play alpha）**：100% LNG pure-play + 美國 LNG 出口 #1（50%+）+ SPA 80% 長約 + Forward PE 12-15x、Re-rate 雙引擎（→ AI 基建 anchor 估值重定價 + Qatar -17% 缺口接管 + CCL Stage 3 ramp）
@@ -309,11 +317,12 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 - ✅ [[Vistra]]（VST）— 41GW + Meta 20 年 2.6GW PPA + AWS PPA + Cogentrix 5.5GW、五軸 23/25
 - ✅ [[Talen Energy]]（TLN）— Susquehanna 2.5GW + AWS 17 年 $18B 1.92GW PPA + Caithness $3.5B、五軸 19/25
 - ✅ [[Bloom Energy]]（BE）⭐ **2026-06-09 補位 firm power 第四選擇** — SOFC 分散式 firm power、2026 1GW → 2GW 翻倍、FY 2026 營收 $34-38 億 USD +25-30% YoY、Oracle Stargate 多個 GW 訂單、跟 [[高力 8996|高力]] hot box 共生、五軸 19/25
-- ⚠️ **2026-06-09 LNG 出口（第五選擇）待 ingest**（FOMO SOC KP #46）：
-  - [[Cheniere Energy]]（LNG）— Sabine Pass + Corpus Christi、美國 LNG 出口 #1
-  - [[Sempra LNG]]（SRE）— Cameron + Port Arthur
-  - [[Cameron LNG]]（Sempra + 三井 + 三菱 + Total 合資）
-  - [[Tellurian]] / NextDecade（pure-play、高 alpha）
+- ✅ **2026-06-09 LNG 出口（第五選擇）#F1 + #G1 完整 ingest**（FOMO SOC KP #46）：
+  - [[Cheniere Energy]]（LNG）22/25 — Sabine Pass + Corpus Christi、美國 LNG 出口 #1
+  - [[Sempra LNG]]（SRE）19/25 — Cameron + Port Arthur + ECA Mexico、utility 多元
+  - [[Woodside Energy]]（WDS）20/25 ⭐ **#G1 2026-06-09 補位** — 澳洲 LNG operator #1 NWS + Pluto + Scarborough + 2024-10 收購 Tellurian → Driftwood Phase 1 美澳雙路徑
+  - [[Cameron LNG]]（Sempra + 三井 + 三菱 + Total 合資、**reference only**）
+  - [[Tellurian]] / NextDecade（**Tellurian 2024-10 已被 Woodside 收購** reference only、NextDecade pure-play、高 alpha 待補）
 - ⚠️ 待 ingest：NRG Energy / Public Service Enterprise / Duke Energy
 
 ### 變壓器 / 電網設備（第二層電力傳輸）

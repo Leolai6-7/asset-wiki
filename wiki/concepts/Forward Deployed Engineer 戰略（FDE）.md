@@ -111,8 +111,36 @@ KP@FOMOSoc 2026-05-09 KP41 提出的 framework：**OpenAI / Anthropic 複製 Pal
 - FDE 戰略創造新「賣水人」：
   - [[Accenture]]（IT 服務、AI 部署外包）⭐ 高純度
   - [[Palantir]]（FDE 原型 + 政府客戶）⭐ 高純度
-  - Cloudflare（M2M 流量、AI 應用層基礎建設）
+  - [[Cloudflare]]（M2M 流量、AI 應用層基礎建設）
   - **Anthropic / OpenAI 自己也是 FDE 賣水人**（API + 服務雙引擎）
+
+### ⭐ 企業 AI 諮詢三巨頭分工（**#G1 2026-06-09 補位 [[Deloitte]] + [[IBM]] entity 落地後完整版**）
+
+**三巨頭分歧路線**：
+
+| 公司 | 規模 | AI 投入 | 業務組合 | 自家 platform | 投資路徑 |
+|---|---|---|---|---|---|
+| **[[Accenture]] 19/25** | **789K 員工 + $65-70B 營收 #1** | **$3B+ AI 投入 + GenAI ARR $4-5B** | Strategy + Consulting + Technology + Operations + Industry X | **無自家 platform**（純諮詢 + 跨 platform 整合）| **✅ 上市 NYSE: ACN、Forward PE 22-26x = 投資路徑乾淨** |
+| **[[Deloitte]] reference**（**私募合夥制、NOT-INVESTABLE**）| **457K 員工 + $67B 營收 #2** | **$2B+ AI 投入 + GenAI ARR $3B+** | Audit + Consulting + Tax + Risk Advisory | **無自家 platform**（純諮詢 + 跨 platform 整合 + Audit-led）| **⚠️ 私募合夥制、NOT-INVESTABLE = reference only** |
+| **[[IBM]] 17/25**（含 IBM Consulting 段）| **270K 員工 + IBM Consulting $22-24B**（IBM 整體 ~$65-68B）| **$1.5B AI 投入 + GenAI ARR $2B+** | Consulting + Software（Red Hat + watsonx）+ Infrastructure（Mainframe + Power）| **✅ 有自家 platform**（Red Hat OpenShift + watsonx + Granite Foundation Models）| **✅ 上市 NYSE: IBM、Forward PE 18-22x = 整體 IBM exposure 含 Mainframe 稀釋** |
+
+⭐ **三巨頭代表 FDE 戰略不同維度**：
+- **Palantir = 深度 + 政府 + 大型企業樣本**（Foundry + Gotham + AIP 高深度）
+- **Accenture = 寬度 + 規模 + 跨產業樣本**（FDE + Microsoft Copilot + Anthropic + OpenAI 多 platform、純諮詢、上市投資路徑乾淨）
+- **Deloitte = 寬度 + 規模 + Audit-led 樣本**（FDE + Big Four Audit 強制 anchor、私募合夥制 reference only）
+- **IBM Consulting = 寬度 + 規模 + 自家 platform 整合樣本**（FDE + Red Hat OpenShift + watsonx + Granite Foundation Models 三軌整合、Mainframe 結構性減速拖累整體）
+
+⭐ **三巨頭 vs Palantir 哲學差異**：
+- **Palantir 深度**：派駐 FDE 工程師 → 自家 Foundry / Gotham / AIP 平台 → 政府 + 大型企業客戶
+- **Accenture / Deloitte / IBM Consulting 寬度**：FDE 工程師 → 跨多家 AI / cloud platform 整合 → Fortune 500 + 政府 + 跨產業
+- = **「深度 vs 寬度」分歧路線**、兩種都是 FDE Palantir Playbook 規模化執行
+
+⭐ **企業 AI 諮詢市場 ~$300-400B**（2025、含 Audit + Tax）+ 五家分食（Accenture + Deloitte + IBM Consulting + PwC $53B + EY $50B + KPMG $36B）+ AI 投入三巨頭佔絕大份額（Accenture $3B + Deloitte $2B + IBM $1.5B + PwC / EY / KPMG 各 < $1B）
+
+⭐ **企業 AI 訓練 + Lakehouse 賣水人對接** [[Snowflake]] + [[Databricks]]「**企業數據雙頭**」（**#G1 2026-06-09 補位**）：
+- **Snowflake 19/25**：SQL Warehouse + governance + AWS $60B 5 年戰略 anchor
+- **Databricks 19/25**（**⚠️ 私募、IPO 2026 H2-2027 H1**）：Lakehouse + AI training + 跨多雲 + Mosaic AI + DBRX 132B 自研 Foundation Models
+- = 三巨頭（諮詢）+ 雙頭（資料平台）構成「**企業 AI 部署完整賣水人鏈條**」（上游資料 + 中游諮詢 + 下游應用）
 
 ### 對接 [[效率→安全切換]]
 - FDE 直接解決企業「安全、合規」門檻
@@ -177,4 +205,6 @@ KP@FOMOSoc 2026-05-09 KP41 提出的 framework：**OpenAI / Anthropic 複製 Pal
 - [[政府風險溢價（AI 公司）]]
 - [[接口控制權]]
 - [[Anthropic]]、[[OpenAI]]、[[Microsoft]]、[[Google]]、[[AMD]]
+- [[Accenture]]、[[Deloitte]]、[[IBM]]（**「企業 AI 諮詢三巨頭」**）
+- [[Snowflake]]、[[Databricks]]（**「企業數據雙頭」**）
 - [[FOMO SOC]]（KP@FOMOSoc KOL 來源）

@@ -2,6 +2,97 @@
 
 每次 ingest / update / lint / query 的紀錄。
 
+## 2026-06-09（G1 — Databricks + Deloitte + IBM + Woodside Energy 4 家 entity 批次補位：企業數據雙頭 + AI 諮詢三巨頭 + 美澳 LNG 三巨頭）
+
+### 2026-06-09 ingest #G1 — 4 家 entity 批次補位（Databricks + Deloitte + IBM + Woodside）
+
+- 觸發：Leo subagent task「G1 — Databricks（私募 / 即將 IPO 推測 2026）+ Deloitte（私募合夥制）+ IBM Consulting（NYSE: IBM 之 Consulting segment）+ Woodside Energy（NYSE: WDS / ASX: WDS）4 家 entity 批次建檔」
+- 來源：FOMO SOC KP44（2026-05-30 Snowflake narrative shift + Databricks 路線分歧）+ KP41（2026-05-09 FDE 戰略三巨頭）+ KP46（2026-05-06 LNG 結構重塑、Tellurian → Woodside 收購校準）
+
+#### Part A — Databricks（企業數據雙頭 Lakehouse 主場）
+
+- **新建 entity [[Databricks]]**（⚠️ **私募、NOT-INVESTABLE 直到 IPO**）confidence: high
+- 推測五軸 **19/25**（路線 5 跨多雲 vs SNOW 4 + 站 4 + 耗 5 訂閱年金 + IP 3 + 客戶分散 2 私募集中）= 跟 [[Snowflake]] 19 並列「**企業數據雙頭**」
+- 一句話定位：「**全球企業 AI 數據湖倉 #1 私募 + Spark 商業化先驅 + 跨 AWS / Azure / GCP / Oracle / Alibaba 五雲 vendor neutral + 2024-12 Series J $10B @ $43B + 2025-09 secondary tender @ $62B + 2026 H2-2027 H1 IPO 預期 $80-120B + Mosaic AI + DBRX 132B 自家 Foundation Models + Unity Catalog open governance + 跟 [[Snowflake]] 19/25 雙頭並列**」
+- 三層 thesis：產業層（Lakehouse vs SQL Warehouse 範式分歧、Snowflake 跟 Databricks 客戶必雙頭採用、IPO 後 $80-120B 估值是 SNOW 反向 anchor）/ 目的層（Data Engineering 45% + SQL Warehouse 25% + AI / Mosaic AI 20% + Marketplace 10%、Fortune 500 60%+ AVL + RRR 140%+）/ 供應層（跨 5 雲 vendor neutral + Microsoft Azure Databricks 17 年戰略合作 + NVDA Mosaic AI 整合 + 戰略投資人 + MosaicML $1.3B 整合）
+- 「**企業數據雙頭」結構性對撞**：Snowflake SQL Warehouse + governance + AWS $60B 5 年 vs Databricks Lakehouse + AI training + 跨多雲 + Mosaic AI = 兩種範式並列
+- 補位 [[賣水人選股邏輯（投資版）]] master 表「企業數據雙頭 + AI 諮詢三巨頭」段（第十六波 #G1 並列 anchor）
+- 補強 [[Snowflake]] entity 內「Databricks 路線分歧」段加五軸對照矩陣 + Databricks IPO 後對 SNOW re-rate 反向 anchor 影響
+
+#### Part B — Deloitte（AI 諮詢三巨頭 #2 reference）
+
+- **新建 entity [[Deloitte]]**（⚠️ **私募合夥制、NOT-INVESTABLE、reference only**）confidence: high
+- 五軸**不適用**（私募合夥制無 ticker、無公開財報、無法跟上市公司同框比較）= reference entity 校準三巨頭格局
+- 一句話定位：「**全球 IT 諮詢 + 系統整合 + 服務 #2（vs [[Accenture]] #1、PwC / EY / KPMG 並列）+ Big Four 之一（含 Audit + Tax + Consulting + Risk Advisory）+ 私募合夥制、非投資標的 + Deloitte AI Institute + Generative AI accelerator + 跨產業企業 AI 導入 + 「企業 AI 諮詢三巨頭」之一**」
+- 三層 thesis（reference only）：產業層（IT 諮詢 + 系統整合賽道、AI 賣水人之中的賣水人哲學）/ 目的層（Audit 30% + Consulting 35% + Tax 15% + Risk Advisory 20%、Fortune 500 90%+ AVL + Big Four Audit 強制 anchor）/ 供應層（跟 [[Accenture]] / IBM Consulting 「企業 AI 諮詢三巨頭」對照）
+- FY2024 全球營收 **~$67B**（跟 Accenture $65B 同級）+ 員工 ~457K + AI / GenAI 投入 ~$2B + GenAI ARR ~$3B+（FY2025）
+- 補位 [[Accenture]] entity 內「企業 AI 諮詢三巨頭 + Big Four 五家分食」對照段（補完 [[Deloitte]] reference + [[IBM]] 自家 platform 整合差異化）
+- 補位 [[Forward Deployed Engineer 戰略（FDE）]] concept 內「企業 AI 諮詢三巨頭分工」段（[[Accenture]] 19 + [[Deloitte]] reference + [[IBM]] 17/25）
+
+#### Part C — IBM（含 IBM Consulting 段）
+
+- **新建 entity [[IBM]]**（NYSE: IBM）confidence: high
+- 推測 IBM 整體五軸 **17/25**（路線 4 + 站別 3 + 耗材 4 + IP 4 + 客戶分散 2 Mainframe + Fortune 100 集中）= 跟 [[Innolight]] 17 / [[Eoptolink]] 17 / [[Cerebras]] 17-19 同級、低於 [[Accenture]] 19 + [[Snowflake]] 19 + [[Databricks]] 19 兩分（純度被 IBM Z + Infrastructure 稀釋）
+- IBM Consulting 段獨立看 **17-19/25**（vs Accenture / Deloitte「企業 AI 諮詢三巨頭」之一）
+- 一句話定位：「**全球老牌 IT 企業 + IBM Consulting + IBM Watson AI + watsonx + Granite Foundation Models + Red Hat OpenShift Hybrid Cloud 全棧整合 + IBM Software（Hybrid Cloud + Data + Automation 多軌）+ IBM Z Mainframe（金融 + 政府 anchor）+ Quantum + Power Systems**」
+- 三層 thesis：產業層（IT 諮詢 + Hybrid Cloud + AI Foundation Models 三賽道）/ 目的層（Software 45% + Consulting 30% + Infrastructure 20% + Financing 5%、Fortune 500 95%+ AVL + 政府 25% + 金融 30% + 跨產業）/ 供應層（自家 watsonx + Granite vs OpenAI / Anthropic 並列 model 公司、Red Hat 跨多雲 vendor neutral、IBM Consulting 跟 Accenture / Deloitte 三巨頭）
+- FY2025 全球營收 ~$65-68B + Forward PE 18-22x + 12 月 +30-50% + 市值 ~$220-260B Mega Cap
+- **獨特差異化**：IBM Consulting 含 **Red Hat OpenShift Hybrid Cloud + watsonx + Granite Foundation Models** = 「**諮詢 + 自家 AI Foundation Models + Hybrid Cloud platform**」三軌整合（vs Accenture / Deloitte 純諮詢）
+- 補位 [[Accenture]] entity 內「企業 AI 諮詢三巨頭」對照段（補完 IBM 自家 platform 整合差異化）
+- 補位 [[Forward Deployed Engineer 戰略（FDE）]] concept 內「企業 AI 諮詢三巨頭分工」段
+
+#### Part D — Woodside Energy（美澳 LNG 三巨頭 + Tellurian 收購校準）
+
+- **新建 entity [[Woodside Energy]]**（NYSE: WDS、ASX: WDS）confidence: high
+- 五軸 **20/25**（路線 5 跨澳美 + 站別 4 + 耗材 4 + IP 3 + 客戶分散 4）= 跟 [[Cheniere Energy]] 22 略遜 2 分（pure-play 純度 + IP 寬度勝）、跟 [[Sempra LNG]] 19 略勝 1 分（地理跨大洋勝 utility 防守）= **美澳 LNG 三巨頭中間選項**
+- 一句話定位：「**澳洲 LNG #1 + 全球 LNG 出口 top 5 + 2024-10 收購 [[Tellurian]] 跨進美國 Gulf Coast Driftwood LNG（27.6 MTPA 4 phases）+ 美澳雙路徑 LNG 第五選擇 firm power anchor + AI infra 海外資料中心 firm power 上游 + 跟 [[Cheniere Energy]] + [[Sempra LNG]] 並列「美澳 LNG 三巨頭」**」
+- 三層 thesis：產業層（美伊戰後 5 個不可逆 + Qatar -17% 缺口接管 + 跨大洋 sovereign 分散）/ 目的層（澳洲 NWS Pluto Scarborough ~25 MTPA + Driftwood Phase 1 11 MTPA + 油氣 25% + JKM + Henry Hub 雙公式對沖）/ 供應層（亞洲 hyperscaler 主供 + 歐洲 hyperscaler Driftwood ramp 後 + 跟 Cheniere / Sempra 美澳三巨頭對照 + 跟 Tellurian 收購整合差異化）
+- FY2025 營收 USD ~$14-16B + 淨利 ~$3-4B + Forward PE 12-16x + 市值 ~$50-60B Mega Cap + 12 月 +20-50%
+- 補位 [[AI infra 電力戰場]] concept 第一層電力產生表加 Woodside 美澳雙路徑 anchor（**LNG 美澳三巨頭完整覆蓋**）
+- 補位 [[賣水人選股邏輯（投資版）]] master 表電力戰場段加 Woodside 20/25 + 美澳 LNG 三巨頭分歧路線
+- 補強 [[Tellurian]] entity 內「Woodside Driftwood 重啟現狀」段加 [[Woodside Energy]] entity 落地後完整對照（vs Cheniere / Sempra 三家差異化矩陣 + 五軸 20/25 定位）
+
+#### 同步
+
+- 新建 4 entity（[[Databricks]] + [[Deloitte]] + [[IBM]] + [[Woodside Energy]]）
+- 更新 5 entity / concept（[[Snowflake]] + [[Accenture]] + [[Tellurian]] + [[Forward Deployed Engineer 戰略（FDE）]] + [[賣水人選股邏輯（投資版）]] + [[AI infra 電力戰場]]）
+- 更新 index.md：新建「標的：企業數據雙頭 + AI 諮詢三巨頭」段（第十六波 #G1）+ 新建「標的：firm power 第五選擇 LNG 美澳 LNG 三巨頭」段（#G1 Woodside 補完）
+- 用 `git add <specific files>` 避免吃到並行 subagent G2 log 補追
+
+#### 結束報告
+
+**4 家 entity 五軸 + 私募 / reference 標記**：
+- **[[Databricks]] 19/25**（⚠️ 私募、NOT-INVESTABLE 直到 2026 H2-2027 H1 IPO）— 企業數據雙頭 Lakehouse + AI training、跟 Snowflake 19 並列
+- **[[Deloitte]] reference**（⚠️ 私募合夥制、NOT-INVESTABLE）— AI 諮詢三巨頭 #2、五軸不適用
+- **[[IBM]] 17/25**（NYSE: IBM 上市可投資）— AI 諮詢三巨頭 #3 + 自家 platform 整合、Mainframe 稀釋
+- **[[Woodside Energy]] 20/25**（NYSE: WDS / ASX: WDS 雙重掛牌）— 美澳 LNG 三巨頭跨大洋雙路徑、firm power 第五選擇 anchor
+
+**[[Snowflake]] vs [[Databricks]] 雙頭分歧**：
+- **路線差異**：SNOW SQL Warehouse + governance + AWS 80%+ 集中 vs DBRX Lakehouse + AI training + 跨多雲 5 家
+- **估值對比**：SNOW $48-60B 市值 Forward PE 65-90x vs DBRX 私募 $62B（2025-09 tender）→ IPO 後 $80-120B 預期 Forward PE 50-80x
+- **哪家估值較合理？**：**DBRX IPO 後 $80-120B 估值預期是 SNOW 反向 anchor**——若 DBRX 上市 + Forward PE 50-80x → SNOW 估值需要結構性 re-rate（PE 65-90x → 50-70x、-20 至 -30%）；但兩家不是「一家贏」、是「雙頭分食 + 共生」（Fortune 500 客戶必雙頭採用 SNOW SQL BI + DBRX AI 訓練）
+
+**[[Accenture]] vs [[Deloitte]] vs [[IBM]] Consulting 三巨頭差異化**：
+- **Accenture（上市 NYSE: ACN、Forward PE 22-26x 投資路徑乾淨）**：規模 #1 + AI 投入 #1 + 純諮詢 + 跨產業
+- **Deloitte（私募合夥制、NOT-INVESTABLE reference）**：規模 #2 + Audit-led + Big Four 強制 anchor + 私募合夥制
+- **IBM Consulting（NYSE: IBM 上市、Forward PE 18-22x、整體含 Mainframe 稀釋）**：規模 #3 + **自家 platform 整合**（Red Hat OpenShift + watsonx + Granite Foundation Models + IBM Z Mainframe lock-in）= 「諮詢 + 自家 platform + AI Foundation Models」三軌整合差異化（vs Accenture / Deloitte 純諮詢）
+
+**[[Woodside Energy]] 進入美國 Driftwood LNG 對 [[Cheniere Energy]] / [[Sempra LNG]] 競爭格局影響**：
+- **2024-10 Woodside 收購 [[Tellurian]] USD ~$1.2B + 75% premium → Driftwood LNG Phase 1 ~11 MTPA**（2027-2028 ramp）= **美國 LNG 出口 4 家分食格局擴展**結構性事件
+- 跟 Cheniere ~55 MTPA + Sempra ~35 MTPA 並列、但 Woodside Driftwood 11-27.6 MTPA pending、結構性影響有限
+- **真正競爭影響**：跨大洋 sovereign 分散 + 油氣 25% 混合差異化、Woodside 是「**美澳 LNG 三巨頭中間選項**」、跟 Cheniere 純度勝 + Sempra utility 多元勝形成三家差異化分歧路線
+- Driftwood Phase 1 ramp 後跟 Cheniere / Sempra 共同接管 hyperscaler 海外資料中心 firm power 缺口、不是零和
+
+**Surprising 發現**：
+- **Databricks 跨多雲 5 家 vs Snowflake AWS 80%+ 集中 = 五軸路線敏感勝 SNOW 1 分**：但 Databricks 私募階段客戶分散 2 分（vs SNOW 3 分）扣回、五軸 19/25 並列
+- **IBM 整體 17 vs IBM Consulting 段獨立看 17-19**：IBM Z Mainframe + Infrastructure 結構性減速拖累整體 IBM 評分、但 IBM Consulting 段獨立看跟 Accenture / Deloitte 並列「AI 諮詢三巨頭」
+- **「企業 AI 諮詢市場 ~$300-400B（2025）」+ AI 投入三巨頭佔絕大份額**：Accenture $3B + Deloitte $2B + IBM $1.5B 三家合計 ~$6.5B vs PwC / EY / KPMG 各 < $1B（合計 < $3B）= 三巨頭結構性 AI 投入 anchor 領先
+- **Woodside 跨大洋雙路徑 + 油氣 25% 混合 = 跟 Cheniere 純度 / Sempra utility 分歧路線、不是零和**：美澳 LNG 三巨頭差異化共存
+- **Tellurian 99%+ drawdown → Woodside 收購 → 加速 ramp**：「LNG 出口需要強現金流 + 長約 anchor + 大型 strategic partner + FID 時點」四要素全滿結構性教訓 verify
+- **「企業 AI 部署完整賣水人鏈條」**：[[Snowflake]] / [[Databricks]] 雙頭（資料平台上游）+ [[Accenture]] / [[Deloitte]] / [[IBM]] Consulting 三巨頭（諮詢中游）+ Anthropic / OpenAI / Palantir（FDE 下游）= 跨上下游結構性 anchor、客戶必跨採用
+
+---
+
 ## 2026-06-09（E3 — FOMO SOC #47-49 三篇付費深入分析批次 ingest：Cloudflare + Cisco entity 新建 + Nokia/GFS entity 補強）
 
 ### 2026-06-09 ingest #E3 — FOMO SOC #47-49 KP@FOMOSoc 三篇付費深入分析批次
