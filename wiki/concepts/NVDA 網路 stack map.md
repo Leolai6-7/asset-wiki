@@ -127,9 +127,9 @@ confidence: high
 |---|---|---|
 | **Spectrum-X Photonics**（CPO） | 第 1 層（Switch ASIC）+ 第 2 層（光引擎）+ 第 8 層（玻璃中介層） | [[Lumentum]]、[[Coherent]]、[[TSMC]] CoWoS-L → CoPoS、[[Corning]] / [[AGC]] |
 | **Quantum-X Photonics**（CPO） | 同上 | 同上 |
-| **NVLink 6 Switch** | 第 1 層（Switch ASIC）+ 第 4 層（Timing） | [[SiTime]]（量 × 規格升級平方放大）、[[TSMC]] |
+| **NVLink 6 Switch** | 第 1 層（Switch ASIC）+ 第 4 層（Timing） | [[SiTime]]（MEMS、量 × 規格升級平方放大）+ [[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]]（石英陣營五家、2026-06-09 #H1）、[[TSMC]] |
 | **ConnectX-9 SuperNIC** | 第 1 層（NIC ASIC）+ 第 6 層（連接器）+ 第 7 層（電源） | Amphenol / Molex、MPS / ADI |
-| **BlueField-4 DPU** | 同 CX-9 + LPDDR5（[[Samsung Electronics]] / [[SK Hynix]] / [[Micron]] LPDDR5X）+ SSD（[[Micron]] 3D NAND） | 記憶體三巨頭、[[SiTime]] timing、[[TSMC]] foundry |
+| **BlueField-4 DPU** | 同 CX-9 + LPDDR5（[[Samsung Electronics]] / [[SK Hynix]] / [[Micron]] LPDDR5X）+ SSD（[[Micron]] 3D NAND） | 記憶體三巨頭、[[SiTime]] / [[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]] timing（石英 + MEMS 雙軌）、[[TSMC]] foundry |
 | **Spectrum-XGS Ethernet** | **第 8 層（玻璃中介層）+ NVDA 自家軟體** | [[CIEN]] Hyper-Rail、[[Nokia]] Multi-Rail（提供底層 OLS）、[[Lumentum]] / [[Coherent]] pump laser |
 
 → Spectrum-X Photonics / Quantum-X Photonics 是 **CPO 第 1+2+8 層的 anchor 客戶**——所有 CPO 供應鏈賣水人都跟著 NVDA 的 Rubin 訂單放量。
@@ -226,7 +226,7 @@ confidence: high
 - **NVDA**：軟體層 + Spectrum-X switch 延伸
 - **NVDA 不做的 OLS 龍頭**：[[Ciena]] Hyper-Rail（RLS 6500 + WL6 Extreme 1.6T）、[[Nokia]] Multi-Rail（1830 GX、Infinera 整合）
 - **Pump laser 元件**：[[Lumentum]] / [[Coherent]]（Jevons Paradox 平方放大、+80% YoY 已驗證）
-- **Timing**：[[SiTime]]（高頻 1.6T 時脈基礎）
+- **Timing**：[[SiTime]]（MEMS 高端）+ [[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]] 石英陣營五家（2026-06-09 #H1、高頻 1.6T 時脈基礎、石英 vs MEMS 雙軌）
 - **DSP**：Marvell（coherent engine 跑 1.6T ZR/ZR+）
 
 ### 整合曝險（DPU + 整 server 邊緣盒）
@@ -356,5 +356,5 @@ confidence: high
 - [[Ciena]]、[[Nokia]]
 - [[Lumentum]]、[[Coherent]]
 - [[TSMC]]
-- [[SiTime]]
+- [[SiTime]]（MEMS）+ [[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]]（石英陣營五家、2026-06-09 #H1 補完）
 - [[SK Hynix]]、[[Samsung Electronics]]、[[Micron]]

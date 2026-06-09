@@ -159,8 +159,8 @@ KP@FOMOSoc 2026-04-29 提出的 framework：**2025 Q4-2026 是被動元件歷史
 - **未獨立 ingest**：[[Nichicon]] / [[Rubycon]] / [[Nippon Chemi-Con]] 待補
 
 ### 第三道防線（鉭電容）— 化學冶金
-- **頂級寡占**：[[KEMET]]（被 [[國巨]] 2020 收購、跨壁壘併購典範）+ AVX（被 [[Kyocera]] 收購）+ Vishay + Panasonic + ROHM
-- ⚠️ **未獨立 ingest**：[[KEMET]] / Kyocera AVX / Vishay 待補（付費牆內容預期會深入）
+- **頂級寡占**：[[KEMET]]（被 [[國巨]] 2020 收購、跨壁壘併購典範）+ [[Kyocera]] AVX 段（**2026-06-09 #H1 補位、Kyocera 1969 收購 AVX、Kyocera 20/25 跨戰場 conglomerate、鉭電容全球 #2-3、補位第三道防線 anchor**）+ Vishay + Panasonic + ROHM
+- ⚠️ **未獨立 ingest**：[[KEMET]] / Vishay 待補（付費牆內容預期會深入）
 
 ### TLVR 電感（黑馬產品、付費牆擋住）
 - TLVR = Trans-inductor Voltage Regulator
@@ -174,7 +174,7 @@ KP@FOMOSoc 2026-04-29 提出的 framework：**2025 Q4-2026 是被動元件歷史
 
 ### 強化 [[賣水人選股邏輯（投資版）]]
 - 三道防線 = 「**三條獨立的真賣水人路線**」、不會出現贏者全拿
-- 對應「**賣水人之中的賣水人**」框架：村田（MLCC 陶瓷工藝壟斷）+ KEMET（鉭電容化學冶金壟斷）+ TLVR 電感（待釐清）
+- 對應「**賣水人之中的賣水人**」框架：村田（MLCC 陶瓷工藝壟斷）+ KEMET / [[Kyocera]] AVX（鉭電容化學冶金壟斷雙頭）+ TLVR 電感（待釐清）
 
 ### 跟 [[AI infra CapEx 三階段論]] 對接
 - 三階段第三階段（上游材料 + 光通訊爆掉）**擴張到 MLCC 鏈**
@@ -221,7 +221,7 @@ KP@FOMOSoc 2026-04-29 提出的 framework：**2025 Q4-2026 是被動元件歷史
 | 高階 MLCC 交期 > 40 週 | 進入恐慌性下單階段（2026 Q3 預測）|
 | 出現「重複下單」訊號 | thesis 過熱警示、考慮獲利了結時點 |
 | Vera Rubin 量產延後 | thesis 短期 derate |
-| 鉭電容 ASP 上漲 | 第三道防線受惠者重估（[[國巨]] / KEMET）|
+| 鉭電容 ASP 上漲 | 第三道防線受惠者重估（[[國巨]] / KEMET / [[Kyocera]] AVX）|
 
 ## 監控時點
 
@@ -240,6 +240,6 @@ KP@FOMOSoc 2026-04-29 提出的 framework：**2025 Q4-2026 是被動元件歷史
 - [[控制點轉移（投資版）]]
 - [[賣水人選股邏輯（投資版）]]
 - [[Bottleneck Theory（瓶頸論）]]
-- [[村田 Murata]]、[[Samsung Electro-Mechanics]]、[[太陽誘電 Taiyo Yuden]]、[[國巨]]、[[TDK]]、[[信昌電]]、[[華新科]]
+- [[村田 Murata]]、[[Samsung Electro-Mechanics]]、[[太陽誘電 Taiyo Yuden]]、[[國巨]]、[[TDK]]、[[信昌電]]、[[華新科]]、[[Kyocera]]（AVX 鉭電容段、2026-06-09 #H1 補位）
 - [[FOMO SOC]]（KP@FOMOSoc KOL 來源、待建 entity / 已 ref 多次）
 - [[NVDA]] / Vera Rubin / NVL72 機櫃

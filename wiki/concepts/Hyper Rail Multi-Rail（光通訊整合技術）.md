@@ -109,7 +109,7 @@ WSS（Wavelength Selective Switch）裡的 LCOS 陣列像素提升後，**單一
 | **InP 雷射晶圓** | pump laser 上游 | COHR 6" InP wafer / LITE 3" InP（產能 2027 翻倍） |
 | **Narrow-linewidth laser** | CPO 時代 ELS / 高品質光源 | LITE（FY26 Q3 出貨 +120%）、AOI |
 | **DSP / coherent engine** | 跑 1.6T ZR/ZR+ | Marvell、Acacia（內製） |
-| **Timing** | 高頻光通訊時脈基礎 | [[SiTime]] |
+| **Timing** | 高頻光通訊時脈基礎 + 光學晶振 niche（NDK 差異化）| [[SiTime]]（MEMS 高端）+ [[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]]（石英陣營五家、2026-06-09 #H1、**NDK 光學晶振 niche 直接受惠 1.6T 光模組 ramp**）|
 | **連接器** | 高密度光纖配線 | Amphenol、Senko |
 
 ### 對 [[CPO 供應鏈圖譜]] 第 2 層（光引擎）的補強
@@ -256,5 +256,5 @@ KP 點出 Nokia 第三張牌：**7220 IXR-H6 資料中心交換器、102.4 Tb/s 
 - [[半導體基礎建設化]]
 - [[賣水人選股邏輯（投資版）]]
 - [[TGV × CPO 依賴圖]]
-- [[SiTime]]
+- [[SiTime]]（MEMS）+ [[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]]（石英陣營五家、2026-06-09 #H1、**NDK 光學晶振 niche differentiator**）
 - [[預期差]]

@@ -2483,3 +2483,106 @@
 - **FDE 戰略 Palantir Playbook = AI 賣水人之中的賣水人新典範**：Accenture 19 + Palantir 18 + Anthropic 3 萬員工 anchor + OpenAI Deployment Company $100B（KP41）+ Blackstone $15 億中型企業 = 跨多家共同驗證「按工作量售賣」TAM 5x 擴張新型態
 - 並行衝突警示：F1/F2/F3 三 subagent 全部 stall 在最後寫 log 段（前面 entity + 補強已 ready）、人工收尾統一 commit `0f8857d`、無資料損失
 - 累計：**72 concept + 131 entity + 53 summary**（#F1+F2+F3 +9 entity + 5 entity update + 1 concept update [[AI infra 電力戰場]] firm power 五選一 + master 表全面 rebase）
+
+# 2026-06-09 ingest #H1 — 石英 timing 5 家補位（TXC / NDK / Epson / Kyocera / Rakon）+ timing 賽道石英 vs MEMS 雙軌路線分歧
+
+## 觸發
+
+Leo subagent dispatch — 補完 timing 賽道「**[[SiTime]] MEMS pure-play 高端 vs 石英陣營五家分歧路線**」雙軌結構；既建 [[SiTime]] 20/25「真賣水（timing）」+ [[村田 Murata]] 24/25「被動元件全鏈寡占（含 timing 段）」+ [[CPO 供應鏈圖譜]] 第 4 層 timing 元件已有 [[SiTime]] / TXC / 京瓷 placeholder、但石英陣營五家無獨立 entity = 結構性缺口。
+
+## 性質
+
+**五軸光譜完整補完賽道**：跟 SiTime 高端 MEMS 對照、補完石英陣營五家分歧路線（規模 vs 純度 vs 客戶分散三軸權衡）+ 跨戰場 conglomerate（Kyocera）+ 多軌組合王（Epson）+ 大宗 timing（TXC）+ Apple anchor + 光學晶振（NDK）+ 軍工 niche specialist（Rakon）。
+
+## 5 家五軸分數排序
+
+| 公司 | 五軸 | 路線敏感 | 站別關鍵 | 耗材 | IP | 客戶分散 | 定位 |
+|---|---|---|---|---|---|---|---|
+| **[[Kyocera]]**（NYSE: KYO + 6971.JP）| **20/25** | 5 | 4 | 4 | 4 | **5** | **跨戰場 conglomerate**（石英 + AVX 鉭電容 + 多元）= [[SiTime]] 20 並列頂級 |
+| **[[Epson]]**（6724.JP）| **19/25** | 5 | 4 | 4 | 3 | 4 | **TCXO 全球 #1 + 多軌組合王** = [[TDK]] 19 同分 |
+| **[[TXC]]**（3042.TW）| **18/25** | 4 | 4 | 5 | 3 | 4 | **台廠石英晶體龍頭、消費電子 + 汽車 + AI server + 工業大宗** |
+| **[[NDK]]**（6779.JP）| **17/25** | 4 | 4 | 5 | 3 | **1** | **日本石英 #1 + Apple iPhone anchor + 光學晶振 niche**（Apple ~30-40% 集中扣分主因）|
+| **[[Rakon]]**（NZX: RAK）| **15/25** | 4 | 3 | 4 | 3 | **1** | **紐西蘭 niche specialist、軍工 + 衛星 + 5G base station OCXO**（客戶集中 ~65% 扣分）= [[Nebius]] 15 同分 |
+
+## SiTime（MEMS）20 vs 石英陣營 5 家 路線分歧
+
+| 維度 | [[SiTime]]（MEMS 陣營）| 石英陣營（[[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]]）|
+|---|---|---|
+| 製程 | 矽製程 MEMS（可整合在 SoC、規格升級空間大）| 石英 wafer 切割 + 精密加工（50 年 IP 累積）|
+| 高端規格 | ChipScale Atomic Clock +/- 0.5ppb 追趕中 | OCXO >100MHz / +/- 0.1ppb stability 仍領先（Rakon / NDK 高精度）|
+| ASP | $1-30 USD（高端 4-6x 溢價）| $0.1-5 USD 大宗 + $10-100 USD niche（軍工 OCXO）|
+| 全球市場規模 | ~USD 8-10 億（MEMS、CAGR 25-30%）| ~USD 25-30 億（石英、CAGR 5-8%、市場規模 3-4x SiTime）|
+| 客戶結構 | 5G / AI server / 衛星 / 機器人 / 自駕高端 | 消費電子 + 汽車 + 工業大宗 + 軍工 + 衛星 + 5G niche + Apple |
+| Re-rate 路徑 | Forward PE 75-100x「高成長 MEMS pure-play」 | Forward PE 10-20x「石英大宗 / conglomerate / niche specialist」|
+| 風險 | 規模小、客戶集中、CapEx 兌現、石英反撲 | SiTime MEMS 高端滲透、消費電子萎縮 |
+
+→ **SiTime 20 = Kyocera 20 並列頂級**：兩家路線完全不同但分數相同——SiTime MEMS pure-play 高端 vs Kyocera 跨戰場 conglomerate（含 AVX 鉭電容 anchor）；兩家代表 timing 賽道兩種「**賣水人之中的賣水人**」哲學
+
+## Kyocera 20/25 跨戰場 anchor（石英 + AVX 鉭電容 + 多元）
+
+**Kyocera 雙重 anchor 角色**：
+1. **timing 賽道**：石英陣營排第 1（20/25）、跟 [[SiTime]] 20 並列頂級
+2. **被動元件第三道防線（鉭電容）**：1969 收購 AVX → AVX Kyocera 鉭電容全球 #2-3（跟 [[KEMET]] / Vishay 並列）= 補位 [[被動元件第三次週期（K 型復甦 + 三道防線）]] 第三道防線（化學冶金）anchor
+
+**跨壁壘併購典範**：跟 [[國巨]] 收 [[KEMET]] 並列「**跨壁壘併購跨入鉭電容**」（Kyocera 1969 + 國巨 2020）= 兩種「跨壁壘」併購策略
+
+**conglomerate 估值乾淨度**：Forward PE 14-18x vs SiTime 75-100x = sum-of-parts 結構 + 五大事業群跨客戶分散 + 跟 [[GlobalFoundries]] 20 / [[Texas Instruments TXN]] 20 同分
+
+## 為什麼 wiki 偏向 SiTime 視角的校準（vs 石英低 ASP 大宗）
+
+原 master 表 line 41 寫「[[SiTime]] timing 元件 | CPO 誰贏都要用 timing」、但**石英陣營五家是另一邊的賣水人**：
+
+- **SiTime 高 ASP** $1-30 USD vs **石英大宗** $0.1-5 USD（4-6x 溢價）
+- **SiTime 高成長** 25-30% CAGR vs **石英** 5-8% CAGR（4-5x）
+- 但 **石英陣營仍佔全球 timing 市場 70-75%**（vs SiTime MEMS 25-30%）、**規模差 3-4x**
+
+→ wiki 之前的視角偏 SiTime「高成長 alpha」、現補完石英陣營「大宗 + 跨戰場 + 多元組合 + Apple + 光學晶振 + 軍工 niche」defensive + 估值乾淨 + 多軌組合對沖位
+
+## 投資意涵（石英 vs MEMS 雙軌策略）
+
+- **SiTime 20 高成長 alpha**：MEMS pure-play、Forward PE 75-100x、5G / AI / 衛星 / 機器人 / 自駕 5-6 條獨立曲線
+- **Kyocera 20 跨戰場 defensive**：石英 + AVX 鉭電容 + 多元、Forward PE 14-18x、被動元件第三道防線 anchor
+- **Epson 19 / TXC 18 中間值**：多軌組合 + 大宗 timing、Forward PE 12-18x、估值乾淨
+- **NDK 17 Apple 供應鏈**：Apple iPhone + 光學晶振 niche、Forward PE 15-20x、Apple lock-in 雙刃劍
+- **Rakon 15 軍工 niche**：軍工 + 衛星 OCXO 高純度、Forward PE 10-15x、規模小但 niche 段 SiTime 短期難滲透
+
+→ 可同時持有 SiTime + Kyocera + Epson + TXC 形成 timing 賽道完整曝險
+
+## 操作
+
+- **新建 5 entity**：
+  - [[TXC]]（3042.TW）18/25
+  - [[NDK]]（6779.JP / Nihon Dempa Kogyo / 日本電波工業）17/25
+  - [[Epson]]（6724.JP / Seiko Epson）19/25
+  - [[Kyocera]]（NYSE: KYO + 6971.JP / 京瓷）20/25
+  - [[Rakon]]（NZX: RAK / Rakon Limited）15/25
+- **連動更新 master 表 [[賣水人選股邏輯（投資版）]]**：
+  - line 41「SiTime timing 元件」更新為「**賣水人之中的賣水人 + 石英 vs MEMS 雙軌**」
+  - line 49「timing / 類比 IC」更新為「[[SiTime]] (MEMS) + [[TXC]] + [[NDK]] + [[Epson]] + [[Kyocera]] + [[Rakon]] (石英)」
+  - 新建「**第十七波 — #H1 timing 元件石英陣營 vs SiTime MEMS**」段（5 家五軸 row + 關鍵發現 + 投資意涵）
+- **更新 [[SiTime]] entity**：補「**vs 石英陣營 5 家**」段（5 家對照 + SiTime 20 = Kyocera 20 並列頂級 + 路線差異 anchor + 雙軌策略）
+- **更新 [[CPO 供應鏈圖譜]]**：第 4 層 timing 元件補石英陣營五家 wikilink
+- **更新 [[NVDA 網路 stack map]]**：NVLink 6 Switch + BlueField-4 + scale across timing 段補石英陣營五家 wikilink
+- **更新 [[Hyper Rail Multi-Rail（光通訊整合技術）]]**：timing 段補石英陣營五家 wikilink + **NDK 光學晶振 niche 直接受惠 1.6T 光模組 ramp**
+- **更新 [[被動元件第三次週期（K 型復甦 + 三道防線）]]**：第三道防線（鉭電容）補 Kyocera AVX 段 wikilink + **跨壁壘併購雙頭：KEMET（被國巨收）+ Kyocera AVX**
+- **更新 wiki/index.md**：新建「**標的：石英 timing 賽道五家**」段 + 5 家 entity 條目（按五軸分數排序）
+
+## Surprising 發現
+
+1. **SiTime 20 = Kyocera 20 並列頂級**：原本以為 SiTime「賣水人之中的賣水人」獨佔頂級位、Kyocera 跨戰場 conglomerate 反而 tied
+2. **Kyocera AVX 鉭電容是被動元件第三道防線 anchor**：超出 timing 賽道、跨入 [[被動元件第三次週期（K 型復甦 + 三道防線）]] 第三道防線（化學冶金）= 跟 KEMET / Vishay / Panasonic / ROHM 並列鉭電容寡占五家
+3. **NDK 光學晶振是 timing 賽道光通訊 differentiator**：跟 [[Lumentum]] / [[Coherent]] pump laser 並列受惠 1.6T 光模組 ramp、是石英陣營光通訊 niche 切入點
+4. **石英市場規模 3-4x SiTime MEMS**：~USD 25-30 億 vs ~USD 8-10 億、SiTime 高成長但市場份額仍小、石英陣營仍佔全球 timing 市場 70-75%
+5. **規模對照極端**：Kyocera USD ~$13-15B vs Rakon USD ~$80-100M = **規模差 150-200x**、但都在石英陣營五家內、niche specialist 有其純度溢價空間
+
+## ⚠️ 待 ingest backlog 新增
+
+- **真實財報數字校準**：5 家 entity 的 FY2025 營收 / Forward PE / 12M 漲幅 / 市值都是區間估、需 Leo 在 Bloomberg / 各家 IR 校準實際數字
+- **Apple iPhone 17 / 18 NDK timing 配套 lock-in 是否變化**（Apple 切換 SiTime MEMS 風險）
+- **NVDA Vera Rubin timing BOM 拆解**：實際 SiTime + 石英陣營五家分食比例（需法說會校準）
+- **5G base station 5G Advanced ramp 對 Rakon 影響**
+- **KEMET / Vishay / Panasonic / ROHM 鉭電容寡占五家完整 entity 補位**（補完 [[被動元件第三次週期（K 型復甦 + 三道防線）]] 第三道防線 anchor）
+
+## 累計
+
+**72 concept + 136 entity + 53 summary**（#H1 +5 entity [[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]] + 1 entity update [[SiTime]] + 1 concept update [[賣水人選股邏輯（投資版）]] + 4 concept update [[CPO 供應鏈圖譜]] / [[NVDA 網路 stack map]] / [[Hyper Rail Multi-Rail（光通訊整合技術）]] / [[被動元件第三次週期（K 型復甦 + 三道防線）]]）

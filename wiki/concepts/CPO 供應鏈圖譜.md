@@ -26,7 +26,7 @@ confidence: high
 | **1. 交換 ASIC** | CPO 的「腦袋」，決定整個系統架構 | [[AVGO]] Tomahawk/Jericho、Marvell Teralynx |
 | **2. 光引擎** | 光電轉換核心、CPO 的競爭主戰場 | [[Lumentum]] (LITE)、[[Coherent]] (COHR)、博通自研 |
 | **3. DSP** | 訊號處理；CPO 反向風險最大（可能被整合消失） | Marvell |
-| **4. Timing 元件** | 高頻時脈，每升一代 BOM 量翻倍 | [[SiTime]]、TXC、京瓷 |
+| **4. Timing 元件** | 高頻時脈，每升一代 BOM 量翻倍 | [[SiTime]] (MEMS)、[[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]] (石英陣營五家、2026-06-09 #H1 補完、石英 vs MEMS 雙軌路線分歧) |
 | **5. 先進封裝** | CoWoS-X、L 系列封裝 | [[TSMC]] |
 | **6. 連接器** | CPO 模組與系統互連 | Amphenol、Molex |
 | **7. 電源 / 雷射** | 電源管理 + 光源 | MPS、ADI、TXN（電源）；[[Lumentum]] / [[Coherent]]（雷射） |
@@ -49,7 +49,7 @@ confidence: high
     │
    先進封裝 (TSMC) ◄── 兩岸三地不可繞過
     │
-   Timing (SiTime/TXC) ◄── 量 × 規格升級平方放大
+   Timing (SiTime MEMS / TXC + NDK + Epson + Kyocera + Rakon 石英陣營) ◄── 量 × 規格升級平方放大、石英 vs MEMS 雙軌
     │
    電源 (MPS/ADI/TXN) ◄── 通用、不依賴 CPO 路線
     │
@@ -114,7 +114,7 @@ confidence: high
 
 ## 相關連結
 
-- [[SiTime]]
+- [[SiTime]]（MEMS 高端）+ [[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]]（石英陣營五家、2026-06-09 #H1 補完）
 - [[AVGO]]
 - [[TSMC]]
 - [[Lumentum]]、[[Coherent]]
