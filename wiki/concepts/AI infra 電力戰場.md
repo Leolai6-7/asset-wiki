@@ -49,7 +49,7 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 
 ### 第一層：電力產生（Generation）
 
-把電做出來——**核電 / 氣電 / 再生能源 / SOFC**。
+把電做出來——**核電 / 氣電 / 再生能源 / SOFC / LNG 出口（境外）**。
 
 | 玩家 | 類型 | 規模 | 對 AI infra anchor |
 |---|---|---|---|
@@ -57,12 +57,16 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 | **[[Vistra]]**（VST）| **核電 #2 美國 + 氣電** | ~41 GW（核電 6.4GW + 氣電 30GW+ + Cogentrix 5.5GW 待併）| **Meta 20 年 PPA 2.6GW**（2026-01 簽、跨 PJM 三廠核電 + uprate）+ **AWS PPA**（多年合約）|
 | **[[Talen Energy]]**（TLN）| 核電 + 氣電 | 2.5 GW 核電（Susquehanna）+ Caithness 氣電 | **Amazon $18B 17 年 PPA 1.92GW**（2025-06 簽）|
 | **[[Bloom Energy]]**（BE）⭐ **第四選擇 SOFC** | **SOFC 分散式 firm power** | **2026 1GW → 2GW 產能翻倍** | **Oracle Stargate 多個 GW 級訂單**（hyperscaler 評估中、5-10 分鐘部署 + 跳電網瓶頸）|
+| **[[Cheniere Energy]]**（NYSE: LNG）⭐ **#F1 2026-06-09 補位 第五選擇 LNG 出口（境外）** | **LNG 出口 #1 美國 + 境外擴展** | **~55 MTPA**（SPL Sabine Pass 30 MTPA + CCL Corpus Christi 25 MTPA、CCL Stage 3 ramp 加 +10 MTPA 2026-2028） | **SPA 20 年長約 80% + Henry Hub +115% 公式 + 全球客戶 10-15 家（BP / Shell / Total / Equinor / CNOOC / KOGAS / JERA / PetroNet / Naturgy / Galp / Vitol）+ hyperscaler 歐洲 / 日韓 / 印度 / 新加坡海外資料中心 firm power 上游 anchor** |
+| **[[Sempra LNG]]**（NYSE: SRE）⭐ **#F1 2026-06-09 補位 第五選擇 LNG #2 + utility 多元** | **LNG 出口 #2 + California utility 母體 + Mexico** | **~35 MTPA（2028 ramp 完成）**（Cameron 12 MTPA + Phase 2 +6.75 MTPA + Port Arthur Phase 1 +13 MTPA + ECA Mexico +3.25 MTPA） | **Cameron LNG 50.2% 持股主控 + Total / 三井 / 三菱 16.6% 合資 + Port Arthur Phase 1（2027-2028 ramp）+ ECA Mexico 唯一太平洋出口（2025-2026 ramp）** |
 
 → **核電 = 24/7 carbon-free baseload**、是 hyperscaler **AI 永續承諾 + 政治正確雙頭過關**的唯一答案
 
 → **SOFC（第四選擇）= 分散式 + 快速部署 + 跳電網瓶頸**、是 hyperscaler **2026-2027 急需 + 電網瓶頸地區**的補位 anchor（vs 核電復役延宕 + 變壓器交期 2-3 年）
 
-### ⭐ 2026-06-09 LNG 出口（第五選擇 firm power）補位（FOMO SOC KP #46）
+→ **LNG 出口（第五選擇）= 境外擴展戰場 + AI 海外資料中心 firm power 上游 anchor**、是 hyperscaler **歐洲 / 日韓 / 新加坡 / 印度資料中心**能源 anchor（vs 境內核電 / 氣電）；**Cheniere（pure-play 純度 + Forward PE 12-15x 估值乾淨）+ Sempra（utility 多元 + 太平洋差異化）** = LNG 雙頭分歧路線、跟核電 / 氣電 / 變壓器 / SOFC 同層但地理擴展
+
+### ⭐ 2026-06-09 LNG 出口（第五選擇 firm power）#F1 完整補位（FOMO SOC KP #46 + 4 家 entity 落地）
 
 [[FOMO SOC KP #46 — LNG 能源結構重塑（美伊戰後五大不可逆轉變）]] 補強 firm power 第五選擇：
 
@@ -76,13 +80,19 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 | **AI 連結** | hyperscaler **歐洲 / 日韓 / 新加坡海外資料中心**能源 anchor |
 | **政治意涵** | 美國從「LNG 價格接受者」→「LNG 價格制定者」 |
 
-**LNG 玩家 anchor**：
-- ⚠️ **[[Cheniere Energy]]**（LNG.NYSE、Sabine Pass + Corpus Christi、待建 entity）
-- ⚠️ **[[Sempra LNG]]**（SRE、Cameron + Port Arthur、待建 entity）
-- ⚠️ **[[Cameron LNG]]**（Sempra + 三井物產 + 三菱商事 + Total）
-- ⚠️ **[[Tellurian]] / NextDecade**（pure-play、高 alpha）
+**LNG 玩家 anchor**（#F1 2026-06-09 4 家 entity 落地）：
+- ✅ **[[Cheniere Energy]]**（NYSE: LNG、Sabine Pass + Corpus Christi、**已建** 22/25）— 美國 LNG 出口 #1（50%+ 市佔）+ SPL + CCL 兩大廠 ~55 MTPA + SPA 80% 長約 + Henry Hub +115% 公式 + Forward PE 12-15x「old-economy energy 估值」乾淨 + Mega Cap $50-55B
+- ✅ **[[Sempra LNG]]**（NYSE: SRE、Cameron + Port Arthur + ECA Mexico、**已建** 19/25）— 美國 LNG #2 + utility 母體（California utility 50-55% + LNG 30-35% + Mexico 10-15%）+ Cameron 50.2% 主控 + 唯一太平洋出口（ECA Mexico）+ Forward PE 18-22x utility 溢價 + Mega Cap $50-55B
+- ✅ **[[Cameron LNG]]**（**已建 reference only**）— Sempra Infrastructure 50.2% 持股 + Total / 三井 / 三菱各 16.6% 合資、Phase 1 ~12 MTPA + Phase 2 +6.75 MTPA + Phase 3 pending FID = Sempra LNG segment 第一大資產拆解 anchor、**非可投資 entity**
+- ✅ **[[Tellurian]]**（**已建 reference only / 2024-10 被 Woodside 收購、現為 Woodside Driftwood LNG**）— Charif Souki（Cheniere 創辦人）第二曲線創業失敗教訓、99%+ drawdown、Phase 1 ~11 MTPA 2027-2028 ramp、跟 Cheniere / Sempra 並列美國 LNG 三巨頭但澳洲股東主導（透過 Woodside Energy WDS 間接持有）、**LNG 出口需要「強現金流 + 長約 anchor + 大型 strategic partner + FID 時點」四要素全滿**結構性教訓
 
 → LNG 出口擴展「電力戰場」的地理邊界——從美國境內核電 baseload → **全球 LNG 出口 anchor**、跟 SOFC 同為「**對沖核電復役延宕的 firm power 補位**」。
+
+⭐ **Cheniere vs Sempra 路線差異化**（**LNG 雙頭分歧**）：
+- **Cheniere（22/25 pure-play alpha）**：100% LNG pure-play + 美國 LNG 出口 #1（50%+）+ SPA 80% 長約 + Forward PE 12-15x、Re-rate 雙引擎（→ AI 基建 anchor 估值重定價 + Qatar -17% 缺口接管 + CCL Stage 3 ramp）
+- **Sempra（19/25 utility 多元 + 太平洋差異化）**：utility 母體穩定 + Cameron 50.2% + Port Arthur + ECA Mexico 三線並進 + 加州 utility 50-55%、Forward PE 18-22x utility 溢價、防守性勝、太平洋出口（ECA Mexico）規避巴拿馬運河 + Hormuz 雙重 chokepoint 是唯一差異化
+
+⭐ **跨戰場結構**：[[Bottleneck Theory（瓶頸論）]] **Hormuz 海峽 chokepoint** + Cheniere（大西洋路徑）+ Sempra ECA Mexico（太平洋路徑）= 「**雙路徑 chokepoint 規避者**」對接
 
 ### 第二層：電力傳輸（Transmission）
 

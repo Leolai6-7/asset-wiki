@@ -119,11 +119,14 @@ confidence: high
 | 12 個月漲幅 | **+120-200%** |
 | 市值 | **USD ~$100-130B** |
 | Forward PE | **~16-22x**（vs Apple 28-32、HPE 12-15、Lenovo 8-12）|
-| FY2026 全年營收估算 | **USD ~$110-130B**（vs FY2025 $96B、+15-30% YoY）|
-| FY2026 Q1 AI server 營收 | **~USD $16.1B**（單季、YoY **+757%**）|
-| FY2026 Q1 總營收 | **~USD $43.8B**（單季、YoY +88%）|
+| FY2026 全年營收 guidance | **USD ~$167B**（midpoint、+50% YoY、vs FY2025 ~$96B、guidance raised）|
+| FY2026 Q1 AI server 營收 | **USD $16.1B**（單季、YoY **+757%** record、10-Q 校準）|
+| FY2026 Q1 AI orders booked | **USD $24.4B**（季、訂單能見度 + backlog ramp anchor）|
+| FY2026 Q1 總營收 | **USD $43.8B**（單季、+88% YoY record、10-Q 校準、KP44 raw $438B 為 typo）|
 | FY2026 Q1 OpEx/Revenue | **8.4%**（20 年低點 = 營業 leverage 結構性）|
-| 2026-05 單日股價變動 | **+30%**（單日反映 pull-through model revision）|
+| FY2026 Q1 Non-GAAP EPS | **USD $4.86**（YoY +214% record）|
+| FY27 AI server guidance | **USD $60B**（+144% YoY、guidance raised）|
+| 2026-05-28 單日股價變動 | **+32%**（best day ever、反映 pull-through model revision、KP44 raw $30% 校準）|
 | ISG 占營收 | ~55-60% |
 | CSG 占營收 | ~35-40% |
 | Dell Financial Services（DFS）資產 | **USD ~$15-20B** loan / lease portfolio |
@@ -164,6 +167,41 @@ confidence: high
 - **Apple M-series 在 PC 端市佔上升**：對 Dell XPS / Latitude 蠶食
 - **股價 12 月 +120-200% 已 partial price in**：若 AI server 增速放緩 → re-rate 部分回吐
 - **NVDA depend**：Dell 三軌 lock-in 同時也是「過度依賴 NVDA」風險
+
+## ⭐ ⚠️ 2026-06-09 數字校準（FY2026 Q1 10-Q 核對）
+
+**Source**：[Dell Technologies Q1 FY2026 Earnings Release（2026-05-28）](https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-delivers-first-quarter-fiscal-2026-financial) + [CNBC Dell Q1 earnings report 2027](https://www.cnbc.com/2026/05/28/dell-q1-earnings-report-2027.html) + [Dell Technologies Inc. - Form 8-K Q1 FY27](https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000021/exhibit991earnings8kq1fy27.htm)
+
+⚠️ **2026-05-30 FOMO SOC KP44 raw 原文數字有 typo（小數點移位 100x）**：
+
+| 指標 | KP44 raw 寫法（typo）| 實際 10-Q 數據 | 倍數差 |
+|---|---|---|---|
+| **總營收（單季 FY2026 Q1）** | USD **$438B** | **USD $43.8B**（**+88% YoY** record）| **100x** |
+| **AI server 營收（單季）** | USD **$161B** | **USD $16.1B**（**+757% YoY**）| **100x** |
+| **AI orders booked（季）**| —（未提）| **USD $24.4B** | — |
+| **OpEx / Revenue** | 8.4%（**正確**）| **8.4%**（20 年低點）| — |
+| **單日股價** | +30%（**正確**）| **+32%**（best day ever）| — |
+| **AI server FY27 guidance** | —（未提）| **USD $60B**（YoY +144%）| — |
+| **FY27 全年營收 guidance** | —（未提）| **USD $167B**（midpoint、YoY ~+50%）| — |
+| **Non-GAAP diluted EPS** | —（未提）| **USD $4.86**（YoY +214%）| — |
+
+⭐ **typo 確認**：raw 原文 KP44 「USD $438B 單季」根本不可能（vs Dell 全年 ~$100-130B、單季 $30-40B 級別、$438B 是 Mega Cap 全年 GDP 級別）= 純粹 KP@FOMOSoc 文字輸入小數點 typo。
+
+⭐ **核對方法**：Dell fiscal calendar 是 Feb-Jan、FY2026 Q1 = 2026 Feb-Apr 對應自然年 2026 Q1（會計年度跟自然年差 1 季）、FY2026 Q1 = 自然年 2026 Feb-Apr、release 2026-05-28、KP44 raw 2026-05-30 撰寫。本 entity 既建 financial snapshot 段所有數字已用**正確的 $43.8B / $16.1B 級別**、本「校準」段是顯式註記、避免讀者再從 raw 翻回 typo。
+
+⭐ **新增數據（10-Q 揭示但 KP44 raw 未提）**：
+- **AI orders booked $24.4B**（季）= 訂單能見度 + backlog ramp anchor
+- **AI server FY27 guidance $60B（+144% YoY）**= AI server 結構性 ramp anchor
+- **FY27 全年營收 guidance $167B（+50% YoY）**= 整體成長 reaccelerated
+- **Non-GAAP diluted EPS $4.86（+214% YoY）**= EPS 結構性 leverage 證實
+- **單日股價 +32%（KP44 寫 30%、實際 32% best day ever）**
+
+⭐ **校準後對 thesis 影響**：
+- **不改變核心 Pull-Through Effect thesis**（單位是 $B 不是 $K、結構性放大不變）
+- **強化 AI server 真實能見度**：$24.4B orders booked + $60B FY27 guidance 是 +757% 之外的訂單前瞻 anchor
+- **強化 OpEx/Revenue 8.4% 20 年低點意義**：營業 leverage 結構性確認、不是統計噪音
+
+→ 對接 [[賣水人選股邏輯（投資版）]] master 表 Dell 16/25「整廠 AI 賣水人」+「Pull-Through Effect」雙標籤、不改評分。
 
 ## ⭐ Pull-Through Effect 結構性解析
 
