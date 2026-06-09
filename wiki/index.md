@@ -36,6 +36,9 @@
 - [[半導體基礎建設化]]
 - [[複利測試]]
 
+### EDA 三巨頭分食（第十四波 — C1 補位 — 2026-06-09 [[Cadence]] entity 落地 + EDA 三巨頭分食 concept 同步）⭐
+- [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]] ⭐ 2026-06-09 補位：**EDA 賽道 ~USD $15-18B（2025）+ CAGR 12-15%（AI 晶片驅動）+ 三巨頭 [[Synopsys]] ~33% + [[Cadence]] ~28% + [[Siemens]] EDA ~17% = 合計 78% 寡占**——所有 fab / fabless / IDM 晶片設計都繞不開三家、是「**賣水人之中的賣水人**」架構級 anchor；**SNPS 強項**：digital flow（synthesis + verification + DFT + signoff）+ DesignWare IP 廣度（USB / PCIe / DDR / Ethernet / SerDes 業界標準）+ Ansys USD $35B 整合 + DSO.ai / AI.Copilot first-mover；**CDNS 強項**：Custom IC + analog + Spectre simulator + Tensilica DSP IP + Palladium emulation + Denali memory IP + BETA CAE 2024 Q4 + Hexagon D&E 2025 整合 + AI agent for chip design 跟進（Cerebrus / Verisium / Allegro X AI）；**Siemens EDA**（前 Mentor Graphics 2017 USD $4.5B 收購）：PCB Xpedition + Calibre DRC/LVS + Catapult HLS + Siemens Xcelerator 工業軟體加值 + NVDA Omniverse 工業數位孿生（2024-03 GTC）；客戶 100% 雙頭採用 SNPS + CDNS（fabless / IDM 必用兩家）；NVDA AI Foundation Models for Chip Design（NeMo / NIM）+ EDA 廠工具整合（DSO.ai / Cerebrus / Aprisa AI 三家技術路線競賽）；EDA 是「設計層」chokepoint——比矽晶圓 / 光阻劑 / 切割設備更上游（晶片還沒生產就先用 EDA 設計）；對接 [[賣水人選股邏輯（投資版）]]「架構級『賣水人之中的賣水人』三巨頭」段 + [[半導體基礎建設化]]「半導體基礎建設五大 chokepoint」+ [[控制點轉移（投資版）]] EDA 控制權
+
 ### AI 產業專題（第三波）
 - [[AI 融資結構（條件資本）]] — OpenAI 1220 億的真實意義
 - [[循環投資（CSP-Model 互鎖）]] — Microsoft ↔ OpenAI ↔ Azure 飛輪
@@ -45,6 +48,7 @@
 - [[AI 廣告信任危機]] — 聊天廣告的不可分離利益衝突
 - [[CPO 供應鏈圖譜]] — 七層分工 + 賣水人位階
 - [[AI 資安攻防成本曲線]] — 攻防成本同時下降，總支出不降反升
+- [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] ⭐ 2026-06-09 #C3 補位：**AI 資安市場 ~$300B（2030）+ CAGR 12-15% + 三軌分食（Endpoint EDR/XDR + Cloud Security CSPM + Network SASE/NGFW）+ Microsoft Defender 平台 lock-in 威脅是估值上限 + Wiz $32B 私募估值 anchor + AI 攻防雙引擎軍備競賽**；三軌玩家逐漸 platform 化整合（**PANW 是唯一三軌全覆蓋的玩家**）+ **CRWD Forward PE 60-80x 純度溢價 vs PANW 50-60x 廣度折價**；**agentic SOC 戰場 2026-2027 白熱化**：Charlotte AI（CRWD）vs Cortex XSIAM AI Copilot（PANW、first-mover 領先 6-12 個月）vs Microsoft Security Copilot 三方混戰；對應 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]「被遺忘的 AI 受惠者」放大版（vs AI 半導體 ~$1T 過度關注）；跨庫對接 llm-wiki AI Liability / 幻覺風險 / agentic SOC / AI 廣告 / 利益衝突（**AI 資安賽道無利益衝突 = 估值乾淨度勝 AI 廣告賽道**）
 
 ### 光通訊 / DCI（第三戰場）
 - [[Hyper Rail / Multi-Rail（光通訊整合技術）]] — CIEN/NOK 把 EDFA+WSS 整合成 1U 4-rail，128-160 fiber pairs/rack，2027 起放量，**scale across 指標性技術**
@@ -279,6 +283,13 @@
 - [[YMTC]]（中國長江存儲、未上市）⭐ **2026-06-09 補位** — **中國 NAND 國產龍頭 + Xtacking 4.0（294 層、wafer-to-wafer hybrid bonding 架構首創者）+ 2026 Q1 13% 全球市佔（並列 [[SanDisk]] / [[Micron]]）+ 美 Entity List 制裁下 3 年內仍 capacity 翻倍 + 國產替代「中國 NAND 自給率」唯一頭部廠**：未上市（紫光集團 + 國家大基金 + 武漢產投三方持股）、估值 USD ~$20B 推估；客戶結構 = 中國 100% + 部分東南亞（華為 / 小米 / OPPO / vivo / 阿里 / 騰訊 / 華為雲 + 國產 AI server）；五軸 **16/25**（路線 3 + 站別 4 + 耗材 3 + IP 3 + 客戶分散 3）= 跟 [[Absolics]] / [[Amkor]] 16 同分；**反向受惠路徑** = NVDA / hyperscaler / Vera Rubin ICMS multi-source 完全跳過 YMTC → 國產替代政策保護 / mirror image [[SanDisk]] 美 NAND pure-play；對 [[AI infra 3D NAND 戰場]] 6 家分食 + [[中國半導體國產替代（投資對沖視角）]] 雙重 anchor
 - [[Innolux 3481]]（3481.TW）⭐ **2026-06-09 補位** — **台廠 LCD 面板 #2 + [[鴻海 2317|鴻海]] 集團部分持股 + 2024-2026 戰略轉型「面板廠 → FOPLP（Fan-out Panel Level Packaging）半導體先進封裝廠」first-mover + 透過 [[東捷]] / [[敘豐]] / [[弘塑]] 設備鏈導入玻璃基板製程 + 2024 公告 NT$150 億半導體先進封裝產線 CapEx + 2026-2028 量產 FOPLP 載板 + 玻璃基板 panel level interposer**：市值 NT$500-1,000 億 / PB 0.5-1x（面板股低 PB）/ Re-rate 1/4（FOPLP ramp 後可能升至 2-3/4）；五軸 **14/25**（路線 3 + 站別 3 + 耗材 2 + IP 3 + 客戶分散 3）= 跟 [[緯創 3231]] 14 並列；**期權型受惠**（FOPLP 路線需贏 + 量產良率 + 客戶取得三重 binary）；補完 [[玻璃基板與 FOPLP 賽道]] 表 + [[TGV 製程鏈圖譜]] 台股漏網 + [[ABF 載板 vs 玻璃基板 displacement]] 受惠者 + 鴻海集團 AI server 業務 BOM 整合下游
 
+### 標的：EDA 三巨頭第二陣營（第十四波 — C1 補位、2026-06-09 [[Cadence]] entity 落地 + [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]] concept 同步）⭐
+- [[Cadence]]（NASDAQ: CDNS）⭐ **2026-06-09 #C1 補位** — **EDA 全球 #2（~28% 市佔、跟 [[Synopsys]] ~33% + [[Siemens]] EDA ~17% 形成 EDA 三巨頭分食 78% 寡占）+ Custom IC + analog 設計不可繞過 + Spectre simulator 業界標竿 + Tensilica DSP IP（audio / 通訊 / 影像 DSP 標準、Qualcomm / Apple / NVDA / Samsung / MediaTek 全授權）+ Palladium emulation 業界標竿 + Denali memory IP + 2024 Q4 BETA CAE Systems 收購（multiphysics simulation）+ 2025 Hexagon's Design & Engineering 部分收購 + AI agent for chip design 跟進 first-mover（Cerebrus 自動 P&R / Verisium AI verification / Allegro X AI PCB layout）+ 訂閱制 70%+ 毛利 recurring + Backlog $6.7B+**：所有晶片設計都要用 CDNS（特別 Custom IC + analog + mixed-signal + SerDes 部分不可繞過）；市值 USD ~$85-105B / Forward PE 40-50x / Re-rate 3.5/4 滿；五軸 **22/25**（路線 5 + 站別 5 + 耗材 5 + IP 4 + 客戶分散 3）= 跟 [[Synopsys]] 24 / [[Imec]] 24 並列「架構級『賣水人之中的賣水人』三巨頭」第二陣營；**vs [[Synopsys]] 24/25 差距 2 分**：IP 廣度稍弱（DesignWare USB / PCIe / DDR / Ethernet / SerDes 業界標準範圍大於 Tensilica DSP）+ 規模差距（CDNS BETA CAE + Hexagon D&E 規模小於 SNPS Ansys $35B 併購）；但 **Custom IC + analog 設計不可繞過** 是 CDNS 的結構性護城河、是 fabless 設計鏈剛性需求；NVDA AI Foundation Models for Chip Design 合作（NVDA + SNPS + CDNS + Siemens EDA 三家 EDA 廠都跟 NVDA NeMo / NIM 整合）；客戶 NVDA / AMD / AVGO / Marvell / Apple / Qualcomm / Intel / TSMC / Samsung / Google TPU / AWS Trainium / Microsoft Maia / Meta MTIA 全部 AVL（雙頭 SNPS + CDNS）；[[半導體基礎建設化]] 全行業設計基礎建設層 anchor；對應 [[控制點轉移（投資版）]] 拿到「Custom IC + analog 設計工具 lock-in + Spectre simulator 業界標準 + Tensilica DSP IP + AI agent first-mover」四層 chokepoint
+
+### 標的：AI 資安戰場 三軌 anchor（第十四波 — 2026-06-09 #C3 [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] 補位）⭐
+- [[CrowdStrike]]（NASDAQ: CRWD）⭐ **2026-06-09 #C3 補位 Endpoint EDR/XDR 第一 anchor** — **雲原生 EDR / XDR 龍頭 + Falcon 單一 agent 28+ 模組 + Charlotte AI agentic SOC + Threat Graph 數據護城河 + Fortune 500 60%+ AVL（業界最高）+ 2024-07 Microsoft Windows 全球當機事件 8.5M 機器 + $10B 損失 + Delta Airlines $500M 官司 + 12-15 個月後股價 + 客戶留存 97%+ recovery 完成**：FY2026 Q4 ARR **$4.2B+**（YoY +20-22%）+ FY2026 Revenue $4.45-4.55B + Subscription Growth +22-25% + NRR **110%+** + Free Cash Flow Margin **30-35%**（業界頂級）+ GAAP 已轉盈、市值 **~$110-130B** Mega Cap / Forward PE **60-80x** / Re-rate 3/4；五軸 **21/25**（路線敏感 3 因 Microsoft Defender bundle 扣分 + 站別關鍵 5 + 耗材 5 + IP 4 + 客戶分散 4 = AI 資安賽道 Endpoint 第一 anchor）；對手競爭：**Microsoft Defender for Endpoint**（bundled M365 E5、市佔 25-30%）+ **SentinelOne**（純 EDR pure-play）+ **Wiz**（雲端 CSPM Google $32B 收購 anchor）= CRWD endpoint 仍 30-32% 龍頭；2026-2027 催化：Charlotte AI 升級 agentic SOC + Falcon Foundry cloud workload 量產 + Fortune 500 AVL 60% → 65%+；跨庫對接 llm-wiki [[AI 資安研究]] / [[責任歸屬（AI Liability）]]
+- [[Palo Alto Networks]]（NASDAQ: PANW）⭐ **2026-06-09 #C3 補位 三軌全棧整合 anchor** — **全球三平台資安整合龍頭 + 2024-2025「platformization」策略 anchor + Network Security（NGFW + SASE Prisma）+ Cloud Security（Prisma Cloud）+ SecOps（Cortex XDR + XSIAM）三軌全棧（唯一三軌全覆蓋玩家）+ 85,000+ enterprise + Fortune 100 95%+ AVL（業界最高）+ 2024 Cortex Cloud + AI Copilot first-mover（領先 CRWD Charlotte AI 6-12 個月）+ estate buy-out 持續切走 Microsoft / Wiz 客戶合約**：FY2026 Q3 ARR **$4.5B+**（YoY +18-22%）+ FY2026 Revenue $8.7-8.9B + Subscription Growth +18-20% + NRR **115%+** + Free Cash Flow Margin **35-40%**（vs CRWD 30-35% 更強）+ FY2026 EPS $6.20-6.30、市值 **~$220-260B** Mega Cap / Forward PE **50-60x**（**vs CRWD 60-80x 折價 20-30%**）/ Re-rate 3.5/4；五軸 **20/25**（路線敏感 4 因三軌跨軌覆蓋勝 CRWD + 站別關鍵 5 + 耗材 4 因 Product Revenue 20% NGFW 硬體 + IP 4 + 客戶分散 3 因 Fortune 100 95% AVL 集中度上升 = 三平台整合 anchor）；三平台採用 ≥2 個比例 **30% → 50%**（2024-Q1 → FY2026 Q3）；對手：**[[Wiz]] $32B 私募 anchor**（Google 2025-09 全額收購）+ **Microsoft Defender / Security Copilot** bundled E5 威脅 + **Zscaler / Cloudflare / Fortinet** Network 軌競爭；2026-2027 催化：Cortex Cloud + AI Copilot 規模化 + platformization 三平台採用 50% → 60%+ + Fortune 100 AVL 95% → 98%+ + NGFW 硬體業務轉型 / 訂閱占比 > 90% 估值 re-rate
+
 ## 摘要 (summaries)
 
 ### 宋分備忘錄系列（月度宏觀，2026 Q1）
@@ -349,7 +360,7 @@
 - 寒武紀、海光：中國 NPU/GPU 第二選擇
 
 ### AI 資安賽道 entity
-- CrowdStrike (CRWD)、Palo Alto (PANW)、Cloudflare (NET)、Zscaler (ZS)、Wiz、Snyk、Semgrep、Okta、CyberArk
+- ✅ [[CrowdStrike]] (CRWD) / [[Palo Alto Networks]] (PANW) 兩家已建（2026-06-09 #C3、第十四波 [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] anchor）— Cloudflare (NET)、Zscaler (ZS)、Wiz、Snyk、Semgrep、Okta、CyberArk 待補
 
 ### 電力供應鏈 entity
 - ✅ [[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] 三家已建（2026-06-08、第八波 [[AI infra 電力戰場]] anchor triplet）

@@ -1965,3 +1965,64 @@
   - **vs [[Tower Semiconductor]] / [[GlobalFoundries]] / [[TSMC]] / Imec 四強分食 SiPho foundry**：Imec 補完最後一家（但純 R&D 不商業化）
 - 並行衝突警示：B1 subagent stall 在最後寫 log.md 段（前面 entity + index + master 表 + concept 全部 commit 成功），人工收尾整合 master 表「第十三波 codex P3 補完 6 家」段 + index.md verification（已落地）+ B2 散熱+電力 3 家整合 + 6 戰場交集圖譜 concept 一併 commit 在 b89fe26
 - 累計：**65 concept + 110 entity + 42 summary**（B1 +1 concept [[6 戰場交集圖譜]] + 7 entity SUMCO / Synopsys / Imec / MACOM Technology / GlobalWafers 6488 / YMTC / Innolux 3481、其中 YMTC 跟 B3 重疊算 1 次）
+
+### 2026-06-09 ingest #C3 — CrowdStrike + Palo Alto Networks AI 資安戰場第十四波 anchor 補位
+- 觸發：Leo 「補 AI 資安戰場 anchor（2 entity + 1 concept）— Endpoint EDR/XDR 龍頭 CRWD + 三平台整合 PANW + 新建 [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] concept」+ C 系列 ingest 第三 dispatch
+- 任務背景：
+  - 既建 [[AI 資安攻防成本曲線]] concept（thesis 角度切「攻防成本同時下降、總支出反而上升」）+ 既建 [[AI 資安 — 紅藍隊分離與商業模式]] summary（提到 CRWD / PANW / Wiz / Microsoft Defender / agentic SOC）+ 既建 [[AI 資安 — DeepSeek 資安風險調查]] / [[AI 資安 — Claude 4000 美元找到 22 個 Firefox 漏洞]] 補完 AI 資安賽道 thesis 層
+  - 但 wiki 缺 AI 資安賽道**entity 層**——CRWD / PANW / NET / ZS / Wiz / SentinelOne / Okta / CyberArk / Snyk / Semgrep 都缺；既建 [[賣水人選股邏輯（投資版）]] master 表 line 60「資安：AI-SPM 賽道」只是文字提到、沒有結構化 entity
+  - 跟 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]「被遺忘的 AI 受惠者」放大版接軌——AI 資安市場 ~B（2030）+ CAGR 12-15% vs AI 半導體 ~$1T = 1/3 規模、相對被市場忽略
+  - 跨庫對接 llm-wiki：[[AI 資安研究]] / [[責任歸屬（AI Liability）]] / agentic SOC / [[AI 廣告 / 利益衝突]]（**AI 資安賽道無利益衝突 = 估值乾淨度勝 AI 廣告賽道**）
+
+- 3 家落地：
+  - **[[CrowdStrike]]（NASDAQ: CRWD）新建 entity** — **Endpoint EDR/XDR 第一 anchor**
+    - 一句話：雲原生 EDR / XDR 龍頭 + Falcon 單一 agent 28+ 模組 + Charlotte AI agentic SOC + Threat Graph 數據護城河 + Fortune 500 60%+ AVL（業界最高）+ 2024-07 Microsoft Windows 全球當機事件 8.5M 機器 + $10B 損失 + Delta Airlines $500M 官司 + 12-15 個月後股價 + 客戶留存 97%+ recovery 完成
+    - 三層 thesis：
+      - 產業層：AI 資安市場 ~$300B（2030）+ CAGR 12-15% / 三軌分食（Endpoint EDR/XDR + Cloud Security CSPM + Network SASE/NGFW）/ Microsoft Defender 平台 lock-in 威脅 / AI 攻防雙引擎（GenAI 釣魚 + LLM 漏洞發現）
+      - 目的層：Falcon 28+ 模組（EDR + Identity + Cloud + LogScale + Charlotte AI + Foundry）/ ARR $4.2B+ + NRR 110%+ + 客戶留存 97%+ + Fortune 500 60%+ AVL（業界最高）/ 訂閱 95% + Free Cash Flow Margin 30-35%（業界頂級）
+      - 供應層：vs Microsoft Defender bundle 威脅 + vs PANW 三平台廣度 + vs SentinelOne EDR pure-play + vs Wiz $32B Cloud Security anchor + Falcon Cloud Security + Falcon Identity Protection
+    - 五軸 **21/25**（路線敏感 3 因 Microsoft Defender bundle 扣分 + 站別 5 + 耗材 5 + IP 4 + 客戶分散 4）= AI 資安賽道 Endpoint 第一 anchor、跟 [[Eaton]] 22 / [[Vertiv]] 22 / [[Synopsys]] 24 / [[SUMCO]] 24 等 anchor 同級
+    - 財務 snapshot：股價 ~$400-500（Forward PE 60-80x）/ 市值 ~$110-130B Mega Cap / ARR FY2026 Q4 $4.2B+ / FY2026 Revenue $4.45-4.55B + 22% / NRR 110%+ / Free Cash Flow Margin 30-35% / Re-rate 3/4
+
+  - **[[Palo Alto Networks]]（NASDAQ: PANW）新建 entity** — **三軌全棧整合 anchor**
+    - 一句話：全球三平台資安整合龍頭 + 2024-2025「platformization」策略 anchor + Network Security + Cloud Security + SecOps 三軌全棧（唯一三軌全覆蓋玩家）+ 85,000+ enterprise + Fortune 100 95%+ AVL（業界最高）+ Cortex XSIAM AI Copilot first-mover（領先 CRWD Charlotte AI 6-12 個月）+ estate buy-out 切走 Microsoft / Wiz 客戶合約
+    - 三層 thesis：
+      - 產業層：AI 資安市場 ~$300B + 三軌分食 + PANW 唯一三軌全覆蓋玩家 / Microsoft Defender 平台 lock-in 威脅 / Wiz $32B 私募估值 anchor
+      - 目的層：三平台分布 Network Security ~50% + Cloud Security ~25% + SecOps ~25% / ARR $4.5B+ + NRR 115%+ + Fortune 100 95%+ AVL（業界最高）/ Free Cash Flow Margin 35-40%（業界頂級、勝 CRWD）/ 三平台採用 ≥2 個比例 30% → 50%
+      - 供應層：vs CRWD endpoint 純度（CRWD 60-80x 純度溢價 / PANW 50-60x 廣度折價）+ vs Microsoft Security Copilot bundle + vs Wiz $32B Cloud Security anchor + vs Zscaler / Cloudflare / Fortinet Network 軌
+    - 五軸 **20/25**（路線敏感 4 因三軌跨軌覆蓋勝 CRWD + 站別 5 + 耗材 4 因 NGFW 硬體 20% + IP 4 + 客戶分散 3 因 Fortune 100 95% AVL 集中度上升）= 三平台整合 anchor、跟 [[ABB]] 20 / [[GlobalFoundries]] 20 / [[奇鋐 3017|奇鋐]] 20 / [[高力 8996|高力]] 20 / [[Alfa Laval]] 20 同分
+    - 財務 snapshot：股價 ~$330-400（Forward PE 50-60x vs CRWD 60-80x 折價 20-30%）/ 市值 ~$220-260B Mega Cap / ARR FY2026 Q3 $4.5B+ / FY2026 Revenue $8.7-8.9B + 14-16% / NRR 115%+ / Free Cash Flow Margin 35-40%（勝 CRWD）/ Re-rate 3.5/4
+
+  - **新建 [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] concept** — **AI 資安賽道地圖 + 三軌 anchor 結構展開**
+    - 從**市場結構**切「三軌分食（Endpoint EDR/XDR + Cloud Security CSPM + Network SASE/NGFW）」、跟 [[AI 資安攻防成本曲線]] thesis 角度互補
+    - 市場規模 anchor：~$300B（2030）+ CAGR 12-15% + AI 半導體 ~$1T 的 1/3 規模 = 被遺忘的 AI 受惠者
+    - 三軌玩家分布：
+      - Endpoint EDR/XDR：[[CrowdStrike]] 30-32% / SentinelOne 10-15% / [[Microsoft]] Defender 25-30%
+      - Cloud Security CSPM：[[Wiz]] 25-30%（私募 Google $32B）/ [[Palo Alto Networks]] Prisma Cloud 15-20% / Lacework / Sysdig
+      - Network SASE/NGFW：[[Palo Alto Networks]] 30-35% / [[Zscaler]] 15-20% / [[Cloudflare]] / Fortinet
+    - 三軌核心玩家對比表：CRWD 21/25 + PANW 20/25 + Wiz（私募）+ Microsoft（bundled）+ ZS / NET / SentinelOne / Fortinet 待建
+    - AI 攻防雙引擎：防守側（Charlotte AI / Cortex XSIAM AI Copilot / Microsoft Security Copilot 三方混戰）+ 攻擊側（GenAI 釣魚 / LLM 漏洞發現 / agentic 攻擊 / deepfake 社工）
+    - Microsoft Defender 平台 lock-in 威脅：bundled M365 E5 + Security Copilot + Sentinel SIEM = 給 CRWD / PANW 估值上限**打 8-9 折**
+    - Wiz $32B 私募估值 anchor：對 PANW Prisma Cloud / CRWD Falcon Cloud Security 業務有 SoP 折價空間隱含
+    - 跨庫對接 llm-wiki：[[AI 資安研究]] / [[責任歸屬（AI Liability）]] / agentic SOC / [[AI 廣告 / 利益衝突]]（**AI 資安賽道無利益衝突 = 估值乾淨度勝 AI 廣告賽道**）
+    - 投資 mapping：Endpoint 軌 + Cloud Security 軌 + Network 軌 + Identity Protection 軌 + AppSec/SAST 軌（私募為主）+ 籃子組合策略（lower-risk anchor 60-70% + high-alpha pure-play 20-30% + niche AppSec 10%）
+
+- 關鍵發現：
+  - **三軌玩家逐漸 platform 化整合**：客戶從「best-of-breed 8-10 家」收斂到「3-5 家整合方 + niche AppSec」
+  - **PANW 是唯一三軌全覆蓋的玩家**：跟 CRWD（endpoint + cloud + identity 純度高）+ Wiz（cloud only）+ Microsoft Defender（bundle）路線分歧
+  - **CRWD vs PANW 估值對比**：CRWD Forward PE **60-80x** vs PANW Forward PE **50-60x** = CRWD 純度溢價 / PANW 廣度折價
+  - **Microsoft Defender 平台 lock-in 是估值上限**：bundled M365 E5 + Security Copilot + Azure → 給 CRWD / PANW 五軸「路線敏感度」失分主因 = 估值上限**打 8-9 折**
+  - **Wiz $32B 私募估值是 anchor**：2025-09 Google 全額收購（cash deal）= 雲端 CSPM 市場 anchor 估值、對 PANW Prisma Cloud / CRWD Falcon Cloud Security 業務有 SoP 折價空間隱含
+  - **AI 攻防雙引擎 = 資安總支出結構性 ↑**：攻擊頻率倍增 × 防守覆蓋率倍增、ARR 結構性放大、跟 [[AI 資安攻防成本曲線]] thesis 一致
+  - **agentic SOC 戰場 2026-2027 白熱化**：Charlotte AI vs Cortex XSIAM AI Copilot vs Microsoft Security Copilot 三方混戰、**PANW Cortex XSIAM first-mover 領先 6-12 個月**
+  - **被遺忘的 AI 受惠者**：AI 資安市場 ~$300B（2030）vs AI 半導體 ~$1T（2030）= **1/3 規模**、相對被市場忽略 = [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]「被遺忘 AI 受惠者」放大版
+  - **跟 llm-wiki 跨庫對接**：AI Liability / 幻覺風險 / agentic SOC / AI 廣告 / 利益衝突——**AI 資安賽道無利益衝突 = 估值乾淨度勝 AI 廣告賽道**
+  - **2024-07 CrowdStrike 全球當機事件後 12-15 個月 recovery 完成**：客戶留存率 97%+ 不變 = 驗證「single agent + Threat Graph 規模 lock-in 太深、客戶無法 switch out」核心 thesis
+  - **PANW Free Cash Flow Margin 35-40% 勝 CRWD 30-35%**：訂閱黏性 + 三平台 captive + estate buy-out 策略支撐
+  - **最 surprising 一家**：**[[Palo Alto Networks]]** — 以為「PANW 規模大 + NGFW 老牌、賺穩定 ARR 而已」、實際是「**三平台全棧 captive + Fortune 100 95%+ AVL + AI Copilot first-mover（領先 CRWD Charlotte AI 6-12 個月）+ Free Cash Flow Margin 35-40% 業界頂級 + platformization estate buy-out 持續切走 Microsoft / Wiz 客戶合約**」五軸結構性 anchor、跟 CRWD 估值對比顯著（CRWD 60-80x vs PANW 50-60x、PANW 折價 20-30%）
+
+- 連動更新：
+  - [[賣水人選股邏輯（投資版）]] master 表：新建第十四波「AI 資安戰場 三軌 anchor」段 + CRWD 21/25 + PANW 20/25 + 8 條關鍵發現 + 跨庫對接清單；line 60「資安：AI-SPM 賽道」改為「資安：[[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]]（CRWD 21/25 + PANW 20/25、NET、ZS、Wiz）」
+  - [[AI 資安攻防成本曲線]] 既有 concept：保留、本次新建 concept 從**市場結構**切跟其互補
+  - [[index.md]]：方法論段加 [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] concept + 標的段加新建「AI 資安戰場 三軌 anchor」段（CRWD + PANW 兩家 entity）+ 待 ingest backlog「AI 資安賽道 entity」標 CRWD + PANW 已建
+- 累計：**66 concept + 112 entity + 42 summary**（#C3 +1 concept [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] + 2 entity [[CrowdStrike]] + [[Palo Alto Networks]]）
