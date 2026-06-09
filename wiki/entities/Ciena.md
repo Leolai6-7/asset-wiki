@@ -32,7 +32,7 @@ confidence: high
 - 競爭格局：
   - **CIEN**：DCI 純度最高（光網路 + DSP + 線路系統垂直整合、無無線業務拖累）
   - [[Nokia]]：DCI 是 Network Infrastructure 一支（光網路 / IP / 固網），整體還有無線業務、純度較低但「9 of top 10 hyperscaler 都用 Nokia 光網路」基數深
-  - Cisco：交換 ASIC + 路由器主場、DCI 是補強
+  - [[Cisco]]：交換 ASIC + 路由器主場、DCI 是補強（[[FOMO SOC]] #48 列為對沖位、付費牆擋住具體 thesis）
   - 中國 Huawei + 中興：被美 entity list 排除在西方 hyperscaler 外
 - → DCI 賽道在「**雙頭 + 寡占**」：CIEN（純度王）vs Nokia（廣度王）
 
@@ -73,7 +73,7 @@ confidence: high
 - 護城河：
   - **WaveLogic DSP 6 代累積、單載波 1.6T 全球第一**
   - HyperRail co-developed with hyperscaler、design lock-in 5-7 年
-  - 純 DCI 玩家、無 mobile network 包袱（vs Nokia 多元、Cisco 分心）
+  - 純 DCI 玩家、無 mobile network 包袱（vs Nokia 多元、[[Cisco]] 分心）
   - Backlog $7.7B = ~1.2 年營收能見度
 - 風險：
   - **客戶集中度極高**（兩家 hyperscaler 占 34%）= 單一客戶削單 / CapEx 縮就重傷

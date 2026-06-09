@@ -11,7 +11,8 @@ sources:
   - https://investors.gf.com/
   - https://semiconstocks.com/
   - https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-photonics-platform
-tags: [標的, 美股, foundry, 特殊製程, SiPho, CMOS-SOI, 矽光子, FD-SOI, 22FDX, AI infra, NVDA NVLink Fusion, Ayar Labs, Mubadala, foundry 對手, 多元化]
+  - raw/2026-05-27_FOMOSOC-49-GlobalFoundries.md
+tags: [標的, 美股, foundry, 特殊製程, SiPho, CMOS-SOI, 矽光子, FD-SOI, 22FDX, AI infra, NVDA NVLink Fusion, Ayar Labs, Mubadala, foundry 對手, 多元化, 量子計算, cryo-CMOS, PsiQuantum, Quantinuum, Diraq, 準國防資產, 政府入股]
 confidence: medium
 ---
 
@@ -236,9 +237,62 @@ confidence: medium
 
 → 比 [[Tower Semiconductor]] 22 低 2 分（SiPho 純度 + IP）、但**客戶分散 5 分 vs Tower 5 分接近 + 多元化 specialty + Mubadala 主權基金背景 + CHIPS Act**形成差異化 anchor。**典型「**多元化 foundry 賣水人**」**（vs Tower 純度首選）。
 
+## ⭐ FOMO SOC #49 校準（2026-06-09 ingest）— 量子計算第二曲線
+
+KP@FOMOSoc 第 49 期「**白宮入股量子計算？成熟製程也有春天？營收成長 3% 股價翻倍？**」（2026-05-27）補入既有 entity 的**量子計算 cryo-CMOS 第二曲線**：
+
+### 量子計算 anchor
+
+| 維度 | 細節 |
+|---|---|
+| **政府量子配額（總額）** | **$2B** |
+| **GFS 獲配額** | **$375M（~18.75%）** |
+| **GFS 隱含估值（1% equity stake 反推）** | **~$37.5B** EV |
+| **政府股權** | **~1% strategic position**（正向政府介入 anchor）|
+| **GFS FDX 平台量子相容性** | **支援五種 qubit 模式 / 相容九家受配額八家**（superconducting / photonic / trapped-ion / topological / spin qubit）|
+| **客戶背書（公開依賴）** | **PsiQuantum + Quantinuum + Diraq** 三家量子新創 |
+| **製造產品（量子段）** | **cryo-CMOS controls**（低溫 CMOS 控制晶片）+ **advanced packaging**（先進封裝）+ **3D heterogeneous interconnects**（3D 異質整合互連）|
+| **KP anchor 比喻** | 「**混凝土裡的鋼筋**」（rebar in concrete）= 必要但不搶眼 |
+
+### IBM Anderson vs GFS 製造哲學分歧
+
+| 維度 | IBM Anderson | GFS |
+|---|---|---|
+| 路線 | **垂直整合**自有 fab | **平台型製造**為多家客戶代工 |
+| qubit 控制 | 製造自己 superconducting qubit | 不押 qubit、為多家客戶量產不同 qubit 設計 |
+| 商業邏輯 | bet 單一路徑 | 不押誰贏量子計算 |
+| 對應 [[賣水人選股邏輯（投資版）]] | ❌ | **✅ 賣水人首選** |
+| 對應 [[控制點轉移（投資版）]] | qubit 設計控制點 | **跨多條量子路徑的製造基礎設施控制點** |
+
+→ **「**多元化 specialty foundry 賣水人**」核心 thesis 強化**：GFS 在量子計算複製 SiPho 平台型基礎設施邏輯。
+
+### 三層地緣政治 anchor
+
+| 層 | 性質 | 規模 |
+|---|---|---|
+| **Mubadala 阿布達比主權基金** | long-term 88% 持股（2009 至今）| 主控股、stable |
+| **CHIPS Act 補助** | Malta NY 擴產 | $1.5B（2024 簽）|
+| **美國政府量子配額** | 1% equity stake 入股 | $375M / 1% = $37.5B 隱含 EV anchor |
+
+→ **「準國防資產」anchor 強化**：vs Intel 2024 政府入股 10% 程度、GFS 1% 是 anchor 訊號（非 dominate）、但已是強烈正向政府介入訊號。
+
+### 對 KP「3% 營收成長卻股價翻倍」隱含 thesis
+
+KP 標題暗示「**Re-rate 三角形 reset**」、付費牆擋住具體深展：
+- **3% 營收成長**——成熟製程 + 多元化 + 量子第二曲線剛 ramp、整體 top-line 成長慢
+- **股價翻倍**——市場已開始 price in：**量子第二曲線 + 政府 1% 入股 anchor + Mubadala stability**
+- 對應 [[市場四階段：懷疑／驗證／共識／反轉]]「**驗證 → 共識**」加速段：GFS 在量子段從「**懷疑 → 驗證**」、整體還在「**驗證**」段
+
+### 對 [[CPO 供應鏈圖譜]] SiPho 段 — 付費牆擋住強化
+
+⚠️ Leo 原預期「補強 SiPho foundry 段」**因付費牆無法強化**：
+- KP #49 量子計算為主軸、SiPho / NVDA NVLink Fusion / Ayar Labs 深度全擋付費牆
+- 既有 entity SiPho 段（與 [[Tower Semiconductor]] / [[TSMC]] / IMEC 並列全球 top 4）保持不變
+- 量子計算切角是 KP 補入的「**第二曲線**」、不取代既有 SiPho 第一曲線
+
 ## 跟其他 wiki 概念連結
 
-- [[Bottleneck Theory（瓶頸論）]]：**跨第 4-5 層 SiPho foundry 對手位**（Tower / GFS / TSMC / IMEC 全球 4 強分食、Serenity 框架點名）
+- [[Bottleneck Theory（瓶頸論）]]：**跨第 4-5 層 SiPho foundry 對手位**（Tower / GFS / TSMC / IMEC 全球 4 強分食、Serenity 框架點名）+ **跨多條量子路徑的製造基礎設施 chokepoint**（量子第二曲線）
 - [[CPO 供應鏈圖譜]]：第 4-5 層 SiPho foundry（與 [[Tower Semiconductor]] / [[TSMC]] / IMEC 同層）
 - [[AI infra CapEx 三階段論]]：第三階段間接受惠（透過 Ayar Labs 矽光 chiplet + SiPho 配套）
 - [[NVDA 網路 stack map]]：NVLink Fusion ecosystem 上游 foundry（透過 Ayar Labs）
@@ -279,3 +333,4 @@ confidence: medium
 - [GlobalFoundries Investor Relations](https://investors.gf.com/)
 - [Serenity Tracker — semiconstocks.com](https://semiconstocks.com/)
 - [Tom's Hardware — GlobalFoundries Photonics Platform](https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-photonics-platform)
+- [FOMO SOC 第 49 期：GlobalFoundries（2026-05-27）](https://www.fomosoc.com/p/3-49globalfoundries)

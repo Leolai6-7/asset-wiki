@@ -2,6 +2,99 @@
 
 每次 ingest / update / lint / query 的紀錄。
 
+## 2026-06-09（E3 — FOMO SOC #47-49 三篇付費深入分析批次 ingest：Cloudflare + Cisco entity 新建 + Nokia/GFS entity 補強）
+
+### 2026-06-09 ingest #E3 — FOMO SOC #47-49 KP@FOMOSoc 三篇付費深入分析批次
+
+- 觸發：Leo subagent task「3 篇 FOMO SOC URL ingest：#47 Cloudflare + #48 DCI Nokia Cisco + #49 GlobalFoundries」
+- 來源：付費 substack（fomosoc.com）三篇深入分析、WebFetch redirect 處理、部分付費牆擋住
+
+#### Part A — #47 Cloudflare（agentic AI 邊緣推論 + Network as Control Plane）
+
+- **新建 entity [[Cloudflare]]**（NYSE: NET）confidence: medium（付費牆擋住具體 ARR / 商業化路徑）
+- 五軸 **16/25**（路線 3 + 站別 3 + 耗材 5 + IP 2 + 客戶分散 3）= 跟 [[Cisco]] 16 並列、低於 [[CrowdStrike]] 21 / [[Palo Alto Networks]] 20
+- 一句話定位：「**全球 ~300 城市邊緣節點 + ~20% 全球網站流量通道 + 從 CDN/DDoS → Zero Trust → 邊緣 GPU 推論平台四階段演進 + 唯一橫跨 AI 資安戰場 Network 軌 + 邊緣 AI 雙軌的『Network as Control Plane』anchor**」
+- 三層 thesis：產業層 AI 資安市場 ~$300B + 邊緣 AI 軌獨佔 / 目的層 Subscription 95% + 邊緣節點數據飛輪 + R2 egress-free 打破 AWS / 供應層 vs Zscaler SSE 34% 純度落差 + AWS Lambda@Edge 反擊
+- **「Network as Control Plane」隱含 KP 創新 anchor**：三段控制權轉移（資料中心 → 網路接口 → 邊緣 GPU 節點）+ Cloudflare 在三段都拿到控制點
+- 補位 [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] Network 軌（既有 concept 已列、本次正式建檔）
+- 強化 [[接口控制權]] concept：物理層接口控制權投資側 anchor（vs MCP 協議層）
+- 強化 [[控制點轉移（投資版）]]：Cloudflare 是「控制點轉移」連續三段都拿到的 anchor case
+
+#### Part B — #48 DCI Nokia Cisco（Scale-Across 新瓶頸）
+
+- **新建 entity [[Cisco]]**（NASDAQ: CSCO）confidence: medium（付費牆擋住 KP 具體 thesis）
+- 五軸 **16/25**（路線 2 + 站別 2 + 耗材 4 + IP 3 + 客戶分散 5）= 跟 [[Cloudflare]] 16 並列、低於 [[Nokia]] 18 / [[Ciena]] 19
+- 一句話定位：「**全球路由器 / 交換器歷史龍頭 + 2024 Splunk $28B 併購 SecOps 補位 + Silicon One 自研網路 ASIC + Nexus 9k 資料中心交換 + DCI 補強位 + AI infra 槓桿最低但估值便宜**」
+- 三層 thesis：產業層 多賽道並行（DC 交換驗證 → 共識、Silicon One 懷疑 → 驗證、Splunk 共識、Webex 衰退）/ 目的層 Networking 60% + Splunk 15-20% + Services 25-30% / 供應層 hyperscaler 結構性流失（Arista + Nokia + NVDA + Broadcom 四面夾擊）
+- 「**DCI 三家分食 anchor**」：CIEN 純度王 + Nokia 廣度王 + Cisco 對沖位（估值便宜 + 股息 + 多元業務緩衝、AI 紅利吃不到）
+- **更新 entity [[Nokia]]**（補強三條 KP anchor）：
+  - NVDA $1B 戰略投資（2025）具體金額（既有未具體金額化）
+  - AI-RAN 時程具體化：2026 商業試點 / 2027 商用版本（既有「時程不明」校準）
+  - 7220 IXR-H6 資料中心交換器 102.4 Tb/s + Ultra Ethernet 規範（新增交換器層 anchor、直接對標 Cisco Nexus 9k + Arista + NVDA Spectrum-X）
+  - FY2026 NI 指引 +12-14% 是從 6-8% 上修而來（結構性 surprise）
+  - KP 立場校準：「Nokia 是被動式轉型」（時代找上門、非主動戰略先見）
+- 強化 [[Hyper Rail Multi-Rail（光通訊整合技術）]] concept：補入「AI 網路三層架構」術語（scale-up NVLink + scale-out AVGO ASIC + **scale-across CIEN/Nokia/Cisco**）+ 三家分食架構表 + Nokia 7220 IXR-H6 102.4 Tb/s 交換器層補入
+- 補強 [[Ciena]] entity：Cisco 從純文字升級為 wikilink
+
+#### Part C — #49 GlobalFoundries（量子計算「混凝土裡的鋼筋」）
+
+- **更新 entity [[GlobalFoundries]]**（補強量子計算 cryo-CMOS 第二曲線）：
+  - GFS FDX 平台支援五種 qubit 模式 / 相容九家受配額八家
+  - $2B 政府配額 + GFS $375M（~18.75%）+ 1% equity stake 反推 $37.5B 隱含 EV
+  - PsiQuantum + Quantinuum + Diraq 三家客戶背書
+  - 「混凝土裡的鋼筋」（rebar in concrete）KP anchor 比喻
+  - IBM Anderson vs GFS 製造哲學分歧（IBM 垂直整合 vs GFS 平台型賣水人）
+  - 三層地緣政治 anchor：Mubadala 88% + CHIPS Act $1.5B Malta NY + 政府 1% equity stake
+- ⚠️ 付費牆擋住 60% 內容（具體財務 / 競爭定位 / AI infra 深度 / Mubadala dynamics）
+- Leo 原預期「**強化既有 GFS entity 20/25 + 補強 CPO 供應鏈圖譜 SiPho foundry 段**」**部分對**：
+  - ✅ 量子計算切角是新框架（既有 entity 未涵蓋）
+  - ⚠️ SiPho / NVDA NVLink Fusion 深度擋付費牆（無法強化 CPO 圖譜 SiPho 段）
+  - ⚠️ Mubadala dynamics 擋付費牆（無法更新）
+
+#### Part D — 補強 [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] concept
+
+- 三軌玩家對比表 Network 軌補位 [[Cloudflare]] 16/25 條目（從待建升級）
+- Cloudflare 在 Network SASE/NGFW 軌跟 [[Palo Alto Networks]] 20 / Zscaler 待建（推估 18-19） / Fortinet 待建並列
+
+#### 同步
+
+- 新建 3 份 raw（#47 + #48 + #49）+ 3 份 summaries
+- 新建 2 entity（[[Cloudflare]] + [[Cisco]]）
+- 更新 3 entity（[[Nokia]] + [[GlobalFoundries]] + [[Ciena]] Cisco wikilink）
+- 更新 2 concept（[[Hyper Rail Multi-Rail（光通訊整合技術）]] + [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]]）
+- 更新 index.md（新增「DCI 賽道 Scale-Across 三家分食補完」+「GlobalFoundries 量子計算第二曲線」+ Cloudflare 條目）
+- 三個分批 commit（避免衝突）
+
+#### 結束報告
+
+**三篇主題與核心 thesis**：
+- **#47 Cloudflare**：「**Cloudflare 是 AI 時代的神經網路**」——300 城市邊緣節點 + 20% 全球流量 + Workers AI 邊緣 GPU 推論 = 「Network as Control Plane」隱含創新 anchor
+- **#48 DCI Nokia Cisco**：「**Scale-Across 是 AI 算力新瓶頸、Nokia/Cisco 是被動受惠者**」——Nokia 三張牌（Infinera + NVDA $1B + 7220 IXR-H6 102.4 Tb/s）完整曝光、Cisco 對沖位但具體 thesis 擋付費牆
+- **#49 GlobalFoundries**：「**GFS 是量子計算的混凝土裡的鋼筋**」——不押單一 qubit 路徑、押所有路徑都需要的製造基礎設施 + 政府 1% 入股「準國防資產」anchor
+
+**付費牆狀態**：
+- #47 約 30% 擋（agentic AI 商業化具體路徑、Cloudflare 估值區間擋）
+- #48 約 30% 擋（Cisco 具體 thesis + DCI 產品線對標 + 估值擋）
+- #49 約 60% 擋（具體財務 / 競爭定位 / AI infra 深度 / Mubadala dynamics 全擋）
+
+**新建 entity 狀態**：
+- [[Cloudflare]] 16/25 confidence: medium——Network 軌 + 邊緣 AI 雙軌 anchor、付費牆擋住 ARR / Forward PE
+- [[Cisco]] 16/25 confidence: medium——DCI 對沖位、付費牆擋住具體 KP thesis
+
+**對 [[Nokia]] / [[Ciena]] / [[GlobalFoundries]] entity 補強**：
+- **Nokia 18/25 → 補入 4 條 KP anchor**：NVDA $1B 具體金額 + AI-RAN 2027 時程 + 7220 IXR-H6 102.4 Tb/s + FY2026 NI 上修自 6-8% → 12-14%
+- **Ciena 19/25 → 補強 Cisco wikilink**（從純文字升級）+ 既有 entity 內容不變
+- **GlobalFoundries 20/25 → 補入量子計算 cryo-CMOS 第二曲線**：FDX 五種 qubit 相容 / $375M 政府配額 / PsiQuantum + Quantinuum + Diraq 客戶 / 「混凝土裡的鋼筋」KP anchor + IBM Anderson 哲學分歧
+
+**Surprising 發現**：
+- **「Network as Control Plane」KP 隱含創新**：把資料中心 → 網路接口 → 邊緣 GPU 節點三段控制權轉移寫成投資 thesis、Cloudflare 是三段都拿到控制點的 anchor case，是 [[接口控制權]] concept 的物理層投資側對應（vs MCP 協議層）
+- **Nokia 三張牌完整曝光、Cisco 三股威脅擋付費牆**：KP 主推 Nokia、Cisco 是對沖陪襯（敘事力差異明顯）
+- **GFS 量子計算切角完全是新框架**：既有 entity 從 SiPho + AI infra + 多元化 specialty foundry 三軸切、KP 補入「量子計算 cryo-CMOS + 政府 1% 入股準國防資產」第二曲線（Leo 原預期 SiPho 強化路線擋付費牆）
+- **政府 1% equity stake $375M / $37.5B 隱含 EV**：vs Intel 2024 政府入股 10% 程度、GFS 1% 是 anchor 訊號（非 dominate）、但結構性 anchor「準國防資產」訊號強烈
+- **KP@FOMOSoc 五期主題對應 AI infra 五大新瓶頸**：被動元件（#45）/ 電力（#46 800V HVDC）/ 邊緣 AI（#47 Cloudflare）/ DCI（#48 Nokia Cisco）/ 半導體基礎建設（#49 GFS 量子計算）= **跨多戰場系統性整合**
+
+---
+
 ## 2026-06-09（C2 — Eoptolink + 中國光模組 OEM 雙頭對照）
 
 ### 2026-06-09 ingest #C2 — Eoptolink（新易盛 300502.SZ）entity 建檔 + 中國光模組 OEM 雙頭對照補強

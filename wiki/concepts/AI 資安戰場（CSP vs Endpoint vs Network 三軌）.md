@@ -42,7 +42,7 @@ confidence: high
 |---|---|---|
 | **Endpoint EDR / XDR** | **[[CrowdStrike]]** 30-32% + SentinelOne 10-15% + **[[Microsoft]] Defender 25-30%** | CRWD 30-32% / Microsoft 25-30% |
 | **Cloud Security CSPM** | [[Wiz]] 25-30%（私募）+ [[Palo Alto Networks]] Prisma Cloud 15-20% + Lacework / Sysdig | Wiz 25-30% / PANW Prisma Cloud 15-20% |
-| **Network SASE / NGFW** | **[[Palo Alto Networks]]** 30-35% + [[Zscaler]] 15-20% + [[Cloudflare]] + Fortinet | PANW 30-35% / ZS 15-20% |
+| **Network SASE / NGFW** | **[[Palo Alto Networks]]** 30-35% + [[Zscaler]] 15-20% + [[Cloudflare]] ⭐ 2026-06-09 建檔 + Fortinet | PANW 30-35% / ZS 15-20% |
 
 ### 三軌核心玩家對比表
 
@@ -53,7 +53,7 @@ confidence: high
 | **[[Wiz]]**（私募 / 待 Google 收）| Cloud Security CSPM | cloud-only pure-play | ~$700M-1B（推估）| n/a（$32B 收購）| 待評估 |
 | **[[Microsoft]] Defender / Security Copilot** | Endpoint + SecOps | bundled 進 M365 E5 | bundled 無 standalone | bundled | n/a |
 | **[[Zscaler]]**（NASDAQ: ZS）| Network SSE | SASE pure-play | ~$2.3B | 50-70x | 待建 |
-| **[[Cloudflare]]**（NYSE: NET）| Network DDoS / AI Gateway | edge + Workers 平台 | ~$1.7B | 80-120x | 待建 |
+| **[[Cloudflare]] ⭐ 2026-06-09 建檔**（NYSE: NET）| Network DDoS / AI Gateway + edge AI | edge + Workers + R2 + Workers AI 平台 | ~$1.7B（推估）| **80-120x** | **16/25**（[[FOMO SOC]] #47 anchor）|
 | **SentinelOne**（NYSE: S）| Endpoint EDR/XDR pure-play | 開源 telemetry friendly | $850M | 70-100x | 待建 |
 | **Fortinet**（NASDAQ: FTNT）| Network NGFW（中小企業）| FortiGate + FortiSASE | $5B+ | 25-30x | 待建 |
 
@@ -174,7 +174,7 @@ confidence: high
 |---|---|
 | 三平台整合 + NGFW 始祖 | [[Palo Alto Networks]]（PANW）⭐ |
 | SSE pure-play | [[Zscaler]]（ZS）|
-| 邊緣網路 + AI Gateway | [[Cloudflare]]（NET）|
+| 邊緣網路 + AI Gateway | [[Cloudflare]] ⭐ 2026-06-09 建檔（NET）|
 | NGFW 中小企業 | Fortinet（FTNT）|
 
 ### Identity Protection 軌
@@ -200,7 +200,7 @@ confidence: high
 - 三家 30% / 30% / 40% 配置 = 跨軌全覆蓋 + 估值分散
 
 **high-alpha pure-play 組合**（適合 20-30% 倉位）：
-- [[Zscaler]] / [[Cloudflare]] / SentinelOne / Snyk（IPO 後）= 純度 + 估值彈性
+- [[Zscaler]] / [[Cloudflare]] ⭐ 2026-06-09 建檔 / SentinelOne / Snyk（IPO 後）= 純度 + 估值彈性
 
 **niche AppSec 組合**（適合 10% 倉位）：
 - CyberArk / [[Okta]] = identity 賽道 niche
