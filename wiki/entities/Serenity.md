@@ -17,7 +17,7 @@ X 上 **AI / 半導體供應鏈分析師**，2025 年中期從 Reddit r/WSB 轉�
 ## 風格特徵
 
 - **Bottleneck Theory（瓶頸論）核心命題**：不買 [[NVDA]]，買 NVDA / 雲端業者**不能沒有的、無法被取代的供應鏈節點**——「就像全球 20% 石油都要過某個海峽、AI 光電建設依賴少數獨家 / 雙頭壟斷的物理 chokepoint，找出來、抱住、長持」
-- **13 層 AI 物理供應鏈框架**：從原料 → 光模組 → 光通訊 / DCI → AI 訓練算力，逐層拆解誰是 chokepoint
+- **7 層 AI 物理供應鏈框架**（⚠️ **2026-06-09 校準**：中文圈訛傳「13 層」、實際公開可查證為 **7 層**）：L1 Raw Materials（Ga/In/As）/ L2 Growth Equipment（pBN crucible）/ L3 InP Substrate / L4 Laser Sources（CW DFB）/ L5 Optical Transceivers / L6 Testing & Qualification（WLBI burn-in）/ L7 Optical Cable & Fiber + 跨 L4-L5 SiPho foundry
 - **重押光電 / 光通訊**：知名持倉如 **[[AXTI]]**（5x）、**AAOI**（5x）、**[[Lumentum|LITE]]**、SIVE、TSEM、AEHR
 - **拒絕付費門檻**：$1/月訂閱（象徵性）、絕大多數分析免費 post 在 X 上、反「機構付費牆」文化
 - **2026-06-08 引用 anchor**：玻璃基板時間線（SKC Absolics + AMAT 支持 / SEMCO + Sumitomo 合作 / Intel 2030 / TSMC CoPoS 2-3 年）= 跟 [[sennn.nnna]] 一樣對玻璃 + 先進封裝的物理瓶頸有興趣，但 framing 偏「**英語圈 AI 供應鏈 macro 視角**」（vs sennn 偏「**繁中製程級深度**」）
