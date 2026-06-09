@@ -3,7 +3,9 @@ title: 宋分備忘錄 #2 — HBM iPhone Moment / Meta / 軟體 PE
 aliases: [宋分備忘錄2, 備忘錄 #2]
 type: summary
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
+substack_original_id: 宋分備忘錄 #2 (2026-03-16)
+wiki_serial: 2
 sources:
   - raw/美股送分題-09-備忘錄2-HBM-Meta-私募-2026-03-16.md
 tags: [宋分, 備忘錄, HBM, Meta, 軟體 PE, 估值重估]

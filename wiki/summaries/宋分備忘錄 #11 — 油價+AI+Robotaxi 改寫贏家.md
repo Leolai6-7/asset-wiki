@@ -1,9 +1,11 @@
 ---
 title: 宋分備忘錄 #11 — 油價+AI+Robotaxi 改寫贏家
-aliases: [宋分備忘錄11, 備忘錄 #11, Robotaxi 車廠 SaaS 化]
+aliases: [宋分備忘錄11, 備忘錄 #11, Robotaxi 車廠 SaaS 化, 宋分備忘錄 #7 第二版]
 type: summary
 created: 2026-06-09
 updated: 2026-06-09
+substack_original_id: 宋分備忘錄 #7 第二版 (2026-05-11、substack 自己重複編號 / 本篇 substack 上是 #7 但實為 #8 順位、wiki 流水號為 #11)
+wiki_serial: 11
 sources:
   - raw/美股送分題-備忘錄7-油價AI與Robotaxi-2026-05-11.md
 tags: [宋分, 備忘錄, Robotaxi, Tesla, Waymo, 車廠 SaaS 化, TaaS, 油價, Walmart 平台化, AI 購物中介]

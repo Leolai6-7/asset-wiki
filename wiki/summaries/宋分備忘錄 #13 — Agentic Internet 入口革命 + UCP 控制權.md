@@ -1,9 +1,11 @@
 ---
 title: 宋分備忘錄 #13 — Agentic Internet 入口革命 + UCP 控制權
-aliases: [宋分備忘錄13, 備忘錄 #13, AI Agent Alpha, Agentic Commerce, UCP]
+aliases: [宋分備忘錄13, 備忘錄 #13, AI Agent Alpha, Agentic Commerce, UCP, 宋分備忘錄 #9 第二版]
 type: summary
 created: 2026-06-09
 updated: 2026-06-09
+substack_original_id: 宋分備忘錄 #9 第二版 (2026-05-25、substack 自己重複編號 / 本篇 substack 上是 #9 但實為 #10 順位、wiki 流水號為 #13)
+wiki_serial: 13
 sources:
   - raw/美股送分題-備忘錄9-Agentic Internet入口革命-2026-05-25.md
 tags: [宋分, 備忘錄, Agentic Internet, AI Agent, UCP, Universal Commerce Protocol, Meta call option, 控制點轉移, 流動性轉向, 入口革命]

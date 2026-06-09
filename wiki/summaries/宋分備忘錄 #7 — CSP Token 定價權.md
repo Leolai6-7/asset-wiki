@@ -4,6 +4,8 @@ aliases: [宋分備忘錄 #7, CSP Token 定價權, Token 定價權]
 type: summary
 created: 2026-06-09
 updated: 2026-06-09
+substack_original_id: 宋分備忘錄 #7 第一版 (2026-04-20，substack 自己重複編號、本篇為先發)
+wiki_serial: 7
 sources:
   - raw/美股送分題-26-備忘錄7-CSP-Token定價權-2026-04-20.md
 tags: [宋分, 備忘錄, CSP, Token, 定價權, re-rate, Agentic, Blackwell, Rubin, CIO 調查]

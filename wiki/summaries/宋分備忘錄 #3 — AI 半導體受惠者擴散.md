@@ -3,7 +3,9 @@ title: 宋分備忘錄 #3 — AI 半導體受惠者擴散
 aliases: [宋分備忘錄3, 備忘錄 #3]
 type: summary
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
+substack_original_id: 宋分備忘錄 #3 (2026-03-23)
+wiki_serial: 3
 sources:
   - raw/美股送分題-12-備忘錄3-AI半導體受惠者-2026-03-23.md
 tags: [宋分, 備忘錄, AI 半導體, 類比 IC, CSP 永動機, 跨產業 AI]

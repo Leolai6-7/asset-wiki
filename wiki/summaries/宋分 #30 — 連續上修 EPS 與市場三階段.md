@@ -1,9 +1,11 @@
 ---
 title: 宋分 #30 — 連續上修 EPS 與市場三階段
-aliases: [宋分 #30, 連續上修, 為什麼總在漲完才信]
+aliases: [宋分 #30, 連續上修, 為什麼總在漲完才信, 宋分教學 #25 第二版]
 type: summary
 created: 2026-06-09
 updated: 2026-06-09
+substack_original_id: 宋分教學 #25 第二版 (2026-05-09、substack 自己重複編號 / 本篇 substack 上是 #25 但 wiki 流水號為 #30)
+wiki_serial: 30
 sources:
   - raw/美股送分題-25-為什麼總在漲完才信-連續上修-2026-05-09.md
 tags: [宋分, 連續上修, EPS 上修, RPO backlog, 機構操作, 市場三階段, 邊際變化]

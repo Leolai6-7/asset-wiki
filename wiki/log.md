@@ -200,7 +200,7 @@
    - 追蹤指標四件套（單位成長 vs 配送成本比 + 第三方服務費 + backlog YoY + 營益率觸底）
    - 對接 [[AMZN]] 待補「衛星 + 廣告 Prime margin engine」+ [[Re-rate 捕捉法]] + [[FCF 拐點]] + [[控制點轉移（投資版）]]
 
-6. **[[宋分 #24 — 怎麼知道 price in 了沒有]]**（2026-04-26、/p/price-in）
+6. **[[宋分 #34 — 怎麼知道 price in 了沒有]]**（2026-04-26、/p/price-in；**原 wiki #24，因 substack 教學系列 #24 已被 漲回來時三個錯 佔用、rename 為 #34，aliases 含舊名**）
    - 核心：市場運作「**預期 → 驗證 → 定價**」三階段
    - 散戶最容易犯的錯：用「一天波動」判斷「長期結構」
    - 判斷 price in 的四件事（共識預期 + 股價走法 + 法說會反應 + 異常成交量/隱含波動率）
@@ -216,7 +216,7 @@
    - 財報驗證三件事（營收變動率加速 + 訂單積壓增長 + AI 收入明確量化）= 初期 → 中期牛市拐點
    - 對應 [[市場四階段：懷疑／驗證／共識／反轉]] 驗證階段 + [[CapEx 見頂辯論]] 正面論證
 
-8. **[[宋分 #25 — 資金行情下一步（避免裸泳）]]**（2026-05-02、/p/465）
+8. **[[宋分 #35 — 資金行情下一步（避免裸泳）]]**（2026-05-02、/p/465；**原 wiki #25，因 substack 教學系列 #25 已被 機構獲利了結節奏 佔用、rename 為 #35，aliases 含舊名**）
    - 核心：**資金行情 ≠ 基本面行情**
    - 過熱訊號四件事（估值脫離現實 + 敘事無法被反駁 + 邊際資金變弱 + **對壞消息失去反應 = 頂訊號**）
    - 資金行情 → 分化行情（強勢股續漲、弱勢股續跌）
@@ -3116,3 +3116,76 @@ Leo subagent dispatch — 補完 timing 賽道「**[[SiTime]] MEMS pure-play 高
 ## 累計
 
 **72 concept + 145 entity + 53 summary**（#J1 +9 entity [[Applied Materials]] / [[KLA Corporation]] / [[Lam Research]] / [[Wolfspeed]] / [[onsemi]] / [[NRG Energy]] / [[Public Service Enterprise Group]] / [[Duke Energy]] / [[FOMO SOC]] + 3 concept update [[賣水人選股邏輯（投資版）]] / [[AI infra 電力戰場]] / [[800V HVDC 灰白區重劃（物理鐵壁論）]] + 1 index update）
+
+---
+
+## 2026-06-09 #M1 lint — 宋分編號衝突清理（雙重 #24 / #25 + 備忘錄編號雙標映射）
+
+### 背景
+
+L1+L2+L3 並行 ingest 時各 subagent 自行分配 wiki 流水號，加上 substack 自己也重複編號（教學系列 #24 / #25 各 2 次、備忘錄 #7 / #8 / #9 各 2 次），最終造成：
+- **教學系列雙重 #24**：漲回來時三個錯（2026-04-18）+ 怎麼知道 price in 了沒有（2026-04-26）
+- **教學系列雙重 #25**：機構獲利了結節奏（2026-04-19）+ 資金行情下一步（2026-05-02）
+- **備忘錄系列流水號錯位**：wiki #1-#14 共 13 篇實際對應 substack #1-#10（substack #7 / #8 / #9 各 2 版）
+
+### 決策方案
+
+**雙標策略：保留 wiki 流水號當檔名 + frontmatter 加 `substack_original_id` metadata + aliases 包含舊名**
+
+理由：
+1. 30+ 個既有 wikilink 不破壞（透過 aliases 機制 Obsidian 仍能解析舊名連結）
+2. 兩個編號體系並存可雙向 query（substack 真實編號 vs wiki 流水號）
+3. 衝突時：保留先建檔不 rename、後建檔挪到下一空號（#29-#33 已被 L3 ingest 佔用，故 #34 / #35）
+
+**未採用方案 — 統一拿掉編號改用日期 + 主題命名**：會破壞所有既有 wikilink、代價過高
+
+### Rename 執行（2 個檔）
+
+1. `宋分 #24 — 怎麼知道 price in 了沒有.md` → `宋分 #34 — 怎麼知道 price in 了沒有.md`
+   - aliases 加入舊檔名 `宋分 #24 — 怎麼知道 price in 了沒有` 保留 wikilink 相容
+   - substack_original_id: 宋分教學 (2026-04-26、/p/price-in)
+2. `宋分 #25 — 資金行情下一步（避免裸泳）.md` → `宋分 #35 — 資金行情下一步（避免裸泳）.md`
+   - aliases 加入舊檔名 `宋分 #25 — 資金行情下一步（避免裸泳）` 保留 wikilink 相容
+   - substack_original_id: 宋分教學 (2026-05-02、/p/465)
+
+### Metadata 補完（11 個檔加 substack_original_id + wiki_serial）
+
+**教學系列**（保留先建檔不 rename、補 metadata 標明 substack 重編號）：
+- 宋分 #24 — 漲回來時三個錯 → substack 教學 #24 (2026-04-18)
+- 宋分 #25 — 機構獲利了結節奏 → substack 教學 #25 (2026-04-19)
+- 宋分 #29 — AMD CPU AI → substack 教學 #24 第二版 (2026-05-05)
+- 宋分 #30 — 連續上修 EPS → substack 教學 #25 第二版 (2026-05-09)
+- 宋分 #31 — 分析師底層 #3 → substack 教學 #27 (2026-05-29)
+- 宋分 #32 — 左側 vs 右側 → substack 教學 #28 (2026-06-06)
+- 宋分 #33 — 安全邊際被誤解 → substack 教學 #26 (2026-05-23)
+
+**備忘錄系列**（補 metadata 對齊 substack 真實編號）：
+- 宋分備忘錄 #1-#6 → substack 備忘錄 #1-#6（一致無衝突、補 metadata 標明）
+- 宋分備忘錄 #7 → substack 備忘錄 #7 第一版 (2026-04-20)
+- 宋分備忘錄 #8 → substack 備忘錄 #8 第一版 (2026-04-27)
+- 宋分備忘錄 #9 → substack 備忘錄 #9 第一版 (2026-05-04)
+- 宋分備忘錄 #11 → substack 備忘錄 #7 第二版 (2026-05-11)
+- 宋分備忘錄 #12 → substack 備忘錄 #8 第二版 (2026-05-18)
+- 宋分備忘錄 #13 → substack 備忘錄 #9 第二版 (2026-05-25)
+- 宋分備忘錄 #14 → substack 備忘錄 #10 (2026-06-08)
+
+### 連動更新
+
+- **wiki/index.md**：第 438 / 440 行宋分 #24/#25 兩條 wikilink rename 為 #34/#35 + 加說明「原 wiki 流水號 + rename 原因」
+- **wiki/log.md**：第 203 / 219 行（2026-06-09 L2 substack fetch 紀錄段）兩條 wikilink rename 為 #34/#35 + 加說明
+- **wiki/summaries/宋分備忘錄 #9 — 確定性分化（不是全面牛市）.md**：第 74 行 wikilink rename 為 #35
+- 14 個 summary frontmatter 加 `substack_original_id` + `wiki_serial` metadata + 後建衝突檔加 aliases 含舊名
+
+### Surprising
+
+1. **Substack 自己就重複編號**（不只 wiki ingest 錯誤）：教學系列 #24 / #25、備忘錄 #7 / #8 / #9 都是 substack 自己跳了又重新編號。lint 處理只能標明「第一版 vs 第二版」而非「修正」
+2. **備忘錄 wiki 流水號為何用 #11 而非 #10**：L2 ingest 時可能誤把備忘錄 #10 跳過、直接從 #11 起算（原因不明、保留現狀）
+3. **教學系列 #06 / #09 / #12 / #16 / #19 / #22 / #26 / #27 / #28 缺檔**：這些 substack 編號被分配給備忘錄（#06 = 備忘錄 #1、#09 = 備忘錄 #2 等），wiki 拿教學系列流水號跳過、改放在備忘錄系列檔名中。Substack 自己「教學 / 備忘錄」混合連續編號的策略造成 wiki 流水號 ≠ substack 編號的根因
+4. **既有 wikilink 透過 aliases 解決，零 wikilink 破壞**：Obsidian aliases 機制讓 `[[宋分 #24 — 怎麼知道 price in 了沒有]]` 仍會解析到 `宋分 #34 — 怎麼知道 price in 了沒有.md`（透過 aliases 列表反查）
+
+### 影響範圍
+
+- **2 個檔 rename**（#24 price in → #34、#25 資金行情 → #35）
+- **3 個外部 wikilink 更新**（index.md × 2 + log.md × 2 + summary × 1，共 5 處 line edits）
+- **14 個 summary frontmatter 補 metadata**（substack_original_id + wiki_serial、4 個 aliases 新增舊名）
+- **既有 wikilink 30+ 處不需動**（aliases 自動解析）

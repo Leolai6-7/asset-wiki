@@ -1,9 +1,11 @@
 ---
 title: 宋分 #32 — 左側 vs 右側交易與 AI 行情
-aliases: [宋分 #32, 左側右側交易, AI 行情價值重估, 試單驗證確認]
+aliases: [宋分 #32, 左側右側交易, AI 行情價值重估, 試單驗證確認, 宋分教學 #28]
 type: summary
 created: 2026-06-09
 updated: 2026-06-09
+substack_original_id: 宋分教學 #28 (2026-06-06、wiki 流水號為 #32)
+wiki_serial: 32
 sources:
   - raw/美股送分題-28-左側右側交易-2026-06-06.md
 tags: [宋分, 左側交易, 右側交易, 機構操作, 部位管理, AI 行情, 價值重估, 價值投資反思]

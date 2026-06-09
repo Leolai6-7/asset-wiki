@@ -1,16 +1,18 @@
 ---
-title: 宋分 #24 — 怎麼知道 price in 了沒有
-aliases: [宋分 price in, 宋分財報後反應, 資金行情散戶錯誤]
+title: 宋分 #34 — 怎麼知道 price in 了沒有
+aliases: [宋分 #24 — 怎麼知道 price in 了沒有, 宋分 price in, 宋分財報後反應, 資金行情散戶錯誤]
 type: summary
 created: 2026-06-09
 updated: 2026-06-09
+substack_original_id: 宋分教學 (2026-04-26、/p/price-in)
+wiki_serial: 34
 sources:
   - raw/美股送分題-財報後price-in散戶錯誤-2026-04-26.md
 tags: [宋分, 預期差, Price in, 財報, 資金行情, 散戶 vs 機構]
 confidence: high
 ---
 
-# 宋分 #24 — 財報後先跌再漲到底是不是利多出盡？怎麼知道 price in 了沒有？
+# 宋分 #34 — 財報後先跌再漲到底是不是利多出盡？怎麼知道 price in 了沒有？
 
 [[宋分（美股送分題）]] 2026-04-26。**核心命題**：市場運作遵循「**預期 → 驗證 → 定價**」三階段。法說會當天下跌通常代表**預期與現實的比對**，而非公司變差。
 

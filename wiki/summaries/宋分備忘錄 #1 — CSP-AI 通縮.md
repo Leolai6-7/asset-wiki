@@ -3,7 +3,9 @@ title: 宋分備忘錄 #1 — CSP-AI 通縮
 aliases: [宋分備忘錄1, 備忘錄 #1]
 type: summary
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
+substack_original_id: 宋分備忘錄 #1 (2026-03-09)
+wiki_serial: 1
 sources:
   - raw/美股送分題-06-備忘錄1-CSP-AI通縮-2026-03-09.md
 tags: [宋分, 備忘錄, CSP, AI 通縮, FCF, NVDA, HBM]
