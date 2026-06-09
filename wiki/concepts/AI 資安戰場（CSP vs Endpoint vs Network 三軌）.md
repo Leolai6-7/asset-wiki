@@ -52,10 +52,10 @@ confidence: high
 | **[[Palo Alto Networks]]**（NASDAQ: PANW）| Network NGFW/SASE | + Cloud + SecOps（**唯一三軌全覆蓋**）| **$4.5B+** | 50-60x | **20/25** ⭐ |
 | **[[Wiz]]**（私募 / 待 Google 收）| Cloud Security CSPM | cloud-only pure-play | ~$700M-1B（推估）| n/a（$32B 收購）| 待評估 |
 | **[[Microsoft]] Defender / Security Copilot** | Endpoint + SecOps | bundled 進 M365 E5 | bundled 無 standalone | bundled | n/a |
-| **[[Zscaler]]**（NASDAQ: ZS）| Network SSE | SASE pure-play | ~$2.3B | 50-70x | 待建 |
+| **[[Zscaler]]**（NASDAQ: ZS）⭐ 2026-06-09 建檔 | Network SSE | SASE pure-play | ~$2.3B | 50-70x | **20/25** ⭐ |
 | **[[Cloudflare]] ⭐ 2026-06-09 建檔**（NYSE: NET）| Network DDoS / AI Gateway + edge AI | edge + Workers + R2 + Workers AI 平台 | ~$1.7B（推估）| **80-120x** | **16/25**（[[FOMO SOC]] #47 anchor）|
-| **SentinelOne**（NYSE: S）| Endpoint EDR/XDR pure-play | 開源 telemetry friendly | $850M | 70-100x | 待建 |
-| **Fortinet**（NASDAQ: FTNT）| Network NGFW（中小企業）| FortiGate + FortiSASE | $5B+ | 25-30x | 待建 |
+| **[[SentinelOne]]**（NYSE: S）⭐ 2026-06-09 建檔 | Endpoint EDR/XDR pure-play | 開源 telemetry friendly | $850M | 70-100x | **17/25** |
+| **[[Fortinet]]**（NASDAQ: FTNT）⭐ 2026-06-09 建檔 | Network NGFW（中小企業）| FortiGate + FortiSASE | $5B+ | 25-30x | **19/25** |
 
 → **三軌玩家會逐漸 platform 化整合**：CRWD Falcon 28+ 模組 / PANW 三平台 / Microsoft Defender bundled / Wiz cloud only / ZS+NET 網路邊界 = 客戶採購格局通常是「**3-5 家整合方 + niche AppSec**」
 

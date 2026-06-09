@@ -12,6 +12,12 @@
 - [[開源作為武器（投資版）]] — 主營收 ⊥ 開源產品 = 可長期開源
 - [[公司 Entity 模板（Step 1-3 三段式）]] — 公司 entity 的強制格式（一句話定位 / 三層 thesis / 財務狀態快照）
 
+### 評分體系 + KOL 評估（第十八波 #K1 — 2026-06-09 codex 最強質疑落地）⭐
+- [[結構影響分 vs 可投資五軸分（雙評分體系）]] ⭐ 2026-06-09 #K1 補位：**「結構重要 ≠ 預期報酬」**——結構性影響（25 分制、適用所有 entity）vs 可投資 alpha（25 分制、只適用上市可投資 entity）拆分；解決 thesis 矛盾（[[Imec]] 24 / [[FOMO SOC]] 22 / [[Cameron LNG]] 19 / [[Tellurian]] 18 不再進可投資 ranking 池）；可投資頂級鎖定 [[ASML]] 25 + [[Disco Corp]] 24 + [[村田 Murata]] 24 + [[Synopsys]] 24 + [[SUMCO]] 24 + [[信越化學]] 24 共 6 家清單
+- [[五軸分數 confidence gate（低信心給區間 + thesis-dependent flag）]] ⭐ 2026-06-09 #K1 補位：confidence: low 不該給單一分、必須給區間 + thesis-dependent flag；三級 gate（high 精確 / medium 精確 + review trigger / low **區間 + flag**）；解決 [[IQE]] 假精度（15-19/25 區間 + 飛利浦 design-in 確認窗口）；對接 [[時效 metadata schema（lint 規範）]]
+- [[能源結構性剛需（AI 電力／LNG）]] ⭐ 2026-06-09 #K1 補位：[[宋分（美股送分題）]] #20 三標準（長期供給結構改變 + 持續 CapEx + 可持續現金流）落地 AI infra 電力戰場 + LNG 出口；utility 三家（[[Vistra]] 23 / [[Constellation Energy]] 22 / [[NRG Energy]] 21 / [[PSEG]] 19 / [[Duke Energy]] 19）+ LNG 三家（[[Cheniere Energy]] 22 / [[Sempra LNG]] 19 / [[Woodside Energy]] 20）構成 firm power 結構性 re-rate anchor；給三家 utility + 三家 LNG 結構性 re-rate（Forward PE 18-25x）+ 對 hyperscaler [[Microsoft]] / [[Amazon]] / [[Google]] / [[Meta]] / [[Oracle]] 估值有結構性向上 implication
+- [[KOL source reliability（KOL 來源可靠度評估）]] ⭐ 2026-06-09 #K1 補位：用結構性 framework 評估 KOL 內容 thesis 強度 / 命中率 / 訊息蛻變速度；三軸評估（thesis 框架深度 + 命中率 + 訊息蛻變慢）；三 KOL 評分 [[FOMO SOC]] 14/15（thesis 制定者）+ [[宋分（美股送分題）]] 12/15（命中率高、訊息蛻變較快）+ [[Serenity]] 11/15（Bottleneck Theory 主 framework）；對沖「KOL 膜拜」+「KOL 都不可信」雙向偏誤
+
 ### 思維核心
 - [[預期差]] — 市場為「預期的變化」定價，不為基本面
 - [[確定性門檻模型]] — 抱不漲、賣噴：水壩比喻
@@ -372,6 +378,18 @@
 
 ### 標的：GlobalFoundries 補強量子計算第二曲線（第十五波 — 2026-06-09 #E3 FOMO SOC #49 來源）⭐
 - [[GlobalFoundries]] **2026-06-09 補強量子計算 cryo-CMOS 第二曲線**（FOMO SOC #49 校準）— 既有 20/25 entity 補入：(1) **GFS FDX 平台支援五種 qubit 模式 / 相容九家受 $2B 政府配額補助公司中的 8 家**（superconducting / photonic / trapped-ion / topological / spin qubit）+ (2) **獲配額 $375M + 1% equity stake 反推 $37.5B 隱含 EV**（「準國防資產」anchor）+ (3) **PsiQuantum + Quantinuum + Diraq 三家公開依賴 GFS 製造能力商業化** + (4) **「混凝土裡的鋼筋」（rebar in concrete）KP anchor 比喻** + (5) **IBM Anderson vs GFS 製造哲學分歧**（IBM 垂直整合 vs GFS 平台型賣水人 = 強化「多元化 specialty foundry 賣水人」核心 thesis）+ (6) **三層地緣政治 anchor**：Mubadala 88% + CHIPS Act $1.5B Malta NY + 政府 1% equity stake；⚠️ 付費牆擋住 60% 內容（具體財務 / 競爭定位 / AI infra 深度 / Mubadala dynamics）= Leo 原預期「強化 SiPho foundry 段」**無法強化**、量子計算切角是 KP 補入的**第二曲線**
+
+### 標的：#K1 J1/J2/J3 stall 收尾 10 entity（第十八波 — 2026-06-09 codex 質疑落地批次補位）⭐
+- [[ServiceNow]]（NYSE: NOW）⭐ **2026-06-09 #K1 補位「軟體賣水人」anchor** — IT workflow 自動化全球 #1（ITSM / ITOM / ITAM 寡占）+ Now Platform AI agent + GenAI workflow 全棧整合 pure-play + ARR $11B+ + NRR 130%+ + cRPO 增速 25%+ + Fortune 500 90%+ AVL；五軸 **22/25**（路線 5 + 站別 5 + 耗材 5 + IP 4 + 客戶分散 3）= 跟 [[Cadence]] 22 / [[Aspeed]] 22 並列「**架構級賣水人之中的賣水人**」軟體側 anchor；對接 [[AI 利潤奇點（Token 經濟學拐點）]] 軟體商業模式升級「按工作量售賣」典型受惠 + [[Forward Deployed Engineer 戰略（FDE）]] Now AI Agent + Accenture 部署互補
+- [[Aspeed]]（4555.TW / 信驊科技）⭐ **2026-06-09 #K1 補位 台廠最被低估的真賣水人** — BMC（Baseboard Management Controller）全球 #1（>70% 市佔）+ AI server 必裝管理晶片 + ASP $5-15 USD + 量爆炸 + 高毛利 60%+ + hyperscaler ([[Amazon]] / [[Microsoft]] / [[Google]] / [[Meta]] / [[Oracle]] / [[CoreWeave]]) + OEM ([[Dell]] / HPE / Lenovo / SuperMicro / [[鴻海 2317|鴻海]] / [[廣達 2382|廣達]] / [[緯創 3231|緯創]]) 全 AVL；五軸 **22/25**（路線 5 + 站別 5 + 耗材 3 + IP 5 + 客戶分散 4）= 「**台廠 #1 真賣水人**」、跟 [[Cadence]] 22 / [[ServiceNow]] 22 並列架構級；對應 [[賣水人選股邏輯（投資版）]]「賣水人之中的賣水人」純度頂級 + [[控制點轉移（投資版）]] BMC server 系統管理 chokepoint
+- [[Zscaler]]（NASDAQ: ZS）⭐ **2026-06-09 #K1 補位 SSE/ZTNA pure-play anchor** — SSE / ZTNA 全球 #1 pure-play + 雲端原生 zero trust + 100% SaaS + ARR $2.3B+ + NRR 120%+；五軸 **20/25**（路線 4 + 站別 4 + 耗材 5 + IP 4 + 客戶分散 3）= 跟 [[Palo Alto Networks]] 20 同分但 PANW 三軌全覆蓋 vs ZS SSE pure-play；對應 [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] Network 軌 SSE 純度首選
+- [[Fortinet]]（NASDAQ: FTNT）⭐ **2026-06-09 #K1 補位 NGFW + ASIC 自研** — NGFW 全球 #1（by unit shipped）+ FortiASIC 自研垂直整合 + ARR $5B+ + Forward PE **25-30x**（vs ZS 50-70x / CRWD 60-80x 估值乾淨）+ 中小企業 + 全球渠道密度龍頭；五軸 **19/25**（路線 3 + 站別 4 + 耗材 4 + IP 4 + 客戶分散 4）= NGFW 中小企業 + ASIC 自研垂直整合
+- [[SentinelOne]]（NYSE: S）⭐ **2026-06-09 #K1 補位 AI-native EDR pure-play** — AI-native EDR / XDR pure-play + Singularity Platform + 開源 telemetry friendly + ARR $850M+ + NRR 110-115%；五軸 **17/25**（路線 3 + 站別 3 + 耗材 5 + IP 3 + 客戶分散 3）= EDR/XDR 軌 second source 純度型替代（CRWD 客戶想分散 vendor 時的首選）
+- [[BESI]]（AMS: BESI / BE Semiconductor Industries）⭐ **2026-06-09 #K1 補位 Hybrid Bonding 寡占** — Hybrid Bonding 全球 #1（70%+ 市佔）+ 後段封裝設備龍頭 + AI 先進封裝（HBM4 + CoWoS + Hybrid Bonding stack）關鍵賣水人；五軸 **20/25**（路線 4 + 站別 5 + 耗材 3 + IP 4 + 客戶分散 4）= 跟 [[Disco Corp]] 24（切割段）並列「**後段封裝賣水人雙頭**」、跟 [[奇鋐 3017|奇鋐]] / [[高力 8996|高力]] 20 同分
+- [[ASMPT]]（HKEX: 0522 / ASM Pacific Technology）⭐ **2026-06-09 #K1 補位 後段封裝 #1-2 多技術組合** — die / wire bonder 全球領先 + Hybrid Bonding 第二陣營追趕 BESI；五軸 **19/25**（路線 4 + 站別 4 + 耗材 3 + IP 4 + 客戶分散 4）= 後段封裝 #1-2 多技術組合
+- [[Camtek]]（NASDAQ: CAMT）⭐ **2026-06-09 #K1 補位 後段 AOI niche pure-play** — 後段封裝 AOI（光學檢測）niche 龍頭 + HBM + advanced packaging + CoWoS 檢測賣水人 + Eagle G5/G6 + Hawk 機台；五軸 **18/25**（路線 4 + 站別 4 + 耗材 3 + IP 3 + 客戶分散 4）= KLA-Tencor 前段 wafer 檢測龍頭差異化、後段 AOI niche 純度型替代
+- [[PSEG]]（NYSE: PEG / Public Service Enterprise Group）⭐ **2026-06-09 #K1 補位 新澤西 utility + 核電 fleet** — 新澤西 #1 regulated utility + Salem + Hope Creek 核電 ~3.8GW + PJM ISO 東岸 anchor；五軸 **19/25**（路線 4 + 站別 5 + 耗材 4 + IP 3 + 客戶分散 3）= 核電 fleet 第二梯隊、跟 [[NRG Energy]] 21 同類但 ISO 不同（PSEG = PJM、NRG = ERCOT）
+- [[SKC]]（KRX: 011790）⭐ **2026-06-09 #K1 補位 Absolics 母公司期權型** — [[Absolics]] 70.1% 母公司 + SK 集團半導體布局 + 玻璃基板量產 first-mover 期權型曝險；五軸 **15/25**（路線 2 + 站別 4 + 耗材 2 + IP 3 + 客戶分散 4）= 跟 [[鈦昇]] 7 / [[雷科]] 8 同類期權型但風險分散（化學品母公司基本盤 + Absolics 上行期權）
 
 ## 摘要 (summaries)
 

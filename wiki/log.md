@@ -2,6 +2,102 @@
 
 每次 ingest / update / lint / query 的紀錄。
 
+## 2026-06-09（K1 — J1/J2/J3 stall 收尾批次：4 concept + 10 entity 補位、codex 最強質疑落地）
+
+### 2026-06-09 ingest #K1 — 4 concept + 10 entity 三批次補位
+
+#### 觸發
+
+J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall，K1 收尾全部剩餘 17 個 deliverable。
+
+#### 批次 1：4 concept（codex 最強質疑落地）
+
+1. **[[結構影響分 vs 可投資五軸分（雙評分體系）]]** confidence: high
+   - 「結構重要 ≠ 預期報酬」拆分
+   - 結構影響分（25 分制、適用所有 entity）vs 可投資五軸分（25 分制、只適用上市可投資 entity）
+   - 解決 thesis 矛盾：[[Imec]] 24 / [[FOMO SOC]] 22-24 / [[Cameron LNG]] 19 / [[Tellurian]] 18 不再進可投資 ranking 池
+   - 可投資頂級 6 家鎖定：[[ASML]] 25 + [[Disco Corp]] 24 + [[村田 Murata]] 24 + [[Synopsys]] 24 + [[SUMCO]] 24 + [[信越化學]] 24
+
+2. **[[五軸分數 confidence gate（低信心給區間 + thesis-dependent flag）]]** confidence: high
+   - 三級 gate：high 精確 / medium 精確 + review trigger / low **區間 + thesis-dependent flag**
+   - 解決 [[IQE]] 假精度問題（15-19/25 區間 + 飛利浦 design-in 確認窗口）
+   - 對接 [[時效 metadata schema（lint 規範）]]
+
+3. **[[能源結構性剛需（AI 電力／LNG）]]** confidence: high
+   - [[宋分（美股送分題）]] #20 三標準（長期供給結構改變 + 持續 CapEx + 可持續現金流）落地
+   - utility 三家 + LNG 三家 firm power 結構性 re-rate（Forward PE 18-25x）
+   - 對 hyperscaler [[Microsoft]] / [[Amazon]] / [[Google]] / [[Meta]] / [[Oracle]] 估值有結構性向上 implication
+
+4. **[[KOL source reliability（KOL 來源可靠度評估）]]** confidence: high
+   - 三軸評估（thesis 框架深度 + 命中率 + 訊息蛻變慢）
+   - 三 KOL 評分：[[FOMO SOC]] 14/15、[[宋分（美股送分題）]] 12/15、[[Serenity]] 11/15
+   - 對沖「KOL 膜拜」+「KOL 都不可信」雙向偏誤
+
+#### 批次 2：J2 剩 J1 剩 5 entity
+
+5. **[[PSEG]]**（NYSE: PEG）confidence: medium、五軸 **19/25**
+   - 新澤西 utility + Salem + Hope Creek 核電 ~3.8GW + PJM ISO 東岸 anchor
+
+6. **[[Zscaler]]**（NASDAQ: ZS）confidence: medium、五軸 **20/25**
+   - SSE / ZTNA 全球 #1 pure-play + 雲端原生 zero trust
+
+7. **[[Fortinet]]**（NASDAQ: FTNT）confidence: medium、五軸 **19/25**
+   - NGFW 全球 #1（by unit shipped）+ FortiASIC 自研垂直整合 + Forward PE 25-30x（估值乾淨）
+
+8. **[[ServiceNow]]**（NYSE: NOW）⭐ confidence: high、五軸 **22/25**
+   - IT workflow 自動化全球 #1 + Now Platform AI agent 整合 pure-play
+   - 跟 [[Cadence]] 22 / [[Aspeed]] 22 並列「**架構級賣水人之中的賣水人**」軟體側 anchor
+
+⚠️ Duke Energy 既有不重做、跳過。
+
+#### 批次 3：J3 剩 6 entity（Siemens Energy / Hitachi Energy 拆分跳過）
+
+9. **[[SentinelOne]]**（NYSE: S）confidence: medium、五軸 **17/25**
+   - AI-native EDR / XDR pure-play + Singularity Platform + 開源 telemetry friendly
+
+10. **[[BESI]]**（AMS: BESI）confidence: medium、五軸 **20/25**
+    - Hybrid Bonding 全球 #1（70%+ 市佔）+ 後段封裝設備龍頭
+    - 跟 [[Disco Corp]] 24（切割段）並列「**後段封裝賣水人雙頭**」
+
+11. **[[ASMPT]]**（HKEX: 0522）confidence: medium、五軸 **19/25**
+    - 後段封裝 #1-2 多技術組合追趕 BESI Hybrid Bonding
+
+12. **[[Camtek]]**（NASDAQ: CAMT）confidence: medium、五軸 **18/25**
+    - 後段封裝 AOI niche pure-play + HBM + advanced packaging 檢測賣水人
+
+13. **[[Aspeed]]**（4555.TW）⭐⭐ confidence: high、五軸 **22/25**
+    - BMC 全球 #1（>70% 市佔）+ AI server 必裝管理晶片
+    - **「台廠最被低估的真賣水人」**典範、跟 [[Cadence]] 22 / [[ServiceNow]] 22 並列架構級
+
+14. **[[SKC]]**（KRX: 011790）confidence: medium、五軸 **15/25**
+    - [[Absolics]] 70.1% 母公司 + SK 集團半導體布局 + 玻璃基板期權型曝險
+
+#### 連動更新
+
+- **更新 [[賣水人選股邏輯（投資版）]]**：
+  - 頭部加「**⚠️ 雙評分體系 + confidence gate**」段（K1 codex 質疑落地）
+  - 電力供應鏈 + 軟體供應鏈段補位（NRG/PSEG/Duke + Cheniere/Sempra/Woodside + ServiceNow + Snowflake/Databricks + Accenture/Deloitte/IBM + Zscaler/Fortinet/SentinelOne + 多家）
+  - 末段加「**⭐ #K1 11 家補位**」段（11 家五軸 row + 第十八波關鍵發現）
+- **更新 [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]]**：補 Zscaler 20/25 + Fortinet 19/25 + SentinelOne 17/25 五軸分數
+- **更新 wiki/index.md**：補「**評分體系 + KOL 評估（#K1）**」concept 段 + 「**#K1 J1/J2/J3 stall 收尾 10 entity**」entity 段
+
+#### 第十八波關鍵發現
+
+- **架構級「軟體賣水人」三巨頭橫跨**：[[ServiceNow]] 22（IT workflow）+ [[Cadence]] 22（EDA #2）+ [[Aspeed]] 22（BMC）= 「軟體 / EDA / 系統管理」三軸全跨
+- **[[Aspeed]] 22 = 台廠最被低估的真賣水人確認**：BMC 70%+ 全球市佔、AI server BOM 不論誰贏都要、典範 anchor
+- **[[ServiceNow]] 22 = 「軟體賣水人」anchor 確認**：Now Platform 不押任何 LLM / hyperscaler / 終端 SaaS、所有玩家都依賴
+- **可投資 ranking 池結構性變化**：可投資頂級鎖定 [[ASML]] 25 + [[Disco Corp]] 24 + [[村田 Murata]] 24 + [[Synopsys]] 24 + [[SUMCO]] 24 + [[信越化學]] 24 = **6 家清單**（[[Imec]] 24 因不可投資從可投資 ranking 退出）
+- **AI 資安戰場完整曝險**：[[CrowdStrike]] 21 / [[Palo Alto Networks]] 20 / [[Zscaler]] 20 / [[Fortinet]] 19 / [[SentinelOne]] 17 / [[Cloudflare]] 16 + Wiz 私募 = 6 家上市 + 1 家私募完整圖譜
+- **後段封裝賣水人四家完整圖譜**：[[Disco Corp]] 24（切割段）+ [[BESI]] 20（Hybrid Bonding）+ [[ASMPT]] 19（die/wire bonder）+ [[Camtek]] 18（AOI 檢測）= 四家分別站不同 chokepoint
+- **能源戰場 11 家完整 anchor**：utility 5 家（Vistra 23 / CEG 22 / NRG 21 / PSEG 19 / Duke 19）+ LNG 3 家（Cheniere 22 / Sempra 19 / Woodside 20）+ 變壓器 / 配電 多家
+- **雙評分體系對未來 ingest 影響**：所有未來 entity 強制走「結構影響 + 可投資 n/a 判斷」流程、避免 thesis 矛盾累積
+
+#### 累計
+
+**76 concept + 146 entity + 53 summary**（#K1 +4 concept + 10 entity + 2 concept update [[賣水人選股邏輯（投資版）]] / [[AI 資安戰場（CSP vs Endpoint vs Network 三軌）]] + 1 index update）
+
+---
+
 ## 2026-06-09（G1 — Databricks + Deloitte + IBM + Woodside Energy 4 家 entity 批次補位：企業數據雙頭 + AI 諮詢三巨頭 + 美澳 LNG 三巨頭）
 
 ### 2026-06-09 ingest #G1 — 4 家 entity 批次補位（Databricks + Deloitte + IBM + Woodside）
