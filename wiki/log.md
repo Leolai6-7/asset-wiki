@@ -2136,3 +2136,25 @@
   - [[Intel]] entity：「投資角度」段 ASML 改 [[ASML]] wikilink + 新建「ASML 客戶關係（第三大客戶 + High-NA EUV first commercial 客戶）」段（15% 營收 + 18A + 14A High-NA EUV + Imec 三角互鎖）+ 相關連結補 ASML
   - [[index.md]]：標的：半導體製造 / 算力供應鏈段最頂部新建 ASML entity 條目（完整定位 + 五軸 + Re-rate）+ 待 ingest backlog 標 ASML 已建狀態
 - 累計：**67 concept + 115 entity + 42 summary**（#D2 +1 entity [[ASML]] + 4 entity update [[Imec]] / [[TSMC]] / [[Samsung Electronics]] / [[Intel]] + 2 concept update [[Bottleneck Theory（瓶頸論）]] / [[半導體基礎建設化]] + master 表全面 rebase）
+
+### 2026-06-09 ingest #E1 — FOMO SOC 第二篇「AI 點燃被動元件 MLCC + 鉭電容 + TLVR 電感」
+- 觸發：Leo 丟第二篇 FOMO SOC URL（https://open.substack.com/pub/fomosoc/p/aimlcctlvr-45）「AI 點燃被動元件？MLCC、鉭質電容與 TLVR 電感是甚麼？這次不一樣？— 深入分析第 45 期」KP@FOMOSoc 2026-04-29 發布
+- 性質：付費牆部分擋住第 5-8 章（鉭電容暴利 + TLVR 電感混戰 + 受惠者地圖 + 多頭風險）、僅可見第 1-4 章
+- 操作：
+  - 新建 raw `raw/2026-04-29_FOMOSOC-AI被動元件MLCC鉭電容TLVR電感.md`（含付費牆標記）
+  - 新建 summary `wiki/summaries/2026-04-29_FOMOSOC-AI被動元件MLCC鉭電容TLVR電感.md`（三道防線受惠鏈映射 + 既有 entity 補強清單）
+  - 新建 **concept [[被動元件第三次週期（K 型復甦 + 三道防線）]]**（被動元件歷史三次週期 + K 型復甦量化錨點 + 三道防線材料科學壁壘 + 2026 Q3 轉折點預測 + 監控指標）
+- 三條 anchor：
+  - **歷史三次週期**：(1) 2017-18 普遍性缺貨（國巨淨利 +583%、現貨 30 倍、交期 50 週）+ (2) 2019-24 漫長去庫存（國巨營收 -40%、股價腰斬、5 年慘澹）+ (3) **2025-26 K 型結構性缺貨**（高階 vs 中低端分化）
+  - **K 型復甦量化錨點**：村田 95% / 三星電機 92% 稼動率 + 三星電機庫存 30 天（健康 40 天）+ 高階 MLCC 交期 24-32 週 + 鉭電容交期 40 週 + NVDA NVL72 機櫃 **44 萬顆 MLCC**（vs 傳統 server 2-3K 顆、~150-200x 暴增）
+  - **Vera Rubin 三道防線設計**：(1) MLCC 第一道（陶瓷工藝 + 最靠近 GPU 高頻突波）+ (2) 聚合物鋁電容第二道（電化學 + 大容量中頻濾波）+ (3) 鉭電容第三道（化學冶金 + 高溫高壓最後保險）= **製造基因完全不同、無法贏者全拿、只能跨壁壘併購**（國巨收 KEMET 典範）
+- ⭐ 2026 Q3 = 恐慌性下單轉折點預測（Vera Rubin 量產 + IT 旺季疊加引爆）= thesis 時間轉折點 anchor
+- ⭐ Vera Rubin 規格暴增：功耗 1.8-2.3kW（vs Blackwell 1.2-1.4kW、+60%）+ 能量儲存 **+6x** + 每 GPU 容量 400 焦耳
+- 連動更新：
+  - [[MLCC 嵌入式基板賽道]]：補「2026-06-09 KP@FOMOSoc 補強：被動元件第三次週期 K 型復甦」段 + 新 wikilink
+  - [[index.md]]：方法論段加新建「被動元件第三次週期 K 型復甦（FOMO SOC 第二篇）」段 + concept 條目
+- 跟 [[800V HVDC 灰白區重劃（物理鐵壁論）]]（同 KP@FOMOSoc 來源）對照：兩篇對應 Vera Rubin 兩個物理結構維度——機櫃**外**電力升 800V HVDC + 機櫃**內**電容降 0.8-1V 三道防線；FOMO SOC 兩篇 anchor framework
+- 補強既有 entity 的應做但未做（下次補）：[[村田 Murata]] 95% 稼動率 + [[Samsung Electro-Mechanics]] 92% 稼動率 + [[國巨]] 2018 +583% 歷史 + KEMET 跨壁壘併購典範 + [[TDK]] / [[太陽誘電 Taiyo Yuden]] / [[信昌電]] / [[華新科]] 第三次週期定位
+- 待解之謎（付費牆擋住、Leo 訂閱後可解鎖）：鉭質電容暴利哪幾家壟斷 + TLVR 電感（Trans-inductor Voltage Regulator）混戰 + 受惠者地圖 + 多頭故事風險點
+- ⚠️ 新待 ingest backlog：[[KEMET]]（國巨子公司、鉭電容寡占）+ [[Vishay]]（電感 + 鉭電容 + 多軌）+ [[Coilcraft]]（電感 niche）+ [[Nichicon]] / [[Rubycon]] / [[Nippon Chemi-Con]]（聚合物鋁電容三家日系）+ [[FOMO SOC]] entity（KOL 來源、被 ref 多次但無檔）
+- 累計：**68 concept + 115 entity + 42 summary**（#E1 +1 concept [[被動元件第三次週期（K 型復甦 + 三道防線）]] + 1 summary + 1 raw + 1 concept update [[MLCC 嵌入式基板賽道]]）
