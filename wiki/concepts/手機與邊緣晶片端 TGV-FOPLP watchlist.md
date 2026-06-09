@@ -147,7 +147,7 @@ Apple 直接向 Samsung Electro-Mechanics 採玻璃基板樣品（2026-04 確認
 | Tier | 押的事情 | 標的 | 信心 |
 |---|---|---|---|
 | **Tier 1**（既有 thesis 不動） | data center TGV 主菜 | [[鈦昇]] / [[雷科]] / [[弘塑]] / [[辛耘]] / [[萬潤]] | high |
-| **Tier 2**（FOPLP 滲透手機高端 OSAT） | Apple/Qualcomm FOPLP 滲透加深 → OSAT 接單 | 力成 Powertech（6239，待 ingest）、日月光 ASE（3711，待 ingest） | medium |
+| **Tier 2**（FOPLP 滲透手機高端 OSAT） | Apple/Qualcomm FOPLP 滲透加深 → OSAT 接單 | [[Powertech 力成]]（6239）、[[日月光 ASE]]（3711） | medium |
 | **Tier 3**（邊緣 ASIC 黑馬路線） | ByteDance / xAI / Tesla 自研 ASIC 早期 supplier | ABF 載板廠（欣興/南電/景碩，見 [[ABF 載板 vs 玻璃基板 displacement]]）、Intel Terafab 設備供應鏈 | low（binary outcome） |
 | **Tier 4**（對沖韓系玻璃反擊） | Samsung Electro-Mechanics 拿 Apple 訂單 → 韓系玻璃 vs 台廠 LIDE | 看 [[鈦昇]] 是否進 TSMC CoPoS 設備清單 | medium |
 
@@ -184,10 +184,10 @@ Apple 直接向 Samsung Electro-Mechanics 採玻璃基板樣品（2026-04 確認
 - **新機會**：Tesla / xAI Intel Terafab 路線若採玻璃 → 切割設備需求新增（雷科多刀流可進）
 - **追蹤訊號**：雷科是否拿到 Intel Terafab 雷射切割 / 改質 design-in
 
-### 新增追蹤標的（未來 ingest）
-- **力成 Powertech**（6239）：FOPLP 主力，承接 Apple/Qualcomm 手機 SoC 滲透
-- **日月光 ASE**（3711）：OSAT 龍頭，TSMC CoWoS 外包受惠（2026 起 TSMC 已外包部分封裝給 ASE/Amkor）
-- **Samsung Electro-Mechanics**（009150.KS）：韓系玻璃基板核心，與 [[LPKF]] / [[鈦昇]] 直接競爭
+### 新增追蹤標的
+- **[[Powertech 力成]]**（6239）：FOPLP 主力，承接 Apple/Qualcomm 手機 SoC 滲透
+- **[[日月光 ASE]]**（3711）：OSAT 龍頭，TSMC CoWoS 外包受惠（2026 起 TSMC 已外包部分封裝給 ASE/Amkor）
+- **[[Samsung Electro-Mechanics]]**（009150.KS）：韓系玻璃基板核心，與 [[LPKF]] / [[鈦昇]] 直接競爭
 
 ## 跟其他 wiki 概念連結
 
