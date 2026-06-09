@@ -274,9 +274,9 @@ Bear case（中國全閉環 + 西方需求放緩）：Forward PE 8-15x、PB 派�
 ## 投資受惠鏈
 
 ### Tier 1（記憶體三巨頭、直接受惠）
-- [[SK Hynix]]（待建 entity）— HBM 主供 ~60-70% Vera Rubin 份額、Forward PE 5.92 仍極低、9x 漲幅來自 EPS 而非 multiple expansion → **未完全 re-rate**
-- [[Samsung Electronics]]（待建 entity）— HBM 50% 擴產（170K → 250K wafer/月 2026 年底）、HBM4 量產追上
-- [[Micron]]（待建 entity）— HBM4 15K wafer/月 + **首次 5 年合約**、Idaho fab 2027/2028 ramp、bear case 是 first-mover oversupply
+- [[SK Hynix]] — HBM 主供 ~60-70% Vera Rubin 份額、Forward PE 5.92 仍極低、9x 漲幅來自 EPS 而非 multiple expansion → **未完全 re-rate**
+- [[Samsung Electronics]] — HBM 50% 擴產（170K → 250K wafer/月 2026 年底）、HBM4 量產追上
+- [[Micron]] — HBM4 15K wafer/月 + **首次 5 年合約**、Idaho fab 2027/2028 ramp、bear case 是 first-mover oversupply
 
 ### Tier 2（HBM 先進封裝整合方）
 - [[TSMC]] — CoWoS 龍頭、產能 125-170 kwpm 仍 sold out
