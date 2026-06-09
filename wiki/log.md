@@ -2359,3 +2359,36 @@
   - **FDE 戰略原型 = Palantir 10 年驗證**——OpenAI / Anthropic 走「Palantir Playbook」估值 re-rate 路徑、是 AI 公司商業模式升級的「**第二曲線**」
   - **KP40 變現能見度分歧 = 機構視角第一手**（Google 大漲 / Meta 大跌都是「能見度」變數重定價兌現）= [[預期差]] 新預期變數
 - 累計：**72 concept + 119 entity + 49 summary**（#E2 +4 concept + 1 entity [[Cerebras]] + 3 summary + 3 raw + 10 entity update）
+
+### 2026-06-09 ingest #F1+F2+F3 — backlog 收尾（LNG 4 家 + AI 軟體 4 家 + ARM/Amazon + Marvell/NVDA/Dell 補強）
+- 觸發：Leo「補吧」收尾 backlog（LNG 4 家 / Snowflake / Marvell 補強 / NVDA RTX Spark / Accenture / Palantir / Nebius / ARM / Amazon / Dell lint）
+- 並行 3 subagent dispatch、3 個都 stall 在最後寫 log（前面 entity + 補強已 commit）、人工收尾統一 commit `0f8857d`（15 檔 / +2,701 行）
+
+#### #F1 — LNG 4 家（AI infra firm power 第五選擇）
+- **[[Cheniere Energy]]**（NYSE: LNG）**22/25** — 美國 LNG #1 出口商 pure-play（Sabine Pass + Corpus Christi 兩大廠、全美 50%+ LNG 出口量）+ 客戶 BP / Total / Shell / Equinor / 中海油 / 韓國 KOGAS / 日本 JERA 多年合約；五軸 路線 5 + 站別 5 美國出口 #1 + 耗材 4 SPA recurring + IP 4 + 客戶分散 4
+- **[[Sempra LNG]]**（NYSE: SRE 之 Sempra Infrastructure）**19/25** — utility 多元 + Cameron LNG Phase 1（2019）+ Phase 2（2025-2027）+ Port Arthur Phase 1（2027-2028）+ ECA LNG（Mexico）+ 客戶 Total / 三菱 / 三井 / KOGAS / Aramco；五軸 路線 4 utility 多元 + 站別 4 + 耗材 4 + IP 3 + 客戶分散 4
+- **[[Cameron LNG]]** ⚠️ **reference only**（未獨立上市、Sempra Infrastructure 持股 50.2%、Total / 三菱 / 三井合資）+ Phase 1 ~12 MTPA（2019）/ Phase 2 ~6.75 MTPA（2025-2027）
+- **[[Tellurian]]** **19/25** ⚠️ **2024 被 [[Woodside Energy]] 收購、不再獨立上市**（現為 Woodside Driftwood LNG）+ Driftwood LNG Texas 27.6 MTPA（4 phases）
+- 連動更新：master 表新建「AI infra 電力戰場 firm power 第五選擇 LNG 段」+ [[AI infra 電力戰場]] concept 第一層電力產生表加 Cheniere + Sempra + 補 KP46 LNG framework 段（美伊戰後 5 個不可逆結構轉變）
+
+#### #F2 — 算力/AI 軟體 4 家 + Marvell 補強
+- **[[Snowflake]]**（NYSE: SNOW）**19/25** — 企業數據雲 + AWS $60B「企業 AI agent 可信執行環境」narrative shift（KP44）+ Data Cloud 平台 + 跨 AWS / Azure / GCP 多雲 + Fortune 500 90%+ AVL；五軸 路線 4 + 站別 4 + 耗材 5 訂閱年金 + IP 3 + 客戶分散 3
+- **[[Accenture]]**（NYSE: ACN）**19/25** — 全球 IT 諮詢 + 服務 #1 + **Anthropic 3 萬員工 FDE 戰略 anchor**（KP41 Palantir Playbook 樣本）+ Strategy / Consulting / Technology / Operations / Industry X；五軸 路線 4 + 站別 4 + 耗材 5 諮詢年金 + IP 3 + 客戶分散 5；**「AI 賣水人之中的賣水人」**——不押任何 AI 模型 / AI 應用、所有企業導入 AI 都要 Accenture / Deloitte / IBM Consulting
+- **[[Palantir]]**（NASDAQ: PLTR）**18/25** — **FDE 戰略原型 + 10 年驗證 + 政府 + 商業雙引擎**（KP41 Palantir Playbook 原型）+ Gotham（政府）30% + Foundry（商業）+ AIP（AI Platform）；五軸 路線 5 + 站別 4 + 耗材 4 + IP 4 + 客戶分散 1；**「Re-rate 已 price in、估值警惕」**（Forward PE 150-200x）
+- **[[Nebius]]**（NASDAQ: NBIS）**15/25** — 荷蘭 neocloud + 預售模式 + Yandex 拆分後新生（KP42 vs CoreWeave Q2 miss 對照）+ AI Cloud + TripleTen + 中亞市場；**預售模式 vs CoreWeave 高槓桿模式對照 anchor**
+- **[[Marvell]] 補強**：KP44 narrative shift 段 — **從 ASIC 第二翻成「interconnect 寡占」光 DSP 60% 市佔**、補入「高 BW SerDes IP」細節、校準 [[NVDA 網路 stack map]]
+- 連動更新：master 表加 4 家五軸 row + Marvell 補強段 + [[Forward Deployed Engineer 戰略（FDE）]] concept 補 Accenture + Palantir 雙向 wikilink + [[AI 利潤奇點（Token 經濟學拐點）]] concept 補 Snowflake「可信執行環境」段
+
+#### #F3 — 大廠補位 + Dell lint + NVDA RTX Spark
+- **[[ARM]]**（NASDAQ: ARM）**24/25** ⭐⭐ — **CPU 架構 IP 全球 #1 + 資料中心版稅 +100%+ KP41 anchor**（NVDA Grace / AMD MI300 / AWS Graviton / Apple A/M 系列 / Qualcomm Snapdragon 全用 ARM）+ Licensing + Royalty + CSS + 軟銀 90%+ 持股；五軸 路線 5 + 站別 5 + 耗材 5 IP 授權年金 + IP 5 + 客戶分散 4；**「賣水人之中的賣水人」第八位**（跟 Disco / 村田 / 信越化學 / SUMCO / Synopsys / Imec / ASML 25 / Cadence 22 並列頂級真賣水人池）
+- **[[AMZN]] 補強 Amazon entity**（既有檔案 AMZN.md）— hyperscaler 5 家完整 + 自研 Trainium 2 / Inferentia 2 + 1.6T 採購者（KP40 RPO $3,640 億 + 自研晶片 $200 億）+ Anthropic $8B 投資
+- **[[Dell]] 數字 lint 校準** — KP44 提到 Dell pull-through effect 但**單季數字疑 typo**：**$438B 應為 $43.8B** + **$161B 應為 $16.1B**（10-Q 核對）；加「⚠️ 2026-06-09 校準」段落
+- **[[NVDA]] 補強 RTX Spark + Vera Rubin 三層記憶體 + 「水電公司」隱喻**（KP45 + KP44）— RTX Spark AI PC 五軌之一 + Vera Rubin 三層記憶體架構（HBM4 + LPDDR5X + NAND、3.6TB ICMS）+ 「水電公司」KP45 隱喻
+- 連動更新：master 表「架構級『賣水人之中的賣水人』三巨頭」段擴張為「八巨頭」+ AMZN row + Dell lint 段 + [[6 戰場交集圖譜]] concept 補新成員（Apple / Tesla / Dell / ARM / Amazon 加入跨戰場矩陣）
+
+#### 三條核心架構級發現（#F1+F2+F3 整合）
+- **頂級真賣水人池擴張 7 → 8 家**：ARM 24 加入後、池內八巨頭 = Disco / 村田 / 信越化學 / SUMCO / Synopsys / Imec / **ASML 25** + Cadence 22 第二陣營 + **ARM 24**——「**不押任何商業路線、所有玩家都依賴**」九家完整 ranking
+- **AI infra 電力戰場 firm power 五選一完整圖譜**：(1) 核電 [[Constellation Energy]] 22 + [[Vistra]] 23 / (2) 氣電 [[Vistra]] 23 + [[GE Vernova]] 22 / (3) 變壓器 [[GE Vernova]] 22 + [[Hitachi]] 22 + [[Siemens]] 21 + [[ABB]] 20 / (4) SOFC [[Bloom Energy]] 19 / (5) **LNG [[Cheniere Energy]] 22 + [[Sempra LNG]] 19**（補完）
+- **FDE 戰略 Palantir Playbook = AI 賣水人之中的賣水人新典範**：Accenture 19 + Palantir 18 + Anthropic 3 萬員工 anchor + OpenAI Deployment Company $100B（KP41）+ Blackstone $15 億中型企業 = 跨多家共同驗證「按工作量售賣」TAM 5x 擴張新型態
+- 並行衝突警示：F1/F2/F3 三 subagent 全部 stall 在最後寫 log 段（前面 entity + 補強已 ready）、人工收尾統一 commit `0f8857d`、無資料損失
+- 累計：**72 concept + 131 entity + 53 summary**（#F1+F2+F3 +9 entity + 5 entity update + 1 concept update [[AI infra 電力戰場]] firm power 五選一 + master 表全面 rebase）
