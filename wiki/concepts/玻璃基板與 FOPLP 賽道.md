@@ -70,11 +70,11 @@ sennn.nnna 引用「研調機構：玻璃基板與 FOPLP 之 **CAGR of TAM = 89%
 
 | 公司 | 角色 | TGV 整合？ |
 |---|---|---|
-| **Powertech 力成**（6239） | 台廠 FOPLP 主力 | 待 ingest |
-| **ASE 日月光**（3711） | 整合 OSAT 龍頭 | 待 ingest |
-| **Samsung**（005930） | 韓系 FOPLP | 待 ingest |
-| **Amkor**（AMKR） | 美系 OSAT | 待 ingest |
-| **群創**（3481） | 面板廠轉型 FOPLP | 透過 [[東捷]] 設備 |
+| **[[Powertech 力成]]**（6239） | 台廠 FOPLP 主力 | ✅ 已建 entity |
+| **[[日月光 ASE]]**（3711） | 整合 OSAT 龍頭 | ✅ 已建 entity |
+| **[[Samsung Electronics]]**（005930） | 韓系 FOPLP | ✅ 已建 entity |
+| **[[Amkor]]**（AMKR） | 美系 OSAT | ✅ 已建 entity |
+| **[[Innolux 3481|群創]]**（3481） | 面板廠轉型 FOPLP | 透過 [[東捷]] 設備 |
 
 ## 玻璃基板材料廠（上游）
 
