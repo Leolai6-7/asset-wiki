@@ -197,7 +197,7 @@ CXMT 是這個閉環的「**第 4 層記憶體 anchor**」、補完 llm-wiki 描
 - [[NVDA]]：中國 revenue 流失的**鏡像關係** entity（NVDA 萎縮 ≈ CXMT 擴張）
 - [[Solidigm]]：SK Hynix 子（NAND）、CXMT 不直接競爭但中國 server SSD 通過 YMTC 同樣受擠壓
 - [[Kioxia]]：日 NAND 純度王、跟 CXMT 不直接競爭但**「美日 NAND 同盟」對「中國 NAND 國產替代」結構性對立**
-- [[YMTC]]（待 ingest）⚠️：中國 3D NAND 國產龍頭、跟 CXMT 構成「**中國半導體記憶體閉環雙頭**」
+- [[YMTC]]：中國 3D NAND 國產龍頭、跟 CXMT 構成「**中國半導體記憶體閉環雙頭**」
 
 ## 跨庫對照（llm-wiki）
 
