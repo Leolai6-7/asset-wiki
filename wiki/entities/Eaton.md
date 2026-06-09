@@ -9,7 +9,7 @@ check_after: 2026-12-09
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
-tags: [標的, 美股, 電力管理, 800V HVDC, 配電, UPS, switchgear, AI infra 電力, 變壓器, NVDA 共同制定, Mega Cap, 愛爾蘭, Crouse-Hinds, foreign_competitor]
+tags: [標的, 美股, 電力管理, 800V HVDC, 配電, UPS, switchgear, AI infra 電力, AI infra 散熱, 變壓器, NVDA 共同制定, Mega Cap, 愛爾蘭, Crouse-Hinds, Boyd, cold plate, CDU, thermal management, foreign_competitor]
 confidence: high
 ---
 
@@ -17,7 +17,7 @@ confidence: high
 
 ## 1. 一句話定位
 
-**全球電力管理 turnkey 龍頭 + 800V HVDC reference architecture 首發者 + NVDA 共同制定 31 家 Tier 1**——總部都柏林（愛爾蘭、稅務）/ 運營總部 Beachwood Ohio；事業群：**Electrical Americas（北美電氣）+ Electrical Global（全球電氣）+ Aerospace + Vehicle + eMobility**；2025-10 跟 [[NVDA]] 共同首發 **800V DC reference architecture（從電網入口 → 變壓器 → 開關 → PDU → 機架配電 turnkey 整合）**= 全球第一家把 NVDA 800V HVDC 標準做成可量產 reference design 的整合系統廠；**800V switchgear**（中壓開關櫃 / busway）= 機房配電核心、跟 [[Schneider Electric]] 全球兩大頭；過去 12 個月電氣事業群 backlog **+25-30% YoY**、其中 **data center end-market backlog 翻倍以上**；Q1 2026 營收 **~$6.5B（YoY +12%）**、Electrical Americas Q1 organic +14%、segment EBIT margin 上至 **~24%**、FY 2026 EPS guidance **$12.30-12.70**（YoY +12%）；股價 12 個月 **+50-90%**；是 [[AI infra 電力戰場]] **第三層「電力分配」第 #1 anchor（turnkey 整合 + 800V HVDC reference architecture）**。
+**全球電力管理 turnkey 龍頭 + 800V HVDC reference architecture 首發者 + NVDA 共同制定 31 家 Tier 1 + 2026-03 戰略收購 Boyd Corp 整合 power + cooling 雙軌 turnkey**——總部都柏林（愛爾蘭、稅務）/ 運營總部 Beachwood Ohio；事業群：**Electrical Americas（北美電氣）+ Electrical Global（全球電氣）+ Aerospace + Thermal（Boyd 整合後新名）+ Vehicle + eMobility**；2025-10 跟 [[NVDA]] 共同首發 **800V DC reference architecture（從電網入口 → 變壓器 → 開關 → PDU → 機架配電 turnkey 整合）**= 全球第一家把 NVDA 800V HVDC 標準做成可量產 reference design 的整合系統廠；**2026-03 戰略收購 Boyd Corp**（液冷 + cold plate + manifold + CDU + thermal management 全鏈）整合進 Aerospace + Thermal 段 = 從「配電 turnkey」升級為「**power + cooling 雙軌 turnkey**」、**直接挑戰 [[Vertiv]] 主場**；**800V switchgear**（中壓開關櫃 / busway）= 機房配電核心、跟 [[Schneider Electric]] 全球兩大頭；過去 12 個月電氣事業群 backlog **+25-30% YoY**、其中 **data center end-market backlog 翻倍以上**；Q1 2026 營收 **~$6.5B（YoY +12%）**、Electrical Americas Q1 organic +14%、segment EBIT margin 上至 **~24%**、FY 2026 EPS guidance **$12.30-12.70**（YoY +12%）；股價 12 個月 **+50-90%**；是 [[AI infra 電力戰場]] **第三層「電力分配」第 #1 anchor（turnkey 整合 + 800V HVDC reference architecture）** + [[AI infra 散熱戰場]] **OEM cold plate / CDU 賽道 anchor**（Boyd 整合後 NVDA Rubin 4 家認證之一）。
 
 ## 2. 三層 thesis
 
@@ -84,8 +84,49 @@ confidence: high
   - → 同戰場互補、不直接競爭
 - 跟 Vertiv（VRT）競爭：
   - **VRT**：機房液冷 + 機架 UPS（機架級 / 模組化）
-  - **ETN**：建築級 turnkey + switchgear + 配電架構（整廠級）
-  - → 不同層級、ETN 更上游
+  - **ETN**：建築級 turnkey + switchgear + 配電架構（整廠級）+ **Boyd 段** = power + cooling 雙軌（與 Vertiv 直接對手）
+  - → 過去不同層級互補、**2026-03 Boyd 併購後變 Eaton-Boyd power + cooling 雙軌 = Vertiv 最直接新興對手**
+
+### ⭐ Boyd Corporation 段（2026-03 戰略收購整合進 Aerospace + Thermal）
+
+**背景**：
+- **Boyd Corp** 美國加州 Pleasanton 私有公司、cold plate + manifold + CDU + thermal management 全鏈 OEM、規模 ~$1.5B USD 營收（2024）= 比 Vertiv Strategic Thermal Labs 大 10x
+- **2026-03 Eaton 戰略收購 Boyd**（金額未公開、推測 EV $3-5B）
+- **整合進 Eaton Aerospace + Thermal 段**（**不是獨立 ticker、不再是獨立公司**）= Eaton 內部 segment
+- **戰略意義**：Eaton 從「配電 turnkey 龍頭」升級為「**power + cooling 整合 turnkey 龍頭**」= 直接挑戰 [[Vertiv]] 主場
+
+**Boyd 段業務組合**（推測）：
+- **Cold plate（冷板）**：直接觸 GPU/CPU 晶片背蓋的銅板、跟 [[雙鴻]] / [[奇鋐 3017|奇鋐]] / Vertiv（Strategic Thermal Labs 併購後）/ CoolIT 並列前五大
+- **Manifold（分流管）**：機櫃內冷卻液分配
+- **CDU（Coolant Distribution Unit）**：機櫃 / 機房級冷卻液分配
+- **Thermal management 整廠 turnkey**：跟 Eaton 800V HVDC 配電 turnkey 雙軌
+
+**Boyd 在 NVDA Rubin 認證供應商位置**：
+- NVDA 官方四家 cold plate / CDU 認證供應商之一（**Boyd / CoolIT / Vertiv / Schneider**、Eaton 接管 Boyd 後變 **Eaton-Boyd / CoolIT / Vertiv / Schneider**）
+- 2026-03 NVDA GTC 共同發布 800V DC + 液冷整合 reference architecture（Eaton + Boyd 雙引擎）
+
+**跟 Vertiv 直接對手**（power + cooling 雙軌完全同型）：
+- **Vertiv**：純度 80% AI 資料中心、規模 ~$13.5B + Strategic Thermal Labs 2026-04 cold plate 自製
+- **Eaton-Boyd**：power（Electrical Americas ~42%）+ cooling（Boyd 段 ~10-15%）= 雙軌、規模 $160B 整集團
+- **直接競爭領域**：cold plate + CDU + 800V HVDC + UPS + switchgear 全鏈
+- **差異化**：Vertiv 純度勝（80% AI vs Eaton 整集團 ~20% AI）、Eaton 規模勝（10x Vertiv）+ Aerospace + Vehicle + eMobility 多元分散
+
+**Boyd 段對 Eaton AI infra exposure 加分**：
+- 過去 Eaton AI infra 主要透過 Electrical Americas（800V HVDC + switchgear + UPS + PDU）
+- **2026-03 Boyd 併購後新增 cold plate + manifold + CDU 三鏈 = AI infra 暴露翻倍**
+- **跟散熱戰場 entity 連結**：
+  - 跟 [[Vertiv]] 直接對手（power + cooling 雙軌、同 NVDA 認證 4 家）
+  - 跟 [[雙鴻]] / [[奇鋐 3017|奇鋐]] cold plate 部分競爭（Eaton-Boyd 自製 vs 採購）
+  - 跟 [[高力 8996|高力]] BPHE 採購對象（Eaton-Boyd CDU 內部 BPHE 採購高力 / Alfa Laval 雙頭）
+  - 跟 [[Alfa Laval]] BPHE 採購對象（歐洲偏好）
+  - 跟 [[台達電]] power + cooling 雙軌 + ODM 鏈條（不同客戶結構）
+
+**Boyd 段不再獨立公司的影響**：
+- **不能單獨投資 Boyd**（已被 Eaton 100% 收購、整合進 Eaton segment）
+- **間接投資 Boyd 受惠 = 直接投資 [[Eaton]]**（NYSE: ETN）
+- **散熱戰場 OEM cold plate 賽道對手位**：Eaton-Boyd（整合）/ Vertiv（Strategic Thermal Labs + Boyd-equivalent）/ 雙鴻 / 奇鋐 / CoolIT（純獨立）
+
+
 - 護城河：
   - **800V HVDC reference architecture 首發**：跟 NVDA 共同定義 = 規格控制權延伸到機房電力
   - **turnkey 整合能力**：從變壓器到機架完整供應、減少業主整合成本
@@ -133,8 +174,11 @@ confidence: high
 
 - **🆕 800V HVDC reference architecture 量產 ramp**（2026-2027）
   - `as_of: 2026-06-09, expires_on: 2027-12-31, evidence_url: https://www.eaton.com/us/en-us/company/news-insights/news-releases/2025/eaton-introduces-industrys-first-800-v-dc-reference-architecture.html`
+- **🆕 Boyd 整合進 Aerospace + Thermal 段（2026-03）** = Eaton 從「配電 turnkey」升級為「power + cooling 雙軌 turnkey」、直接挑戰 Vertiv 主場
+  - `as_of: 2026-06-09, expires_on: 2027-12-31`
 - **Data center backlog 翻倍 YoY** 持續 ramp
 - **NVDA 31 家伙伴生態量產**（2026-2027）
+- **NVDA Rubin cold plate + CDU 認證 4 家位置（Eaton-Boyd / Vertiv / Schneider / CoolIT）**
 - **Electrical Americas 連續多季 organic +10%+**
 - **Aerospace / 軍工 sub-segment AI server 受惠**
 - 對抗 [[CapEx 見頂辯論]]：data center 電力 turnkey 是物理瓶頸
@@ -248,15 +292,18 @@ confidence: high
 ## 跟其他 wiki 概念連結
 
 - [[AI infra 電力戰場]]：本 entity 是**第三層電力分配 #1 anchor**
-- [[賣水人選股邏輯（投資版）]]：ETN = 電力 turnkey 整合 anchor
-- [[控制點轉移（投資版）]]：拿到「800V HVDC reference architecture + turnkey + 軟體」三段控制點
+- [[AI infra 散熱戰場]]：**Boyd 段加入後**為 cold plate + manifold + CDU **OEM 賽道 anchor**（跟 [[Vertiv]] 直接對手、跟 [[雙鴻]] / [[奇鋐 3017|奇鋐]] 部分競爭、跟 [[高力 8996|高力]] / [[Alfa Laval]] BPHE 採購對象）
+- [[賣水人選股邏輯（投資版）]]：ETN = 電力 turnkey 整合 anchor + Boyd 段 power + cooling 雙軌
+- [[控制點轉移（投資版）]]：拿到「800V HVDC reference architecture + turnkey + 軟體 + Boyd 散熱整合」四段控制點
 - [[宋分 #20 — 能源結構性剛需]]：ETN = 三標準全滿
 - [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：ETN = 「被遺忘的 AI 受惠者」turnkey 版
 - [[效率→安全切換]]：ETN 800V HVDC = 機房電力安全升級
-- [[AI infra CapEx 三階段論]]：ETN 是第三階段下半場電力 anchor #2
-- [[NVDA]]：800V HVDC reference architecture 共同制定 + 31 家伙伴首發
+- [[AI infra CapEx 三階段論]]：ETN 是第三階段下半場電力 anchor #2 + Boyd 段散熱補位
+- [[NVDA]]：800V HVDC reference architecture 共同制定 + 31 家伙伴首發 + Boyd 在 NVDA Rubin cold plate / CDU 4 家認證
 - [[Constellation Energy]] / [[Vistra]] / [[Talen Energy]]：ETN 在這些電廠下游配電必經
 - [[GE Vernova]]：電力戰場第二層 / 第三層姊妹 entity
+- [[Vertiv]]：power + cooling 雙軌**最直接新興對手**（Boyd 整合後 2026 起完全同型）
+- [[Alfa Laval]] / [[高力 8996|高力]]：Boyd CDU 內部 BPHE 採購對象（雙頭採購）
 - [[公司 Entity 模板（Step 1-3 三段式）]]：本 entity 完整套用三段式
 
 ## 相關連結

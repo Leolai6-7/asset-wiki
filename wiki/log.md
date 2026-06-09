@@ -1780,3 +1780,77 @@
   - **NVDA China revenue 萎縮 ≈ CXMT 中國 DRAM 市佔擴張**（完美鏡像關係）= 同一個地緣政治 driver 的兩面、不是巧合
   - **對沖視角的真正功能**：不是反向操作、是給多頭 thesis 加上限（[[HBM iPhone moment]] 仍成立、但估值上限打 8 折）+ Micron 因規模小 + HBM 中國已接近 0 → 反而 CXMT / YMTC 受惠最小
 - 累計：**52 concept + 86 entity + 42 summary**（A7 +1 concept +1 entity，其中 concept 中國半導體國產替代 + entity CXMT）
+
+
+### 2026-06-09 ingest #A8 — 散熱+電力延伸 3 家（Eaton-Boyd 整合 + Bloom Energy + Alfa Laval）
+
+- 觸發：Leo 任務 — AI infra 散熱戰場 + 電力戰場延伸 3 家補位（Eaton-Boyd / Bloom Energy / Alfa Laval）
+- 任務背景：
+  - 既建散熱 anchor（Vertiv 22 / 台達電 20 / 奇鋐 20 / 高力 20 / 雙鴻 19）+ 既建電力 anchor（Vistra 23 / Constellation 22 / GE Vernova 22 / Eaton 22 / Schneider 22 / Hitachi 22 / Siemens 21 / ABB 20 / Talen 19 / Navitas 19）形成完整 8 + 10 家圖譜
+  - 但有 3 個重要漏網：
+    - **Eaton-Boyd（2026-03 戰略收購）**：Boyd 已整合進 Eaton Aerospace + Thermal 段、不再獨立公司、需 entity 內補 Boyd segment 段 + 散熱戰場 wikilink
+    - **Bloom Energy（NYSE: BE）**：SOFC firm power 第四選擇、高力 anchor 客戶（hot box 主供）、跟 CEG / VST / GEV 對照
+    - **Alfa Laval（STO: ALFA）**：全球 BPHE 規模龍頭（>15%）、跟高力 5.1% 對照（30x 規模差）
+
+- 3 家落地：
+  - **[[Bloom Energy]]（NYSE: BE）新建 entity** — **firm power 第四選擇 SOFC pure-play alpha**
+    - 一句話：全球固態氧化物燃料電池 (SOFC) 龍頭 + 全球唯一 GW 級規模量產 + 2026 1GW → 2GW 翻倍 + FY 2026 營收 $34-38 億 USD +25-30% YoY + Oracle Stargate 多個 GW 訂單 + 跟 [[高力 8996|高力]] hot box anchor 客戶關係
+    - 三層 thesis：
+      - 產業層：AI 電力 firm power 第四選擇 anchor、跟 CEG / VST / GEV 並列（最快部署 5-10 分鐘 + 跳電網瓶頸）
+      - 目的層：Bloom Energy Server 80% + 服務 / 配件 15% + 電解氫 5% / Oracle Stargate 30%+ 集中 + Equinix / Microsoft / AWS / Meta / Google 評估中 + industrial / 校園基本盤
+      - 供應層：跟 [[高力 8996|高力]] hot box + BPHE 雙心臟共生（高力 SOFC 業務佔 ~40%）+ 跟 [[Oracle]] Stargate $500B 計畫 firm power 後勤
+    - 五軸 **19/25**（路線 5 + 站別 4 + 耗材 3 + IP 4 + 客戶分散 3）= 跟 Talen 19 / Navitas 19 / Vicor 19 同分 pure-play alpha tier
+    - 財務 snapshot：市值 ~$10-15B USD（Mid Cap）/ Forward PE 50-100x / 12M +200-400% / Re-rate 2-3/4 / FY 2026 營收 $34-38 億 USD（+25-30% YoY、上修自 $31-33 億）/ 非 GAAP 毛利率 ~34% / 2026 1GW → 2GW 翻倍 / 客戶 Oracle Stargate + Equinix + 評估中 hyperscaler
+    - 對應 [[宋分 #20 — 能源結構性剛需]] **三標準 2.5/3 滿足**（虧損 $4B+、2026 才首次接近 EBIT 正稍弱）
+
+  - **[[Alfa Laval]]（STO: ALFA）新建 entity** — **全球 BPHE 規模龍頭 industrial 多元對照組**
+    - 一句話：全球板式熱交換器 (BPHE) 規模龍頭 + 全球 BPHE >15% 市佔（vs 高力 5.1% 全球前五大 30x 規模差）+ 跨產業多元組合王 + 130 年瑞典老牌
+    - 三層 thesis：
+      - 產業層：散熱戰場「規模對照組 anchor」（非高 alpha、但全球 BPHE 龍頭背景驗證高力 niche 定位）
+      - 目的層：Energy ~38% + Food & Water ~37% + Marine ~25% 三大事業群 / 業務 industrial 多元 / AI 資料中心 BPHE 佔比 <5%
+      - 供應層：HVAC OEM (Carrier / Trane / Daikin) + 食品 OEM (Tetra Pak / GEA / SPX) + 海運 OEM (MAN / Wärtsilä) + AI CDU 廠 (Vertiv / Schneider / Eaton-Boyd / CoolIT) 雙頭採購
+    - 五軸 **20/25**（路線 4 + 站別 4 + 耗材 4 + IP 4 + 客戶分散 4 = industrial 多元穩定）= 跟高力 20 / 台達 20 / 奇鋐 20 同分但結構不同
+    - 財務 snapshot：市值 SEK 200-250 億（USD ~20-25B）Mega Cap / Forward PE 25-30x（vs 高力 50-70x 顯著折價）/ 12M +20-50% / Re-rate 2/4 / FY 2026 營收推測 SEK 650-700 億（+5-10%）/ 毛利率 30-35% / R&D ~3-4% 營收 / 全球 50+ 製造廠 + 100+ 國銷售網
+    - 「規模 + industrial 多元 + 估值 conservative + 流動性 + 股息」vs「AI niche + 雙引擎 + alpha 速度」分歧路線
+
+  - **[[Eaton]] entity 內補 Boyd segment 段（更新非新建）** — **2026-03 戰略收購 Boyd Corp 整合進 Aerospace + Thermal 段、非獨立 ticker**
+    - 結論：Boyd 不再獨立公司、間接投資 Boyd 受惠 = 直接投資 Eaton
+    - Boyd 段業務組合：cold plate + manifold + CDU + thermal management 全鏈（Boyd ~$1.5B 營收 2024、規模 10x Vertiv Strategic Thermal Labs）
+    - NVDA Rubin cold plate / CDU 4 家認證：**Eaton-Boyd / Vertiv / Schneider / CoolIT**
+    - 戰略意義：Eaton 從「配電 turnkey」升級為「power + cooling 雙軌 turnkey」= 直接挑戰 [[Vertiv]] 主場
+    - Eaton 五軸維持 22/25（既有電力戰場分數、本次散熱 OEM 賽道延伸補位）+ AI infra exposure 翻倍
+
+- 關鍵發現：
+  - **Bloom Energy 跟 firm power 四選一競爭分析**：
+    - **vs 核電（CEG / VST 核電 / TLN）**：Bloom 5-10 分鐘部署 vs 核電復役 4-5 年 = Bloom 速度勝、但碳橋接（天然氣 SOFC 仍有 CO2）+ 規模小一個量級
+    - **vs 氣電（VST / Calpine）**：Bloom 效率 60%+ vs 氣電 50-55% + 無燃燒 = Bloom 效率 + 排放勝、但氣電即時可用 + 規模成熟
+    - **vs 變壓器 + 燃氣輪機（GEV / Hitachi）**：Bloom 自帶電源、不需大規模電網升級 + GEV 是設備供應商不持有電廠 = Bloom 第四選擇 niche
+    - **核心差異化**：Bloom 「分散式 + 快速部署 + 跳電網瓶頸」是 firm power 四選一中**唯一補位「電網瓶頸」維度**的選擇
+    - **跟 Oracle Stargate 連結**：Larry Ellison $500B 五年計畫的 firm power 後勤 anchor、Bloom 訂單推測 30%+ Oracle 集中
+    - **跟高力 8996 共生**：Bloom 訂單暴增 → 高力 SOFC 業務翻倍（佔高力營收 ~40%）= Bloom $10-15B 市值 vs 高力 NT$300-500 億 = 規模差 30x、高力是「**Bloom 的窮人版替代品 + niche specialist 槓桿玩家**」
+  - **Alfa Laval vs 高力 規模對純度的取捨**：
+    - **規模**：Alfa Laval USD ~60-70 億 vs 高力 USD $2-3.5 億 = **30x 規模差**
+    - **全球 BPHE 市佔**：Alfa Laval >15% vs 高力 5.1%（**3x 規模差**）
+    - **AI 純度**：Alfa Laval <5% vs 高力 ~20% = **高力勝（4x 純度差）**
+    - **燃料電池 SOFC**：高力 Bloom 主供（~40% 營收）vs Alfa Laval 缺位 = **高力完勝**
+    - **估值**：Alfa Laval Forward PE 25-30x vs 高力 50-70x = **Alfa Laval 估值 conservative**
+    - **股價 12M 漲幅**：Alfa Laval +20-50% vs 高力 +153% YoY 1-5 月 = **高力 alpha 速度勝**
+    - **結論**：「**規模 conservative**」vs「**純度 alpha**」分歧路線、跟既有「整合方 vs niche specialist」結構類似
+    - **Leo 既有偏好**：高力路線符合「niche specialist 規格深度型賣水人」、Alfa Laval 是「規模對照組 anchor」驗證高力 niche 定位的存在意義
+  - **Eaton-Boyd 仍獨立的結論**：**Boyd 不再獨立**、2026-03 已被 Eaton 100% 收購整合進 Aerospace + Thermal 段、不可單獨投資、間接 = 直接買 [[Eaton]]
+    - 整合戰略意義：Eaton 從「配電 turnkey」（既有 800V HVDC reference architecture + switchgear + UPS + PDU）升級為「**power + cooling 雙軌 turnkey**」= 直接挑戰 [[Vertiv]] 主場、NVDA Rubin cold plate / CDU 4 家認證之一
+    - 對 Eaton AI infra 影響：AI infra exposure 翻倍、過去主透過 Electrical Americas、現在新增 cold plate + manifold + CDU 三鏈
+    - 散熱戰場 OEM cold plate 賽道對手位變化：Eaton-Boyd（整合）/ Vertiv（Strategic Thermal Labs 併購後）/ 雙鴻 / 奇鋐 / CoolIT（純獨立）
+  - **最 surprising 一家**：**[[Bloom Energy]]** — 以為「燃料電池小眾故事」、實際是「**hyperscaler firm power 第四選擇 + Oracle Stargate $500B anchor + 跟高力 8996 hot box 共生**」三軸結構性 anchor、是「**[[宋分 #20 — 能源結構性剛需]] 三標準 2.5/3 滿足 + 5-10 分鐘部署 + 跳電網瓶頸唯一**」AI firm power 第四選擇 pure-play alpha
+  - **跟 [[宋分 #20 — 能源結構性剛需]] 校準**：
+    - Bloom Energy：三標準 2.5/3 滿足（虧損 $4B+ 是唯一弱項）
+    - Alfa Laval：三標準 2/3 滿足（AI 純度低 <5% + 無 AI 暴衝 alpha 是主要弱項）
+    - Eaton（含 Boyd 段）：三標準 3/3 全滿（既有電力戰場 anchor 校準 + Boyd 散熱補位翻倍）
+
+- 連動更新：
+  - [[賣水人選股邏輯（投資版）]] master 表：散熱戰場段加 Eaton 22 + Alfa Laval 20 + 新建「AI infra 電力戰場 firm power 第四選擇」段加 Bloom Energy 19 + firm power 四選一對照
+  - [[AI infra 散熱戰場]] concept：四大組件分工表加 Eaton Boyd 段 / Alfa Laval 對照 + 階段 2 液冷玩家列表補完 + 跟賣水人邏輯段加跨戰場 firm power 第四選擇 + 規模對照組
+  - [[AI infra 電力戰場]] concept：第一層電力產生表加 Bloom Energy 第四選擇 + 美系電力 anchor 段標已建狀態
+  - [[Eaton]] entity：一句話定位補 Boyd 整合 + 散熱戰場 OEM 賽道 anchor + 新建「⭐ Boyd Corporation 段」+ tags 補 cold plate / CDU / thermal management / AI infra 散熱 / Boyd + 連結補 [[Alfa Laval]] / [[高力 8996|高力]] BPHE 採購對象 / [[Vertiv]] 直接對手
+  - [[index.md]] 標的段加「AI infra 散熱 + 電力延伸 3 家（2026-06-09 補位 — Eaton-Boyd + Bloom Energy + Alfa Laval）」+ firm power 第四選擇 SOFC 段 + 散熱規模對照組段 + 待 ingest backlog 標已建狀態
+- 累計：**52 concept + 88 entity + 42 summary**（A8 +2 entity Bloom Energy / Alfa Laval + 1 update Eaton-Boyd 整合）
