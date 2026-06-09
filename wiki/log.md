@@ -2251,3 +2251,60 @@
 - 待解之謎（付費牆擋住、Leo 訂閱後可解鎖）：鉭質電容暴利哪幾家壟斷 + TLVR 電感（Trans-inductor Voltage Regulator）混戰 + 受惠者地圖 + 多頭故事風險點
 - ⚠️ 新待 ingest backlog：[[KEMET]]（國巨子公司、鉭電容寡占）+ [[Vishay]]（電感 + 鉭電容 + 多軌）+ [[Coilcraft]]（電感 niche）+ [[Nichicon]] / [[Rubycon]] / [[Nippon Chemi-Con]]（聚合物鋁電容三家日系）+ [[FOMO SOC]] entity（KOL 來源、被 ref 多次但無檔）
 - 累計：**68 concept + 115 entity + 42 summary**（#E1 +1 concept [[被動元件第三次週期（K 型復甦 + 三道防線）]] + 1 summary + 1 raw + 1 concept update [[MLCC 嵌入式基板賽道]]）
+
+### 2026-06-09 ingest #E4 — FOMO SOC KP 第 43 / 44 / 45 / 46 期四篇 URL 連發
+- 觸發：Leo 丟 4 篇 FOMO SOC URL 連發（#46 LNG / KP43 SpaceX IPO Anthropic / KP44 Tesla SpaceX Marvell Snowflake Dell Anthropic / KP45 AI PC RTX Spark Alphabet 融資 Microsoft Build 三層記憶體）
+- 性質：
+  - **#46 LNG**（2026-05-06 發布、付費牆 2.3 節後鎖）：能源產業結構性重估、美伊戰後五大不可逆轉變、LNG 出口 = AI infra 電力戰場 firm power 第五選擇
+  - **KP43 SpaceX IPO + Anthropic**（2026-05-23 發布、部分付費鎖、URL slug 含 kp42 但實際第 43 期）：SpaceX S-1 + Anthropic 首季獲利轉折 + Cloudflare 三類員工
+  - **KP44 多家敘事翻轉**（2026-05-30 發布、**全文免費**）：Tesla/SpaceX 合併 + Marvell interconnect + Snowflake AWS $60B + Dell pull-through + Anthropic Series H $965B
+  - **KP45 AI PC + Mega Cap 動態**（2026-06-06 發布、混合付費鎖）：NVDA RTX Spark + Intel Xeon + Microsoft Build 2026「協調者」+ Alphabet $84.75B 史上最大融資 + NVDA Vera Rubin 三層記憶體架構
+- 操作：
+  - 新建 4 raw `raw/2026-05-06_FOMOSOC-KP46-LNG-油田服務-煉油-化肥-能源結構重塑.md` / `raw/2026-05-23_FOMOSOC-KP43-SpaceX-IPO-Anthropic.md` / `raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md` / `raw/2026-06-06_FOMOSOC-KP45-AI-PC-RTX-Spark-Windows-CUDA-Intel-Alphabet-Microsoft-Build.md`
+  - 新建 4 summary `wiki/summaries/2026-05-06_FOMOSOC-KP46-LNG-能源結構重塑.md` / `wiki/summaries/2026-05-23_FOMOSOC-KP43-SpaceX-IPO-Anthropic.md` / `wiki/summaries/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md` / `wiki/summaries/2026-06-06_FOMOSOC-KP45-AI-PC-RTX-Spark-Alphabet-融資-Microsoft-Build.md`
+  - 新建 3 entity：[[Tesla]] / [[SpaceX]] / [[Dell]]（公司 Step 1-3 三段式格式完整）
+  - 重大補強 1 entity：[[Anthropic]]（Series H $965B + Q2 首季獲利 + SpaceX 12 年合約 + source locking 等四大新 anchor）
+  - 補強 1 concept：[[AI infra 電力戰場]]（LNG 第五選擇 firm power + 4 玩家 anchor + Sources 加 FOMO SOC #46 URL）
+  - 更新 [[index.md]]（標的 M7 Apple 下方新增 Tesla / SpaceX + Anthropic / Microsoft / Google 補強段 + 新建「AI server 系統整合 + AI PC OEM Dell」段 + TGV 賽道下方新建「FOMO SOC KP 系列 #E1-#E4」段含 6 篇 summary）
+- 四篇主題核心 thesis：
+  - **#46 LNG**：美伊戰後五大不可逆（油價地板 $80-90 + Hormuz 保險 8x + Qatar -17% + 核能政治翻身 + 中東能源重組）+ Qatar Ras Laffan -17% + 2030 累積缺口 1,200 億立方公尺 + LNG 出口 = AI infra 電力戰場 firm power 第五選擇（Cheniere / Sempra LNG / Cameron LNG / Tellurian）+ 美國 LNG 從「價格接受者」變「價格制定者」+ 對接 [[宋分 #20 — 能源結構性剛需]] 三標準全滿 + [[Bottleneck Theory（瓶頸論）]] Hormuz chokepoint
+  - **KP43**：SpaceX S-1 $1.5-2T 兆級估值「belief-dependent」（Trailing P/S 94-107x / Forward P/S 60-75x）+ Starlink 10.3M 用戶 164 國 + ARPU 衰退 $99 → $66 + Starship 完成後 cost down -90% + AI 部門 Colossus 1+2 + Anthropic 12 年 $1.5B/年雲合約 + Anthropic ARR 軌跡 2024 $1B → 2026-04 $30B（300% club）+ Q2 2026 首季獲利 $559M（毛利 71¢ → 56¢）= 從「capital burn」→「monetization」+ Cloudflare 三類員工框架（Builder / Seller / Measurer）+ AI-washing 警惕
+  - **KP44**：五家敘事翻轉週報——(1) Tesla/SpaceX 合併 Dan Ives 80-90% vs 預測市場 40% + (2) Marvell 從 ASIC 第二名翻成「interconnect 寡占」光 DSP 60% + Celestial AI + XConn + Polariton 三併購 + (3) Snowflake AWS $60B 5 年合約變「企業 AI agent 可信執行環境」+ Graviton + GPU 雙軌 + (4) **Dell pull-through effect**：FY2026 Q1 AI server +757% YoY 單季 ~$16.1B + 總營收 +88% + OpEx/Revenue 8.4% 20 年低點 + 單日股價 +30% + (5) **Anthropic Series H $65B、估值 USD $965B 超越 OpenAI + $36B TPU 租賃融資 Apollo + Blackstone + Broadcom 擔保 + Micron + Samsung + SK Hynix 股權參與 source locking = 雙引擎融資 + 資本分層典範**
+  - **KP45**：AI PC 五軌混戰（NVDA RTX Spark + Intel Xeon orchestration + Apple M-series + Qualcomm Snapdragon X + AMD Strix Halo）+ NVDA「**水電公司**」隱喻 + Microsoft Build 2026 棄爭模型皇冠定位「**協調者**」（Scout autopilot + Microsoft IQ + MXC sandbox）+ 定價轉變 per-seat SaaS → consumption-based agent compute + **Alphabet USD $84.75B 史上最大企業融資破 2010 Petrobras $70B 紀錄、2026 CapEx $180-190B 翻倍、Berkshire $10B anchor** + NVDA Vera Rubin NVL72 LPDDR5X 配置砍半揭示**三層記憶體架構**（HBM4 / LPDDR5X / NAND）+ Samsung / SK Hynix / Micron 全棧受惠
+- ⭐ 新建 [[Tesla]] entity：全球 EV #2（被 BYD 超越）+ FSD/robotaxi + Optimus + Musk 控股 AI 生態（Tesla / SpaceX / xAI / Neuralink）+ Forward PE 80-100x 高估值 + Re-rate 1/4（汽車毛利率結構性下降 17-19%）+ Tesla / SpaceX 2027 合併推測 80-90% vs 40%
+- ⭐ 新建 [[SpaceX]] entity：太空發射 #1 市占 52% + Starlink 全球連網（10.3M 用戶 164 國）+ Starship 重型運載寡占 + 軌道 AI 2028 + Anthropic 12 年 $1.5B/年雲合約 anchor + S-1 IPO $1.5-2T「belief-dependent」+ Musk 79-85% 投票權治理紅旗 + 三軸結構（Starlink 現金牛 + Space 寡占 + AI 高燒）
+- ⭐ 新建 [[Dell]] entity：全球 AI server #1 系統整合 + AI PC OEM partner + NVDA Spectrum-X / RTX Spark / Rubin first wave 三軌獨家 + Dell Financial Services（DFS）融資差異化 + Pull-Through Effect anchor 跨「AI server + AI PC + 電力 / 散熱 / 1.6T 光模組 + 系統整合」多戰場 + Re-rate 3/4 + Forward PE 16-22x（vs Apple 28-32 高性價比）
+- ⭐ 重大補強 [[Anthropic]] entity：
+  - **Series H $65B、估值 USD $965B 超越 OpenAI**（KP #44）
+  - **$36B TPU 租賃融資**（Apollo / Blackstone + Broadcom 擔保）（KP #44）
+  - **Micron + Samsung + SK Hynix 股權參與 source locking**（KP #44）
+  - **ARR 軌跡 2024 $1B → 2026-04 $30B（300% club）**（KP #43）
+  - **Q2 2026 首季獲利 $559M（毛利 71¢ → 56¢）**（KP #43）
+  - **SpaceX 12 年 $125M/月（年化 $1.5B）雲合約**（KP #43、2025-09 簽）
+  - 對接 [[AI 融資結構（條件資本）]] + [[AI 記憶體結構性供給短缺]] + [[SpaceX]] + [[循環投資（CSP-Model 互鎖）]]
+- ⭐ 補強 [[AI infra 電力戰場]] concept：
+  - 新增 LNG 出口（第五選擇 firm power）段 + 美伊戰後五大不可逆 anchor + LNG 玩家 4 家待 ingest（Cheniere / Sempra LNG / Cameron LNG / Tellurian）
+  - 更新已建 entity 完整圖譜 LNG 待 ingest 條目
+  - frontmatter updated 2026-06-09 + sources 新增 KP #46 raw
+- 連動更新：
+  - [[index.md]]：標的 M7 Apple 下方新增 [[Tesla]] / [[SpaceX]] 條目 + [[Microsoft]] / [[Google]] / [[Anthropic]] 補強段 + 新建「AI server 系統整合 + AI PC OEM Dell」段 + TGV 賽道下方新建「FOMO SOC KP 系列 #E1-#E4」段（含 6 篇 summary 含本批 4 篇）
+- 跟既建 FOMO SOC 兩篇對照（系列總覽）：
+  - #1（2026-06-09 ingest）800V HVDC 灰白區重劃 = 物理鐵壁
+  - #2（2026-06-09 ingest）被動元件 K 型復甦 = 三道防線
+  - **#3 = KP #46 LNG 能源結構重塑 = Hormuz chokepoint**
+  - **#4 = KP #43 SpaceX IPO + Anthropic 獲利 = belief-dependent 估值 + Q2 商業化**
+  - **#5 = KP #44 多家敘事翻轉 = 5 家同時 narrative shift（Tesla/SpaceX/Marvell/Snowflake/Dell/Anthropic）**
+  - **#6 = KP #45 AI PC + Mega Cap 動態 = NVDA 水電公司 + Microsoft 協調者 + Alphabet 史上最大融資 + 三層記憶體**
+  - → 六篇 FOMO SOC 形成「AI infra 電力 / 元件 / 能源 / IPO / AI PC / Edge AI / 三層記憶體」完整圖譜
+- 跟既有 wiki 概念連結 surprise：
+  - LNG = AI infra 電力戰場 firm power 第五選擇（之前漏網、KP #46 補位）
+  - Dell pull-through effect = [[6 戰場交集圖譜]] 跨 3+ 戰場 anchor（跨 AI server + AI PC + 電力 / 散熱 / 1.6T 光模組 + 系統整合）
+  - Microsoft Build 2026「協調者」+ Scout autopilot + Microsoft IQ + MXC sandbox = consumption-based agent compute = 結構性 unit economics 變化
+  - Apple AI PC 五軌混戰（M-series）= Edge AI 結構性 anchor 既有 thesis 補強
+  - Anthropic 雙引擎融資 = AI 公司成熟資本結構典範（航空 / 能源模仿）
+  - SpaceX-Anthropic 12 年合約 = 類比 OpenAI-Microsoft-Azure 互鎖、新建 [[循環投資（CSP-Model 互鎖）]] case
+- ⚠️ 待 ingest backlog 新增：
+  - **新建 entity 候選**：[[Cheniere Energy]] / [[Sempra LNG]] / [[Cameron LNG]] / [[Tellurian]]（LNG 出口四家、KP #46 firm power 第五選擇）+ [[Snowflake]]（KP #44 AWS $60B 翻轉）+ [[Tesla Optimus]] sub-thesis（Tesla 內 sub）+ [[三類員工框架（Builder / Seller / Measurer）]] concept（KP #43 Cloudflare）+ [[三層記憶體架構（HBM4 / LPDDR5X / NAND）]] concept（KP #45）+ [[AI PC 五軌混戰]] concept（KP #45）
+  - 既有 entity 補強：[[Marvell]] interconnect 寡占 + 光 DSP 60% + 三併購（Celestial AI / XConn / Polariton）細節（KP #44）
+  - 既有 entity 補強：[[NVDA]] RTX Spark + N1/N1X 晶片 + 「水電公司」隱喻 + Vera Rubin LPDDR5X 三層架構（KP #45）
+- 累計：**68 concept + 118 entity + 46 summary**（#E4 +3 entity [[Tesla]] / [[SpaceX]] / [[Dell]] + 4 summary + 4 raw + 1 entity update [[Anthropic]] + 1 concept update [[AI infra 電力戰場]]）

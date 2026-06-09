@@ -3,14 +3,15 @@ title: AI infra 電力戰場
 aliases: [電力戰場, AI 電力, AI infra power, AI data center power, 800V HVDC, Power Battlefield, 第六戰場]
 type: concept
 created: 2026-06-08
-updated: 2026-06-08
-as_of: 2026-06-08
-check_after: 2026-12-08
-expires_on: 2027-06-08
+updated: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-12-09
+expires_on: 2027-06-09
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
-tags: [Meta 框架, AI 基礎建設, 電力, HVDC, Rubin, 核電, 賣水人, 第六戰場, Capex anchor]
+  - raw/2026-05-06_FOMOSOC-KP46-LNG-油田服務-煉油-化肥-能源結構重塑.md
+tags: [Meta 框架, AI 基礎建設, 電力, HVDC, Rubin, 核電, SOFC, LNG 出口, 賣水人, 第六戰場, Capex anchor]
 confidence: high
 ---
 
@@ -60,6 +61,28 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 → **核電 = 24/7 carbon-free baseload**、是 hyperscaler **AI 永續承諾 + 政治正確雙頭過關**的唯一答案
 
 → **SOFC（第四選擇）= 分散式 + 快速部署 + 跳電網瓶頸**、是 hyperscaler **2026-2027 急需 + 電網瓶頸地區**的補位 anchor（vs 核電復役延宕 + 變壓器交期 2-3 年）
+
+### ⭐ 2026-06-09 LNG 出口（第五選擇 firm power）補位（FOMO SOC KP #46）
+
+[[FOMO SOC KP #46 — LNG 能源結構重塑（美伊戰後五大不可逆轉變）]] 補強 firm power 第五選擇：
+
+| 維度 | LNG 出口（第五選擇）|
+|---|---|
+| **觸發** | 美伊戰爭後 Qatar Ras Laffan **-17%** + 2030 累積缺口 **1,200 億立方公尺** |
+| **油價地板** | USD $80-90/barrel + 風險溢價 $10+（vs 戰前 $65-70）|
+| **Hormuz 過運保險** | **8x 戰前、不可逆** |
+| **資本密集度** | 液化廠 USD **$10-30B** + 專用船 $200M+ + 再氣化終端 $1-10B |
+| **長約期** | LNG 長約 **20 年類同 PPA** + 利率敏感性低 |
+| **AI 連結** | hyperscaler **歐洲 / 日韓 / 新加坡海外資料中心**能源 anchor |
+| **政治意涵** | 美國從「LNG 價格接受者」→「LNG 價格制定者」 |
+
+**LNG 玩家 anchor**：
+- ⚠️ **[[Cheniere Energy]]**（LNG.NYSE、Sabine Pass + Corpus Christi、待建 entity）
+- ⚠️ **[[Sempra LNG]]**（SRE、Cameron + Port Arthur、待建 entity）
+- ⚠️ **[[Cameron LNG]]**（Sempra + 三井物產 + 三菱商事 + Total）
+- ⚠️ **[[Tellurian]] / NextDecade**（pure-play、高 alpha）
+
+→ LNG 出口擴展「電力戰場」的地理邊界——從美國境內核電 baseload → **全球 LNG 出口 anchor**、跟 SOFC 同為「**對沖核電復役延宕的 firm power 補位**」。
 
 ### 第二層：電力傳輸（Transmission）
 
@@ -276,6 +299,11 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 - ✅ [[Vistra]]（VST）— 41GW + Meta 20 年 2.6GW PPA + AWS PPA + Cogentrix 5.5GW、五軸 23/25
 - ✅ [[Talen Energy]]（TLN）— Susquehanna 2.5GW + AWS 17 年 $18B 1.92GW PPA + Caithness $3.5B、五軸 19/25
 - ✅ [[Bloom Energy]]（BE）⭐ **2026-06-09 補位 firm power 第四選擇** — SOFC 分散式 firm power、2026 1GW → 2GW 翻倍、FY 2026 營收 $34-38 億 USD +25-30% YoY、Oracle Stargate 多個 GW 訂單、跟 [[高力 8996|高力]] hot box 共生、五軸 19/25
+- ⚠️ **2026-06-09 LNG 出口（第五選擇）待 ingest**（FOMO SOC KP #46）：
+  - [[Cheniere Energy]]（LNG）— Sabine Pass + Corpus Christi、美國 LNG 出口 #1
+  - [[Sempra LNG]]（SRE）— Cameron + Port Arthur
+  - [[Cameron LNG]]（Sempra + 三井 + 三菱 + Total 合資）
+  - [[Tellurian]] / NextDecade（pure-play、高 alpha）
 - ⚠️ 待 ingest：NRG Energy / Public Service Enterprise / Duke Energy
 
 ### 變壓器 / 電網設備（第二層電力傳輸）
@@ -329,6 +357,7 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 
 ## Sources
 
+- [FOMO SOC KP #46 LNG 結構重塑（2026-05-06）](https://www.fomosoc.com/p/46lng)
 - [Microsoft / Constellation Three Mile Island 20 年 PPA（FinancialContent 2026-01-01）](https://markets.financialcontent.com/wral/article/tokenring-2026-1-1-the-nuclear-option-microsoft-and-constellation-energys-resurrection-of-three-mile-island-signals-a-new-era-for-ai-infrastructure)
 - [Constellation Energy 2026-06-01 FERC 760MW Capacity Interconnection Rights 轉移核准（Utility Dive 2026-06）](https://www.utilitydive.com/news/constellation-three-mile-island-crane-nuclear-ferc-waiver/821836/)
 - [Trump 政府 $1B 貸款 Three Mile Island 復役（CNBC 2025-11-18）](https://www.cnbc.com/2025/11/18/trump-nuclear-three-mile-island-crane-loan-constellation-ceg.html)
