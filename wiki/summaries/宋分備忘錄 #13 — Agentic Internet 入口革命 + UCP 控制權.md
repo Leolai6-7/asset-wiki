@@ -1,6 +1,6 @@
 ---
-title: 宋分備忘錄 #9 — Agentic Internet 入口革命 + UCP 控制權
-aliases: [宋分備忘錄9, 備忘錄 #9, AI Agent Alpha, Agentic Commerce, UCP]
+title: 宋分備忘錄 #13 — Agentic Internet 入口革命 + UCP 控制權
+aliases: [宋分備忘錄13, 備忘錄 #13, AI Agent Alpha, Agentic Commerce, UCP]
 type: summary
 created: 2026-06-09
 updated: 2026-06-09
@@ -10,7 +10,7 @@ tags: [宋分, 備忘錄, Agentic Internet, AI Agent, UCP, Universal Commerce Pr
 confidence: high
 ---
 
-# 宋分備忘錄 #9 — 下一個 20 年的入口革命：AI Agent、流量重分配與新 Alpha
+# 宋分備忘錄 #13 — 下一個 20 年的入口革命：AI Agent、流量重分配與新 Alpha
 
 [[宋分（美股送分題）]] 2026-05-25 備忘錄。**入口革命 + 控制權重新洗牌的大格局篇**。承接備忘錄 #7（Robotaxi）+ #8（AI 獲利擴散）。
 
@@ -87,7 +87,7 @@ Agent → 下一波同等級 winner
 - **[[賣水人選股邏輯（投資版）]]**：Shopify / Stripe = Agent 賽道賣水人
 - **[[AI 變現能見度分歧（證明給我看階段）]]**：本期是同主題的「為什麼 Google 大漲 Meta 大跌」的擴張解釋
 - **[[預期差]]**：Meta call option 是「定價落後 thesis」的具體案例
-- **[[宋分備忘錄 #7 — 油價+AI+Robotaxi 改寫贏家]]**：「AI 成購物中介」段的具體 chokepoint
+- **[[宋分備忘錄 #11 — 油價+AI+Robotaxi 改寫贏家]]**：「AI 成購物中介」段的具體 chokepoint
 - **[[AI 利潤奇點（Token 經濟學拐點）]]**：Agent 商業化 = AI 利潤奇點的具體應用層落地
 - **跨庫對接 llm-wiki**：[[MCP 九千七百萬次安裝]] + [[OpenAI]] + [[Anthropic]] + [[Agent 商品化]]
 
@@ -103,8 +103,8 @@ Agent → 下一波同等級 winner
 
 ## 相關連結
 
-- [[宋分備忘錄 #7 — 油價+AI+Robotaxi 改寫贏家]]
-- [[宋分備忘錄 #8 — AI 獲利擴散期 + 體驗經濟稀缺]]
+- [[宋分備忘錄 #11 — 油價+AI+Robotaxi 改寫贏家]]
+- [[宋分備忘錄 #12 — AI 獲利擴散期 + 體驗經濟稀缺]]
 - [[控制點轉移（投資版）]]
 - [[接口控制權]]
 - [[賣水人選股邏輯（投資版）]]

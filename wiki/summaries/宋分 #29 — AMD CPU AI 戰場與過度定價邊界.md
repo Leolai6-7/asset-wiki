@@ -1,6 +1,6 @@
 ---
-title: 宋分 #24 — AMD CPU AI 戰場與過度定價邊界
-aliases: [宋分 #24, AMD CPU AI, 重估邊界, 過度定價判斷]
+title: 宋分 #29 — AMD CPU AI 戰場與過度定價邊界
+aliases: [宋分 #29, AMD CPU AI, 重估邊界, 過度定價判斷]
 type: summary
 created: 2026-06-09
 updated: 2026-06-09
@@ -10,7 +10,7 @@ tags: [宋分, AMD, CPU, Re-rate, 過度定價, 估值邊界, AI 受惠者擴散
 confidence: high
 ---
 
-# 宋分 #24 — AMD：CPU 是 AI 下一個戰場，但市場是不是已經把終局價格提前買完了？
+# 宋分 #29 — AMD：CPU 是 AI 下一個戰場，但市場是不是已經把終局價格提前買完了？
 
 [[宋分（美股送分題）]]（2026-05-05）。**重估邊界判斷教學**。承接 #13（類比晶片結構性重估）+ 備忘錄 #3（AI 半導體受惠者擴散）。
 

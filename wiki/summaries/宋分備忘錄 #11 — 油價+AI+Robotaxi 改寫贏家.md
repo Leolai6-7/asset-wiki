@@ -1,6 +1,6 @@
 ---
-title: 宋分備忘錄 #7 — 油價+AI+Robotaxi 改寫贏家
-aliases: [宋分備忘錄7, 備忘錄 #7, Robotaxi 車廠 SaaS 化]
+title: 宋分備忘錄 #11 — 油價+AI+Robotaxi 改寫贏家
+aliases: [宋分備忘錄11, 備忘錄 #11, Robotaxi 車廠 SaaS 化]
 type: summary
 created: 2026-06-09
 updated: 2026-06-09
@@ -10,7 +10,7 @@ tags: [宋分, 備忘錄, Robotaxi, Tesla, Waymo, 車廠 SaaS 化, TaaS, 油價,
 confidence: high
 ---
 
-# 宋分備忘錄 #7 — 油價、AI 與 Robotaxi 一起改變下一輪贏家
+# 宋分備忘錄 #11 — 油價、AI 與 Robotaxi 一起改變下一輪贏家
 
 [[宋分（美股送分題）]] 2026-05-11 備忘錄。**主題：成本結構重組期的強者恆強分化**。Robotaxi 段是本期最關鍵 anchor。
 
