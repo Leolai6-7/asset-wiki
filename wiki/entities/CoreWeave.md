@@ -257,7 +257,7 @@ confidence: high
 | **折舊 + 利息壓力** | 持續攀升（$23B debt）|
 | **客戶集中** | Microsoft 60%+ |
 
-### vs [[Nebius]]（待建）對照
+### vs [[Nebius]] 對照
 
 - CoreWeave 高槓桿擴張 EBITDA 56% / 營益 1%
 - Nebius 預售模式 EBITDA 45% / 營益 較穩健

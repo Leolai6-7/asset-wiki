@@ -118,7 +118,7 @@ Claude 開發商。**「安全 / 對齊」市場敘事的代表**。2026 用 MCP
 
 → AI 公司從「賣 API」升級為「賣 deployment + service」、強化客戶黏性 + 護城河
 
-### 跟 [[Palantir]]（待建）10 年驗證的原型對比
+### 跟 [[Palantir]] 10 年驗證的原型對比
 
 - Anthropic Accenture 對應 Palantir 政府 + 大型企業客戶
 - Anthropic Blackstone $15 億公司對應 Palantir Foundry SaaS

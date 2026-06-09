@@ -250,7 +250,7 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 | #8 | **[[ABB]]**（ABBNY）| 第二+第三層 anchor / 配電 + switchgear | 🟢 中強 | 五軸 **20/25**、配電變壓器 + switchgear 三巨頭 + Process Automation + Robotics 多元、NVDA 800V HVDC 共同制定者 |
 | #9 | **[[Talen Energy]]**（TLN）| 電力產生 / 核電 pure-play | 🟡 中強（高 alpha） | 五軸 **19/25**、Susquehanna 2.5GW + AWS 17 年 $18B 1.92GW PPA = pure-play alpha、客戶集中 2 分扣分 |
 | #10 | **[[Navitas Semiconductor]]**（NVTS）| 電力分配 / GaN 800V HVDC pure-play | 🟡 中（高 alpha） | 五軸 **19/25**、10kW 98.5% 效率全球首發 + Wolfspeed Chapter 11 救命 + NVDA design-in 深 |
-| #11 | Vertiv（VRT、⚠️ 待 ingest 為 entity）| 電力分配 + 散熱 | 🟡 中 | 機房液冷 + 800V DC H2 2026 上市、跟 Schneider Motivair 競爭 |
+| #11 | **[[Vertiv]]**（VRT）| 電力分配 + 散熱 | 🟢 強 | 五軸 **21/25**、機房液冷 + 800V DC H2 2026 上市、跟 Schneider Motivair 競爭、CPO 散熱第三層 anchor |
 | #12 | **[[信昌電]]**（6173.TWO）| 電力分配 / 中高壓 MLCC（機櫃內 PSU + BBU） | 🟡 中 | 五軸 **19/25**、NVDA Rubin 機櫃 MLCC 3-4K → 10K+ 顆（**現有 entity**）|
 
 ⭐ **anchor 排名邏輯**：
@@ -335,11 +335,12 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 ### 800V HVDC turnkey + UPS / 配電（第三層電力分配 SI）
 - ✅ [[Eaton]]（ETN）— 800V HVDC reference architecture 首發 + turnkey 北美、五軸 22/25
 - ✅ [[Schneider Electric]]（SBGSY）— EcoStruxure + APC UPS 全球 #1 + 1MW rack 白皮書、五軸 22/25
-- ⚠️ 待 ingest：Vertiv（VRT）— 機房液冷 + 800V DC + 機架級
+- ✅ [[Vertiv]]（VRT）— 機房液冷 + 800V DC + 機架級、五軸 21/25
 
 ### 800V HVDC power IC（第三層高 alpha 區）
 - ✅ [[Navitas Semiconductor]]（NVTS）— GaN 10kW 98.5% pure-play + GeneSiC、五軸 19/25
-- ⚠️ 待 ingest：Infineon（IFX）/ Wolfspeed（WOLF Chapter 11）/ onsemi（ON）
+- ✅ [[Infineon]]（IFX）— GaN + SiC power IC、800V HVDC GaN+SiC 雙料、五軸 21/25
+- ⚠️ 待 ingest：Wolfspeed（WOLF Chapter 11）/ onsemi（ON）
 - 大廠多軌：[[Texas Instruments TXN]] / STMicroelectronics（NVDA 31 家共同制定者）
 
 ### 跨第三層配電（機櫃內 PSU + BBU）

@@ -106,8 +106,8 @@ KP@FOMOSoc 2026-05-09 KP41 引高盛 framework：**Token 售價年降 40%（趨�
 | 公司 | 邏輯 |
 |---|---|
 | [[Microsoft]] | Copilot + 垂直 Agent 共存、直接抽取「人事成本 → 軟體營收」|
-| **Cloudflare**（待建）| M2M 流量爆炸期會有指數級成長 |
-| **Accenture**（待建）| 系統整合商執行企業 AI 轉型（「賣鏟子」邏輯）|
+| [[Cloudflare]] | M2M 流量爆炸期會有指數級成長 |
+| [[Accenture]] | 系統整合商執行企業 AI 轉型（「賣鏟子」邏輯）|
 
 ### 4. 採用加速者
 Accenture（IT 服務）+ FDE 戰略（見 [[Forward Deployed Engineer 戰略（FDE）]]）

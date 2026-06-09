@@ -92,7 +92,7 @@ confidence: high
 - AI 公司從「賣 API」升級為「賣 deployment + service」
 - 對應 [[控制點轉移（投資版）]]：控制點從 platform 轉向 vertical solution
 - 對應 [[資訊擴散四階段]] 第 3-4 階段（從機構轉企業實裝）的關鍵 enabler
-- 直接挑戰 [[Palantir]] 企業 IT 預算（待建 entity）
+- 直接挑戰 [[Palantir]] 企業 IT 預算
 
 ### 強化 [[Jevons Paradox（投資版）]]
 - Token 用量 25x + 採用 35-40% 巔峰 = 兩變數抵消後 TAM 倍數爆炸
@@ -119,12 +119,12 @@ confidence: high
 
 - [[AMD]] — 補強「2030 市場 $1,200 億 + Q2 指引 +70%+ + CPU 連 4 季創紀錄」
 - [[Intel]] — 補強「贏得 NVIDIA DGX 主 CPU + Xeon 供需失衡」
-- 待建 [[ARM]] entity — 「Q4 YoY +20% + AGI CPU $20 億→$150 億 + CPU 容量 4x」
+- [[ARM]] — 「Q4 YoY +20% + AGI CPU $20 億→$150 億 + CPU 容量 4x」
 - [[Anthropic]] — 補強「FDE + Accenture 3 萬員工 + $15 億中型企業合資」
 - [[OpenAI]] — 補強「The Deployment Company $100 億合資 + FDE 戰略」
-- 待建 [[Accenture]] entity — IT 服務 / FDE 加速者 anchor
-- 待建 [[Cloudflare]] entity — M2M 流量爆炸期 anchor
-- 待建 [[Palantir]] entity — FDE 戰略原型 + 企業 IT 預算對手
+- [[Accenture]] — IT 服務 / FDE 加速者 anchor
+- [[Cloudflare]] — M2M 流量爆炸期 anchor
+- [[Palantir]] — FDE 戰略原型 + 企業 IT 預算對手
 
 ## 相關連結
 

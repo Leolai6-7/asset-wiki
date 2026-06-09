@@ -141,7 +141,7 @@ AI GPU 龍頭，M7 之一。從賣晶片的硬體公司轉型為平台公司（C
 
 ### Marvell narrative shift（KP44 補強 — 對 NVDA 影響）
 
-→ 完整 framework 見 [[Marvell]] entity（待補位）
+→ 完整 framework 見 [[Marvell]] entity
 
 **過去敘事（錯誤）**：Marvell = 「第二名 ASIC 公司」、跟 [[AVGO]] 競爭 custom silicon
 

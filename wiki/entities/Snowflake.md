@@ -194,7 +194,7 @@ confidence: high
 
 **總分：19/25**
 
-→ **「訂閱年金 + AI agent narrative shift bet + Fortune 500 結構性 lock-in」**：Snowflake 五軸 19/25 跟 [[Accenture]]（待建）+ [[GlobalFoundries]] 20 + [[Coherent]] 19 + [[Lumentum]] 19 同級、低於 [[Oracle]] 18 + [[Accenture]] 19 + 高於 [[CoreWeave]] 12 + [[Lambda]] 13。**主因**：訂閱年金（5/5）+ 跨多雲（4/5）+ Fortune 500 結構性 lock-in（3/5）三軸驅動、但 IP（3/5）落後 Synopsys / Cadence 等真賣水人 + 客戶分散（3/5）受 Fortune 500 集中拖累。
+→ **「訂閱年金 + AI agent narrative shift bet + Fortune 500 結構性 lock-in」**：Snowflake 五軸 19/25 跟 [[Accenture]] + [[GlobalFoundries]] 20 + [[Coherent]] 19 + [[Lumentum]] 19 同級、低於 [[Oracle]] 18 + [[Accenture]] 19 + 高於 [[CoreWeave]] 12 + [[Lambda]] 13。**主因**：訂閱年金（5/5）+ 跨多雲（4/5）+ Fortune 500 結構性 lock-in（3/5）三軸驅動、但 IP（3/5）落後 Synopsys / Cadence 等真賣水人 + 客戶分散（3/5）受 Fortune 500 集中拖累。
 
 ## ⭐ 跟 [[Databricks]] 路線分歧（行業關鍵戰局、#G1 2026-06-09 [[Databricks]] entity 落地後補強）
 

@@ -112,11 +112,11 @@ confidence: high
 
 ## 受影響 entity
 
-- 待建 [[Cerebras]] entity — ASIC pure-play 期權、TSMC 5nm 單一 fab、OpenAI $200 億單一最大客戶、WSE-3 規格 anchor
+- [[Cerebras]] — ASIC pure-play 期權、TSMC 5nm 單一 fab、OpenAI $200 億單一最大客戶、WSE-3 規格 anchor
 - [[NVDA]] — 補強「Cerebras 是推論 niche 競爭者、訓練主場仍 NVDA、CUDA 護城河 + Chiplet 靈活性」
 - [[TSMC]] — 補強「Cerebras 唯一晶圓代工 + 5nm 製程」
 - [[CoreWeave]] — 補強「Q2 指引 miss + 利潤率陷阱訊號 + 客戶集中 Microsoft 60%+」
-- 待建 [[Nebius]] entity — 預售模式 + EBITDA 45% + 較穩健的 neocloud 對照組
+- [[Nebius]] — 預售模式 + EBITDA 45% + 較穩健的 neocloud 對照組
 - [[SK Hynix]] / [[Samsung Electronics]] / [[Micron]] — 補強「SRAM 推論架構長期產品組合風險」
 
 ## 相關連結

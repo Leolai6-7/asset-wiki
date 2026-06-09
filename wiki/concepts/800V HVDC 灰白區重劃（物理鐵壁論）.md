@@ -145,10 +145,10 @@ GPU
 - [[Vertiv]] / [[台達電]]（PSU / BBU 模組）
 
 ### 白區（機櫃內 → PoL → core）
-- [[Vicor]] ⭐ 待建（48V→core PoL 龍頭）
+- [[Vicor]]（48V→core PoL 龍頭）
 - [[Monolithic Power Systems MPS]]
-- [[Texas Instruments TXN]] ⭐ 待建（類比 IC 大宗）
-- [[Infineon]] ⭐ 待建（GaN+SiC 雙料）
+- [[Texas Instruments TXN]]（類比 IC 大宗）
+- [[Infineon]]（GaN+SiC 雙料）
 - [[Navitas Semiconductor]]（GaN 純押）⭐ A2 subagent 正在建檔
 - [[Wolfspeed]]（SiC 純押、但虧損中）
 

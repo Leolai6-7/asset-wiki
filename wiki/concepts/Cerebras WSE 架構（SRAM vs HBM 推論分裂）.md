@@ -176,6 +176,6 @@ KP@FOMOSoc 2026-05-16 KP42 提出的 framework：**Cerebras WSE-3 晶圓級晶�
 - [[市場四階段：懷疑／驗證／共識／反轉]]
 - [[CapEx 見頂辯論]]
 - [[中國半導體國產替代（投資對沖視角）]]
-- [[Cerebras]]（待建 entity）
+- [[Cerebras]]
 - [[NVDA]]、[[TSMC]]、[[CoreWeave]]、[[SK Hynix]]、[[Samsung Electronics]]、[[Micron]]、[[OpenAI]]、[[AMD]]
 - [[FOMO SOC]]（KP@FOMOSoc KOL 來源）
