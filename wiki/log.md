@@ -1745,3 +1745,38 @@
 - 自警惕（FOMO SOC 原文）：「不會一蹴而就，因為現代的數據中心並不是以直流電為生的」→ 全鏈替換需 5-10 年、過熱期可能在 pilot ramp 公告而非全鏈量產
 - 與並行 subagent 衝突管理：A6 共享文件（master 表 / [[AI infra 電力戰場]] / index / log）暫不動，等 A2~A5 全部完成後統一整合避免 race condition；A6 獨立檔案（raw / summary / concept / 3 entity）已在 6 月 9 日中段先落地（A1~A5 subagent 並行 commit 順帶 push）
 - 累計：**51 concept + 85 entity + 42 summary**（A6 +1 concept +3 entity +1 summary，其中 concept 800V HVDC + 3 entity Vicor/Infineon/TXN）
+
+### 2026-06-09 ingest #A7 — CXMT entity + 中國半導體國產替代（投資對沖視角）concept
+
+- 觸發：Leo 提示「補完 [[AI 記憶體結構性供給短缺]] / [[HBM iPhone moment]] thesis 的中國市場對沖視角」+ asset-wiki 第六波記憶體圖譜延伸（SK Hynix / Samsung / Micron 三家已完整、缺中國 anchor）+ 跨庫對接 llm-wiki [[華為]] / [[幻方量化]] / [[DeepSeek]] / [[開源作為武器]] / [[中國 AI 能力全景 2026-Q2]] 鏈條
+- evidence_url: https://en.sedaily.com/finance/2026/05/27/cxmt-clears-65-trillion-won-ipo-review-as-dram-share-jumps
+- 操作：
+  - 新建 **entity [[CXMT]]**（中國 DRAM 國產龍頭、不上市、2026 H2 上交所 IPO pending）
+    - 一句話定位：中國 DRAM 國產龍頭 + 國家隊背景 + 全球 DRAM #4（7.67%、12 個月翻倍）+ HBM3 國產化 anchor + 美國 AI 受惠 thesis 對沖反證
+    - 三層 thesis：產業層（DRAM 國產替代 + HBM3 2026 H2 量產 + 20% 產能切 HBM3）+ 目的層（中國半導體自主戰略 anchor + 政策驅動成長 + 國家市場 + NVDA-banned 環境填補）+ 供應層（華為 / 寒武紀 / 海光客戶綁定 + 設備自主化拓荊 / 中微 / 北方華創 / Naura / Maxwell / U-Preseason + 規模成長 ~300k wafer/月）
+    - 財務快照（as_of: 2026-06-09）：未上市 / 預計 IPO USD ~4.2B / FY2025 營收 YoY +700% / DRAM 全球市佔 7.67% Q4 2025 / HBM3 樣品交付 2026 Q1 / 量產 2026 H2 - 2026 年底 / DDR5-8000 + LPDDR5X-10667 量產
+    - 五軸 **17/25**（路線 4 + 站別 4 + 耗材 5 + IP 2 + 客戶分散 2）—— IP / 客戶分散兩軸主要扣分，但耗材本質 + 站別獨特性是核心受惠來源
+    - Bull：HBM3 量產 + IPO + 華為昇騰路線圖綁定 + 國家戰略護城河 + 中國消費 + server 市場接管
+    - Bear：美國 export control 升級 + HBM3 時程 slip + 規格落後 SK Hynix 2 代 + 客戶集中（華為 + 寒武紀 + 海光）+ YMTC 風險訊號參考
+    - 跨庫連結：[[華為]]（llm-wiki）+ [[幻方量化]]（llm-wiki）+ [[DeepSeek]]（llm-wiki）+ [[開源作為武器]]（llm-wiki）+ [[中國 AI 能力全景 2026-Q2]]（llm-wiki summary）+ [[控制點轉移]]（llm-wiki）
+  - 新建 **concept [[中國半導體國產替代（投資對沖視角）]]**（asset-wiki 第十二波 — 對沖視角補位）
+    - 一句話：中國半導體國產替代不是要打敗美國 AI 鏈、是要收編中國市場 25-30% 全球需求 = 對 SK / Samsung / Micron / NVDA 是結構性敞口削弱 + 對 CXMT / 華為 / YMTC / 寒武紀是封閉市場賣水人
+    - 三條 anchor：(1) HBM 中國接管 CXMT → SK / Samsung / Micron 中國 DRAM 收入 -30 至 -50% / 整體 -10 至 -15% + (2) 3D NAND 中國接管 YMTC（⚠️ 待 ingest）→ Kioxia / SanDisk / WDC 中國敞口削弱 + (3) AI 算力中國接管華為昇騰 → NVDA China revenue 20% → < 5%（已發生）
+    - 對沖實務操作：(1) 給 entity 加「中國敞口風險」標記 + (2) 給 thesis 標雙情境分析（bull / base / bear case）+ (3) 監控 CXMT HBM3 量產進度 + YMTC market share + NVDA China revenue + (4) 估值校準（base case 公平 PE 上限打 8 折）
+    - 跟 wiki 既有對接：[[AI 記憶體結構性供給短缺]] 對沖反證 + [[HBM iPhone moment]] 西方仍 re-rate / 中國市場流失分裂 + [[AI infra 3D NAND 戰場]] 6 家分食穩定 / YMTC 中國接管 + [[控制點轉移（投資版）]] 中國半導體自主控制點 + [[效率→安全切換]] 極端案例 + [[宋分備忘錄 #1]] CSP 自研 + 中國國產替代雙引擎張力
+- 連動更新：
+  - [[賣水人選股邏輯（投資版）]] master 表新增「**中國半導體國產替代（第十二波）**」段：含 [[CXMT]] 17/25 + YMTC 17/25（預估）+ [[華為]] 20/25（中國 AI 算力閉環視角）+ 三條 anchor 量化分析 + 完美鏡像關係 + 對 [[賣水人選股邏輯（投資版）]] 啟示 + 跨庫連結
+  - [[AI 記憶體結構性供給短缺]] concept 補強「**⭐ 中國市場對沖 anchor（[[中國半導體國產替代（投資對沖視角）]]）**」段：對沖三條 anchor + CXMT 是記憶體 entity + 對三巨頭中國敞口衝擊量化 + 估值校準雙情境 + 監控指標 + 為什麼需要對沖視角
+  - [[AI infra 3D NAND 戰場]] concept 補完：6 家分食表 YMTC 改為「⚠️ 待 ingest」+ 加 CXMT / [[中國半導體國產替代（投資對沖視角）]] wikilink + 風險段「YMTC 國產替代」補完跨 anchor 說明
+  - [[SK Hynix]] / [[Samsung Electronics]] / [[Micron]] 三家 entity 補強「**⚠️ 中國敞口風險**」段（各 1-2 段）+ wikilink to [[CXMT]] + [[中國半導體國產替代（投資對沖視角）]]
+  - [[index.md]] 標的段新增「**標的：中國 AI**」加 CXMT 條目 + concept 段新增「**中國半導體國產替代（第十二波 — 2026-06-09 對沖視角補位）**」+ [[AI 記憶體結構性供給短缺]] 條目補入「中國市場對沖 anchor 段」
+- 三條 anchor 衝擊量化（核心發現）：
+  - **SK Hynix**：中國 DRAM 敞口 30-35% → 2027-2030 -30 至 -50% → 整體營收 -10 至 -15% → 公平 PE 上限 12-15x（vs 原 15-25x bull case）
+  - **Samsung Electronics**：中國 DRAM 敞口 25-30% → 2027-2030 -20 至 -30% → 整體 Memory 段 -8 至 -12% → 整體 Samsung -5 至 -8%（多軌支撐）
+  - **Micron**：中國 DRAM 敞口 15-20% → 2027-2030 -30 至 -40% → 整體營收 -5 至 -8%（規模較小、衝擊絕對值有限）+ HBM 中國敞口已接近 0 衝擊最小 + CHIPS Act 美國 anchor 反而地緣政治受惠
+- 跟 llm-wiki 跨庫連結：[[華為]] / [[幻方量化]] / [[DeepSeek]] / [[開源作為武器]] / [[控制點轉移]] / [[中國 AI 能力全景 2026-Q2]]（補完 llm-wiki 描繪的四向量閉環的「**記憶體 / DRAM**」缺口）
+- 三個 surprising：
+  - **CXMT DRAM 市佔 12 個月翻倍**（3.97% → 7.67%）+ FY2025 營收 YoY +700% = 史上最快成長 DRAM 廠、但西方 wiki 多以 reference 報導（NVDA banned 環境下）
+  - **NVDA China revenue 萎縮 ≈ CXMT 中國 DRAM 市佔擴張**（完美鏡像關係）= 同一個地緣政治 driver 的兩面、不是巧合
+  - **對沖視角的真正功能**：不是反向操作、是給多頭 thesis 加上限（[[HBM iPhone moment]] 仍成立、但估值上限打 8 折）+ Micron 因規模小 + HBM 中國已接近 0 → 反而 CXMT / YMTC 受惠最小
+- 累計：**52 concept + 86 entity + 42 summary**（A7 +1 concept +1 entity，其中 concept 中國半導體國產替代 + entity CXMT）

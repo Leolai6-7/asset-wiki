@@ -54,7 +54,10 @@
 ### 記憶體（HBM / DRAM 估值範式之爭）
 - [[PB 估值法（記憶體週期）]] — 景氣循環論：用淨資產錨點守住週期紀律（傳統 DRAM 適用）
 - [[HBM iPhone moment]] — 早期 re-rate 假說：HBM 從週期商品變 AI infra 元件
-- [[AI 記憶體結構性供給短缺]] ⭐ 2026-06-08 黃仁勳訪韓 + NVDA x SK Hynix 多年合約 anchor 確認；對抗 [[PB 估值法（記憶體週期）]]、雙引擎結構（HBM Forward PE + 傳統 DRAM PB）；NVDA 4 路線（Vera Rubin / Vera CPU / RTX Spark / Jetson Thor）記憶體 design-in、SK Group 預警 shortage 至 2030、記憶體 = Vera Rubin rack BOM 26%
+- [[AI 記憶體結構性供給短缺]] ⭐ 2026-06-08 黃仁勳訪韓 + NVDA x SK Hynix 多年合約 anchor 確認；對抗 [[PB 估值法（記憶體週期）]]、雙引擎結構（HBM Forward PE + 傳統 DRAM PB）；NVDA 4 路線（Vera Rubin / Vera CPU / RTX Spark / Jetson Thor）記憶體 design-in、SK Group 預警 shortage 至 2030、記憶體 = Vera Rubin rack BOM 26%；**2026-06-09 補入「中國市場對沖 anchor」段**——[[CXMT]] / YMTC 接管中國 25-30% 全球需求、三巨頭估值上限打 8 折
+
+### 中國半導體國產替代（第十二波 — 2026-06-09 對沖視角補位）⭐
+- [[中國半導體國產替代（投資對沖視角）]] ⭐ 2026-06-09 補位：**這個 concept 不是「中國 play」、是 [[AI 記憶體結構性供給短缺]] / [[HBM iPhone moment]] / [[AI infra 3D NAND 戰場]] thesis 的對沖反證**；三條 anchor：(1) HBM 中國接管 [[CXMT]] → SK Hynix / Samsung / Micron 中國 DRAM 收入 -30 至 -50%（規模 -10 至 -15%）+ (2) 3D NAND 中國接管 YMTC（⚠️ 待 ingest）→ Kioxia / SanDisk / WDC 中國敞口削弱 + (3) AI 算力中國接管 [[華為]] 昇騰 → NVDA China revenue 20% → < 5%（已發生）；**對沖實務操作**：給 entity 加「中國敞口風險」標記 + 給 thesis 標雙情境（base case 中國分裂 + bear case 中國全閉環）+ 監控 CXMT HBM3 量產進度 + 估值校準（公平 PE 上限打 8 折）；跨庫對接 llm-wiki [[華為]] / [[幻方量化]] / [[DeepSeek]] / [[開源作為武器]] / [[中國 AI 能力全景 2026-Q2]] 鏈條；對應 [[效率→安全切換]] + [[控制點轉移（投資版）]] 中國半導體自主路徑
 
 ### 3D NAND / Enterprise SSD（codex P1-7 補位、第七波）
 - [[AI infra 3D NAND 戰場]] ⭐ NAND 在 AI 是「主戰場還是附屬 BOM」的判斷：6 家分食（Samsung 29% / SK+Solidigm 22% / Kioxia 14% / Micron 13% / SanDisk 13% / YMTC 13%）；NVDA Vera Rubin ICMS 1,152TB/rack = NAND BOM $1M+/rack；Enterprise SSD 2030 1,078 EB（CAGR 35%）；HBF (NAND-as-DRAM) 標準化 2026-02、量產 2027；雙引擎估值（Consumer NAND PB + Enterprise SSD Forward PE）；Leo 判斷「半主戰場 + 半附屬 BOM」
@@ -158,6 +161,7 @@
 ### 標的：中國 AI
 - [[華為]] — 昇騰 NPU + Atlas SuperPoD + CANN，DeepSeek V4 唯一硬體合作方
 - [[幻方量化]] — DeepSeek 母公司，算力本業派原型
+- [[CXMT]]（長鑫存儲、未上市、2026 H2 上交所 IPO pending）⭐ 2026-06-09 補位 — **中國 DRAM #4（7.67% Q4 2025、12 個月翻倍）+ HBM3 國產化 anchor（2026 H2 量產 + 20% 產能切 HBM3）+ DDR5-8000 / LPDDR5X-10667 量產 + 華為 / 寒武紀 / 海光客戶綁定 + FY2025 營收 YoY +700% 史上最快 DRAM 廠**；五軸 **17/25**；國家隊背景非純商業公司、不可直接買進；是 [[SK Hynix]] / [[Samsung Electronics]] / [[Micron]] **中國敞口風險**對沖鏡像 anchor、是 [[中國半導體國產替代（投資對沖視角）]] concept 的記憶體 anchor、跨庫對接 llm-wiki [[華為]] / [[幻方量化]] / [[DeepSeek]] / [[開源作為武器]] 鏈條
 
 ### 標的：1.6T 光模組首批採購者（第十波 — [[AI infra CapEx 三階段論]] 第三階段 anchor 客戶，2026-06-09 補位）⭐
 - [[CoreWeave]]（NASDAQ: CRWV）— **neocloud 龍頭 + NVDA 戰略客戶兼投資人 + NVDA $6.3B backstop + 1.6T 光模組首批採購者 + 循環投資 anchor 樣本**：Microsoft 60%+ / Top 3 90%+ 客戶集中極端、$50B+ backlog（OpenAI $11.9B + Meta $14.2B + Microsoft + IBM）、FY2026 自家指引 $15-18B (+200%+)、2026-08 Spectrum-XGS 首批跨 DC 部署、Re-rate 1/4、Forward PE n/a；五軸 **12/25**（路線 + 站別中、客戶分散僅 1 分極端）；「Cloud 二線打贏一線」結構性論點（NVDA 把 CoreWeave 變成銷售管道）

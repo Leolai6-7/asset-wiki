@@ -164,6 +164,64 @@ confidence: medium
 
 **核心校準**：宋分備忘錄 #1 提出「2028 預付」當作 CSP 永動機的延長子彈，**本 concept = 上膛驗證版**——子彈不只到 2028、且 NVDA 路線圖綁定到 2030+。
 
+## ⭐ 中國市場對沖 anchor（[[中國半導體國產替代（投資對沖視角）]]）
+
+> 本 thesis 的「**全球 HBM / DRAM 結構性短缺到 2030**」假設、需要被「**中國市場 25-30% 全球需求被 [[CXMT]] / YMTC 接管**」對沖反證。
+
+### 對沖三條 anchor
+
+```
+anchor 1：HBM 中國市場接管（CXMT）→ SK Hynix / Samsung / Micron 中國 DRAM 收入 -30 至 -50%
+anchor 2：3D NAND 中國市場接管（YMTC）→ Kioxia / SanDisk / WDC 中國敞口削弱
+anchor 3：AI 算力中國市場接管（華為昇騰）→ NVDA China revenue 20% → < 5%（已發生）
+```
+
+### [[CXMT]] 是 HBM 對沖 anchor 的記憶體 entity（2026-06-09 ingest）
+
+- DRAM 全球 #4（7.67% Q4 2025，12 個月翻倍）+ FY2025 營收 YoY **+700%**
+- HBM3 樣品交付華為昇騰 / 寒武紀 / 海光、**2026 H2 - 2026 年底量產**
+- 規劃 20% 總產能（~60k wafer/月）切 HBM3
+- DDR5-8000 / LPDDR5X-10667 量產、中國消費 + server 市場接管 Samsung / SK / Micron 退出空間
+- 2026-05 上交所科創板 IPO 審核通過、擬募 USD ~4.2B
+
+### 對三巨頭中國敞口衝擊量化
+
+| 維度 | SK Hynix | Samsung | Micron |
+|---|---|---|---|
+| 中國 DRAM 營收佔比（2024 估）| 30-35% | 25-30% | 15-20% |
+| 中國 HBM 營收佔比（2025 估）| < 5% | 5-10% | < 5% |
+| CXMT 接管後 2027-2030 假設 | 中國 DRAM 收入 **-30 至 -50%** | 中國 DRAM 收入 **-20 至 -30%** | 中國 DRAM 收入 **-30 至 -40%** |
+| 整體營收衝擊 | 約 **-10 至 -15%** | 約 **-7 至 -10%** | 約 **-5 至 -8%** |
+
+### 估值校準（雙情境）
+
+```
+Bull case（原 thesis 維持）：Forward PE 15-25x infra 級、全球壟斷溢價滿配
+Base case（中國分裂、本對沖視角）：Forward PE 12-20x infra 級、上限打 8 折
+Bear case（中國全閉環 + 西方需求放緩）：Forward PE 8-15x、PB 派部分回歸
+```
+
+→ **本 thesis 仍成立**、但**估值上限被裁切 ~15-20%**。對沖視角的真正功能 = **給多頭 thesis 加上限、不是反向操作**。
+
+### 監控指標（補完原監控清單）
+
+- CXMT HBM3 量產進度（2026 H2 - 2026 年底是否兌現）
+- CXMT IPO 後 A 股表現 + 估值揭露
+- YMTC NAND market share 變化（13% → 15-18%）
+- NVDA China revenue % 持續萎縮 / 反彈
+- 華為昇騰 950PR / 950DT / 960 / 970 出貨量
+- SK Hynix / Samsung / Micron 中國 segment YoY 衰退率（Q4 2026 + Q1 2027 揭露）
+- BIS Entity List 新增 / 變動
+
+### 為什麼需要對沖視角
+
+本 concept 原版以「**全球 HBM 結構性短缺到 2030**」為核心 thesis、但**全球 = 西方 + 中國**。當中國市場 25-30% 全球需求被 [[CXMT]] / YMTC 接管：
+- 西方 thesis 仍成立、但 SK / Samsung / Micron **不再壟斷全球**
+- 「結構性短缺」精準描述應為 **「西方 hyperscaler / 主權 AI 結構性短缺」**
+- [[效率→安全切換]] 在中國半導體自主路徑的極端化 = anchor 1-3 的長期 driver
+
+→ 跟 [[宋分備忘錄 #1 — CSP-AI 通縮]] 對接：CSP 自研晶片（西方賣水人受惠長期張力）+ 中國國產替代（西方賣水人短期張力）= **雙引擎張力**。
+
 ## ⚠️ 風險（thesis 失效情境）
 
 ### 1. 模型效率躍進（DeepSeek 2.0）

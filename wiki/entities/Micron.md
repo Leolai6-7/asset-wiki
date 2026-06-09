@@ -109,6 +109,18 @@ confidence: high
 - CXMT 中國 HBM2 國產化 → 長期分食中國市場 + 地緣政治風險上行
 - Big Beautiful Bill 半導體 ITC 政策變動 → CHIPS Act 補助實際發放速度有政府風險
 
+### ⚠️ 中國敞口風險（[[中國半導體國產替代（投資對沖視角）]] 對沖視角，2026-06-09 補位）
+
+- **中國 DRAM 營收佔比 15-20%（最小三巨頭中）**：CHIPS Act 美中分離極化 + Micron 已被中國 CAC 2023 安全審查警告 + 中國市場相對提早撤退
+- **[[CXMT]] DDR5-8000 / LPDDR5X-10667 量產**：直接挑戰 Micron commodity DRAM 中國敞口、Micron 2026 已是中國市場最小三巨頭
+- **CHIPS Act + BIS Entity List 雙刃**：美國 anchor 地位拉高、但中國市場切位更激進（CXMT 國產替代 + 政策 push 雙向）
+- **整體 Micron 營收衝擊量化（base case）**：2027-2030 中國 DRAM 收入 -30 至 -40% → 整體營收 **-5 至 -8%**（規模較小、衝擊絕對值有限）
+- **HBM 中國敞口已接近 0**：Micron HBM 客戶集中 NVDA / AMD / Broadcom 美系、CXMT 在 HBM 賽道對 Micron 影響最小
+- **SOCAMM2 LPDDR5X NVDA Vera CPU design-in 中國市場曝險**：NVDA Vera CPU 若在中國市場銷售受限 → SOCAMM2 中國敞口被裁切
+- **估值校準**：Forward PE 8.45x 反映「景氣循環論」+ 中國敞口已折讓、扣除中國分裂 → 公平 PE 上限約 10-13x（base case）vs 原 15-18x（bull case）
+- **相對受惠的另一面**：CXMT / YMTC 接管中國市場 = 西方 hyperscaler 市場相對純度提升、Micron 美國 anchor 反而**地緣政治受惠**
+- **跨庫連結**：跟 [[華為]] 昇騰 / [[幻方量化]] 算力閉環是「**對沖配對 entity**」
+
 ## ⭐ HBM BIG 3 對照（2026 Q1-Q2）
 
 | 維度 | Micron (#3) | [[Samsung Electronics]] (#2) | [[SK Hynix]] (#1) |
@@ -179,6 +191,8 @@ confidence: high
 - [[控制點轉移（投資版）]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 - [[宋分（美股送分題）]]
+- [[CXMT]]
+- [[中國半導體國產替代（投資對沖視角）]]
 
 ## Source URLs
 

@@ -128,6 +128,17 @@ confidence: high
 - 整鏈閉環風險（韓國集團整鏈內製化 = 排他性）→ 美國 / 中國地緣政治反彈
 - Tesla AI6 Taylor TX 廠投資 + 美國 CHIPS Act 對手化政策變動風險
 
+### ⚠️ 中國敞口風險（[[中國半導體國產替代（投資對沖視角）]] 對沖視角，2026-06-09 補位）
+
+- **中國 DRAM 營收佔比 25-30%**：主要承接 commodity DRAM + LPDDR5X（手機）+ server DDR5、HBM 中國敞口 5-10%（透過 Google TPU 過境 Broadcom 進部分中國）
+- **[[CXMT]] LPDDR5X-10667 + DDR5-8000 量產**：直接挑戰 Samsung mobile + server 中國 mid-low 端、Galaxy 終端中國分眾市場（小米 / OPPO 已開始切 CXMT LPDDR5X）
+- **CXMT HBM3 2026 H2 量產**：中國 hyperscaler 轉向 CXMT、Samsung HBM 中國收入 2027-2030 接近 0（Google TPU 退場後）
+- **整體 Samsung Electronics 營收衝擊量化（base case）**：2027-2030 中國 DRAM 收入 -20 至 -30% → 整體 Memory 段營收 **-8 至 -12%**（vs Samsung 整體 -5 至 -8%）
+- **Samsung Foundry 中國敞口**：CXMT 國家補貼 + 中國 Fabless 客戶（華為 / 寒武紀）轉向中芯 SMIC + 自主路徑 → Foundry 中國敞口同步削弱
+- **整鏈閉環優勢可能部分對沖**：Samsung Display + 終端 Galaxy 中國市場規模對沖部分 Memory 段中國敞口衝擊
+- **估值校準**：Trailing PE 23.92 對應「整鏈 + 多軌全球壟斷」假設、扣除中國敞口分裂 → 公平 PE 上限約 18-22x（base case）vs 原 24x（bull case）
+- **跨庫連結**：跟 [[華為]] / [[幻方量化]] / [[DeepSeek]] V4 中國 AI 閉環是「**對沖配對 entity**」
+
 ## ⭐ HBM BIG 3 對照（2026 Q1-Q2）
 
 | 維度 | Samsung (#2) | [[SK Hynix]] (#1) | [[Micron]] (#3) |
@@ -228,6 +239,8 @@ confidence: high
 - [[控制點轉移（投資版）]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 - [[宋分（美股送分題）]]
+- [[CXMT]]
+- [[中國半導體國產替代（投資對沖視角）]]
 
 ## Source URLs
 

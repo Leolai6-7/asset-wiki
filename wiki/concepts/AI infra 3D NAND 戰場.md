@@ -52,7 +52,7 @@ confidence: medium
 | **[[Kioxia]]** | **14%** | TYO: 285A（2024-12 IPO、2025 Nikkei 225 納入）| BiCS 8 → BiCS 10 路線、SanDisk JV 分手後獨立 | **高**（FY2025 ¥2.34T 營收 / OP ¥876B，AI Enterprise SSD 是主成長）|
 | **Micron（NAND 部門）** | **13%** | 美股 NASDAQ: MU 上市 | DRAM 主業 + NAND 配角 | 低（NAND 在 Micron 是 secondary、HBM 才是 anchor）|
 | **[[SanDisk]]（前 WD Flash）** | **13%** | NASDAQ: SNDK（2025-02-24 spin-off）| 純 NAND（從 [[Western Digital]] 切出）| **高**（與 SK Hynix 合作 HBF 標準化、FY2026 Q3 datacenter +233%）|
-| YMTC（長江存儲）| **13%** | 中國未上市 | 中國本土供應、被美制裁限 NVDA exposure | 低（中國國產替代）|
+| **YMTC（長江存儲）⚠️ 待 ingest** | **13%** | 中國未上市 | 中國本土供應、被美制裁限 NVDA exposure | 低（中國國產替代、跟 [[CXMT]] 構成「中國半導體記憶體閉環雙頭」、是 [[中國半導體國產替代（投資對沖視角）]] **anchor 2** 的代表 entity）|
 
 **關鍵變化（2025-2026）**：
 - **2025-02-24 [[Western Digital]] 分拆 SanDisk**：WDC 變純 HDD 公司、SanDisk 接收所有 NAND 業務 → **WDC 變身 AI HDD 受惠者、不是 NAND 戰場玩家**
@@ -234,9 +234,11 @@ confidence: medium
 - 245TB SSD 用 QLC NAND，良率 / 耐用度仍是工程挑戰
 - 若 245TB SSD 普及不順 → 不是 60TB 規格的 4× 跳躍、是 4 顆 60TB 並聯 → BOM 經濟差
 
-### 4. 中國 YMTC 國產替代
+### 4. 中國 YMTC 國產替代（⚠️ 待 ingest entity）
 - YMTC 已拿到 13% 全球市佔（Q1 2026）= **3-5 年內成熟到能切 Enterprise SSD**
 - 對 Tier 1 廠商造成中國市場分食壓力
+- 跟 [[CXMT]] 構成「**中國半導體記憶體閉環雙頭**」、是 [[中國半導體國產替代（投資對沖視角）]] **anchor 2** 的 NAND 代表 entity
+- 對 Samsung NAND 中國敞口衝擊最深（29% 全球市佔、中國 segment 集中）；對 [[Kioxia]] / [[SanDisk]] 美日同盟反而**結構性受惠**（西方市場壟斷度提升）
 
 ### 5. NAND 廠擴產追上（傳統週期論）
 - Phison 警告 2027 仍 sold out、但 2028+ Kioxia BiCS 11 + Samsung V10 + SK V9 全廠 ramp = 供給端可能在 2028 H2 追上
@@ -273,6 +275,7 @@ confidence: medium
 ## 跟其他 wiki 概念連結
 
 - [[AI 記憶體結構性供給短缺]]：本 concept 是它的「第三條腿」（HBM + LPDDR5X + 3D NAND）
+- [[中國半導體國產替代（投資對沖視角）]]：anchor 2（YMTC 接管中國 3D NAND 市場）對沖反證、本 concept 的「6 家分食」結構穩定但中國 13% 市佔結構性歸 YMTC
 - [[HBM iPhone moment]]：本 concept 是它遲到 12-18 個月的姊妹篇
 - [[PB 估值法（記憶體週期）]]：本 concept 主張「分段估值」，Enterprise SSD 切 Forward PE / Consumer NAND 保 PB
 - [[半導體基礎建設化]]：本 concept 是 NAND 子領域的具體化
@@ -324,6 +327,8 @@ confidence: medium
 - [[Solidigm]]
 - [[SanDisk]]
 - [[Western Digital]]
+- [[CXMT]]
+- [[中國半導體國產替代（投資對沖視角）]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 - [[時效 metadata schema（lint 規範）]]
 - [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]

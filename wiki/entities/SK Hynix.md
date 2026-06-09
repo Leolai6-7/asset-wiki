@@ -126,6 +126,15 @@ confidence: high
 - **TSV / Hybrid Bonding 製程顛覆**：2027+ Hybrid Bonding 若被 Samsung/Micron 先掌握 → MR-MUF 護城河被繞過
 - **Indiana 廠 CHIPS Act 補助延遲**：Tom's Hardware 報 NIMBY + 2 年許可、每日 $5M 延遲成本（與 Amkor、Micron 共同曝險）
 
+### ⚠️ 中國敞口風險（[[中國半導體國產替代（投資對沖視角）]] 對沖視角，2026-06-09 補位）
+
+- **中國 DRAM 營收佔比 30-35%（最大三巨頭中）**：HBM 中國敞口 < 5%（NVDA banned）但 commodity DRAM 中國市場仍是規模最大
+- **[[CXMT]] HBM3 2026 H2 量產 + 20% 產能切 HBM3**：中國 hyperscaler（華為 / 寒武紀 / 海光 / 阿里 / 字節）逐步轉向 CXMT、SK Hynix 中國 HBM 收入 2027-2030 接近 0
+- **CXMT FY2025 營收 YoY +700% + 全球 DRAM 市佔翻倍至 7.67%**：在中國消費 + server + AI edge 市場接管 SK 退出空間
+- **整體 SK Hynix 營收衝擊量化（base case）**：2027-2030 中國 DRAM 收入 -30 至 -50% → 整體營收 **-10 至 -15%**
+- **估值校準**：Forward PE 5.92x 對應「全球壟斷」假設、扣除中國敞口分裂 → 公平 PE 上限約 12-15x（base case）vs 原 15-25x infra 級（bull case）
+- **跨庫連結**：跟 [[華為]] 昇騰 950PR / 寒武紀 / 海光 / [[幻方量化]] / [[DeepSeek]] V4 中國 AI 閉環是「**對沖配對 entity**」
+
 ## ⭐ NVDA 多年合約細節（2026-06-08 公告）
 
 | 產品線 | 記憶體規格 | 量產時程 | SK Hynix 角色 |
@@ -248,6 +257,8 @@ confidence: high
 - [[時效 metadata schema（lint 規範）]]
 - [[宋分（美股送分題）]]
 - [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]
+- [[CXMT]]
+- [[中國半導體國產替代（投資對沖視角）]]
 
 ## Source URLs
 
