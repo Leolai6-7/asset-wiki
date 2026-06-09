@@ -133,6 +133,7 @@
 - [[DeepSeek]] — 中國模型結構性破壞者，$0.28/M token
 
 ### 標的：半導體製造 / 算力供應鏈
+- [[ASML]]（NASDAQ: ASML / AEX: ASML）⭐⭐⭐ **2026-06-09 #D2 補位** — **wiki 唯一 25/25 頂級真賣水人 #1 + 賣水人之中的賣水人核心 anchor + 全球微影設備 >90% 市佔 + EUV 100% 壟斷（無對手、Nikon / Canon 已退出）+ High-NA EUV first-mover（0.55 NA、2023 量產、5 年領先）+ 50+ 年 R&D 累積 + Zeiss optics 獨家（25% 股東）+ 1,000+ 供應商整合 + Cymer 13.5nm 光源 IP（2013 收購）+ service + spare parts + upgrade recurring 50%+ + €36B+ backlog（2025 末、1.2 年能見度）**：客戶 [[TSMC]] 30% + [[Samsung Electronics]] 25% + [[Intel]] 15% + [[SK Hynix]] + [[Micron]] + [[GlobalFoundries]] + Rapidus 全球先進製程 fab AVL 完全分散；TAM FY2025 ~€30B + FY2030E **~€60-80B**（CAGR 15%+ ASML 自家 Investor Day 2024 指引）；市值 **~€280-320B（USD ~$310-360B Mega Cap）**；股價 12 月漲幅 +20-50%（受美中科技戰 EUV 對中出口禁令短期壓抑、High-NA EUV ramp 推升）；Forward PE 30-35x / EBIT margin 35%+ / Re-rate **4/4**；五軸 **25/25** ⭐⭐⭐（路線 5 + 站別 5 + 耗材 5 + IP 5 + 客戶分散 5 全滿）= **wiki 唯一 25/25 entity、頂級真賣水人 #1**（其他六家頂級真賣水人 [[Disco Corp]] 24 / [[村田 Murata]] 24 / [[信越化學]] 24 / [[SUMCO]] 24 / [[Synopsys]] 24 / [[Imec]] 24 IP 普遍 4/5、ASML +1 IP 滿分）；跟 [[Imec]] 24 ⚠️ 特殊評估互鎖（**2023 H2 ASML High-NA EUV 0.55 NA 首台 pilot 機出貨 Imec**）= 「**製造設備基礎建設化 + R&D 公共財**」兩層 anchor；在 [[Bottleneck Theory（瓶頸論）]] 是「**七層之外的「層 -1 微影設備層」+ 全球半導體鏈最終極 chokepoint**」（所有 chokepoint 突破前都要透過 ASML 機台量產）；在 [[半導體基礎建設化]] 是「**製造設備基礎建設化最完美樣本 + 半導體基礎建設五大 chokepoint 唯一 25/25 滿分 anchor**」；美中科技戰 EUV 對中 100% 出口禁令**反而加深 ASML 5 年領先護城河**（中國 SMEE 自研 EUV 需 10-15 年、結構性無解、中國市場 25-30% → 15-20% 短期下修、先進製程客戶 + High-NA EUV ramp 完全補回）
 - [[Intel]] — IDM 2.0 + 18A + Terafab $25B anchor
 - [[SiTime]] — 「賣水人之中的賣水人」，CPO 三倍 BOM + 六條放量曲線
 - [[MPS]]（MPWR）— **AI server 電源管理 IC 龍頭、CPO 第 7 層電源**：Q1 2026 營收 $804.2M（+26.1% YoY）、Enterprise Data +97.7%、NVDA Blackwell 60-70% 流失給 Infineon、但 KeyBanc 估 Vera Rubin 拿回 70% 市佔（2027 年化增收 $420M）；Q1 法說會點名「光模組電源」切入 CPO；股價 $1,625 / 市值 $83B / Forward PE 52-68 / GF Value overvalued 54% / Re-rate 2/4；五軸 17/25（vs SiTime 21/25 = SiTime 中性更純、MPS 線性放大）；**Rubin 反攻 + 光模組電源** 是雙催化、**NVDA 集中度 + Infineon 競爭重洗** 是雙風險
@@ -357,7 +358,7 @@
 - 中芯國際 SMIC、長鑫存儲 CXMT：中國 AI 算力替代瓶頸節點
 - Tesla / xAI / SpaceX：Musk 帝國垂直整合算力
 - TXC、京瓷、村田：SiTime 競爭對手（時脈）
-- ASML、AMAT、KLAC、LRCX：fab 擴產設備鏈
+- ✅ [[ASML]] 已建（2026-06-09 #D2、wiki 唯一 25/25 頂級真賣水人 #1）— AMAT、KLAC、LRCX 仍待補
 - 寒武紀、海光：中國 NPU/GPU 第二選擇
 
 ### AI 資安賽道 entity

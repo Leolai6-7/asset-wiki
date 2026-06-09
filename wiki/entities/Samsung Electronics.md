@@ -220,6 +220,17 @@ confidence: high
 - [[ABF 載板 vs 玻璃基板 displacement]]：透過 SEMCO 子公司部分受惠
 - [[手機與邊緣晶片端 TGV-FOPLP watchlist|手機與邊緣晶片端 TGV/FOPLP watchlist]]：Galaxy S26 用 SEMCO 子公司玻璃載板、為 Apple Baltra 提供 SEMCO 樣品
 
+## ⭐ ASML 客戶關係（第二大客戶 + HBM4 + Foundry 雙引擎依賴）
+
+[[ASML]] 是 Samsung 主要微影設備供應商、Samsung 是 ASML **第二大客戶（~25% 營收）**：
+
+- **HBM4 + DRAM 1c / 1d nm EUV 全棧**：Samsung Pyeongtaek P4 + P5 + Hwaseong + Taylor TX 全廠 EUV 機台
+- **Samsung Foundry 2nm + 1.4nm 全用 High-NA EUV**：跟 TSMC + Intel 並列 High-NA EUV 首批 commercial 客戶
+- **Tesla AI6 USD 16.5B Foundry 訂單在 Taylor TX 用 ASML 機台**製造（HBM4 業界第一家量產 Pyeongtaek 2026-02 也是 ASML EUV）
+- **三軌需求驅動**：(1) HBM4 / HBM4E EUV 用量倍增 + (2) Foundry 2nm 救 Tesla AI6 訂單 + (3) DRAM 1c / 1d nm EUV → Samsung 對 ASML 採購結構性 +30-50%
+- **Samsung 拿 ASML 機台救 Foundry 落後 TSMC 65 個百分點**（Tesla AI6 + Qualcomm S8E5 + Galaxy S26 Exynos 2600 都是 ASML EUV 機台製造）
+- 跟 [[半導體基礎建設化]]「五大 chokepoint」位置：Samsung 是 ASML 25/25 chokepoint + [[Imec]] 24/25 R&D + [[Disco Corp]] 24/25 切割設備的 5 大客戶之一（韓國陣營承上 anchor）
+
 ## 相關連結
 
 - [[Samsung Electro-Mechanics]]（**子公司，請勿混淆**、SEMCO 上市分離、做 ABF 載板 + MLCC + 相機模組 + 玻璃載板 pilot）
@@ -241,6 +252,8 @@ confidence: high
 - [[宋分（美股送分題）]]
 - [[CXMT]]
 - [[中國半導體國產替代（投資對沖視角）]]
+- [[ASML]]（第二大客戶 ~25% 營收 + HBM4 + 2nm Foundry + DRAM EUV 全棧）
+- [[Imec]]（200+ 全球會員之一、共建 Samsung 2nm + High-NA EUV R&D）
 
 ## Source URLs
 

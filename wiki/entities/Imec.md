@@ -56,10 +56,12 @@ confidence: high
 
 ### 供應層
 
-- 跟 [[ASML]] 關係（**最重要合作**）：
-  - **ASML High-NA EUV 首台 pilot 機在 Imec**（2023 H2 安裝、共用 ramp）
-  - ASML 跟 Imec 是長期 strategic partner、High-NA EUV / EUV 全套 R&D 都在 Imec pilot fab 完成
-  - **2026-2027 High-NA EUV 商業 ramp 前的 5 年 R&D 全部在 Imec**
+- 跟 [[ASML]] 關係（**最重要合作 + 互鎖 anchor**）：
+  - **ASML High-NA EUV 首台 0.55 NA pilot 機在 Imec**（2023 H2 安裝、EXE:5000 系列、共用 ramp）= 全球第一台 commercial-ramp 預備機台
+  - ASML 跟 Imec 是長期 strategic partner（2018-2026 累計 5+ 年 High-NA EUV / EUV 全套 R&D）
+  - **2026-2027 High-NA EUV 商業 ramp 前的 5 年 R&D 全部在 Imec**（Intel 18A + TSMC N2 + Samsung 2nm 商業 ramp 都是 Imec pilot 預備後接續）
+  - **互鎖意義**：Imec 24/25 ⚠️ 特殊評估（R&D 公共財）+ [[ASML]] 25/25（製造設備）= 「**設計 → R&D → 製造**」鏈條最終極兩層 anchor 互鎖
+  - 在 [[Bottleneck Theory（瓶頸論）]] 框架：**ASML 層 -1（微影設備）+ Imec 層 0+（R&D 預備）**「上游兩層 anchor」共軛壟斷
 - 跟 [[TSMC]] / [[Samsung Electronics]] / [[Intel]] / [[GlobalFoundries]] 關係：
   - 四家都是 Imec 主要會員、合作 2nm / GAA / High-NA EUV / SiPho 等
   - TSMC 2nm + Samsung 2nm + Intel 18A + GlobalFoundries SiPho 全部受惠 Imec R&D

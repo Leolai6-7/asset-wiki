@@ -2091,3 +2091,48 @@
   - **iPhone 集中度 50% 營收 + App Store 30% 抽成法律壓力（Epic / EU DMA）= 估值上限**：2026-2028 估減至 15-27% → Services 毛利率壓縮、估值上限打 8-9 折
   - **最 surprising 發現**：Apple **22/25** 跟 [[Eaton]] 22 / [[Schneider Electric]] 22 / [[Cadence]] 22 / [[Vertiv]] 22 **同分但角色不同**——Apple 是「**Edge AI 終端品牌**」、不純套用「賣水人」框架；以為「Apple 是消費電子品牌、估值上限被消費換機循環約束」、實際是「**Edge AI infra 結構性 anchor + Apple Silicon 自研全棧 + 全球 active devices ~2B+ + Services 75%+ 毛利 recurring**」四軸結構性 anchor、可進跨戰場 anchor 軌底倉 5-10% 配置
 - 累計：**67 concept + 114 entity + 42 summary**（#D1 +1 entity [[Apple|Apple Inc.]] + 5 entity / concept update [[賣水人選股邏輯（投資版）]] / [[6 戰場交集圖譜]] / [[手機與邊緣晶片端 TGV-FOPLP watchlist]] / [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]] / [[鴻海 2317]] / [[廣達 2382]]）
+
+### 2026-06-09 ingest #D2 — ASML entity 補位（頂級真賣水人 #1 + wiki 唯一 25/25 + 14 refs 缺位）
+- 觸發：Leo 「補 ASML entity（頂級真賣水人 #1、14 refs 缺位、賣水人之中的賣水人核心 anchor）」+ D 系列 ingest 第二 dispatch
+- 任務背景：
+  - 既有 [[賣水人選股邏輯（投資版）]] master 表 line 41「ASML 微影設備 | 任何 fab 擴產都要」+ line 49「設備：ASML、AMAT、KLAC、LRCX」+ line 154「頂級真賣水人」段——ASML 在 wiki 14 個位置被引用、但 entity 缺位
+  - 既建頂級真賣水人六巨頭：[[Disco Corp]] 24 / [[村田 Murata]] 24 / [[信越化學]] 24 / [[SUMCO]] 24 / [[Synopsys]] 24 / [[Imec]] 24（特殊評估）——ASML 應為頂級 anchor、補位後成為 wiki 唯一 25/25 entity（+1 IP 滿分）
+  - 跟既建 [[Imec]] entity High-NA EUV pilot fab 互鎖、跟 [[TSMC]] / [[Samsung Electronics]] / [[Intel]] 客戶關係構成「先進製程供應鏈唯一不可替代環節」
+  - 跟 [[Bottleneck Theory（瓶頸論）]] 七層之外的「層 -1 微影設備層」需新建框架補位（七層之外的上游 chokepoint）
+  - 跟 [[半導體基礎建設化]]「半導體基礎建設五大 chokepoint」表 ASML 五軸欄位「—」未填、需補位
+- 1 家落地：
+  - **[[ASML]]（NASDAQ: ASML / AEX: ASML）新建 entity** ⭐⭐⭐ **頂級真賣水人 #1 + wiki 唯一 25/25**
+    - 一句話：全球微影設備 >90% 市佔 + EUV 100% 壟斷（無對手、Nikon / Canon 已退出 EUV）+ High-NA EUV first-mover（0.55 NA、2023 量產、5 年領先）+ 50+ 年 R&D 累積 + Zeiss optics 獨家（25% 股東）+ 1,000+ 供應商整合 + Cymer 13.5nm 光源 IP（2013 收購）+ service + spare parts + upgrade recurring 50%+
+    - 三層 thesis：
+      - 產業層：微影設備全球 >90% 市佔 / EUV 100% 壟斷 / High-NA EUV first-mover / TAM FY2025 ~€30B + FY2030E ~€60-80B CAGR 15%+（ASML 自家 Investor Day 2024 指引）/ 客戶 TSMC 30% + Samsung 25% + Intel 15% + SK Hynix + Micron + GlobalFoundries 全球先進製程 fab AVL
+      - 目的層：不是賣晶片是賣「製造晶片的機器」+ R&D 服務 + 全球 service 網 + 製程定義權；護城河五層（EUV 13.5nm 光源 IP + Zeiss optics 獨家 + 1,000+ 供應商整合 + 50+ 年 R&D 累積 + service 50%+ recurring）；High-NA EUV 5 年領先（Nikon / Canon 進入 EUV 需 5-10 年實質不可能）
+      - 供應層：真正的「賣水人之中的賣水人」+ 不押任何 fab / 任何 fabless / 任何技術路線 + 所有先進製程都要 ASML；跟 [[Imec]] 互鎖（Imec 是 ASML High-NA EUV first pilot fab、2023 H2 首台 0.55 NA 出貨給 Imec、預備層 anchor）；跟 [[TSMC]] / [[Samsung Electronics]] / [[Intel]] 是「製程共建夥伴」
+    - 五軸 **25/25** ⭐⭐⭐ — **wiki 唯一 25/25 entity、頂級真賣水人 #1**：
+      - 路線敏感度（逆向）5：完全中性、不押任何 fab / fabless / 技術路線、所有先進製程都要 EUV / High-NA EUV
+      - 站別關鍵度 5：全球唯一 EUV 供應商、無法繞過、所有先進製程量產的「製造起點」
+      - 耗材 recurring 5：service + maintenance + upgrade + spare parts recurring 50%+ + 機台 lifetime 20+ 年持續收費
+      - IP 5：50+ 年 R&D 累積 + 1,000+ 供應商整合 + Cymer 13.5nm 光源 IP（2013）+ Zeiss optics 獨家（25% 股東）= IP 護城河行業頂級
+      - 客戶分散 5：TSMC 30% + Samsung 25% + Intel 15% + SK + Micron + GlobalFoundries + Rapidus 完全分散、無單一客戶 > 35%
+    - 跟其他頂級真賣水人比較：ASML **+1 IP 滿分**（其他六家頂級真賣水人 Disco / 村田 / 信越 / SUMCO / Synopsys / Imec IP 普遍 4/5、ASML IP 5/5）
+    - 財務 snapshot：股價 ~€700-800（AEX）/ USD ~$760-870（NASDAQ ADR）/ 市值 ~€280-320B（USD ~$310-360B Mega Cap）/ Forward PE 30-35x / EBIT margin 35%+ / FY2025 營收 ~€30B + backlog €36B+（2025 末、1.2 年能見度）/ R&D ~€4B（~13% 營收）/ EUV 累計出貨 ~250 台（2017-2025）/ High-NA EUV 出貨 < 10 台（2025 末、ramp 起步）/ 12 月股價漲幅 +20-50% / Re-rate **4/4 滿**
+
+- 關鍵發現：
+  - **ASML = wiki 唯一 25/25 entity**：跟六家 24/25 頂級真賣水人對比、ASML +1 IP 滿分（50+ 年 R&D + Zeiss + Cymer 護城河行業頂級）= 「**EUV 100% 壟斷 + High-NA EUV 5 年領先 + 全球微影設備唯一供應商**」是 wiki 中最完美的「賣水人之中的賣水人」哲學
+  - **半導體基礎建設五大 chokepoint 唯一滿分 anchor**：其他四個 chokepoint 都有「雙頭」（矽晶圓信越 + SUMCO）或「三巨頭」（EDA 三巨頭）分食、只有 ASML 是「單一供應商 + 100% 壟斷 + 5 年領先 + 全球 fab AVL 完全分散」
+  - **「賣水人之中的賣水人」架構級四巨頭擴張**：[[ASML]] 25（製造設備）+ [[Synopsys]] 24（EDA 訂閱年金）+ [[Cadence]] 22（EDA #2）+ [[Imec]] 24 ⚠️ 特殊評估（R&D 公共財）= 「**設計 → R&D → 製造**」鏈條最終極四層 anchor 完整
+  - **ASML + Imec 雙層 anchor 互鎖**：2023 H2 ASML High-NA EUV 0.55 NA 首台 pilot 機出貨給 Imec、構成「**製造設備 + R&D 公共財**」共軛壟斷、是 wiki 「**設計（EDA）→ R&D（Imec）→ 製造（ASML）**」鏈條最完整 anchor
+  - **Bottleneck Theory 七層之外的「層 -1 微影設備層」**：Serenity 七層聚焦「fabless / module / 系統整合視角」、ASML 微影設備層是「fab 製造起點」、是七層之前的「層 -1」+ Imec 是「層 0+」、構成 wiki 對 Serenity 框架的上游補位
+  - **美中科技戰 EUV 對中出口禁令反而加深 ASML 護城河**：中國 SMEE 自研 EUV 需 10-15 年（光源 + 反射鏡 + 製程 know-how + 1,000+ 供應商全要重來、結構性無解）+ 中國市場 25-30% → 15-20% 短期下修但先進製程客戶 + High-NA EUV ramp 完全補回 = ASML 5 年領先護城河結構性更深
+  - **Re-rate 三角形 4/4 滿但估值已 price in**：買 ASML 不是抓 re-rate、是抓「**製造設備基礎建設化 + High-NA EUV 5 年首發 + 全球微影設備唯一供應商**」三層 anchor、Forward PE 30-35x 已 price in 結構性壟斷
+  - **TSMC / Samsung / Intel 客戶關係**：TSMC 30% + Samsung 25% + Intel 15% 三大客戶完全分散、且「製程共建夥伴」結構性（不是傳統供應商-客戶關係）= ASML 是先進製程「製程定義者」
+
+- 連動更新：
+  - [[賣水人選股邏輯（投資版）]] master 表：(1) line 41「賣水人之中的賣水人」段加 [[ASML]] 25/25 row（頂部）+ (2) line 49「設備」段 ASML 改 [[ASML]] wikilink + (3) 頂級真賣水人段最頂部加 ASML 25/25 row（Disco 24 之前）+ (4) 關鍵發現段「頂級真賣水人」「賣水人之中的賣水人」「半導體基礎建設五大 chokepoint」三段全面 rebase 為「ASML 25 + 6 家 24 + Cadence 22」架構
+  - [[Bottleneck Theory（瓶頸論）]] concept：新建「七層之外的『層 -1 微影設備層』+ 『層 0+ R&D 預備層』」段、ASML 25/25 ⭐⭐⭐ + Imec 24/25 ⚠️ 雙層 anchor 互鎖、相關連結補 ASML 條目
+  - [[半導體基礎建設化]] concept：「半導體基礎建設五大 chokepoint」表 ASML 五軸欄位從「—」改為「25」+ 補充 ASML 25/25 唯一滿分 anchor + ASML + Imec 雙層 anchor 互鎖段
+  - [[Imec]] entity：跟 ASML 關係段補完「互鎖意義」段（Imec 24 + ASML 25 = 「設計 → R&D → 製造」鏈條最終極兩層 anchor）+ Bottleneck Theory 框架對應
+  - [[TSMC]] entity：新建「ASML 客戶關係（核心供應商 + 製程定義者）」段（最大客戶 30% 營收 + N2 + A16 critical path + High-NA EUV first commercial 客戶）+ 相關連結補 ASML
+  - [[Samsung Electronics]] entity：新建「ASML 客戶關係（第二大客戶 + HBM4 + Foundry 雙引擎依賴）」段（25% 營收 + HBM4 + 2nm Foundry + DRAM EUV 全棧）+ 相關連結補 ASML
+  - [[Intel]] entity：「投資角度」段 ASML 改 [[ASML]] wikilink + 新建「ASML 客戶關係（第三大客戶 + High-NA EUV first commercial 客戶）」段（15% 營收 + 18A + 14A High-NA EUV + Imec 三角互鎖）+ 相關連結補 ASML
+  - [[index.md]]：標的：半導體製造 / 算力供應鏈段最頂部新建 ASML entity 條目（完整定位 + 五軸 + Re-rate）+ 待 ingest backlog 標 ASML 已建狀態
+- 累計：**67 concept + 115 entity + 42 summary**（#D2 +1 entity [[ASML]] + 4 entity update [[Imec]] / [[TSMC]] / [[Samsung Electronics]] / [[Intel]] + 2 concept update [[Bottleneck Theory（瓶頸論）]] / [[半導體基礎建設化]] + master 表全面 rebase）

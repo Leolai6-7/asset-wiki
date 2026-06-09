@@ -40,6 +40,27 @@ confidence: medium
 
 → **[[Tower Semiconductor]]** 在 Serenity 的 framework 中地位特殊：**跨第 4-5 層的 silicon photonics foundry**（為 SiPho PIC 提供代工平台、是 1.6T PIC 唯一量級供應商）、Serenity 將其與 **Soitec ($SOI)** 並列為「**Safest Longs**」defensible compounder（vs SIVE 高 beta、AAOI 中 beta）。
 
+## ⭐ 七層之外的「層 -1 微影設備層」+ 「層 0+ R&D 預備層」（2026-06-09 #D2 ASML 補位）
+
+Serenity Bottleneck Theory 七層聚焦在「**原料 → 模組 → 系統整合**」物理鏈條、但 **wiki 校準補完七層之外的兩層上游 anchor**：
+
+| 層 | 名稱 | Chokepoint 性質 | 代表 |
+|---|---|---|---|
+| **層 -1** | **微影設備層**（全球半導體鏈最終極 chokepoint） | EUV 100% 壟斷 + High-NA EUV 5 年領先 + 所有先進製程的「製造起點」 | **[[ASML]]** 25/25 ⭐⭐⭐（wiki 唯一 25/25、無對手、Nikon / Canon 已退出 EUV）|
+| **層 0+** | **R&D 預備層** | pre-competitive R&D + 200+ 會員中立平台 + High-NA EUV pilot fab | **[[Imec]]** 24/25 ⚠️ 特殊評估（非商業 entity） |
+
+⭐ **ASML EUV = 全球半導體鏈最終極 chokepoint**：
+- Serenity 七層是「**fabless / module / 系統整合視角**」、ASML 微影設備層是「**fab 製造起點**」、是七層之前的「層 -1」
+- **任何 chokepoint 突破前都要透過 ASML 機台量產**（含 [[AXTI]] InP / [[信越化學]] pBN / Sumitomo Electric InP substrate / [[SIVE]] CW DFB laser / [[Tower Semiconductor]] SiPho foundry 全部上游 chokepoint）
+- ASML 是「**製造設備基礎建設化最完美樣本**」、從週期性設備供應商升級為「製程定義者」（與 [[TSMC]] / [[Samsung Electronics]] / [[Intel]] 共同定義先進製程的物理可能性）
+
+⭐ **ASML + Imec 互鎖 = 「製造設備 + R&D 公共財」雙層 anchor**：
+- **2023 H2 ASML High-NA EUV 0.55 NA 首台 pilot 機出貨給 Imec**（全球第一台 commercial-ramp 預備）
+- Imec 24/25 ⚠️ 特殊評估（R&D 公共財）+ ASML 25/25（製造設備）= 「**設計 → R&D → 製造**」鏈條最終極兩層 anchor 互鎖
+- 美中科技戰 EUV 對中 100% 出口禁令**反而加深 ASML 5 年領先護城河**（中國 SMEE 自研 EUV 需 10-15 年、結構性無解）
+
+⭐ **客戶分散度結構性**：[[TSMC]] 30% + [[Samsung Electronics]] 25% + [[Intel]] 15% + [[SK Hynix]] + [[Micron]] + [[GlobalFoundries]] + Rapidus = **無單一客戶 > 35%**，跟 Serenity「客戶集中度」chokepoint 評估維度一致——ASML 是唯一「客戶極度分散 + 全球壟斷」雙重 anchor。
+
 ## Demand Wave → Architecture Shift → Bottleneck/Chokepoint → Repricing Path
 
 [[Serenity]] 方法論的四步反演路徑：
@@ -110,6 +131,8 @@ Serenity 區分三個概念、Leo 也應該分清：
 - ⭐ **[[Eoptolink]]**（第 5 層 OEM 模組廠中國 #2 + LPO 路線 first-mover + 電信客戶差異化 + Thailand + Vietnam 雙海外廠、2026-06-09 補完 entity Beneficiary LPO 純度型代表、跟 Innolight 並列「中國 OEM 雙頭」合計中國 60-70% 市佔）
 - ⭐ **[[Foxconn Interconnect FIT]]**（第 6 層 connector 鴻海集團 80% 持股 + AI server ODM 內製、2026-06-09 補完 entity Beneficiary 代表）
 - ⭐ **[[GlobalFoundries]]**（跨第 4-5 層 SiPho foundry 對手位 + Ayar Labs 戰略投資 + Mubadala 88% 持股、2026-06-09 補完 entity Tower 對沖）
+- ⭐⭐⭐ **[[ASML]]**（**七層之外的「層 -1 微影設備層」+ 全球半導體鏈最終極 chokepoint + EUV 100% 壟斷 + High-NA EUV 5 年領先 + 25/25 滿分 wiki 唯一頂級真賣水人 #1**、2026-06-09 #D2 補完 entity）
+- ⭐ **[[Imec]]**（七層之外的「層 0+ R&D 預備層」+ 2023 H2 ASML High-NA EUV 首台 0.55 NA pilot 機安裝、2026-06-09 補完 entity）
 - [[CPO 供應鏈圖譜]]（同類七層、台股版）
 - [[賣水人選股邏輯（投資版）]]、[[控制點轉移（投資版）]]、[[跳出個股看三層：產業、目的、供應]]
 - [[AI infra CapEx 三階段論]]、[[Jevons Paradox（投資版）]]、[[Hyper Rail / Multi-Rail（光通訊整合技術）]]

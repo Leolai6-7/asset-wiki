@@ -52,7 +52,18 @@ confidence: high
 
 - 是 [[修正三階段]] 後期可能的逆勢加碼候選
 - 但**單一觸發點**（18A 良率）= 高風險高 reward
-- 對沖：拿 ASML / AMAT 同步追蹤（設備鏈是 fab 擴產的賣水人）
+- 對沖：拿 [[ASML]] / AMAT 同步追蹤（設備鏈是 fab 擴產的賣水人）
+
+## ⭐ ASML 客戶關係（第三大客戶 + High-NA EUV first commercial 客戶）
+
+[[ASML]] 是 Intel 主要微影設備供應商、Intel 是 ASML **第三大客戶（~15% 營收）**+ **High-NA EUV first commercial 客戶**：
+
+- **Intel 18A + 14A 全用 High-NA EUV**：跟 TSMC N2 + Samsung 2nm 並列 High-NA EUV 首批 commercial 客戶（2024-2026 接收）
+- **Terafab $25B anchor + Arizona + Ohio + Israel + Magdeburg 德國 fab**：全部用 ASML EUV + High-NA EUV 機台
+- **Intel 是 [[Imec]] 主要會員**：跟 ASML + Imec 共建 High-NA EUV pilot fab R&D（2018-2026 累計 5+ 年）
+- **18A 良率風險直接影響 ASML High-NA EUV 商業化時程**：若 Intel ramp 慢 → High-NA EUV 商業化延後 → ASML 短期受影響（但 backlog 鎖死）
+- **Intel + ASML + Imec 三角互鎖**：High-NA EUV 首批商業化、共定義「製程 + 設備 + R&D」物理可能性
+- 在 [[半導體基礎建設化]]「五大 chokepoint」位置：Intel 是 ASML 25/25 chokepoint 的「first commercial 客戶」、是 Imec pre-competitive R&D 直接傳承的「商業 ramp 受惠者」
 
 ## 玻璃基板（Glass Substrate）路線
 
@@ -88,4 +99,6 @@ confidence: high
 - [[半導體基礎建設化]]
 - [[效率→安全切換]]
 - [[玻璃基板與 FOPLP 賽道]]、[[Absolics]]、[[Samsung Electro-Mechanics]]、[[Amkor]]、[[欣興]]（玻璃基板 2030 anchor 鏈）
+- [[ASML]]（第三大客戶 ~15% 營收 + Intel 18A / 14A High-NA EUV first commercial 客戶）
+- [[Imec]]（Intel 是主要會員、共建 High-NA EUV pilot fab R&D 預備層）
 - [[Serenity]]、[[sennn.nnna]]（2026-06-08 玻璃基板時間線 anchor 引用來源）

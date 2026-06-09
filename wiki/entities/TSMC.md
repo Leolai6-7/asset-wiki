@@ -51,6 +51,17 @@ confidence: high
 - **CoWoS 是 AI 晶片瓶頸**（先進封裝）：[[CapEx 見頂辯論]] 的供給端錨點
 - **AI 算力供應鏈**：所有 AI 晶片 [[NVDA]]、[[AVGO]] 都要過台積電
 
+## ⭐ ASML 客戶關係（核心供應商 + 製程定義者）
+
+[[ASML]] 是 TSMC 最大微影設備供應商、TSMC 是 ASML **最大客戶（~30% 營收）**：
+
+- **N5 / N3 / N2 / A16 全用 EUV + High-NA EUV**：TSMC 先進製程節點完全依賴 ASML 機台
+- **TSMC Investor Day 2024-2025**：公開 ASML 是 N2 + A16 ramp **唯一 critical path 供應商**
+- **CoWoS-L + InFO + 後段封裝**：TSMC CoWoS 月產能 2024 末 35K → 2026 末目標 130K（3.7x）→ ASML 後段 lithography 連動成長
+- **High-NA EUV 商業客戶**：TSMC 是 ASML High-NA EUV（0.55 NA、EXE:5000）首批 commercial 客戶之一（跟 Intel + Samsung 並列）
+- **製程共定義**：TSMC + ASML + [[Imec]] 三方共同定義 2nm + 1.4nm + A16 物理製程可能性、不是「客戶 vs 供應商」、是「製程共建夥伴」
+- 跟 [[半導體基礎建設化]]「五大 chokepoint」位置：TSMC（晶圓代工）+ ASML（微影設備）+ [[信越化學]] / [[SUMCO]]（矽晶圓）+ [[Disco Corp]]（切割）+ [[Synopsys]] / [[Cadence]] EDA = 五大 chokepoint 完整鏈條
+
 ## CoPoS（CoWoS 玻璃中介層版）
 
 TSMC 的 panel-level 玻璃中介層路線、跟 [[Absolics]] / [[Samsung Electro-Mechanics]] 的 panel-level glass interposer 對撞、但**主要走自用 + 委外 [[Amkor]] / [[日月光 ASE]] 模式**。
@@ -84,4 +95,7 @@ TSMC 的 panel-level 玻璃中介層路線、跟 [[Absolics]] / [[Samsung Electr
 - [[NVDA]]、[[AVGO]]、[[AMD]]
 - [[玻璃基板與 FOPLP 賽道]]、[[CoWoS 三傑差異化]]、[[先進封裝互聯路線圖]]
 - [[Absolics]]、[[Samsung Electro-Mechanics]]、[[Amkor]]、[[日月光 ASE]]、[[Powertech 力成]]、[[Corning]]、[[欣興]]
+- [[ASML]]（最大微影設備供應商、N2 + A16 critical path、High-NA EUV first commercial 客戶）
+- [[Imec]]（跟 ASML 共建 High-NA EUV pilot fab、TSMC 是 Imec 主要會員）
+- [[Disco Corp]]、[[信越化學]]、[[SUMCO]]、[[Synopsys]]、[[Cadence]]（半導體基礎建設五大 chokepoint 共同 anchor）
 - [[Serenity]]、[[sennn.nnna]]（2026-06-08 玻璃基板時間線 anchor 引用來源）
