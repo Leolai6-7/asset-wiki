@@ -2,6 +2,105 @@
 
 每次 ingest / update / lint / query 的紀錄。
 
+## 2026-06-09（L2 — 宋分 substack 中 9 URL fetch + 比對 + 補建 9 篇 summary）
+
+### 觸發
+9 個宋分 URL（含 5 篇 substack note 短文 + 4 篇 deep dive）的 fetch + 比對 + 補建。
+
+### 落地（9 篇全部新建、零重複）
+
+#### Note 短文（5 篇）
+
+1. **[[宋分 note — 備忘錄 #7 Follow-up QA（token 定價）]]**（2026-04-20、substack note c-246274443）
+   - 核心：Token 會便宜、**「不可替代的 token」不會便宜**
+   - AI compute = **區域型電力市場**而非全球商品市場
+   - Revenue re-rate 靠 per-token → per-task → subscription package 升級
+   - 最佳 valuation indicator：**per employee token usage**
+   - **Workflow lock-in = 估值溢價最深源頭**
+   - 對接 [[AI 利潤奇點（Token 經濟學拐點）]] follow-up + [[AI 訂閱制 unit economics]] 升級 + [[控制點轉移（投資版）]] 新控制點
+
+2. **[[宋分 note — 市場解碼 #19 ROIC × Organic Growth]]**（2026-04-22、substack note c-248302019）
+   - 核心：市場不是找**成長最快**的、是找**成長可以複利**的
+   - 三角條件：ROIC 上升（資本效率）+ Organic Growth 持續（再投資空間）+ **兩者同時** = re-rate 觸發
+   - 單靠任一條件都不夠
+   - Amazon 案例：低毛利電商養高毛利 AWS
+   - 補完 [[Re-rate 捕捉法]]「ROIC × Organic Growth 雙條件」段
+   - 跟 [[宋分 #19 — Amazon 資本週期與衛星 re-rate]] 為方法論精煉版 / 深度展開版的搭配
+
+3. **[[宋分 note — TXN +19% re-rate 三段論]]**（2026-04-24、substack note c-247316352）
+   - 核心：**新高 PE ≠ re-rate 結束**
+   - 三段估值 framework：階段 1（敘事建立 PE 擴張）/ 階段 2（基本面追上 股價盤整）/ 階段 3（成長減速 PE 壓縮）
+   - TXN：階段 3 → 階段 1 移位、資料中心 +60% YoY / +90% QoQ、2026 PE 36x vs 歷史 25x
+   - **敘事與基本面的時間差 = alpha 來源**
+   - 對接 [[宋分 #13 — 類比晶片結構性重估]] + [[Re-rate 捕捉法]] + [[Texas Instruments TXN]] Step 3 待補入
+
+4. **[[宋分 note — 市場解碼 #20 看不賺錢卻變大牛股]]**（2026-04-29、substack note c-250975884）
+   - 核心：**會計上的「利潤」≠ 真正的價值創造能力**
+   - 案例：Amazon 物流 / Prime / 早期 AWS / Netflix 內容庫 / Microsoft license→subscription 都費用化但建護城河 vs WeWork 真燒錢失敗
+   - 三條評估準則（防禦性 + 現金流可預測性 + 規模效率）+ 6 題 checklist
+   - **Forward PE 看起來貴 ≠ 真的貴**——若大部分「貴」來自費用化策略投資
+   - 對接 [[宋分 #19 — Amazon 資本週期與衛星 re-rate]] + [[Re-rate 捕捉法]] + [[Forward PE 估值法]] 補入「策略投資 adjusted PE」
+
+#### Deep dive（4 篇）
+
+5. **[[宋分 #19 — Amazon 資本週期與衛星 re-rate]]**（2026-04-21、/p/amazonamazonre-rate）
+   - 核心：Amazon 不是成長股、是**資本週期股**
+   - 三段資本週期（電商物流 → AWS 高毛利 → AI + 衛星基礎建設）
+   - 會計策略隱藏護城河（費用化的策略投資）
+   - **ROIC × Organic Growth 交匯點 = re-rate 觸發**
+   - 廣告 + Prime = 隱藏 margin engine
+   - **衛星 Kuiper = 下一輪 re-rate 觸發**（連網能力 + AWS vertical stack）
+   - 追蹤指標四件套（單位成長 vs 配送成本比 + 第三方服務費 + backlog YoY + 營益率觸底）
+   - 對接 [[AMZN]] 待補「衛星 + 廣告 Prime margin engine」+ [[Re-rate 捕捉法]] + [[FCF 拐點]] + [[控制點轉移（投資版）]]
+
+6. **[[宋分 #24 — 怎麼知道 price in 了沒有]]**（2026-04-26、/p/price-in）
+   - 核心：市場運作「**預期 → 驗證 → 定價**」三階段
+   - 散戶最容易犯的錯：用「一天波動」判斷「長期結構」
+   - 判斷 price in 的四件事（共識預期 + 股價走法 + 法說會反應 + 異常成交量/隱含波動率）
+   - 資金行情中**機構反而更保守** = 資金行情前段 → 中後段的轉折訊號
+   - 補完 [[預期差]]「實戰判斷 price in 四件事」+ [[市場四階段：懷疑／驗證／共識／反轉]] + [[散戶 vs 機構買股差異]]
+
+7. **[[宋分備忘錄 #8 — 初期牛市結構（邊漲邊懷疑）]]**（2026-04-27、/p/8）
+   - 核心：**創新高 ≠ 過熱，邊漲邊懷疑 = 初期牛市典型**
+   - 經濟動能從「政府政策驅動」轉向「**企業自發投資 + 生產力**」
+   - 實體 CapEx 週期 > 金融週期更持久
+   - EPS 兩條腿（營收加速 + 成本控制）= 正向營運槓桿
+   - 資金重配（記憶體 / 光通訊擁擠 → CPU 復興 + 核心算力 anchor）
+   - 財報驗證三件事（營收變動率加速 + 訂單積壓增長 + AI 收入明確量化）= 初期 → 中期牛市拐點
+   - 對應 [[市場四階段：懷疑／驗證／共識／反轉]] 驗證階段 + [[CapEx 見頂辯論]] 正面論證
+
+8. **[[宋分 #25 — 資金行情下一步（避免裸泳）]]**（2026-05-02、/p/465）
+   - 核心：**資金行情 ≠ 基本面行情**
+   - 過熱訊號四件事（估值脫離現實 + 敘事無法被反駁 + 邊際資金變弱 + **對壞消息失去反應 = 頂訊號**）
+   - 資金行情 → 分化行情（強勢股續漲、弱勢股續跌）
+   - 操作建議：提高持股標準 + 砍無優勢部位 + 接納「賺得少但活得久」
+   - 與 #8（備忘錄）並列：**雙視角**（牛市仍在初期 + 資金行情末段該怎麼換檔）
+
+9. **[[宋分備忘錄 #9 — 確定性分化（不是全面牛市）]]**（2026-05-04、/p/9ai）
+   - 核心：**這不是全面牛市，是確定性分化**
+   - Apple「重新分配定價權」GM 49.3% 通膨下仍 expand = pricing power 範本
+   - Microsoft GitHub Copilot 從 seats → **seats + usage** = SaaS pricing 範式革命
+   - Amazon + Google 透過自製晶片從「**用 AI**」變「**賣 AI**」估值重估
+   - Meta framework challenge（ROAS +20% 但隱藏在 ad revenue、敘事斷層）
+   - 歷史 pattern：「**看不見的營收**」是最大贏家（早期 AWS 模式）
+   - 對應 [[AI 利潤奇點（Token 經濟學拐點）]] Copilot 奇點實證 + [[AI 變現能見度分歧（證明給我看階段）]] 最強現場 case
+
+### 命名衝突處理
+- 我的 `宋分 #24`、`#25`、`備忘錄 #8` 與現有並行 subagent 已建檔案**主題不同**（標題後綴區分）：
+  - #24：怎麼知道 price in 了沒有（**本批次**） vs 漲回來時三個錯（既有 L1）vs AMD CPU AI 戰場（既有 L3）
+  - #25：資金行情下一步（**本批次**）vs 機構獲利了結節奏（既有 L1）vs 連續上修 EPS（既有 L3）
+  - 備忘錄 #8：初期牛市結構（**本批次**）vs AI 獲利擴散期（既有 L3）
+  - Obsidian wikilink 用完整 title 解析，三組各自正確 resolve、無 collision
+
+### 跨 wiki anchor
+- 全部 9 篇全部新建、零重複
+- 9 個 raw + 9 個 summary
+- 跨庫對接：本批次 5 篇 deep dive 是 [[宋分（美股送分題）]] 核心方法論（AI 變現 + price in + 分化牛市 + Amazon ROIC framework）的閉環
+- index.md 補入「**宋分 note 系列**」新分段（4 條）+ 宋分備忘錄段 #8 / #9 補位 + 宋分教學系列 #19 / #24 (mine) / #25 (mine) 補位
+- 確定性分化（備忘錄 #9）= 本批次**最重要思想點**：分化牛市 framework 比初期牛市更實用、因為**換檔操作直接落地**
+
+---
+
 ## 2026-06-09（L1 — 宋分 substack 9 URL fetch + 比對 + 補建 3 篇 summary）
 
 ### 2026-06-09 ingest #L1 — 宋分 substack URL 1-9 對照 + 補建未收錄
