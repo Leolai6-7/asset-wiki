@@ -2586,3 +2586,134 @@ Leo subagent dispatch — 補完 timing 賽道「**[[SiTime]] MEMS pure-play 高
 ## 累計
 
 **72 concept + 136 entity + 53 summary**（#H1 +5 entity [[TXC]] / [[NDK]] / [[Epson]] / [[Kyocera]] / [[Rakon]] + 1 entity update [[SiTime]] + 1 concept update [[賣水人選股邏輯（投資版）]] + 4 concept update [[CPO 供應鏈圖譜]] / [[NVDA 網路 stack map]] / [[Hyper Rail Multi-Rail（光通訊整合技術）]] / [[被動元件第三次週期（K 型復甦 + 三道防線）]]）
+
+---
+
+## 2026-06-09 #J1 — codex 對抗審核 P1 缺口 9 家補位（前段設備三巨頭 ASML peer + SiC/GaN 對照 + 能源結構性剛需 utility + FOMO SOC KOL）⭐
+
+### 背景
+
+**codex 對抗審核**找出 5 條 P1 缺口、其中 **4 條是 entity 缺位**：
+- **缺口 #1**：FOMO SOC ~45 次 reference 但無 entity（cross-wiki ref count #1 孤兒）
+- **缺口 #2**：前段設備字串提及 ASML / AMAT / KLAC / LRCX 但 AMAT / KLA / Lam 三家無 entity（前段設備鏈條完整度不足）
+- **缺口 #3**：宋分 #20 能源結構性剛需 ~82 次 reference 但 NRG / PSEG / Duke utility / 核電 fleet anchor 無 entity（「結構性剛需」narrative 缺 utility 對接）
+- **缺口 #4**：800V HVDC 物理鐵壁論提及 Wolfspeed + onsemi 但無 entity（白區功率 IC 段不完整）
+
+### 操作
+
+#### 新建 9 entity（**+9** = 145 entity）
+
+**前段設備三巨頭 ASML peer calibration（3 家）**：
+- [[Applied Materials]]（NASDAQ: AMAT）22/25 — CVD/PVD/etch/CMP/implant 多站別覆蓋 + AGS recurring 22-25%
+- [[KLA Corporation]]（NASDAQ: KLAC / 科磊）22/25 — Process Control >50% 壟斷 + EUV mask inspection（APMI）+ EBIT margin 40%+ 半導體設備最高
+- [[Lam Research]]（NASDAQ: LRCX）21/25 — ALE/ALD first-mover + 3D NAND >50% 結構性壟斷
+
+**SiC / GaN 功率半導體對照（2 家）**：
+- [[Wolfspeed]]（NYSE: WOLF）10-12/25 ⚠️ NOT-INVESTABLE / reference only — Chapter 11（2025-06-30 申請 / 2025-09 重組批准 / 2026 Q1 重新上市）+ Mohawk Valley fab 良率不達 + Capex/利息壓垮、純度 pure-play 反面教材
+- [[onsemi]]（NASDAQ: ON / 安森美）19/25 — SiC + IGBT + Image Sensor 三軌 IDM、跨產業現金流穩定、Wolfspeed 退場接管市佔
+
+**能源結構性剛需 utility / 核電 fleet（3 家）**：
+- [[NRG Energy]]（NYSE: NRG）20/25 — 美國第二大 retail electricity（8M users）+ Texas ERCOT firm power + Vivint Smart Home（230 萬訂閱戶）+ Forward PE 12-16x **顯著折價**
+- [[Public Service Enterprise Group]]（NYSE: PEG / PSEG）19/25 — 新澤西最大 utility（2.4M + 1.9M）+ 核電 fleet 3,750MW（Salem + Hope Creek）+ 海上風電 ramp
+- [[Duke Energy]]（NYSE: DUK）19/25 — 美東南 utility 龍頭（跨六州 8.4M + 1.6M）+ 核電 fleet 6 站 ~10GW utility-owned #2 + Forward PE 16-20x **最便宜**
+
+**KOL 來源 anchor（1 家）**：
+- [[FOMO SOC]] reference entity / 非五軸 — 台灣 Substack KP@FOMOSoc 主筆、跟 [[Serenity]] / [[宋分（美股送分題）]] 並列 KOL 來源三巨頭、KP 40-50 期 ~12 篇已 ingest
+
+#### concept 更新（**+3** concepts updated）
+
+- **[[賣水人選股邏輯（投資版）]] master 表 4 段補完**：
+  - 新建「**第十八波 — #J1 補位 — 前段設備三巨頭 ASML peer calibration**」段（3 家五軸 row + ASML 25/25 校準 + 8 大 chokepoint anchor 完整版 + 七家「賣水人之中的賣水人」完整池）
+  - 新建「**SiC / GaN 功率半導體對照**」段（Infineon + onsemi + Navitas + Wolfspeed 4 家對照 + Wolfspeed Chapter 11 對 SiC 投資 thesis 影響三條結論 + 800V HVDC 整鏈五站賣水人池更新）
+  - 新建「**能源結構性剛需 utility**」段（NRG + PSEG + Duke 三家 + 跨 VST / CEG / TLN / Cheniere 校準對照表 + 三標準全滿 vs 滿足 2/3 配置分流 + 美國電力戰場完整覆蓋圖）
+  - 新建「**KOL 來源 anchor**」段（FOMO SOC + 宋分 + Serenity 三巨頭並列 + KOL 來源 entity 模板（非五軸）+ 資訊位階）
+- **[[AI infra 電力戰場]] 第一層電力產生表補三家**：NRG 20 + PSEG 19 + Duke 19 三家加入 firm power 完整版
+- **[[800V HVDC 灰白區重劃（物理鐵壁論）]] 白區功率 IC 段補完**：新增 [[onsemi]] 19、警惕 [[Wolfspeed]] Chapter 11 退場、釋出市佔給 onsemi / Infineon / STM
+
+#### index.md 補完
+
+新建「**標的：codex P1 對抗審核補完 9 家（第十八波 — #J1 2026-06-09 補位）**」段、9 家 entity 條目按四類分（前段設備三巨頭 + SiC/GaN 對照 + KOL 來源 + 能源結構性剛需 utility / 核電 fleet）
+
+### 五軸分數速覽
+
+| 公司 | 分類 | 五軸 |
+|---|---|---|
+| [[Applied Materials]] | 前段設備三巨頭 | **22/25** |
+| [[KLA Corporation]] | 前段設備三巨頭 | **22/25** |
+| [[Lam Research]] | 前段設備三巨頭 | **21/25** |
+| [[Wolfspeed]] | SiC pure-play ⚠️ NOT-INVESTABLE | **10-12/25** |
+| [[onsemi]] | SiC + IGBT + Image Sensor IDM | **19/25** |
+| [[NRG Energy]] | utility-first IPP + retail | **20/25** |
+| [[Public Service Enterprise Group]] | utility + 核電 fleet niche | **19/25** |
+| [[Duke Energy]] | 美東南 utility 龍頭 + 核電 fleet utility-owned #2 | **19/25** |
+| [[FOMO SOC]] | KOL 來源 reference entity | **非五軸** |
+
+### 關鍵發現
+
+#### 1. 前段設備三巨頭 vs ASML 25/25 校準效應（**不會降低 ASML 25/25 相對性**）
+
+- **ASML 25/25 結構性穩固**：微影單一站壟斷 + EUV 100% + High-NA 5 年領先 + 客戶分散完全滿分 + service recurring 50%+ + IP 5/5 + Zeiss + Cymer + Imec 5 年 R&D pilot 預備層
+- **三家 22/22/21 同 tier 補位但站別性質不同**：
+  - **AMAT 22 多站別覆蓋勝**（CVD/PVD/etch/CMP/implant 5+ 站、ASML 微影單站結構性差別）
+  - **KLA 22 製程檢測壟斷勝**（Process Control >50% + EBIT margin 40%+ + IP 5/5、但客戶分散 3/5 TSMC 28% 集中）
+  - **Lam 21 etch + depo 雙站勝**（ALE/ALD first-mover + 3D NAND >50% 結構性壟斷、客戶分散 3/5 略遜）
+- **半導體基礎建設化七大 chokepoint anchor 完整版**：ASML 25 微影 + AMAT 22 多站 + KLA 22 檢測 + Lam 21 etch+depo + 信越/SUMCO 24+24 矽晶圓雙頭 + Disco 24 切割 + Synopsys 24 / Cadence 22 EDA + Imec 24 R&D 公共財 = **任何先進製程 + 任何晶片設計都繞不開七家**
+- **「架構級『賣水人之中的賣水人』」7 家完整池**：ASML 25 + AMAT 22 + KLA 22 + Lam 21 + Synopsys 24 + Cadence 22 + Imec 24 ⚠️
+
+#### 2. 能源結構性剛需 utility 跨 [[宋分 #20]] 對接
+
+- **三標準 全滿**：VST 23 / CEG 22 / TLN 19 / Cheniere 22（純 IPP + 大型 PPA + 結構性 narrative）
+- **三標準 滿足 2/3**：NRG 20 / PSEG 19 / Duke 19（utility + 核電 fleet、無 hyperscaler PPA narrative 弱）
+- **配置分流**：
+  - **narrative + alpha**：VST 23 / CEG 22 / TLN 19 / Cheniere 22（高估值 + 結構性 narrative）
+  - **estimating + 防守**：NRG 20 / PSEG 19 / Duke 19（低估值 + utility-anchored 防守、跟 narrative 玩家 sum-of-parts 機會）
+- **「美國電力戰場 + LNG 出口 + utility / 核電 fleet 完整覆蓋」**：
+  - 核電 IPP（境內 firm power）：CEG 22 + VST 23 + TLN 19
+  - LNG 出口（境外 firm power）：Cheniere 22 + Woodside 20 + Sempra 19
+  - SOFC（分散式 firm power）：Bloom Energy 19
+  - **utility + 核電 fleet（境內穩定）**：NRG 20 + PSEG 19 + Duke 19 ⭐ **#J1 補位**
+
+#### 3. Wolfspeed Chapter 11 對 SiC 投資 thesis 影響
+
+- **反面驗證「pure-play + chokepoint depth ≠ 投資成功」**：200mm SiC wafer first-mover + 30+ 年 R&D + Mohawk Valley CHIPS Act 750M 但執行失敗 + Capex 龐大 + 利息壓垮 → Chapter 11
+- **「SiC pure-play」結構性弱於「SiC IDM」**：onsemi / Infineon / STM 三家 IDM 跨產品線分散現金流穩定 vs Wolfspeed 100% 純 SiC 一旦 ramp 慢就 binary
+- **驗證 [[賣水人選股邏輯（投資版）]] 五軸均衡的重要性**：Wolfspeed 路線 5 + 站別 5 → 2（Chapter 11）+ IP 4 + 耗材 3 + 客戶分散 2 = 路線敏感 + IP 都高分但「**執行 + 財務體質 + 客戶分散**」失衡
+- **800V HVDC 白區功率 IC 段重新洗牌**：onsemi + Infineon + STMicroelectronics 三家 IDM 接管 Wolfspeed 退場市佔
+- **「純度 pure-play 在化合物半導體賽道兩條鏡像命運」**：[[Navitas Semiconductor]] 19 GaN pure-play 成 / [[Wolfspeed]] 10-12 SiC pure-play 敗、化合物半導體賽道風險極高、IDM 跨產品線分散現金流結構性穩定
+
+#### 4. FOMO SOC KOL entity 模板差異（非五軸）
+
+- **不適用公司 entity 五軸 25 分制**、改用「**思維強度 + 付費牆覆蓋率 + 命中率 + 過熱期警惕**」四軸
+- 思維強度：高（物理鐵壁論 + K 型復甦 + 不可逆五大結構）
+- 付費牆覆蓋率：中高（~50-60%、KP 文章付費深度章節為主）
+- 命中率：高（已驗證 KP 40-50 期 ~12 篇 anchor 全被 wiki 採用）
+- 過熱期警惕：明確（每篇文章結尾「自警惕」段落 + 「**這次不一樣**」hubris 警惕）
+- **三巨頭差異化**：宋分 = 估值方法論 + 受惠者擴散、Serenity = X 短推 + 13 層 chokepoint pure-play、FOMO SOC = **平台級 narrative + 結構性不可逆 + 跨產業整合**（最高位階）
+
+### Surprising 發現
+
+1. **AMAT vs KLA 兩家同 22/25 但結構差異大**：AMAT 多站別覆蓋勝（客戶分散 4/5 + IP 4/5）、KLA 製程檢測 IP 5/5 滿但客戶分散 3/5（TSMC 28% 集中）= 兩種「賣水人之中的賣水人」哲學
+2. **Duke Energy 19 跟 PSEG 19 同分但定位完全不同**：Duke 跨六州 utility 客戶規模 + 核電 fleet utility-owned #2、PSEG 新澤西 utility + 核電 niche + 海上風電 + Salem 共同持股 anchor、兩家是「utility + 核電 anchor 雙頭」分歧路線
+3. **NRG 20 估值 12-16x 顯著折價但客戶分散滿分（5/5）**：8M retail users + Vivint 230 萬訂閱戶 + 跨 ERCOT + PJM 多 ISO = 客戶分散勝 VST / CEG / TLN、但無核電 + 無 hyperscaler PPA narrative 弱、估值反向最便宜配置
+4. **Wolfspeed 10-12/25 vs Navitas 19/25 完全鏡像命運**：兩家都是化合物半導體 pure-play（SiC vs GaN）、Wolfspeed 200mm first-mover + 30+ 年 R&D 但 Chapter 11、Navitas GaN 10kW 98.5% 首發救 Wolfspeed 退場、純度 pure-play 在化合物半導體賽道風險極高的兩條鏡像
+5. **FOMO SOC 是 wiki 唯一「KOL 平台級 thesis 製造者」**：宋分 = 估值教學 + 受惠者擴散方法論、Serenity = X 短推 + 13 層 chokepoint pure-play、FOMO SOC = **平台級 narrative + 跨產業整合 thesis**（最高資訊位階、wiki ~45 次 reference 但無 entity 缺位最大孤兒終於補完）
+
+### ⚠️ 待 ingest backlog 新增
+
+- **真實財報數字校準**：9 家 entity FY2025 全年營收 / Forward PE / 12M 漲幅 / 市值 estimate ranges 需 Leo 在 Bloomberg / 各家 IR 校準實際數字
+- **Wolfspeed 2026 Q1 重新上市估值**：Chapter 11 pre-packaged 重組後股東結構 + Mohawk Valley fab 良率 2026 H2 達 50% binary outcome
+- **NRG 未來 hyperscaler PPA 簽約潛力**：ERCOT 氣電可後續配對、後續觀察
+- **PSEG 海上風電 Ocean Wind 2 + Atlantic Shores ramp 進度**：多次延宕風險
+- **Duke 核電 ramp + AI data center 客戶 PPA 簽約潛力**：北卡 + 南卡 + 佛州 data center hub
+- **FOMO SOC KP #47-50 期付費牆擋住章節**：第 5-8 章鉭電容暴利 + TLVR 電感混戰 + 受惠者地圖 + 風險、需 Leo 訂閱拆解
+
+### 連動更新 master 表 [[賣水人選股邏輯（投資版）]]
+
+- 新建「**第十八波 — #J1 補位 — 前段設備三巨頭 ASML peer calibration**」段（3 家五軸 row + ASML 25/25 校準 + 八大 chokepoint anchor 完整版 + 「架構級『賣水人之中的賣水人』」7 家完整池）
+- 新建「**SiC / GaN 功率半導體對照**」段（4 家對照 + Wolfspeed Chapter 11 影響三條結論 + 800V HVDC 整鏈五站賣水人池更新）
+- 新建「**能源結構性剛需 utility**」段（3 家 utility / 核電 fleet 補完 + 跨 VST / CEG / TLN / Cheniere 校準對照表 + 配置分流 + 美國電力戰場完整覆蓋圖）
+- 新建「**KOL 來源 anchor**」段（FOMO SOC + 宋分 + Serenity 三巨頭並列 + KOL 來源 entity 模板（非五軸）+ 資訊位階）
+
+## 累計
+
+**72 concept + 145 entity + 53 summary**（#J1 +9 entity [[Applied Materials]] / [[KLA Corporation]] / [[Lam Research]] / [[Wolfspeed]] / [[onsemi]] / [[NRG Energy]] / [[Public Service Enterprise Group]] / [[Duke Energy]] / [[FOMO SOC]] + 3 concept update [[賣水人選股邏輯（投資版）]] / [[AI infra 電力戰場]] / [[800V HVDC 灰白區重劃（物理鐵壁論）]] + 1 index update）

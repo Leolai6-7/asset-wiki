@@ -148,9 +148,10 @@ GPU
 - [[Vicor]]（48V→core PoL 龍頭）
 - [[Monolithic Power Systems MPS]]
 - [[Texas Instruments TXN]]（類比 IC 大宗）
-- [[Infineon]]（GaN+SiC 雙料）
-- [[Navitas Semiconductor]]（GaN 純押）⭐ A2 subagent 正在建檔
-- [[Wolfspeed]]（SiC 純押、但虧損中）
+- [[Infineon]]（GaN+SiC 雙料、SiC 全球 #1 ~25-28%）
+- [[Navitas Semiconductor]]（GaN pure-play、10kW 98.5% 首發）⭐ 已 ingest 19/25
+- **[[onsemi]] ⭐ #J1 2026-06-09 補位**（SiC IDM 全球 #2-3 ~22-26% + IGBT 前五 + 汽車 Image Sensor 全球 #1 ~50% 三軌、19/25、跨產品線 IDM 結構性穩定、跟 Coherent 19 / Lumentum 19 / Bloom 19 / Talen 19 同分）
+- ~~[[Wolfspeed]]~~ ⚠️ **#J1 2026-06-09 補位、Chapter 11 退場警惕**（2025-06-30 申請 + 2025-09 重組批准 + 2026 Q1 重新上市、200mm SiC wafer first-mover 但 Mohawk Valley 良率不達 + Capex 龐大 + 利息壓垮、五軸 10-12/25 ⚠️ **NOT-INVESTABLE / reference only**、Apollo + Renesas + 大客戶為主要新股東；釋出市佔給 [[onsemi]] / [[Infineon]] / STMicroelectronics 三家 IDM 接管；驗證「**SiC pure-play + 200mm first-mover + chokepoint depth ≠ 投資成功**」、跟 [[Navitas Semiconductor]] GaN pure-play 成功對照「**純度 pure-play 在化合物半導體賽道兩條鏡像命運**」GaN 成 / SiC 敗）
 
 ## 跟其他 wiki 概念連結
 
