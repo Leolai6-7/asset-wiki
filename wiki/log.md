@@ -2308,3 +2308,54 @@
   - 既有 entity 補強：[[Marvell]] interconnect 寡占 + 光 DSP 60% + 三併購（Celestial AI / XConn / Polariton）細節（KP #44）
   - 既有 entity 補強：[[NVDA]] RTX Spark + N1/N1X 晶片 + 「水電公司」隱喻 + Vera Rubin LPDDR5X 三層架構（KP #45）
 - 累計：**68 concept + 118 entity + 46 summary**（#E4 +3 entity [[Tesla]] / [[SpaceX]] / [[Dell]] + 4 summary + 4 raw + 1 entity update [[Anthropic]] + 1 concept update [[AI infra 電力戰場]]）
+
+### 2026-06-09 ingest #E2 — FOMO SOC KP 40-42 三連發（KP 思考筆記第 40 / 41 / 42 期）
+- 觸發：Leo 丟三條 FOMO SOC URL（KP 思考筆記第 40-42 期、2026-05-02 / 05-09 / 05-16 連續週期）作為 parallel subagent task（asset-wiki 主 agent 並行 E1 / E3 / E4 subagent）
+- 性質：**三篇皆全文公開、無付費牆**（vs #E1 第 45 期付費牆對比）
+- 三篇主題：
+  - **KP40（2026-05-02）**：五大巨頭 Q1 2026 財報 AI 變現分歧（[[Google]] 大漲 vs [[Meta]] 大跌、$6,500-7,250 億 CapEx + RPO 訂單積壓 + 「證明給我看」階段）
+  - **KP41（2026-05-09）**：高盛 AI 利潤奇點 + CPU 復興（[[AMD]] / [[Intel]] / ARM）+ Forward Deployed Engineer 戰略（[[OpenAI]] / [[Anthropic]] 學 Palantir）
+  - **KP42（2026-05-16）**：長端利率（10 年 4.5%+ / 30 年破 5%）+ Cerebras IPO WSE-3 + neocloud 對比（[[CoreWeave]] vs Nebius）
+- 操作：
+  - 新建 3 raw：`raw/2026-05-02_FOMOSOC-KP40-五大巨頭Q1財報AI變現分歧.md` + `raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md` + `raw/2026-05-16_FOMOSOC-KP42-Cerebras上市WSE-3對NVDA啟示.md`
+  - 新建 3 summary（每篇對應）
+  - 新建 **4 concept**：
+    - [[AI 變現能見度分歧（證明給我看階段）]] — KP40 framework：5 家分歧矩陣 + RPO anchor + 三條 thesis（變現能見度溢價 / CapEx 不再是 alpha 訊號 / backlog 新財務 anchor）
+    - [[AI 利潤奇點（Token 經濟學拐點）]] — KP41 高盛 framework：Token 售價年降 40% vs 成本年降 60-70% 剪刀差 + 用量 25x + S 曲線 35-40% 巔峰 + 四軸投資框架（含「軟體商業模式升級」新軸）
+    - [[Forward Deployed Engineer 戰略（FDE）]] — KP41 framework：OpenAI Deployment Company $100B + Anthropic Accenture 3 萬員工 + Blackstone $15B 中型企業、走 Palantir Playbook
+    - [[Cerebras WSE 架構（SRAM vs HBM 推論分裂）]] — KP42 framework：4 兆電晶體 + 44GB SRAM + 21 PB/s 頻寬（NVDA 2,600x）+ 三大產業啟示（記憶體分裂 / 晶圓級 vs Chiplet / 融資產能風險）
+  - 新建 **1 entity**：[[Cerebras]]（推測五軸 17-19/25 ASIC pure-play 期權型、客戶集中 1/5 + IP 5/5 + 站別 5/5、IPO $560B → 首日 $1,000B 警惕高估、TSMC 5nm 單一 fab）
+  - 補強既有 entity（10 家）：
+    - [[Google]]（KP40 變現能見度最高、RPO **$4,620 億** + Gemini 2,800 企業 + TPU 2027 對外銷售 + 4 維能見度共振）
+    - [[Meta]]（KP40 變現能見度最低、CapEx 上調 $1,250-1,450 億 + 元宇宙累積 $830 億虧損 + 廣告效率提升難量化）
+    - [[Microsoft]]（KP40 中段 + KP41 FDE / 利潤奇點 connector：AI 年化 $370 億 + Copilot 2,000 萬席位 + GitHub Copilot 6 月轉用量計費 pivot）
+    - [[Apple]]（KP40 變現能見度有限、Services 毛利 76.7% + $1,000 億回購 + 廢除淨現金中性 + 記憶體成本壓力）
+    - [[AMD]]（KP41 CPU 復興、2030 市場 $600 → $1,200 億翻倍 + Q2 指引 +70%+ + 數據中心 +57%）
+    - [[Intel]]（KP41 Xeon CPU 復興、贏 NVIDIA DGX 主 CPU + 雙位數延續至 2027）
+    - [[Anthropic]]（KP41 FDE 戰略、Accenture 3 萬員工 + Blackstone $15 億合資、走 Palantir Playbook re-rate 路徑）⚠️ 並行 subagent 已同步整合
+    - [[OpenAI]]（KP41 The Deployment Company $100 億 + KP42 Cerebras $200 億訂單）
+    - [[NVDA]]（KP40 Google TPU 對外銷售競爭 + KP42 Cerebras 推論 niche 競爭 + CUDA / Chiplet 護城河）
+    - [[CoreWeave]]（KP42 Q2 指引 miss、EBITDA 56% / 營益 1% 高槓桿利潤率陷阱 vs Nebius 預售模式）
+    - [[TSMC]]（KP42 Cerebras WSE-3 唯一晶圓代工 + 5nm 單一 fab anchor vs NVDA 多 fab 對沖）
+- 五軸校準：
+  - [[Cerebras]] 五軸推測 17-19/25：路 4 + 站 5 + 耗 2 + IP 5 + 客 1 = ASIC pure-play 期權型（跟 [[Kioxia]] 19 / [[SanDisk]] 18 / [[GlobalWafers 6488]] 18 同等級）
+  - 關鍵：客戶集中 OpenAI 81% 拖累、但 IP（晶圓級設計 + 缺陷管理）+ 站別（推論 niche 唯一玩家）拉高總分
+- 連動更新：
+  - [[index.md]]：新建「第十五波 FOMO SOC KP 40-42 三連發」段（4 concept 條目）+ FOMO SOC KP 系列 summary 段加 KP40 / KP41 / KP42 三 summary 條目 + 待 ingest 半導體 / 算力供應鏈 entity 段加 [[Cerebras]] 已建 + Nebius / Lambda / ARM / Accenture / Palantir / Cloudflare 待建
+- 跨庫對照：
+  - llm-wiki 對應：[[Anthropic]] / [[OpenAI]] / [[NVDA]] / [[Microsoft]] / [[Google]] / [[Meta]] / [[Apple]] / Palantir / Accenture — asset-wiki 走「變現能見度 + FDE 戰略 + ASIC 期權」投資視角、llm-wiki 走「AI 對齊 + 接口控制 + 模型路線」AI 視角
+- 跟 #E1 / #C3 / #D2 對接：
+  - #E1（KP@FOMOSoc MLCC + 800V HVDC）= 物理層 thesis（電壓 + 電容）
+  - #E2（KP 40-42）= 商業層 thesis（變現分歧 + 利潤奇點 + FDE + 架構分裂）
+  - #C3 + #D2 = anchor 完整：物理 chokepoint + 商業 chokepoint 雙引擎
+- ⚠️ 並行 subagent race condition：
+  - [[Anthropic]] entity 被另一 subagent（KP43-44）同步整合、我的 FDE 段已被 merge 進去
+  - index.md / log.md 多次被並行 subagent 改、用 `git add <specific files>` 避免吃到並行 subagent 未跟蹤檔
+- ⚠️ 新待 ingest backlog：Nebius（neocloud 預售模式對照組）+ Lambda（neocloud first-mover 分散版）+ ARM（資料中心版稅 +100%+、AGI CPU $20→$150 億）+ Accenture（FDE 加速者）+ Palantir（FDE 原型 + 企業 IT 預算對手）+ Cloudflare（M2M 流量爆炸期）+ Amazon（hyperscaler 變現中高、RPO $3,640 億）+ FOMO SOC entity（KOL 來源、被 ref 多次但無檔）
+- surprising 發現：
+  - **三篇皆無付費牆**——跟 #E1 第 45 期付費牆形成對比、KP 40-42 三期是 KP 思考筆記主軸（深入分析則部分付費）
+  - **Cerebras IPO 首日 $560B → $1,000B 反映「下一個 NVDA」溢價** = [[市場四階段：懷疑／驗證／共識／反轉]] 驗證→共識切換速度極快（警惕高估）
+  - **KP41 引高盛 framework**「軟體商業模式從『按人頭售賣』→『按工作量售賣』、TAM 從全球軟體預算→全球白領薪資池」= [[控制點轉移（投資版）]] 在 AI 應用層的新型態
+  - **FDE 戰略原型 = Palantir 10 年驗證**——OpenAI / Anthropic 走「Palantir Playbook」估值 re-rate 路徑、是 AI 公司商業模式升級的「**第二曲線**」
+  - **KP40 變現能見度分歧 = 機構視角第一手**（Google 大漲 / Meta 大跌都是「能見度」變數重定價兌現）= [[預期差]] 新預期變數
+- 累計：**72 concept + 119 entity + 49 summary**（#E2 +4 concept + 1 entity [[Cerebras]] + 3 summary + 3 raw + 10 entity update）

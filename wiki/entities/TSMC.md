@@ -99,3 +99,27 @@ TSMC 的 panel-level 玻璃中介層路線、跟 [[Absolics]] / [[Samsung Electr
 - [[Imec]]（跟 ASML 共建 High-NA EUV pilot fab、TSMC 是 Imec 主要會員）
 - [[Disco Corp]]、[[信越化學]]、[[SUMCO]]、[[Synopsys]]、[[Cadence]]（半導體基礎建設五大 chokepoint 共同 anchor）
 - [[Serenity]]、[[sennn.nnna]]（2026-06-08 玻璃基板時間線 anchor 引用來源）
+
+## ⭐ Cerebras WSE-3 唯一晶圓代工（2026-05-16 KP42）
+
+→ 完整 framework 見 [[Cerebras WSE 架構（SRAM vs HBM 推論分裂）]]
+
+### TSMC 5nm + Cerebras anchor 客戶（新增）
+
+- **Cerebras WSE-3 唯一晶圓代工**（5nm 製程）
+- **單一 fab anchor**（Cerebras 沒 Samsung / Intel 對沖）= TSMC 議價權更高
+- **Cerebras Backlog $246 億**對應 TSMC 5nm 多年產能 lock-in
+- → 對接 [[Bottleneck Theory（瓶頸論）]]：TSMC 5nm 是 Cerebras 的 Hormuz 海峽
+
+### vs [[NVDA]] 多 fab 策略對比
+
+- NVDA = TSMC + Samsung 雙頭 fab 對沖
+- Cerebras = TSMC 5nm 單一 fab
+- → TSMC 「Cerebras 客戶」議價權 > 「NVDA 客戶」
+
+## 相關連結（KP42 補位）
+
+- [[Cerebras WSE 架構（SRAM vs HBM 推論分裂）]]
+- [[Cerebras]]
+- [[Bottleneck Theory（瓶頸論）]]
+- [[FOMO SOC]]（KP@FOMOSoc KOL 來源、待建）

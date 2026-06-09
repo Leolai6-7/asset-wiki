@@ -3,10 +3,12 @@ title: OpenAI
 aliases: [OpenAI, ChatGPT]
 type: entity
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 sources:
   - raw/2026-04-06_OpenAI拿了1220億——但這筆錢不是你以為的那種錢.md
-tags: [標的, AI, 模型公司, 私募, IPO, Microsoft]
+  - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
+  - raw/2026-05-16_FOMOSOC-KP42-Cerebras上市WSE-3對NVDA啟示.md
+tags: [標的, AI, 模型公司, 私募, IPO, Microsoft, FDE 戰略, Deployment Company, Cerebras 200 億訂單]
 confidence: high
 ---
 
@@ -49,12 +51,48 @@ confidence: high
 - **Microsoft 雙重曝險**：持股 27% + Azure 最大 CSP = 任何 OpenAI 危機都會傳導
 - **AGI tripwire 條款**：定義模糊、變更控制權風險
 
+## ⭐ FDE 戰略 — The Deployment Company $100 億合資（2026-05-09 KP41）
+
+→ 完整 framework 見 [[Forward Deployed Engineer 戰略（FDE）]]
+
+### OpenAI FDE 規模化執行
+
+| 元素 | 內容 |
+|---|---|
+| **The Deployment Company** | 估值 **$100 億**合資企業 |
+| **背後私募基金** | 控制**數千投資組合公司**（直接客戶池）|
+| **目標** | 解決企業 70-90% POC 卡死的「試點煉獄」|
+
+### 三軌商業模式（FDE 落地後）
+
+| 軌 | 內容 |
+|---|---|
+| ChatGPT consumer | $20/月 + Plus 訂閱 |
+| ChatGPT Enterprise | 高 ACV API + enterprise pricing |
+| **OpenAI + Deployment Company** | FDE 派駐 + 私募基金 portfolio companies 觸達 |
+
+→ 從「API 用量」轉向「API + 高價值服務」、強化客戶黏性 + 護城河
+
+## ⭐ Cerebras 戰略客戶（2026-05-16 KP42）
+
+- **OpenAI $200 億訂單**（Cerebras Backlog 81% 集中）
+- 用於高吞吐量推論場景（vs HBM 訓練主場仍 NVDA）
+- 是 [[Cerebras WSE 架構（SRAM vs HBM 推論分裂）]] 商業化的關鍵 anchor
+- → 連 [[控制點轉移（投資版）]]：OpenAI 在訓練（NVDA + AMD）+ 推論（Cerebras + AVGO + Oracle）多源策略
+
 ## 相關連結
 
 - [[AI 融資結構（條件資本）]]
 - [[循環投資（CSP-Model 互鎖）]]
+- [[Forward Deployed Engineer 戰略（FDE）]]（KP41 framework）
+- [[AI 利潤奇點（Token 經濟學拐點）]]（KP41 同源）
+- [[Cerebras WSE 架構（SRAM vs HBM 推論分裂）]]（KP42 framework）
+- [[Cerebras]]（KP42 entity）
+- [[控制點轉移（投資版）]]
 - [[Microsoft]]
 - [[Anthropic]]
 - [[DeepSeek]]
 - [[政府風險溢價（AI 公司）]]
+- [[CoreWeave]]、[[Oracle]]、[[AVGO]]、[[NVDA]]
+- [[FOMO SOC]]（KP@FOMOSoc KOL 來源、待建）
 - [[宋分（美股送分題）]]

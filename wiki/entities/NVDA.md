@@ -3,12 +3,14 @@ title: NVDA
 aliases: [Nvidia, 輝達, NVIDIA]
 type: entity
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 sources:
   - raw/美股送分題-06-備忘錄1-CSP-AI通縮-2026-03-09.md
   - raw/美股送分題-09-備忘錄2-HBM-Meta-私募-2026-03-16.md
   - raw/美股送分題-notes-市場解碼與估值筆記-2026-02至04.md
-tags: [標的, 美股, AI, 半導體, GPU, M7]
+  - raw/2026-05-02_FOMOSOC-KP40-五大巨頭Q1財報AI變現分歧.md
+  - raw/2026-05-16_FOMOSOC-KP42-Cerebras上市WSE-3對NVDA啟示.md
+tags: [標的, 美股, AI, 半導體, GPU, M7, CUDA, Chiplet, 訓練主場, Google TPU 競爭, Cerebras niche 競爭]
 confidence: high
 ---
 
@@ -49,6 +51,42 @@ AI GPU 龍頭，M7 之一。從賣晶片的硬體公司轉型為平台公司（C
 - [[HBM iPhone moment]] 直接影響 Rubin ramp 速度
 - [[AI 受惠路徑：集中→擴散]] 中 NVDA 是「集中」的代表
 
+## ⭐ Cerebras WSE 推論競爭格局（2026-05-16 KP42）
+
+→ 完整 framework 見 [[Cerebras WSE 架構（SRAM vs HBM 推論分裂）]]
+
+### 推論市場分裂結構
+
+| 場景 | 主導 |
+|---|---|
+| **訓練 + 大模型** | **NVDA 主場**（CUDA + HBM + Chiplet 靈活性）|
+| **高吞吐量推論 niche** | [[Cerebras]] WSE-3（44 GB SRAM + 21 PB/s 頻寬 = NVDA 2,600x）|
+| **低延遲推論 niche** | Groq LPU |
+| **邊緣推論** | Apple A 系列 NPU |
+
+### NVDA 護城河仍穩固
+
+- **CUDA 生態 + Chiplet 靈活性**（vs Cerebras 晶圓級單晶片）
+- **多 fab 策略**（TSMC + Samsung vs Cerebras TSMC 5nm 單一）
+- **訓練 + 通用推論主場**不易被動搖
+
+## ⭐ Google TPU 2027 對外銷售（2026-05-02 KP40）
+
+→ 完整 framework 見 [[AI 變現能見度分歧（證明給我看階段）]]
+
+### hyperscaler 自研晶片擠壓
+
+- **Google TPU 對外銷售**（2027 戰略升級、貢獻「有意義」營收）
+- **AWS Trainium / Graviton** $200 億年化（YoY 三位數）
+- **Microsoft MAIA**（仍在內部試點）
+- → hyperscaler 把控制點上移到「晶片」、跟 NVDA 直接競爭
+
+### NVDA 應對策略
+
+- **NVDA $6.3B [[CoreWeave]] backstop** = neocloud 同盟結構
+- **Spectrum-X + Quantum-X + NVLink Fusion** = 全棧鎖定
+- **CUDA 護城河** = 開發者生態 lock-in
+
 ## 相關連結
 
 - [[宋分（美股送分題）]]
@@ -57,4 +95,8 @@ AI GPU 龍頭，M7 之一。從賣晶片的硬體公司轉型為平台公司（C
 - [[FCF 拐點]]
 - [[CapEx 見頂辯論]]
 - [[HBM iPhone moment]]
-- [[AVGO]]、[[AMD]]
+- [[AI 變現能見度分歧（證明給我看階段）]]（KP40）
+- [[Cerebras WSE 架構（SRAM vs HBM 推論分裂）]]（KP42）
+- [[Cerebras]]、[[CoreWeave]]、[[Oracle]]、[[Google]]、[[Microsoft]]、[[Amazon]]
+- [[AVGO]]、[[AMD]]、[[Intel]]、[[TSMC]]
+- [[FOMO SOC]]（KP@FOMOSoc KOL 來源、待建）

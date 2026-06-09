@@ -8,7 +8,8 @@ as_of: 2026-06-09
 check_after: 2026-12-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
-tags: [標的, 美股, neocloud, AI 雲端, GPU 雲, NVDA 戰略客戶, NVDA 投資, 循環投資, 1.6T 光模組, CapEx 三階段]
+  - raw/2026-05-16_FOMOSOC-KP42-Cerebras上市WSE-3對NVDA啟示.md
+tags: [標的, 美股, neocloud, AI 雲端, GPU 雲, NVDA 戰略客戶, NVDA 投資, 循環投資, 1.6T 光模組, CapEx 三階段, 高槓桿利潤率陷阱, Q2 miss]
 confidence: high
 ---
 
@@ -235,6 +236,44 @@ confidence: high
 - [[控制點轉移（投資版）]]
 - [[賣水人選股邏輯（投資版）]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
+
+## ⭐ Q2 2026 指引 miss — 高槓桿利潤率陷阱訊號（2026-05-16 KP42）
+
+→ 完整 framework 見 [[Cerebras WSE 架構（SRAM vs HBM 推論分裂）]]
+
+### Q2 指引矛盾
+
+| 指標 | 指引 | 市場預期 | 落差 |
+|---|---|---|---|
+| Q2 營收 | $25.3 億 | $26.9 億 | **miss** |
+| Q2 營業利潤 | $30-90M | $154M | **miss** |
+
+### 利潤率陷阱結構
+
+| 指標 | 現況 |
+|---|---|
+| **EBITDA 利潤率** | **56%**（高、產能擴張中）|
+| **營業利潤率** | **1%**（vs Q4 6%、去年 17%）⚠️ |
+| **折舊 + 利息壓力** | 持續攀升（$23B debt）|
+| **客戶集中** | Microsoft 60%+ |
+
+### vs [[Nebius]]（待建）對照
+
+- CoreWeave 高槓桿擴張 EBITDA 56% / 營益 1%
+- Nebius 預售模式 EBITDA 45% / 營益 較穩健
+- → neocloud 兩種模式分歧
+
+### 對 [[NVDA]] 傳導意義
+
+- CoreWeave 利潤率陷阱 = **neocloud 整體營運壓力訊號**
+- 但 NVDA 仍享 backlog 緩衝（$50B backlog 即使部分延後仍要採購）
+
+## 跟既有 wiki 概念連結
+
+- [[Cerebras WSE 架構（SRAM vs HBM 推論分裂）]]（KP42 framework）
+- [[CapEx 見頂辯論]]
+- [[FCF 拐點]]
+- [[FOMO SOC]]（KP@FOMOSoc KOL 來源、待建）
 
 ## Source URLs
 

@@ -3,11 +3,13 @@ title: Microsoft
 aliases: [Microsoft, MSFT, Azure, Copilot]
 type: entity
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 sources:
   - raw/2026-04-06_微軟每月收你30美元用Copilot——但條款寫著僅供娛樂.md
   - raw/2026-04-06_OpenAI拿了1220億——但這筆錢不是你以為的那種錢.md
-tags: [標的, M7, CSP, AI, OpenAI, Copilot, Azure]
+  - raw/2026-05-02_FOMOSOC-KP40-五大巨頭Q1財報AI變現分歧.md
+  - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
+tags: [標的, M7, CSP, AI, OpenAI, Copilot, Azure, GitHub Copilot 使用量計費, AI 年化營收, 變現能見度中段, hyperscaler]
 confidence: high
 ---
 
@@ -55,6 +57,32 @@ M7 之一，AI 時代最複雜的曝險點。**持股 OpenAI 27% + 最大 Azure 
 - Copilot 推論成本不下降 → SaaS 毛利結構崩塌
 - 對 [[Anthropic]] 沒投資 → AI 對齊路線完全押在 OpenAI
 
+## ⭐ Q1 2026 財報 — AI 變現能見度中段 hyperscaler（2026-05-02 KP40）
+
+→ 完整 framework 見 [[AI 變現能見度分歧（證明給我看階段）]]
+
+### 變現執行驗證
+
+| 指標 | 數字 |
+|---|---|
+| **AI 業務年化營收** | **$370 億**（YoY +123%）|
+| **Copilot 付費座位** | **2,000 萬+**（環比 +33%）|
+| **財富 500 強 AI 代理部署率** | **90%** |
+| **OpenAI 關係** | 從獨家轉向**非獨家合作** |
+
+### GitHub Copilot 6 月轉用量計費（戰略 pivot）
+
+- **2026-06 起 GitHub Copilot 轉向「基於使用量計費」**
+- 從「席位 $30/月」→「席位 + 用量混合定價」
+- → 對接 [[AI 利潤奇點（Token 經濟學拐點）]]：用量計費 = 利潤跟產出綁定
+- → 對接 [[控制點轉移（投資版）]]：商業模式「人頭 → 工作量」
+
+### 市場反應溫和 driver
+
+- AI 服務獨立收入不夠亮眼
+- Copilot 付費數待驗證
+- 從 OpenAI 獨家轉向非獨家 = 釋放更獨立的變現路徑
+
 ## 相關連結
 
 - [[OpenAI]]
@@ -63,4 +91,11 @@ M7 之一，AI 時代最複雜的曝險點。**持股 OpenAI 27% + 最大 Azure 
 - [[AI 訂閱制 unit economics]]
 - [[CapEx 見頂辯論]]
 - [[FCF 拐點]]
+- [[AI 變現能見度分歧（證明給我看階段）]]（KP40 framework）
+- [[AI 利潤奇點（Token 經濟學拐點）]]（KP41 framework）
+- [[Forward Deployed Engineer 戰略（FDE）]]（KP41 同源）
+- [[AI infra CapEx 三階段論]]
+- [[控制點轉移（投資版）]]
+- [[NVDA]]、[[Google]]、[[Meta]]、[[Apple]]
+- [[FOMO SOC]]（KP@FOMOSoc KOL 來源、待建）
 - [[宋分（美股送分題）]]

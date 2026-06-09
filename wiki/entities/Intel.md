@@ -3,11 +3,12 @@ title: Intel
 aliases: [Intel, INTC, Intel Foundry, 18A, IDM 2.0, TeraFab]
 type: entity
 created: 2026-06-04
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - raw/2026-04-11_intel-terafab-musk-chip.md
   - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
-tags: [標的, 美股, 半導體, Foundry, IDM, 美國產能政治, 玻璃基板]
+  - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
+tags: [標的, 美股, 半導體, Foundry, IDM, 美國產能政治, 玻璃基板, Xeon 伺服器 CPU, NVIDIA DGX, CPU 復興]
 confidence: high
 ---
 
@@ -53,6 +54,30 @@ confidence: high
 - 是 [[修正三階段]] 後期可能的逆勢加碼候選
 - 但**單一觸發點**（18A 良率）= 高風險高 reward
 - 對沖：拿 [[ASML]] / AMAT 同步追蹤（設備鏈是 fab 擴產的賣水人）
+
+## ⭐ Q1 2026 財報 — Xeon 伺服器 CPU 結構性復興（2026-05-09 KP41）
+
+→ 完整 framework 見 [[AI 利潤奇點（Token 經濟學拐點）]]
+
+### CPU 復興量化錨點
+
+| 指標 | 數字 |
+|---|---|
+| Xeon 伺服器 CPU 需求 | **供不應求** |
+| **戰略勝利** | 贏得 **NVIDIA DGX 系統主 CPU 位置** ⭐ |
+| 雙位數成長預測 | **延續至 2027** |
+
+### NVIDIA DGX 主 CPU 位置（戰略性意義）
+
+- Intel Xeon 取代 AMD EPYC 在部分 NVIDIA DGX 系統做主 CPU
+- 是「**IDM 2.0 + CPU 復興**」雙引擎的驗證
+- 對 [[NVDA]] 是 multi-source 策略（兼容 AMD + Intel）
+
+### 跟 [[AMD]] / [[ARM]] 三家共同驗證 CPU 復興
+
+- AMD 數據中心 +57% + Intel Xeon 供不應求 + ARM 資料中心版稅 +100%+
+- = AI 驅動 CPU 結構性復興、不是零和競爭
+- x86（AMD / Intel）強於現存生態系遷移、ARM 強於雲端原生新應用
 
 ## ⭐ ASML 客戶關係（第三大客戶 + High-NA EUV first commercial 客戶）
 

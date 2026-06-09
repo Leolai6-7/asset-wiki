@@ -280,3 +280,40 @@ Apple 跟上游 anchor 的關係**不是「客戶」而是「結構性 lock-in�
 - [[6 戰場交集圖譜]]、[[AI infra CapEx 三階段論]]
 - [[手機與邊緣晶片端 TGV-FOPLP watchlist]]、[[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
+
+## ⭐ Q1 2026 財報 — 變現能見度有限 + 記憶體成本壓力（2026-05-02 KP40）
+
+→ 完整 framework 見 [[AI 變現能見度分歧（證明給我看階段）]]
+
+### 完美季度 + 記憶體逆風
+
+| 指標 | 數字 |
+|---|---|
+| Q1 營收 | **$1,112 億**（YoY +17%、**最強三月季度**）|
+| iPhone 營收 | $570 億（YoY +22%）|
+| **Services 營收** | **$310 億**（毛利率 76.7%）|
+| **股票回購** | **$1,000 億**新批准 |
+| **記憶體成本** | **「顯著上升」**（壓縮未來毛利率）|
+
+### 戰略 pivot — 廢除「淨現金中性」目標
+
+- 廢除「淨現金中性」目標 = **獲得更大資本配置彈性**
+- $1,000 億股票回購反映管理層信心
+- → 對接 [[Forward PE 估值法]]：資本配置彈性 → re-rate 空間
+
+### MacBook Neo 超預期 — AI 硬體驗證
+
+- MacBook Neo 銷售超預期 = **驗證 AI 硬體需求**
+- 連 [[手機與邊緣晶片端 TGV-FOPLP watchlist]]：Apple Baltra anchor 第二引擎
+- 連 [[半導體基礎建設化]]：Apple Silicon 五層 chokepoint 強化
+
+### 市場反應平穩 driver
+
+- 記憶體成本外溢（vs [[SK Hynix]] / [[Samsung Electronics]] / [[Micron]] HBM iPhone moment）
+- Siri 仍落後（vs [[Anthropic]] Claude / [[OpenAI]] ChatGPT / [[Google]] Gemini）
+- 本地化 AI 仍保密 → 變現能見度待 ramp 驗證
+
+## 相關連結（KP40 補位）
+
+- [[AI 變現能見度分歧（證明給我看階段）]]（KP40 framework）
+- [[FOMO SOC]]（KP@FOMOSoc KOL 來源、待建）
