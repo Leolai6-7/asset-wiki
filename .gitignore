@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Obsidian 個人工作區（不公開）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# 個人 / 私密筆記
+private/
+draft/
+*.private.md
+
+# API keys / secrets
+.env
+.env.local
+*.key
+*.pem
+
+# Python / Node 工具
+__pycache__/
+node_modules/
+*.pyc
+
+# 編輯器
+.vscode/
+.idea/
+*.swp
+
+# ⚠️ KOL 原文（智財權保護）
+# 如果要 share 給朋友、注釋下行取消 raw/ 排除
+# 預設行為：raw/ 不公開、保護 FOMO SOC / 宋分 / Serenity 等原文
+# raw/
+
+# 如果你要 fork 並建立自己的 wiki、刪除上面這行即可
