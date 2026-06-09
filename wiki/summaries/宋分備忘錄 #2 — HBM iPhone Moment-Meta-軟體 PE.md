@@ -23,6 +23,16 @@ confidence: high
 - 記憶體公司估值不應再完全用景氣循環方式
 - HBM 部分的營收**應獨立估值**
 
+### 🆕 2026-06-09 #D1 補位 — Apple Intelligence + iPhone moment 對照
+
+[[Apple|Apple Inc.]] entity 建檔後補位「iPhone moment」原典類比：
+
+- **原 iPhone moment（2007）**：Apple iPhone 重新定義智慧型手機賽道、從「景氣循環的消費電子商品」變「移動互聯網 platform anchor」
+- **HBM iPhone moment（2026-2030）**：HBM 重新定義記憶體賽道、從「景氣循環商品」變「AI infra 元件 anchor」（[[HBM iPhone moment]]）
+- **Apple Intelligence iPhone moment（2025-09 → 2027+）**：Apple Intelligence 重新定義 Edge AI 部署、從「cloud LLM 唯一解」變「mass-market on-device LLM 部署典範」
+- 三者結構性 anchor 共同點：(1) 重新定義賽道（價值評估從 cyclical → infrastructure）+ (2) 跟下游採購者 lock-in 結構性深化（[[TSMC]] / [[Cadence]] / [[Synopsys]] / [[鴻海 2317]] / [[村田 Murata]] 等）+ (3) 估值上限被「賽道天花板」約束（HBM 結構性短缺至 2030 / Apple Intelligence 全球 active devices ~2B+ + 換機 cycle 3-4 年）
+- **三軸 iPhone moment 並列校準**：原 iPhone moment（終端品牌革命）+ HBM iPhone moment（記憶體賽道重估）+ Apple Intelligence iPhone moment（Edge AI 部署典範）= 三軸都呼應「**控制點轉移**」核心邏輯（詳見 [[控制點轉移（投資版）]]）
+
 ## 第二部分：Meta AI 策略被誤讀
 
 → 完整見 [[Meta]]
@@ -75,3 +85,5 @@ confidence: high
 - [[NVDA]]
 - [[AMD]]
 - [[AVGO]]
+- [[Apple|Apple Inc.]]（Apple Intelligence iPhone moment 補位）
+- [[控制點轉移（投資版）]]

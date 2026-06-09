@@ -28,6 +28,8 @@ confidence: medium
 
 ### Apple（A/M 系列 + Baltra AI server）
 
+→ 完整 entity 見 [[Apple|Apple Inc.]]（2026-06-09 #D1 建檔、Edge AI infra 結構性 anchor 22/25）
+
 **現狀**：
 - **手機 SoC（A 系列）/ Mac SoC（M 系列）**：長期使用 TSMC **InFO**（Integrated Fan-Out）+ Cu Pillar，FOWLP 路線已成熟商用多年
 - **Baltra（自研 AI server 晶片）**：2026-04 證實 Apple 直接向 **Samsung Electro-Mechanics** 採玻璃基板樣品（不再透過 Broadcom 中介），TSMC 3nm N3E + chiplet 架構

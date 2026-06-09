@@ -2061,3 +2061,33 @@
   - **架構級 EDA + R&D 三巨頭**：Synopsys 24（EDA 訂閱年金）+ Cadence 22（EDA #2 Custom IC + analog）+ Imec 24（R&D 公共財）——「不押任何商業路線、所有玩家都依賴」三家
 - 並行衝突警示：C1 subagent stall 後人工收尾、C2 + C3 subagent 並行 commit 期間有正確衝突意識（C3 subagent 報告：「只 stage 自己 6 個檔案、未 add -A、避免吃到別人尚未完成的 work」）
 - 累計：**67 concept + 113 entity + 42 summary**（#C1 +1 concept [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]] + 1 entity [[Cadence]] + 3 entity update [[Synopsys]] / [[Siemens]] / [[半導體基礎建設化]]）
+
+### 2026-06-09 ingest #D1 — Apple Inc.（NASDAQ: AAPL）entity 補位（29 refs 最大孤兒、Edge AI infra anchor 22/25）
+- 觸發：Apple 是 wiki 29 refs 最大「無 entity 孤兒」、wiki 早已多處引用（[[鴻海 2317]] / [[廣達 2382]] / [[6 戰場交集圖譜]] / [[手機與邊緣晶片端 TGV-FOPLP watchlist]] / [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]] / [[Cadence]] / [[IBIDEN]] / [[TDK]] / [[Samsung Electro-Mechanics]] 等）但缺 entity 文章、本次補位
+- 新建 **[[Apple|Apple Inc.]]**（NASDAQ: AAPL）entity — **Edge AI infra 結構性 anchor + Apple Silicon fabless 設計商 + 終端品牌三軌 platform**：
+  - 一句話定位：全球高端智慧型手機 + 智慧型手錶 #1 終端品牌 + Apple Silicon fabless 設計商 + Edge AI 部署 anchor 三軌結構性 platform
+  - **雙身分定位**（重要、本 entity 的核心 framing）：(1) **AI 時代終端品牌**（iPhone / Mac / iPad / Vision Pro / Watch / Services）+ (2) **Apple Silicon fabless 設計商**（A 系列 iPhone / M 系列 Mac / U/R 系列 Vision Pro + Neural Engine）+ (3) **Edge AI 部署 anchor**（Apple Intelligence iOS 27 + Private Cloud Compute + 終端 LLM 部署典範）
+  - **Apple 不純是「賣水人」也不純是「終端品牌」、是 Edge AI infra 結構性 anchor**——把 AI 從 cloud 拉回 edge、本地推理 + 隱私 differentiator
+  - 三層 thesis：
+    - 產業層：全球高端智慧型手機 #1（60-70% 市佔）+ Apple Silicon fabless 設計商 + Edge AI 結構性 anchor（Apple Intelligence iOS 27 2025-09 上線、第一個 mass-market on-device LLM 部署典範）+ Services 高毛利 anchor（占毛利 30%+、毛利率 75%+）
+    - 目的層：不押 AI 任何單一技術、不依賴 cloud LLM、Apple Silicon 全棧自研 IP + Closed Ecosystem（iOS / macOS / iPadOS / visionOS / watchOS）+ Services 高毛利 recurring + 全球 active devices ~2B+
+    - 供應層：跟 [[TSMC]] / [[Cadence]] / [[Synopsys]] / [[鴻海 2317]] / [[廣達 2382]] / [[村田 Murata]] / [[TDK]] / [[Foxconn Interconnect FIT]] / [[IBIDEN]] / [[Samsung Electro-Mechanics]] / [[GlobalFoundries]] 上游 anchor 八家結構性 lock-in（**Apple 是這些 anchor 的最大客戶**）
+  - 五軸 **22/25**（路線 4 + 站別 4 + 耗材 4 + IP 5 + 客戶分散 5）= **「Edge AI infra 結構性 anchor」**、跟 [[Eaton]] 22 / [[Schneider Electric]] 22 / [[Hitachi]] 22 / [[Infineon]] 22 / [[Vertiv]] 22 / [[Cadence]] 22 / [[Constellation Energy]] 22 / [[GE Vernova]] 22 **同分但角色不同**（Apple 是 **Edge AI 終端品牌**、其他是 **infra anchor**）
+  - 財務狀態：市值 **USD $3.5-4T**（Mega Cap top 3）/ Forward PE 28-32x / FY2025 營收 ~$390-400B / 毛利 46-48% / Services 毛利 75%+ / 12M 漲幅 mid-double 10-25%（vs NVDA 三位數差距）/ Stock buyback USD ~$110B/year / Re-rate 3/4
+- 連動更新：
+  - [[賣水人選股邏輯（投資版）]] master 表：新建第十四波「**Edge AI infra 結構性 anchor**」段（Apple 22/25 + 8 條關鍵發現）+ 「跟 wiki 既有概念連結」段補 Apple
+  - [[6 戰場交集圖譜]] concept：(1) 跨 2 戰場段加 Apple row（Edge AI + Apple Silicon + Services）+ (2) 跨戰場矩陣總結加 Apple 9.5 名 66 分（跨深度）+ (3) 跨戰場 anchor 軌補 Apple + (4) 相關連結補 Apple
+  - [[手機與邊緣晶片端 TGV-FOPLP watchlist]] concept：Apple Baltra 段補 entity wikilink（[[Apple|Apple Inc.]]）
+  - [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]] summary：補「Apple Intelligence + iPhone moment 對照」段（三軸 iPhone moment 並列：原 iPhone moment 2007 + HBM iPhone moment 2026 + Apple Intelligence iPhone moment 2025）+ 相關連結補 Apple
+  - [[鴻海 2317]] entity：(1) Apple Vision Pro 全部 → [[Apple|Apple Inc.]] Vision Pro wikilink（7 處替換）+ (2) 相關連結補 Apple（iPhone 70-80% 主代工 + Vision Pro 主代工 + Mac 部分代工 = Apple 30%+ 鴻海營收 anchor）
+  - [[廣達 2382]] entity：相關連結補 Apple（Mac M-series 全系列主代工、NB 段重要客戶）
+  - [[index.md]]：M7 / AI 半導體段補 [[Apple|Apple Inc.]] 條目（Edge AI infra 結構性 anchor + Apple Silicon fabless 設計商 + 終端品牌三軌 platform 22/25）
+- 架構級新洞見：
+  - **Apple = Cloud AI 三巨頭結構性對沖**：[[NVDA]] + [[Microsoft]] + [[Google]] = Cloud AI infra 三巨頭、Apple = Edge AI 部署 anchor（**Cloud AI vs Edge AI 路線分歧**）+ 不直接競爭 + 互補關係
+  - **Apple 上游 anchor 八家結構性 lock-in**：TSMC 25-30% / Cadence + Synopsys 30+ 年 EDA / 鴻海 iPhone 70-80% + Vision Pro / 廣達 Mac / 村田 iPhone 每隻 1,000+ MLCC / TDK 電池 + 矽負極 first adopter / FIT connector / IBIDEN 載板 = **Apple 是這些上游 anchor 的最大客戶**、雙向 lock-in 結構性
+  - **Apple Baltra = TGV 鏈第二根 anchor**：跟 [[Intel]] Clearwater Forest 並列、2026-04 直接採 [[Samsung Electro-Mechanics]] 玻璃基板樣品 + TSMC 3nm N3E、Private Cloud Compute 自家硬體 anchor
+  - **三軸 iPhone moment 並列**：(1) 原 iPhone moment 2007（終端品牌革命）+ (2) HBM iPhone moment 2026（記憶體賽道重估）+ (3) Apple Intelligence iPhone moment 2025（Edge AI 部署典範）= 三軸都呼應「**控制點轉移**」核心邏輯
+  - **Apple Intelligence vs Cloud LLM 路線壓力**：Apple Intelligence 自研 LLM vs 整合 OpenAI / Anthropic / Gemini 多家、慢於 Google Pixel AI（2024-04）+ Samsung Galaxy AI（2024-01）約 12-18 個月、但「mass-market on-device LLM 部署典範 + Private Cloud Compute 隱私 differentiator」結構性護城河
+  - **iPhone 集中度 50% 營收 + App Store 30% 抽成法律壓力（Epic / EU DMA）= 估值上限**：2026-2028 估減至 15-27% → Services 毛利率壓縮、估值上限打 8-9 折
+  - **最 surprising 發現**：Apple **22/25** 跟 [[Eaton]] 22 / [[Schneider Electric]] 22 / [[Cadence]] 22 / [[Vertiv]] 22 **同分但角色不同**——Apple 是「**Edge AI 終端品牌**」、不純套用「賣水人」框架；以為「Apple 是消費電子品牌、估值上限被消費換機循環約束」、實際是「**Edge AI infra 結構性 anchor + Apple Silicon 自研全棧 + 全球 active devices ~2B+ + Services 75%+ 毛利 recurring**」四軸結構性 anchor、可進跨戰場 anchor 軌底倉 5-10% 配置
+- 累計：**67 concept + 114 entity + 42 summary**（#D1 +1 entity [[Apple|Apple Inc.]] + 5 entity / concept update [[賣水人選股邏輯（投資版）]] / [[6 戰場交集圖譜]] / [[手機與邊緣晶片端 TGV-FOPLP watchlist]] / [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]] / [[鴻海 2317]] / [[廣達 2382]]）
