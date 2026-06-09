@@ -74,7 +74,7 @@ PUE:    1.6-1.8     →  1.1-1.3            →  <1.05
 - **D2C（Direct-to-Chip）cold plate** 是 NVDA Blackwell / Rubin 標配
 - L2L（liquid-to-liquid）+ L2A（liquid-to-air）兩種 CDU 架構
 - 機櫃功率 30kW → 1MW（Rubin）
-- 玩家：[[Vertiv]] / [[台達電]] / Schneider / Boyd（Eaton 2026-03 併購）/ CoolIT / [[雙鴻]] / 奇鋐 / [[高力 8996|高力]]
+- 玩家：[[Vertiv]] / [[台達電]] / [[Schneider Electric]] / [[Eaton]] Boyd 段（2026-03 戰略收購整合）/ CoolIT / [[雙鴻]] / [[奇鋐 3017|奇鋐]] / [[高力 8996|高力]] / [[Alfa Laval]]（瑞典 BPHE 全球 #1）
 
 ### 階段 3：浸沒式（2030+，觀察）
 - 整機伺服器泡介電液
@@ -89,13 +89,13 @@ PUE:    1.6-1.8     →  1.1-1.3            →  <1.05
 
 | 組件 | 角色 | 代表玩家 | 台廠位置 |
 |---|---|---|---|
-| **Cold Plate（冷板）** | 直接觸 GPU/CPU 晶片背蓋的銅板、內走冷卻液、最關鍵 | [[Vertiv]]（Strategic Thermal Labs 2026-04 併購）/ Boyd / CoolIT / [[雙鴻]] / 奇鋐 | **強**——雙鴻 / 奇鋐合計拿 GB200 cold plate ~70% 市佔 |
-| **Manifold（分流管）** | 把 CDU 出來的冷卻液分配到每個 cold plate 的管路系統 | [[雙鴻]] / 奇鋐 / Boyd | **強**——奇鋐 4 大 CSP CDM 主供、雙鴻 27% rack manifold 市佔 |
-| **CDU（Coolant Distribution Unit）** | 機櫃間 / 機房級的冷卻液分配 + 二次回路熱交換、心臟 | [[Vertiv]] / [[台達電]] / Schneider / CoolIT / [[雙鴻]] / [[高力 8996|高力]] | **中等**——台達電 2.4MW/3MW CDU 切入 NVDA、雙鴻 1.6MW L2L CDU、高力 BPHE 是 CDU 心臟（9 成市佔）|
-| **QD（Quick Disconnect）/ 接頭** | 漏液關鍵點、universal QD 是 Rubin 互通性的前提 | Parker Hannifin / Staubli / CPC（Colder Products）/ Eaton（Boyd 整合）| **弱**——主要外商寡占、無台廠強勢玩家 |
+| **Cold Plate（冷板）** | 直接觸 GPU/CPU 晶片背蓋的銅板、內走冷卻液、最關鍵 | [[Vertiv]]（Strategic Thermal Labs 2026-04 併購）/ [[Eaton]] Boyd 段（2026-03 併購）/ CoolIT / [[雙鴻]] / 奇鋐 | **強**——雙鴻 / 奇鋐合計拿 GB200 cold plate ~70% 市佔 |
+| **Manifold（分流管）** | 把 CDU 出來的冷卻液分配到每個 cold plate 的管路系統 | [[雙鴻]] / 奇鋐 / [[Eaton]] Boyd 段 | **強**——奇鋐 4 大 CSP CDM 主供、雙鴻 27% rack manifold 市佔 |
+| **CDU（Coolant Distribution Unit）** | 機櫃間 / 機房級的冷卻液分配 + 二次回路熱交換、心臟 | [[Vertiv]] / [[台達電]] / [[Schneider Electric]] / [[Eaton]] Boyd 段 / CoolIT / [[雙鴻]] / [[高力 8996|高力]] | **中等**——台達電 2.4MW/3MW CDU 切入 NVDA、雙鴻 1.6MW L2L CDU、高力 BPHE 是 CDU 心臟（9 成市佔）、Eaton-Boyd 整合 power + cooling 雙軌 |
+| **QD（Quick Disconnect）/ 接頭** | 漏液關鍵點、universal QD 是 Rubin 互通性的前提 | Parker Hannifin / Staubli / CPC（Colder Products）/ [[Eaton]]（Boyd 整合）| **弱**——主要外商寡占、無台廠強勢玩家 |
 
 額外組件：
-- **真空硬銲板式熱交換器（BPHE）**：CDU 的心臟、[[高力 8996|高力]] 全台唯一、**全球少數**能做高品質量產 + 9 成台灣市佔
+- **真空硬銲板式熱交換器（BPHE）**：CDU 的心臟、[[高力 8996|高力]] 全台唯一、**全球少數**能做高品質量產 + 9 成台灣市佔、全球規模龍頭 [[Alfa Laval]]（瑞典）>15% 市佔（vs 高力 5.1% 全球前五大、30x 規模差）
 - **背門熱交換器（Rear Door Heat Exchanger, RDHx）**：在機櫃背後做空對液、混合過渡架構
 - **Sidecar / In-Row CDU**：放機櫃旁、密度較低、台達電原本強項
 
@@ -162,6 +162,8 @@ PUE:    1.6-1.8     →  1.1-1.3            →  <1.05
 ### 跟 [[賣水人選股邏輯（投資版）]]
 - **散熱是「賣水人之中的賣水人」候選**：NVDA / AMD / Trainium 誰贏都要液冷
 - 五軸高分候選：[[Vertiv]]（站別關鍵 + 客戶分散）/ [[雙鴻]]（耗材 cold plate + IP）/ [[高力 8996|高力]]（IP 真空硬銲 + 站別 CDU 心臟）
+- **跨戰場 firm power 第四選擇**：[[Bloom Energy]]（SOFC 唯一 GW 級規模、跟 [[高力 8996|高力]] hot box 共生）= 跳過電網瓶頸的 firm power anchor
+- **規模對照組 anchor**：[[Alfa Laval]]（瑞典 BPHE 全球 #1 >15% 市佔、跟高力 5.1% 全球前五大 30x 規模差）= 「規模 + industrial 多元 + 估值合理」vs「AI niche + 雙引擎」分歧路線
 
 ### 跟 [[控制點轉移（投資版）]]
 - NVDA 已介入 Rubin 散熱**規格定義**（universal QD、45°C 標準）→ 控制點往散熱延伸
