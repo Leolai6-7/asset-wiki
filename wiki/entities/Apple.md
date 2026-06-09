@@ -187,6 +187,7 @@ confidence: high
 - **Stock buyback USD ~$110B/year + dividend**：EPS 結構性拉升 + 回饋股東
 - **TSMC N2 / N3P 制程獨家 first 客戶**：每代 Apple A + M 系列 first-mover anchor
 - 對應 [[AI infra CapEx 三階段論]] 第三階段台灣鏈條 Edge AI 終端 anchor + [[控制點轉移（投資版）]] iOS + Apple Silicon + App Store + Apple Intelligence 四重 chokepoint
+- 🆕 **2026-06-09 Apple Cybercab Robotaxi 隱藏期權**（[[宋分備忘錄 #11 — 油價+AI+Robotaxi 改寫贏家]] 補位）：Apple Car 項目（Project Titan、2014-2024 投入 ~$10B 後 2024-02 取消整車路線）轉向 **Cybercab Robotaxi（自駕 SaaS 平台）+ Apple Intelligence 整合**；對應四層 Robotaxi 受惠玩家分類（Tesla / Waymo 北美 + Volvo / Daimler / Traton 歐洲重卡 TaaS + Ford / GM SaaS 轉型 + Uber 平台層）的「**北美第五位隱藏選項**」；非 Apple 主推 narrative 但 **iOS + CarPlay + Vision Pro AR 整合**潛在「**車內 OS 控制權**」延伸；vs Tesla Cybercab（2027 量產）+ Waymo（無 SaaS revenue 但 paid trips 高速 ramp）+ Apple Cybercab（推測 2028+ 量產、未公開 timeline）形成「**美系自駕 SaaS 三巨頭**」分歧路線；如 ramp 成 = Apple 三軌變四軌（iPhone + Mac + Vision Pro + Cybercab）+ Services 高毛利擴張新軌；如不 ramp = thesis 無實質影響（既有三軌仍 carry）
 
 ### ⚠️ 風險
 
