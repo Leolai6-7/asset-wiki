@@ -5,11 +5,12 @@ type: summary
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-05-02
-check_after: 2026-12-09
+check_after: 2026-12-15
 sources:
   - raw/2026-05-02_FOMOSOC-KP40-五大巨頭Q1財報AI變現分歧.md
 evidence_url: https://www.fomosoc.com/p/5-kp40
 tags: [FOMO SOC, KP 思考筆記, 五大巨頭, Meta, Amazon, Microsoft, Google, Apple, AI CapEx, AI 變現, 變現能見度分歧, 2026 Q1 財報, hyperscaler, RPO 訂單積壓, 證明給我看, MacBook Neo, GitHub Copilot, TPU]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

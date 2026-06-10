@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（Duke Energy FY2025 全年報 + Q4 法說 + 北卡 + 南卡 + 佛州 + 印第安納 + 俄亥俄 + 肯塔基 + 6 核電廠 ~10GW + 8.4M utility 客戶 + Google / Microsoft / AWS data center）
 evidence_url: https://www.duke-energy.com/our-company/investors
 tags: [標的, 美股, NYSE, 電力, 核電, utility, AI infra 電力, 結構性剛需, Constellation 對照, 美東南 utility 龍頭, foreign_competitor, Mega Cap]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -33,7 +34,7 @@ confidence: high
   - **佛州**（Florida）：Tampa / Orlando data center 區域、AWS 美東南 hub
   - **印第安納 + 俄亥俄**：中西部工業 + AI ramp
 - 對應 [[AI infra 電力戰場]]：**第一層電力產生 + utility 區域 anchor（規模 #2 utility + 核電）**
-- 對應 [[宋分 #20 — 能源結構性剛需]]：**部分滿足**（utility + 核電 baseload + AI 資料中心客戶間接受惠、但無已公開大型 hyperscaler PPA = 三標準滿足 2/3）
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]：**部分滿足**（utility + 核電 baseload + AI 資料中心客戶間接受惠、但無已公開大型 hyperscaler PPA = 三標準滿足 2/3）
 
 ### 目的層
 
@@ -194,7 +195,7 @@ confidence: high
 - [[NRG Energy]]：retail 對比（Duke utility 95% / NRG retail-first）
 - [[賣水人選股邏輯（投資版）]]：Duke = utility 監管 + 核電 baseload + 跨六州區域 anchor
 - [[控制點轉移（投資版）]]：拿到「utility 監管 + 核電 + 跨六州區域 anchor + AI data center 間接 retail」四段控制權
-- [[宋分 #20 — 能源結構性剛需]]：部分滿足（三標準 2/3）
+- [[宋分 ＃20 — 能源結構性剛需]]：部分滿足（三標準 2/3）
 - [[Google]] / [[Microsoft]] / [[AMZN]]：北卡 + 南卡 + 佛州 data center 客戶間接受惠
 - [[公司 Entity 模板（Step 1-3 三段式）]]：本 entity 完整套用三段式
 
@@ -208,7 +209,7 @@ confidence: high
 - [[NRG Energy]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[Google]]、[[Microsoft]]、[[AMZN]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 

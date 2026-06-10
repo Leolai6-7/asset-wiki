@@ -10,6 +10,7 @@ sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
 evidence_url: https://en.wikipedia.org/wiki/Jevons_paradox
 tags: [Meta 框架, Jevons Paradox, 效率反彈, AI 算力, 半導體, DeepSeek, pump laser]
+thesis_dependency: none（可遷移方法）
 confidence: high
 ---
 

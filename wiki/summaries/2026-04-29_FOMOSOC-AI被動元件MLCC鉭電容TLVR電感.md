@@ -2,11 +2,14 @@
 title: FOMO SOC KP — AI 被動元件 MLCC + 鉭電容 + TLVR 電感（第三次週期 K 型復甦）
 type: summary
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-11-15
 updated: 2026-06-09
 sources:
   - raw/2026-04-29_FOMOSOC-AI被動元件MLCC鉭電容TLVR電感.md
 evidence_url: https://open.substack.com/pub/fomosoc/p/aimlcctlvr-45?utm_source=share&utm_medium=android&r=5sk0kp
 tags: [被動元件, MLCC, 鉭電容, TLVR 電感, K 型復甦, 三道防線, 2026 Q3 轉折, Vera Rubin, NVL72, 結構性缺貨]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

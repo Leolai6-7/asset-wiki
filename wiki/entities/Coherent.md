@@ -5,13 +5,14 @@ type: entity
 created: 2026-06-05
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-05
+check_after: 2026-11-15
 sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, 美股, 光通訊, 光引擎, CPO, pump laser, EML, InP, SiC, 功率半導體, DCI, foreign_competitor, NVDA]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Coherent（COHR）

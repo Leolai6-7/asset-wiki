@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 sources:
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
 tags: [標的, 美股, 雲端資料平台, Data Cloud, Cortex AI, Snowpark, AWS $60B, 企業 AI 可信執行環境, FY2025, 訂閱年金, Fortune 500, multi-cloud]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Snowflake（SNOW）

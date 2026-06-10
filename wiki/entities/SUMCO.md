@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（SUMCO 2025-2026 年報 / 矽晶圓全球市佔 Q1 2026 / 信越化學 + SUMCO 雙頭壟斷）
 evidence_url: https://www.sumcosi.com/english/
 tags: [標的, 日本, 矽晶圓, 300mm wafer, AI infra, 半導體上游, 雙頭壟斷, 信越化學, Bottleneck Theory, 真賣水, foreign_competitor, 跨光通訊上游]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

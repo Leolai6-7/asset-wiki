@@ -3,11 +3,14 @@ title: Corning
 aliases: [Corning, Corning Incorporated, GLW, NYSE:GLW, 康寧]
 type: entity
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2026-09-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 美國, 玻璃材料, 半導體基板, 國際, foreign_competitor, FOPLP, 玻璃載板, AI 光纖]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Corning（NYSE: GLW）

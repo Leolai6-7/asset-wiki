@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 sources:
   - raw/2026-05-16_FOMOSOC-KP42-Cerebras上市WSE-3對NVDA啟示.md
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
 tags: [標的, 美股, 荷蘭, neocloud, AI cloud, GPU 雲, Yandex 拆分, TripleTen AI 教育, 中亞市場, 預售模式, NVDA H200 B100, Arkady Volozh, 新生公司]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

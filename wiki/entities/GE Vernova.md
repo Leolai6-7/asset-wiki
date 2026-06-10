@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-01-15
 expires_on: 2027-06-08
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 美股, 電力設備, 變壓器, 燃氣輪機, 風電, 電網, AI infra 電力, 800V HVDC, hyperscaler, Prolec, power-to-rack, foreign_competitor, Mega Cap]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # GE Vernova（GEV）
@@ -37,7 +38,7 @@ confidence: high
   - GEV 100GW backlog → **平均 backlog 10 年** = 訂單能見度結構性高
 - 美國 PJM 容量市場 + ERCOT 電力需求暴增 = 推升新電廠建設 = GEV 燃氣輪機 + 變壓器雙頭受惠
 - 對應 [[AI infra 電力戰場]]：**第二層電力傳輸 #1 anchor**（變壓器 + 燃氣輪機 + power-to-rack 整合 = 唯一全棧 OEM）
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿**：物理產能緊缺結構性改變 + 持續 CapEx + backlog $163B 鎖死現金流
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿**：物理產能緊缺結構性改變 + 持續 CapEx + backlog $163B 鎖死現金流
 
 ### 目的層
 
@@ -158,7 +159,7 @@ confidence: high
 - **AI 算力 ramp** 2026-2030 = 新 PPA / 新電廠建設持續
 - **Trump 政府支持化石燃料 + 核電** = GEV 燃氣輪機 + 核電 OEM 紅利
 - 對抗 [[CapEx 見頂辯論]]：物理變壓器 + 燃氣輪機產能緊缺是真正的瓶頸
-- 對應 [[宋分 #20 — 能源結構性剛需]] 三標準全滿
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] 三標準全滿
 - 對應 [[半導體基礎建設化]]：GEV 走「從週期股 → 結構性成長股」路徑
 
 ### ⚠️ 風險
@@ -216,7 +217,7 @@ confidence: high
 
 → **直接 hyperscaler 4 家全包 + 多年 agreements 至 2035** = 是 IPP（CEG/VST/TLN）之外、hyperscaler 第一直接合約對象
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 宋分 #20 **三標準全滿**：
 
@@ -285,8 +286,8 @@ confidence: high
 - [[AI infra 電力戰場]]：本 entity 是**第二層電力傳輸 #1 anchor + 全棧 power-to-rack 整合 OEM 唯一**
 - [[賣水人選股邏輯（投資版）]]：GEV = 電力設備賣水人之中的賣水人
 - [[控制點轉移（投資版）]]：拿到「燃氣輪機 + 變壓器 + 軟體 + 服務 + power-to-rack 整合」五段控制點
-- [[宋分 #20 — 能源結構性剛需]]：GEV = 三標準全滿、上游設備版
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：GEV = 「被遺忘的 AI 受惠者」放大版
+- [[宋分 ＃20 — 能源結構性剛需]]：GEV = 三標準全滿、上游設備版
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：GEV = 「被遺忘的 AI 受惠者」放大版
 - [[效率→安全切換]]：hyperscaler 至 2035 agreements = 多年 lock-in 安全代價
 - [[AI infra CapEx 三階段論]]：GEV 是第三階段下半場電力 anchor #1（傳輸層）
 - [[半導體基礎建設化]]：GEV 走同一路徑（從週期股 → 結構性成長股）
@@ -304,8 +305,8 @@ confidence: high
 - [[信昌電]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
+- [[宋分 ＃20 — 能源結構性剛需]]
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
 - [[AI infra CapEx 三階段論]]
 - [[Microsoft]]、[[AMZN]]、[[Meta]]、[[Google]]
 - [[NVDA]]（Rubin 1MW 機櫃 trigger）

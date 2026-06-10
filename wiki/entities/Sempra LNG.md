@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-05-06_FOMOSOC-KP46-LNG-油田服務-煉油-化肥-能源結構重塑.md
 evidence_url: https://www.fomosoc.com/p/46lng
 tags: [標的, 美股, LNG, 天然氣, 出口, AI infra 電力, firm power 第五選擇, hyperscaler 海外資料中心, Cameron LNG, Port Arthur LNG, ECA LNG, utility, California utility, foreign_competitor, Mega Cap, KP46]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -40,7 +41,7 @@ confidence: high
   - 北墨西哥 utility + LNG terminal + pipeline 全棧
   - 對沖美國 utility 集中度、增加 LatAm 曝險
 - 對應 [[AI infra 電力戰場]]：**第五選擇 firm power anchor（utility 多元版）**
-- 對應 [[宋分 #20 — 能源結構性剛需]] **三標準全滿**：供給結構改變 + Cameron Phase 2 + Port Arthur Phase 1 CapEx $15B+ + LNG 20 年現金流
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] **三標準全滿**：供給結構改變 + Cameron Phase 2 + Port Arthur Phase 1 CapEx $15B+ + LNG 20 年現金流
 - 對應 [[控制點轉移（投資版）]]：跟 Cheniere 同樣**美國 LNG 從「價格接受者」→「價格制定者」**、Sempra 是次強受惠者
 - 對應 [[Bottleneck Theory（瓶頸論）]]：**ECA LNG Mexico 太平洋 = 規避 Hormuz + 規避巴拿馬運河 chokepoint**、是美國 LNG 出口賽道唯一太平洋路徑 anchor
 
@@ -172,7 +173,7 @@ confidence: high
 - **California 加州 hyperscaler 境內 DC 擴張**
 - **Trump 政府支持 LNG 出口 + 加州 utility regulated 穩定**
 - **AI 算力 ramp 2026-2030** = 新長約持續簽約
-- 對應 [[宋分 #20 — 能源結構性剛需]] **三標準全滿**
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] **三標準全滿**
 
 ### ⚠️ 風險
 
@@ -212,7 +213,7 @@ confidence: high
 
 → **直接客戶**：TotalEnergies / 三菱 / 三井 / KOGAS / Saudi Aramco / JERA / ConocoPhillips / KKR / 加州 utility 終端用戶 多元
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | Sempra 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -277,8 +278,8 @@ confidence: high
 - [[AI infra 電力戰場]]：本 entity 是 **firm power 第五選擇 anchor（utility 多元版）**
 - [[賣水人選股邏輯（投資版）]]：Sempra = LNG + utility 雙引擎 anchor + 多元規模型
 - [[控制點轉移（投資版）]]：拿到「LNG + California utility + Mexico utility + 太平洋差異化」四段控制點
-- [[宋分 #20 — 能源結構性剛需]]：Sempra = 三標準全滿
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：Sempra = 「被遺忘的 AI 受惠者」雙引擎版
+- [[宋分 ＃20 — 能源結構性剛需]]：Sempra = 三標準全滿
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：Sempra = 「被遺忘的 AI 受惠者」雙引擎版
 - [[效率→安全切換]]：Sempra LNG 長約 + utility regulated ROE = hyperscaler 要 24/7 安全代價
 - [[AI infra CapEx 三階段論]]：Sempra 是第三階段下半場 firm power 雙引擎 anchor
 - [[半導體基礎建設化]]：Sempra 走同一路徑（utility + LNG → AI 基建 anchor）
@@ -297,8 +298,8 @@ confidence: high
 - [[AI infra 電力戰場]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
+- [[宋分 ＃20 — 能源結構性剛需]]
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
 - [[Bottleneck Theory（瓶頸論）]]
 - [[Cheniere Energy]] / [[Cameron LNG]] / [[Tellurian]]
 - [[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] / [[Bloom Energy]] / [[Talen Energy]]

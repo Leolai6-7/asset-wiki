@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（onsemi FY2025 全年報 + Q4 法說 + SiC + IGBT + Image Sensor 三軌 + Wolfspeed Chapter 11 對照 + EV + AI server 雙引擎）
 evidence_url: https://www.onsemi.com/investors
 tags: [標的, 美股, NASDAQ, 化合物半導體, SiC, IGBT, Image Sensor, EV, AI server, 800V HVDC, foreign_competitor, Mid Cap, IDM]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

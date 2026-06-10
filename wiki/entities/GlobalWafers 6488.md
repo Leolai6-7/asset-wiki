@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（環球晶 2025 年報 / 2026 Q1 法說 / Siltronic 併購失敗回顧 / 美國 Texas + 義大利 fab CapEx）
 evidence_url: https://www.globalwafers.com/
 tags: [標的, 台股, 上市, 矽晶圓, 300mm, AI infra, 半導體上游, 跟 SUMCO + 信越化學 對打, CHIPS Act, 美國 fab, 國際併購失敗, SiC, 第三戰場, foreign_competitor]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

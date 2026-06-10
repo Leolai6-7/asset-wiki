@@ -3,10 +3,13 @@ title: ABF 載板 vs 玻璃基板 displacement
 aliases: [ABF 載板替代風險, 玻璃基板取代 ABF, ABF displacement]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2027-02-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [ABF 載板, 玻璃基板, displacement, 欣興, 南電, 景碩, 受害, 轉型, 受惠]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 
@@ -122,7 +125,7 @@ ABF 廠**並行押注**兩個 displacement 戰場：
 - [[玻璃基板與 FOPLP 賽道]]：本 concept 的反面（玻璃贏 vs ABF 輸）
 - [[先進封裝互聯路線圖]]：本 displacement 是其中一個次級競爭
 - [[控制點轉移（投資版）]]：載板材料的控制點從化學（ABF）→ 玻璃
-- [[宋分備忘錄 #6 — 市場世界觀切換]]：「成本不會回到以前」對 ABF 廠是真實壓力
+- [[宋分備忘錄 ＃6 — 市場世界觀切換]]：「成本不會回到以前」對 ABF 廠是真實壓力
 - [[修正三階段]]：ABF 廠估值若因玻璃敘事被無差別賣 → 跟其他被錯殺的標的對照
 
 ## 待 ingest 延伸

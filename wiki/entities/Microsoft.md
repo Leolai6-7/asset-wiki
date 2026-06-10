@@ -3,6 +3,8 @@ title: Microsoft
 aliases: [Microsoft, MSFT, Azure, Copilot]
 type: entity
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-01-15
 updated: 2026-06-09
 sources:
   - raw/2026-04-06_微軟每月收你30美元用Copilot——但條款寫著僅供娛樂.md
@@ -10,7 +12,8 @@ sources:
   - raw/2026-05-02_FOMOSOC-KP40-五大巨頭Q1財報AI變現分歧.md
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
 tags: [標的, M7, CSP, AI, OpenAI, Copilot, Azure, GitHub Copilot 使用量計費, AI 年化營收, 變現能見度中段, hyperscaler]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Microsoft
@@ -35,7 +38,7 @@ M7 之一，AI 時代最複雜的曝險點。**持股 OpenAI 27% + 最大 Azure 
 - NPS **-19.8**、滲透率卡在 **3.3%**
 - = AI 訂閱制 unit economics 不 work 的證據
 
-## 「四次重新定價」歷史（[[宋分 #10 — AI 半導體基礎建設化]]）
+## 「四次重新定價」歷史（[[宋分 ＃10 — AI 半導體基礎建設化]]）
 
 | Cycle | 時期 | 主軸 |
 |---|---|---|

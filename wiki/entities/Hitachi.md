@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-12-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 日股, 電力設備, 變壓器, HVDC, AI infra 電力, 800V HVDC, Hitachi Energy, NVDA, Spectrum-XGS, Conglomerate, foreign_competitor, Mega Cap, 軟體合作]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Hitachi（HTHIY / 6501.JP）
@@ -38,7 +39,7 @@ confidence: high
   - 多元 segment 分散風險（IT 服務 + 能源 + 鐵道 + 汽車 + 家電）
   - 跨 segment cross-sell 機會（Hitachi Energy + Lumada DX 軟體 + Hitachi Rail）
 - 對應 [[AI infra 電力戰場]]：**第二層電力傳輸 #2 anchor**（HVDC + 大型變壓器主場）
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿**：變壓器物理產能緊缺 + 持續 CapEx + 訂單 +50% YoY 鎖死
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿**：變壓器物理產能緊缺 + 持續 CapEx + 訂單 +50% YoY 鎖死
 
 ### 目的層
 
@@ -144,7 +145,7 @@ confidence: high
 - **Lumada DX 平台 cross-sell**：能源 + 鐵道 + IT 服務多元
 - **conglomerate sum-of-parts 折價 re-rating**：分拆 / Hitachi Energy IPO 可能
 - **AI 算力 ramp** 2026-2030 = 變壓器 + 800V HVDC 雙頭受惠
-- 對應 [[宋分 #20 — 能源結構性剛需]] 三標準全滿
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] 三標準全滿
 
 ### ⚠️ 風險
 
@@ -221,7 +222,7 @@ confidence: high
 
 ⭐ **+50% YoY 訂單 = AI 電力 anchor 物理瓶頸的直接量化證據**
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | Hitachi 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -274,8 +275,8 @@ confidence: high
 - [[AI infra 電力戰場]]：本 entity 是**第二層電力傳輸 #2 anchor**
 - [[賣水人選股邏輯（投資版）]]：Hitachi = 電力 anchor + 軟體合作 + 多元 conglomerate 賣水人
 - [[控制點轉移（投資版）]]：拿到「Hitachi Energy + Lumada + NVDA Spectrum-XGS」三段控制點
-- [[宋分 #20 — 能源結構性剛需]]：Hitachi = 三標準全滿（conglomerate 折價機會）
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：Hitachi = 跨界軟體 + 電力多元擴散
+- [[宋分 ＃20 — 能源結構性剛需]]：Hitachi = 三標準全滿（conglomerate 折價機會）
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：Hitachi = 跨界軟體 + 電力多元擴散
 - [[效率→安全切換]]：Hitachi Energy HVDC = 電網安全升級
 - [[AI infra CapEx 三階段論]]：Hitachi 是第三階段下半場電力 anchor + 軟體擴散
 - [[ABB]]：2020 從 ABB 拆出 Power Grids 成立 Hitachi Energy（special relationship）
@@ -297,7 +298,7 @@ confidence: high
 - [[Talen Energy]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[AI infra CapEx 三階段論]]
 - [[NVDA]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]

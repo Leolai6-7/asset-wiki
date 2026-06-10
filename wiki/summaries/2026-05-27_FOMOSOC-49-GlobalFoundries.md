@@ -2,11 +2,14 @@
 title: FOMO SOC #49 — GlobalFoundries（量子計算「混凝土裡的鋼筋」+ 多平台基礎設施）
 type: summary
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-11-15
 updated: 2026-06-09
 sources:
   - raw/2026-05-27_FOMOSOC-49-GlobalFoundries.md
 evidence_url: https://www.fomosoc.com/p/3-49globalfoundries
 tags: [GlobalFoundries, GFS, 量子計算, cryo-CMOS, 政府入股, PsiQuantum, Quantinuum, Diraq, AMD spinoff, Mubadala, 混凝土裡的鋼筋, 多平台]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

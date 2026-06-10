@@ -6,11 +6,12 @@ created: 2026-06-08
 updated: 2026-06-09
 last_minor_update: 2026-06-09 中國光模組鏈條（Innolight + Eoptolink 雙頭）補位 + 2026-06-08 IQE entity 補完
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 expires_on: 2027-12-31
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [Meta 框架, CapEx, 階段論, AI 基礎建設, 光通訊, InP, Spectrum-X]
+thesis_dependency: none（可遷移方法）
 confidence: medium
 ---
 
@@ -34,7 +35,7 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 
 ### 第一階段：CSP 開始講 CapEx
 - 雲廠商法說會把 AI CapEx framing 拉成多年期承諾
-- 對應 [[宋分備忘錄 #1 — CSP-AI 通縮]] CSP CapEx 焦點轉移期
+- 對應 [[宋分備忘錄 ＃1 — CSP-AI 通縮]] CSP CapEx 焦點轉移期
 - **市場反應**：CSP 估值期權上升
 
 ### 第二階段：NVDA 設備 + 訂單全面落地
@@ -176,7 +177,7 @@ Leo 2026-06-08 提出的 framework：**追蹤 $5.3 兆 AI infra CapEx 的傳導�
 - [[CPO 供應鏈圖譜]] / [[Hyper Rail / Multi-Rail（光通訊整合技術）]]：第三階段受惠
 - [[AI 記憶體結構性供給短缺]]：同時期的記憶體 anchor
 - [[賣水人選股邏輯（投資版）]]：第三階段是賣水人的高光時刻
-- [[宋分備忘錄 #1 — CSP-AI 通縮]] / [[宋分備忘錄 #5 — 複利測試]]：對照宋分的 CSP 思路
+- [[宋分備忘錄 ＃1 — CSP-AI 通縮]] / [[宋分備忘錄 ＃5 — 複利測試]]：對照宋分的 CSP 思路
 
 ## 待 ingest 延伸（第三階段缺的玩家）
 

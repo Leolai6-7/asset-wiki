@@ -3,11 +3,14 @@ title: AI 融資結構（條件資本）
 aliases: [AI 融資結構, 條件資本, AI Financing, AGI tripwire]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-12-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_OpenAI拿了1220億——但這筆錢不是你以為的那種錢.md
 tags: [融資, 條件資本, 私募, OpenAI, AGI, IPO]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 融資結構（條件資本）
@@ -67,7 +70,7 @@ Microsoft 認列 Azure 營收 $100B
 - 真實 burn rate 需要剝離「循環部分」才看得清
 - [[DCF vs PE]] 中的「確定性」要打折扣
 
-## 跟 [[宋分備忘錄 #1 — CSP-AI 通縮]] 的連結
+## 跟 [[宋分備忘錄 ＃1 — CSP-AI 通縮]] 的連結
 
 - 宋分的「CapEx 不會短期見頂」+ OpenAI 1220 億都指向**循環不會自動結束**
 - 但**單位經濟（每賺 1 元燒 1.69 元）**是真實的 burn rate

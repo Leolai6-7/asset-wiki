@@ -2,10 +2,13 @@
 title: TXC 3042 MEMO — Photo Die + 1.6T 312.5MHz + 石英 sub-30fs vs MEMS
 type: summary
 created: 2026-06-10
+as_of: 2026-06-10
+check_after: 2027-01-15
 updated: 2026-06-10
 sources:
   - raw/2026-06-09_TXC-3042-MEMO-法說-Photo Die-1.6T 312.5MHz.md
 tags: [TXC, 晶技, 3042, 石英 timing, Photo Die, 1.6T 光模組, SiTime MEMS 對打, 車用 ADAS, sub-30fs, 物理 chokepoint]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

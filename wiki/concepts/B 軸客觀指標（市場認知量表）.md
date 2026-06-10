@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2026-12-15
 sources:
   - https://www.millstreetresearch.com/do-analyst-estimate-revisions-still-help-forecast-relative-stock-returns/
   - https://www.sciencedirect.com/science/article/abs/pii/S106294082100022X
@@ -13,6 +13,7 @@ sources:
   - https://en.macromicro.me/charts/97/tw-bb-ratio
   - https://www.cmoney.tw/forum/
 tags: [B 軸, 資訊擴散, 市場認知, 量表, ABCD, 方法論]
+thesis_dependency: none（可遷移方法）
 confidence: medium
 ---
 

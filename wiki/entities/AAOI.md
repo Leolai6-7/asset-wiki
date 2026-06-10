@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-08
+check_after: 2026-12-15
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, US, NASDAQ, 光通訊, 光模組, 1.6T, 800G, transceiver, vertical integration, hyperscaler, Microsoft, AI 數據中心, Serenity 重押, Bottleneck Theory L5, foreign_competitor, CPO, ELSFP]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AAOI（NASDAQ: AAOI）

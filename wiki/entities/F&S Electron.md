@@ -9,6 +9,7 @@ check_after: 2026-09-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 韓國, 私募未上市, 玻璃基板, TGV, foreign_competitor, Absolics 供應商, 鈦昇對手, S.E.A. 子公司]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

@@ -5,12 +5,13 @@ type: concept
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-05-02
-check_after: 2026-12-09
+check_after: 2026-10-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-05-02_FOMOSOC-KP40-五大巨頭Q1財報AI變現分歧.md
 evidence_url: https://www.fomosoc.com/p/5-kp40
 tags: [AI 變現能見度, hyperscaler 分歧, 證明給我看, RPO 訂單積壓, Google 大漲 Meta 大跌, 變現能見度框架, 2026 Q1 財報季]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -74,7 +75,7 @@ KP@FOMOSoc 2026-05-02 KP40 提出的 framework：**AI CapEx 已成「入場資�
 - 過去：以「**年化營收**」評估雲端
 - 現在：「**RPO 訂單積壓**」變成決定性指標
 - Google $4,620 億 RPO = 兩年能見度 = 比年化營收更具預測性
-- → 對接 [[Forward PE 估值法]] / [[10-K 閱讀法（分析師底層 #1）]]：**RPO 變成新的核心數字**
+- → 對接 [[Forward PE 估值法]] / [[10-K 閱讀法（分析師底層 ＃1）]]：**RPO 變成新的核心數字**
 
 ## 跟其他 wiki 概念連結
 
@@ -151,6 +152,6 @@ KP@FOMOSoc 2026-05-02 KP40 提出的 framework：**AI CapEx 已成「入場資�
 - [[控制點轉移（投資版）]]
 - [[資訊擴散四階段]]
 - [[Forward PE 估值法]]
-- [[10-K 閱讀法（分析師底層 #1）]]
+- [[10-K 閱讀法（分析師底層 ＃1）]]
 - [[Google]]、[[Meta]]、[[Microsoft]]、[[Apple]]、[[NVDA]]、[[OpenAI]]、[[Anthropic]]、[[AVGO]]
 - [[FOMO SOC]]（KP@FOMOSoc KOL 來源）

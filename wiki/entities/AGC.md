@@ -3,11 +3,14 @@ title: AGC
 aliases: [AGC, AGC Inc, Asahi Glass, 旭硝子, 5201, 5201.T, 5201.JP, TSE:5201]
 type: entity
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2027-02-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 日本, 玻璃材料, 半導體基板, TGV, EUV mask blank, 國際, foreign_competitor]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AGC（TSE: 5201）

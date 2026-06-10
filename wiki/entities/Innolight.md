@@ -6,13 +6,14 @@ created: 2026-06-09
 updated: 2026-06-09
 last_minor_update: 2026-06-09 補 Eoptolink 中國光模組 OEM 雙頭對照段
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 sources:
   - https://www.innolight.com/en/
   - https://semiconstocks.com/
   - https://www.lightcounting.com/
   - https://news.cnyes.com/news/id/6464928
 tags: [標的, 中股, A 股, 光通訊, 光模組, 1.6T, transceiver, hyperscaler, 中國光模組龍頭, NVDA 供應商, OEM 模組]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

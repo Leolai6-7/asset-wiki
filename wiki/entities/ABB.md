@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 瑞士, 電力設備, 變壓器, switchgear, 高壓設備, HVDC, 自動化, AI infra 電力, 800V HVDC, 機器人, foreign_competitor, Mega Cap]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # ABB（ABBNY / ABBN.SW）
@@ -35,7 +36,7 @@ confidence: high
   - 全球年產能 ~60-80 GVA（Hitachi Energy / GEV / Siemens Energy / ABB / Mitsubishi 五巨頭）
   - **AI data center 新增需求 +30-50 GVA / 年** = 結構性短缺到 2028+
 - 對應 [[AI infra 電力戰場]]：**第二層 + 第三層雙層 anchor**（distribution 變壓器 + switchgear + 800V HVDC 共同制定）
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿**：變壓器 / switchgear 物理產能緊缺 + 持續 CapEx + backlog $23B 鎖死
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿**：變壓器 / switchgear 物理產能緊缺 + 持續 CapEx + backlog $23B 鎖死
 
 ### 目的層
 
@@ -141,7 +142,7 @@ confidence: high
 - **Robotics + Process Automation AI 整合方案**：data center 建廠 + 工業自動化雙頭
 - **ABB Ability 軟體 recurring 滲透率**
 - 對抗 [[CapEx 見頂辯論]]：配電 + switchgear 物理瓶頸
-- 對應 [[宋分 #20 — 能源結構性剛需]] 三標準全滿
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] 三標準全滿
 
 ### ⚠️ 風險
 
@@ -217,7 +218,7 @@ ABB + Schneider + Eaton（北美三巨頭）
 - **配電變壓器 + 中壓 switchgear**：ABB 本體保留主場
 - → **ABB 跟 Hitachi Energy 現在是「不同壓段的 sister-company」**
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | ABB 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -271,8 +272,8 @@ ABB + Schneider + Eaton（北美三巨頭）
 - [[AI infra 電力戰場]]：本 entity 是**第二 / 第三層雙層 anchor**
 - [[賣水人選股邏輯（投資版）]]：ABB = 電力 anchor + 跨工業多元賣水人
 - [[控制點轉移（投資版）]]：拿到「配電 + switchgear + 800V HVDC + ABB Ability」多段控制點
-- [[宋分 #20 — 能源結構性剛需]]：ABB = 三標準全滿
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：ABB = 跨工業 + 電力雙頭擴散
+- [[宋分 ＃20 — 能源結構性剛需]]：ABB = 三標準全滿
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：ABB = 跨工業 + 電力雙頭擴散
 - [[效率→安全切換]]：ABB 800V HVDC = 機房電力安全升級
 - [[AI infra CapEx 三階段論]]:ABB 是第三階段下半場電力 anchor + 工業自動化擴散
 - [[NVDA]]：800V HVDC 31 家共同制定者
@@ -294,7 +295,7 @@ ABB + Schneider + Eaton（北美三巨頭）
 - [[Talen Energy]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[AI infra CapEx 三階段論]]
 - [[NVDA]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]

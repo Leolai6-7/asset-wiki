@@ -5,10 +5,11 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-01-15
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 英國, InP, GaAs, VCSEL, 化合物半導體, 6-inch InP, epi foundry, CPO 上游, 光通訊, 三階段論, foreign_competitor, MACOM]
+thesis_dependency: AI-capex
 confidence: low
 score_range: "15-19/25"
 score_flag: thesis-dependent

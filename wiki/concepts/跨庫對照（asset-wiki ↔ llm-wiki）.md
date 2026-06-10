@@ -3,10 +3,13 @@ title: 跨庫對照（asset-wiki ↔ llm-wiki）
 aliases: [跨庫對照, asset-wiki llm-wiki, 跨 vault 對照]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2027-01-15
 updated: 2026-06-05
 sources: []
 tags: [Meta 框架, 跨庫, llm-wiki, 對照表]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # 跨庫對照（asset-wiki ↔ llm-wiki）

@@ -3,11 +3,14 @@ title: TGV 製程鏈圖譜
 aliases: [TGV 製程鏈, TGV 供應鏈, 玻璃通孔製程, TGV 八站]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2027-01-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [TGV, 玻璃通孔, 半導體, 先進封裝, 供應鏈, 賣水人]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # TGV 製程鏈圖譜

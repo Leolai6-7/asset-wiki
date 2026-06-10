@@ -3,11 +3,14 @@ title: 散戶 vs 機構買股差異
 aliases: [散戶 vs 機構, 機構買股, 估值情緒對抗]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-01-15
 updated: 2026-06-04
 sources:
   - raw/美股送分題-notes-市場解碼與估值筆記-2026-02至04.md
 tags: [心理, 散戶, 機構, 估值, 自我管理]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # 散戶 vs 機構買股差異

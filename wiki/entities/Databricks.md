@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-11-15
 expires_on: 2027-12-09
 sources:
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
 tags: [標的, 私募, 雲端資料平台, Lakehouse, Unity Catalog, MLflow, Mosaic AI, Photon, Spark 商業化, 跨多雲, Fortune 500, AI 訓練, 訂閱年金, NOT-INVESTABLE, IPO pending, G1]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Databricks（私募、IPO pending 2026 H2-2027 H1）

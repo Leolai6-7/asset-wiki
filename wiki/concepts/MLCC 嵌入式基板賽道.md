@@ -5,10 +5,11 @@ type: concept
 created: 2026-06-05
 updated: 2026-06-05
 as_of: 2026-06-05
-check_after: 2026-12-05
+check_after: 2027-02-15
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [MLCC, 嵌入式基板, ABF, 被動元件, 載板, IBIDEN, SEMCO, 村田, 國巨, silicon capacitor]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

@@ -11,6 +11,7 @@ sources:
   - raw/2026-06-09_FOMOSOC-800V-HVDC-灰白區重劃-物理鐵壁論.md
 evidence_url: https://investor.ti.com/
 tags: [標的, 類比 IC, 電源管理, 半導體, 800V HVDC, 跨產業, AI server, 工業, 汽車, 賣水人]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -35,7 +36,7 @@ TAM：類比 IC + 電源管理 $80B+（2025）、CAGR 6-8%
 不是 AI 純押注、是「**跨產業電源管理大宗**」。從 USB 充電器、車載 ECU、工業 PLC 到 AI server 800V→48V 中間轉換都做。
 
 連 [[半導體基礎建設化]]：類比 IC 從週期商品升級為穩定需求 infra。
-連 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：類比 IC 隱藏的 AI 受惠者。
+連 [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：類比 IC 隱藏的 AI 受惠者。
 
 ### 供應層
 
@@ -82,7 +83,7 @@ TAM：類比 IC + 電源管理 $80B+（2025）、CAGR 6-8%
 - 800V HVDC 跨產業受惠：[[800V HVDC 灰白區重劃（物理鐵壁論）]]
 - 電力戰場全鏈：[[AI infra 電力戰場]]
 - 跟純押路線對照：[[Vicor]]（高溢價）/ [[Monolithic Power Systems MPS]]（純 PoL）/ [[Infineon]]（雙料）
-- 類比 IC 重估：[[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
+- 類比 IC 重估：[[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
 - 賣水人定位：[[賣水人選股邏輯（投資版）]]
 - 半導體基礎建設化：[[半導體基礎建設化]]
 
@@ -101,7 +102,7 @@ TAM：類比 IC + 電源管理 $80B+（2025）、CAGR 6-8%
 - [[Vicor]]
 - [[Monolithic Power Systems MPS]]
 - [[Infineon]]
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
 - [[半導體基礎建設化]]
 - [[賣水人選股邏輯（投資版）]]
 - [[NVDA]]

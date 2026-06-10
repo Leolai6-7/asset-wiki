@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（Synopsys FY2025 全年報 + Q3 法說 / Ansys 併購 $35B 完成 / AI fab 設計鏈 / EDA 全球市佔）
 evidence_url: https://www.synopsys.com/investors
 tags: [標的, 美股, NASDAQ, EDA, 半導體設計, AI 自動設計, AI fab 內部設計鏈, Ansys 併購, 寡占, 跨產業, 賣水人之中的賣水人, foreign_competitor]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

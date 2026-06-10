@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
 tags: [標的, 美股, ASIC, 光通訊, DSP, CPO, 交換 ASIC, custom silicon, foreign_competitor, NVDA, AMZN, Interconnect 寡占, 光 DSP 60%, KP44 narrative shift, Celestial AI, XConn, Polariton, scale up, scale out, scale across]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Marvell（MRVL）

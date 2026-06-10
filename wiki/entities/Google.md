@@ -3,12 +3,15 @@ title: Google
 aliases: [Google, Alphabet, GOOG, GOOGL, Gemini]
 type: entity
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-11-15
 updated: 2026-06-09
 sources:
   - raw/2026-04-13_AI廣告信任危機-聊天機器人的利益衝突.md
   - raw/2026-05-02_FOMOSOC-KP40-五大巨頭Q1財報AI變現分歧.md
 tags: [標的, M7, AI, 搜尋, 廣告, Gemini, TPU, 變現能見度溢價, hyperscaler]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Google（Alphabet）

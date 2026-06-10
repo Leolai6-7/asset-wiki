@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2026-12-15
 sources:
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
   - https://investors.teradyne.com/news-events/press-releases/detail/436/teradyne-introduces-photon-100
 tags: [標的, 美股, 半導體測試, ATE, CPO 測試, 矽光子, 檢測賣水人, robotics]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

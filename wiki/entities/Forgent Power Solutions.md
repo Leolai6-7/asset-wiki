@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2027-02-15
 sources:
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
   - https://www.forgentpower.com/
 tags: [標的, 美股, 配電設備, 低壓開關櫃, 變壓器, PDU, 資料中心, 800V 過渡期, AC 架構延壽, 新掛牌]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

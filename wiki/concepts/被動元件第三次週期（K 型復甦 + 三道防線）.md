@@ -11,6 +11,7 @@ sources:
   - raw/2026-04-29_FOMOSOC-AI被動元件MLCC鉭電容TLVR電感.md
 evidence_url: https://open.substack.com/pub/fomosoc/p/aimlcctlvr-45?utm_source=share&utm_medium=android&r=5sk0kp
 tags: [被動元件, MLCC, 鉭電容, TLVR 電感, K 型復甦, 三道防線, 2026 Q3 轉折, Vera Rubin, NVL72, 結構性缺貨, FOMO SOC]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -194,7 +195,7 @@ KP@FOMOSoc 2026-04-29 提出的 framework：**2025 Q4-2026 是被動元件歷史
 ### 1. 週期性歷史教訓
 - 歷史上每次缺貨都被過度反應導致擴產過度
 - 庫存天數仍 30 天、未見明顯去化壓力
-- 連 [[宋分備忘錄 #6 — 市場世界觀切換]] 警惕
+- 連 [[宋分備忘錄 ＃6 — 市場世界觀切換]] 警惕
 
 ### 2. 需求變數
 - CSP 投資計畫可能調整

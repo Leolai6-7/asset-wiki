@@ -5,13 +5,14 @@ type: concept
 created: 2026-06-09
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-09
+check_after: 2026-09-15
 expires_on: 2028-06-09
 sources:
   - raw/2026-06-09_FOMOSOC-800V-HVDC-灰白區重劃-物理鐵壁論.md
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 evidence_url: https://www.fomosoc.com/p/800v-hvdc-50hvdc?utm_source=share&utm_medium=android&r=5sk0kp&triedRedirect=true&_src_ref=l.threads.com
 tags: [800V HVDC, 物理鐵壁, 灰白區, 自來水隱喻, SST, BBU, PoL, GaN, SiC, AI 資料中心, 電力戰場]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

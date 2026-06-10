@@ -3,11 +3,14 @@ title: AI 資安 — 紅藍隊分離與商業模式
 aliases: [紅藍隊分離, 資安產業結構, 紅隊藍隊商業模式]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-11-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-09_資安產業結構-紅藍隊分離與商業模式.md
 tags: [AI 資安, 產業結構, CrowdStrike, Palo Alto, 商業模式]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 資安 — 紅藍隊分離與商業模式

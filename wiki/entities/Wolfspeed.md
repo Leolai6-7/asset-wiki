@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 expires_on: 2026-12-31
 sources:
   - WebSearch 2026-06-09（Wolfspeed Chapter 11 2025-06 重組 + 200mm SiC wafer pure-play + Mohawk Valley fab + onsemi / Infineon SiC 對比 + AI server 救不及時程）
 evidence_url: https://www.wolfspeed.com/investors/
 tags: [標的, 美股, NYSE, 化合物半導體, SiC, MOSFET, Wafer, 純 SiC pure-play, Chapter 11, NOT-INVESTABLE, distressed, foreign_competitor, 800V HVDC, EV]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

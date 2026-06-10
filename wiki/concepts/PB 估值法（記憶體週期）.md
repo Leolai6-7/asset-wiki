@@ -3,12 +3,15 @@ title: PB 估值法（記憶體週期）
 aliases: [PB 估值法, PB, 記憶體估值, 麵包店類比]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-02-15
 updated: 2026-06-08
 sources:
   - raw/美股送分題-07-AI記憶體PB估值-2026-03-12.md
   - raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md
 tags: [估值, PB, 記憶體, 景氣循環, HBM, LTA]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # PB 估值法（記憶體週期）

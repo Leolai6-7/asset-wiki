@@ -5,13 +5,14 @@ type: concept
 created: 2026-06-05
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 expires_on: 2027-12-31
 sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
   - raw/2026-05-20_FOMOSOC-48-DCI-Nokia-Cisco.md
 evidence_url: https://www.ciena.com/insights/what-is/what-is-hyper-rail-or-multi-rail
 tags: [光通訊, DCI, Hyper Rail, Multi-Rail, pump laser, EDFA, CPO, scale across, AI infra]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

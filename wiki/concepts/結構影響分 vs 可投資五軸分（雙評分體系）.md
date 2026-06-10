@@ -8,7 +8,8 @@ as_of: 2026-06-09
 check_after: 2027-06-09
 sources: []
 tags: [Meta 框架, 評分體系, 投資方法論, 五軸評分, 結構影響]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # 結構影響分 vs 可投資五軸分（雙評分體系）

@@ -3,11 +3,14 @@ title: 開源戰略 — Meta Muse Spark 閉源轉折
 aliases: [Muse Spark 閉源, MSL 第一個模型, Meta 閉源轉折]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-02-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-11_meta-muse-spark-closed-source.md
 tags: [Meta, Muse Spark, MSL, Alexandr Wang, 閉源, 開源戰略]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 開源戰略 — Meta Muse Spark 閉源轉折

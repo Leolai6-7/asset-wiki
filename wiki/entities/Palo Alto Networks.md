@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 expires_on: 2027-06-09
 sources:
   - https://www.paloaltonetworks.com/
@@ -13,6 +13,7 @@ sources:
   - https://www.paloaltonetworks.com/cortex/
   - https://www.paloaltonetworks.com/prisma/
 tags: [標的, 美股, AI 資安, NGFW, SASE, Prisma Cloud, Cortex XDR, Cortex XSIAM, SecOps, platformization, agentic SOC, Wiz, AI Copilot, NASDAQ, Mega Cap]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -188,7 +189,7 @@ confidence: high
 - [[控制點轉移（投資版）]]：PANW 拿到 NGFW 始祖 + Prisma SASE 規格 + Cortex XSIAM agentic SOC 標準 + estate buy-out 客戶整合四段控制點
 - [[CrowdStrike]]：CRWD endpoint 純度 vs PANW 三平台廣度，估值對照（CRWD 60-80x vs PANW 50-60x）
 - [[Microsoft]]：Microsoft Defender / Security Copilot 平台 lock-in 威脅、SecOps 直接對手
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：PANW 是「**被遺忘的 AI 受惠者**」放大版（三平台 captive 是 AI 之後的剛需 service）
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：PANW 是「**被遺忘的 AI 受惠者**」放大版（三平台 captive 是 AI 之後的剛需 service）
 
 ## 跟 llm-wiki 跨庫連結
 
@@ -204,5 +205,5 @@ confidence: high
 - [[AI 資安攻防成本曲線]] — 攻防雙引擎核心 thesis
 - [[賣水人選股邏輯（投資版）]] — AI 資安賽道核心 anchor
 - [[效率→安全切換]] — 資安從奢侈品變剛需
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]] — 被遺忘的 AI 受惠者放大版
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]] — 被遺忘的 AI 受惠者放大版
 - [[公司 Entity 模板（Step 1-3 三段式）]]

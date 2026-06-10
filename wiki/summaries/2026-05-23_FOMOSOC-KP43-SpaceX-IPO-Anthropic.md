@@ -2,11 +2,14 @@
 title: FOMO SOC KP #43 — SpaceX S-1 IPO + Anthropic 首季獲利 + Cloudflare 三類員工
 type: summary
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-11-15
 updated: 2026-06-09
 sources:
   - raw/2026-05-23_FOMOSOC-KP43-SpaceX-IPO-Anthropic.md
 evidence_url: https://www.fomosoc.com/p/spacex-ipo-anthropic-kp42
 tags: [SpaceX, SPCX, S-1, Starlink, Starship, Anthropic 首季獲利, ARR $30B, Cloudflare 三類員工, AI 替代風險, Builder/Seller/Measurer]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

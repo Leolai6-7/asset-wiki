@@ -5,11 +5,12 @@ type: summary
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-05-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 sources:
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
 evidence_url: https://www.fomosoc.com/p/aicpuanthropic-oaiai-kp41
 tags: [FOMO SOC, KP 思考筆記, AI 利潤奇點, Token 經濟學, Agentic AI, CPU 復興, AMD, ARM, Intel, FDE 戰略, OpenAI, Anthropic, Palantir, Accenture, Cloudflare, 高盛報告, 2026 拐點]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

@@ -3,12 +3,15 @@ title: AI 資安攻防成本曲線
 aliases: [AI 資安成本曲線, AI 資安攻防, AI Security Cost Curve]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-09-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_Claude花4000美元找到22個Firefox漏洞——但這不是你該興奮的原因.md
   - raw/2026-04-09_資安產業結構-紅藍隊分離與商業模式.md
 tags: [資安, AI, 攻防, 成本曲線, Claude, 漏洞, AI-SPM]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 資安攻防成本曲線

@@ -5,10 +5,11 @@ type: concept
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2027-02-15
 sources:
   - TWSE rwd API（T86／MI_MARGN／MI_QFIIS）+ TDCC opendata 1-5（#P8 實測可自動化）
 tags: [B 軸, 籌碼, 資金流, 台股, 三大法人, 融資, 集保, 操作框架]
+thesis_dependency: none（可遷移方法）
 confidence: medium
 ---
 

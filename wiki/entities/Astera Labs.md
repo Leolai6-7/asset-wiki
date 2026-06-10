@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2026-11-15
 sources:
   - https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-reports-first-quarter-2026-financial-results
   - https://www.fool.com/earnings/call-transcripts/2026/05/05/astera-labs-alab-q1-2026-earnings-transcript/
@@ -13,6 +13,7 @@ sources:
   - https://www.gurufocus.com/term/forward-pe-ratio/ALAB
   - https://www.theglobeandmail.com/investing/markets/stocks/ALAB/pressreleases/167545/astera-labs-grants-amazon-strategic-performance-based-warrant-investment/
 tags: [標的, 美股, 互連, PCIe, retimer, AEC, 銅纜, scale-up, fabric switch, CXL, NVDA, AWS, CPO延期受惠]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

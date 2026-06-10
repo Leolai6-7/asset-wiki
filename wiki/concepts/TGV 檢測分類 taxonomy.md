@@ -3,12 +3,14 @@ title: TGV 檢測分類 taxonomy
 aliases: [TGV 檢測, AOI vs AXI, 半導體檢測 taxonomy, 檢測分類]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
 updated: 2026-06-05
-check_after: 2026-12-05
+check_after: 2027-02-15
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [TGV, 檢測, AOI, AXI, X-Ray, 德律, 萬潤, taxonomy]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # TGV 檢測分類 taxonomy

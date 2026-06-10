@@ -5,13 +5,14 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-12-15
 sources:
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
   - raw/2026-06-06_FOMOSOC-KP45-AI-PC-RTX-Spark-Windows-CUDA-Intel-Alphabet-Microsoft-Build.md
 tags: [標的, 美股, CPU 架構 IP, Royalty 年金, 賣水人之中的賣水人, 資料中心, Edge AI, AI PC, 智慧手機, ARM 架構, Compute Subsystem CSS, 軟銀控股]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # ARM Holdings plc（NASDAQ: ARM）

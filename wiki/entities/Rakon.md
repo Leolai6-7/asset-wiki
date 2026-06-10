@@ -5,9 +5,10 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources: []
 tags: [標的, 紐西蘭股, 半導體, 石英, timing, TCXO, OCXO, 軍工, 衛星, 5G base station, 賣水人, SiTime 對手, 石英陣營, niche specialist, AI server]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

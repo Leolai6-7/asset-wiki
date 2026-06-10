@@ -5,13 +5,14 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - https://www.crowdstrike.com/
   - https://ir.crowdstrike.com/
   - https://www.crowdstrike.com/en-us/blog/falcon-platform-charlotte-ai/
 tags: [標的, 美股, AI 資安, EDR, XDR, SIEM, agentic SOC, Charlotte AI, Falcon, cloud security, identity, Microsoft Defender, Wiz, AI-SPM, NASDAQ, Mega Cap]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -197,7 +198,7 @@ confidence: high
 - [[公司 Entity 模板（Step 1-3 三段式）]]：本 entity 套用三段式
 - [[控制點轉移（投資版）]]：CRWD 拿到 endpoint single agent 規格定義 + Threat Graph 數據 + Charlotte AI agentic SOC 三段控制點
 - [[Microsoft]]：Microsoft Defender 平台 lock-in 威脅、最直接對手
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：CRWD 是「**被遺忘的 AI 受惠者**」放大版（資安平台是 AI 之後的剛需 service）
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：CRWD 是「**被遺忘的 AI 受惠者**」放大版（資安平台是 AI 之後的剛需 service）
 
 ## 跟 llm-wiki 跨庫連結
 
@@ -213,5 +214,5 @@ confidence: high
 - [[AI 資安攻防成本曲線]] — 攻防雙引擎核心 thesis
 - [[賣水人選股邏輯（投資版）]] — AI 資安賽道核心 anchor
 - [[效率→安全切換]] — 資安從奢侈品變剛需
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]] — 被遺忘的 AI 受惠者放大版
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]] — 被遺忘的 AI 受惠者放大版
 - [[公司 Entity 模板（Step 1-3 三段式）]]

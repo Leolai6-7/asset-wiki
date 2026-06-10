@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-02-15
 expires_on: 2027-06-08
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 美股, 電力, 核電, 氣電, AI infra 電力, 800V HVDC, Microsoft, 20 年 PPA, Three Mile Island, foreign_competitor, Mega Cap]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Constellation Energy（CEG）
@@ -33,7 +34,7 @@ confidence: high
   - vs 太陽能（白天）+ 儲能（4-8 小時）= 無法滿足 1MW rack 24/7 拉滿
   - vs 風電（間歇性）= 容量係數 30-40%
 - 對應 [[AI infra 電力戰場]]：**第一層電力產生 #1 anchor**（核電 + 氣電 firm 雙引擎）
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿**：供給結構改變 + 持續 CapEx + 20 年 PPA 鎖死現金流
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿**：供給結構改變 + 持續 CapEx + 20 年 PPA 鎖死現金流
 
 ### 目的層
 
@@ -141,7 +142,7 @@ confidence: high
 - **Trump $1B 貸款**（2026 Q1 撥款）
 - **AI 算力 ramp** 2026-2030 = 新 PPA 持續簽約
 - 對抗 [[CapEx 見頂辯論]]：物理電網是真正的瓶頸、CapEx 短期不會見頂
-- 對應 [[宋分 #20 — 能源結構性剛需]] 三標準全滿
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] 三標準全滿
 
 ### ⚠️ 風險
 
@@ -192,7 +193,7 @@ confidence: high
 
 → **直接 hyperscaler PPA 規模 = 美國 IPP 第一名**（vs Vistra 2.6GW Meta + AWS、Talen 1.92GW AWS）
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 宋分 #20 **三標準全滿**：
 
@@ -241,8 +242,8 @@ confidence: high
 - [[AI infra 電力戰場]]：本 entity 是**第一層電力產生 #1 anchor**
 - [[賣水人選股邏輯（投資版）]]：CEG = 電力 anchor 賣水人、不押 AI 誰贏
 - [[控制點轉移（投資版）]]：拿到「核電 + 氣電 + retail」三段控制點
-- [[宋分 #20 — 能源結構性剛需]]：CEG = 三標準全滿最完整個案
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：CEG = 「被遺忘的 AI 受惠者」放大版
+- [[宋分 ＃20 — 能源結構性剛需]]：CEG = 三標準全滿最完整個案
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：CEG = 「被遺忘的 AI 受惠者」放大版
 - [[效率→安全切換]]：CEG 20 年 PPA = MSFT 要 24/7 算力的安全代價
 - [[AI infra CapEx 三階段論]]：CEG 是第三階段下半場電力 anchor 龍頭
 - [[半導體基礎建設化]]：CEG 走同一路徑（從週期股 → 結構性成長股）
@@ -260,8 +261,8 @@ confidence: high
 - [[信昌電]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
+- [[宋分 ＃20 — 能源結構性剛需]]
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
 - [[AI infra CapEx 三階段論]]
 - [[Microsoft]]、[[Meta]]、[[AMZN]]、[[Google]]
 - [[NVDA]]（Rubin 1MW 機櫃 trigger）

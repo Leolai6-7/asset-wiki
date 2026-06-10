@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2027-01-15
 sources:
   - https://www.advantest.com/en/news/2026/a81o6o0000000hgw-att/E_FR_FY2025_FN.pdf
   - https://www.gyokaidigest.com/companies/advantest/report/2026-FY
@@ -16,6 +16,7 @@ sources:
   - https://uk.finance.yahoo.com/news/ai-growth-brings-tests-semi-140502874.html
   - https://valueinvesting.io/6857.T/metric/forward-pe
 tags: [標的, 日股, 半導體測試, ATE, HBM, AI SoC, CPO 測試, 檢測賣水人, 對照組]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

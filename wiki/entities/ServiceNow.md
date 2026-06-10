@@ -5,10 +5,11 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 sources: []
 tags: [標的, AI 軟體, IT workflow, 企業軟體, AI agent, SaaS, 軟體賣水人]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # ServiceNow（NYSE: NOW）

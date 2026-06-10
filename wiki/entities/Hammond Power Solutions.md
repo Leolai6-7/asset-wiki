@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2026-09-15
 sources:
   - https://www.globenewswire.com/news-release/2026/05/05/3288375/0/en/hammond-power-solutions-reports-first-quarter-2026-financial-results.html
   - https://www.globenewswire.com/news-release/2026/03/19/3259478/0/en/hammond-power-solutions-reports-fourth-quarter-2025-financial-results.html
@@ -13,6 +13,7 @@ sources:
   - https://www.hammondpowersolutions.com/en/investor-relations/company-overview
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, 加股, 乾式變壓器, 低壓配電, 資料中心, 800V 過渡期, AC 架構延壽, 關稅風險, 賣水人]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

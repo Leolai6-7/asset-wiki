@@ -5,10 +5,11 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources:
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
 tags: [標的, M7, Mega Cap, EV, AI 實體資料, Optimus, FSD, Musk, Dojo, robotaxi, 終端 + AI 雙身分]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

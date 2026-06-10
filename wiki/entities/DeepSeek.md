@@ -3,13 +3,16 @@ title: DeepSeek
 aliases: [DeepSeek, 深度求索]
 type: entity
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-10-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_幻方量化-deepseek關係.md
   - raw/2026-04-07_DeepSeek資安風險調查.md
   - raw/2026-04-07_華為昇騰晶片-AI訓練能力.md
 tags: [標的, 中國 AI, 模型公司, 算力本業派, 結構性破壞者]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # DeepSeek（深度求索）
@@ -46,7 +49,7 @@ confidence: high
 - [[模型商品化]]：DeepSeek 是這個概念的最強推手
 - [[Sovereign AI]]：地緣推力下，DeepSeek 是「中國自主 AI」象徵
 - [[開源作為武器]]：免費開源 + 極低定價 = 競爭武器
-- [[宋分備忘錄 #1 — CSP-AI 通縮]]：DeepSeek 加速 AI 通縮
+- [[宋分備忘錄 ＃1 — CSP-AI 通縮]]：DeepSeek 加速 AI 通縮
 
 ## 風險（從投資角度）
 

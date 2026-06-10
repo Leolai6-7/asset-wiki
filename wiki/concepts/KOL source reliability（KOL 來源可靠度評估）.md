@@ -5,10 +5,11 @@ type: concept
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-11-15
 sources: []
 tags: [Meta 框架, KOL 評估, 來源可靠度, thesis 評分, 訊息蛻變]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # KOL source reliability（KOL 來源可靠度評估）
@@ -152,3 +153,11 @@ KOL thesis 也會衰退、需要追蹤指標：
 - [[公司 Entity 模板（Step 1-3 三段式）]] — KOL entity 變體
 - [[看錯三類型]] — KOL 也會看錯
 - [[賣水人選股邏輯（投資版）]] — KOL 推薦的標的進可投資 ranking 前要過五軸
+
+
+## ⚠️ #P11 認識論審核後的凍結聲明（2026-06-10）
+
+- **本檔所有「命中率」子分數與 reliability 總分、即日起標記為「未計算」**——原分數基於精選名場面（n=1-2）、無分母、無失誤紀錄、違反本庫自己的「未滿 10 筆不給分」紀律（認識論紅隊：KOL entity 內「失誤」字串出現 0 次）
+- 恢復給分條件：per-KOL 全量帶時間戳 call ledger（n≥20 已結）＋失誤紀錄段
+- 「思維強度」子分數保留（它評的是框架品質、不是預測戰績）
+- 在此之前、KOL 權重僅用於 ingest 排序、**不得作為 thesis 信心的輸入**

@@ -5,9 +5,10 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources: []
 tags: [標的, utility, 核電, 新澤西, AI 電力戰場, firm power]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

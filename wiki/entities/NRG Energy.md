@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（NRG Energy FY2025 全年報 + Q4 法說 + Vivint Smart Home 整合 + Texas ERCOT firm power + 美國第二大 retail electricity）
 evidence_url: https://investors.nrg.com/
 tags: [標的, 美股, NYSE, 電力, retail electricity, ERCOT, Texas, Vivint Smart Home, AI infra 電力, 結構性剛需, foreign_competitor, Mid Cap]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -35,7 +36,7 @@ confidence: high
 - PJM Interconnection 容量緊缺：
   - NRG 在 PJM 也有 retail + 部分氣電（規模小於 ERCOT）
 - 對應 [[AI infra 電力戰場]]：**第一層電力產生第三層 anchor**（氣電 + retail）
-- 對應 [[宋分 #20 — 能源結構性剛需]]：**部分滿足**（retail anchor + ERCOT 氣電 firm power、但無核電 baseload + 無 hyperscaler 20 年 PPA = 三標準滿足 2/3）
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]：**部分滿足**（retail anchor + ERCOT 氣電 firm power、但無核電 baseload + 無 hyperscaler 20 年 PPA = 三標準滿足 2/3）
 
 ### 目的層
 
@@ -125,7 +126,7 @@ confidence: high
 - **PE 12-16x 估值乾淨**（vs 競爭對手 20-32x）
 - **Trump 政府支持化石燃料** = 氣電 + 燃煤短期紅利
 - **AI 算力 ramp** = retail + 容量市場間接受惠
-- 對應 [[宋分 #20 — 能源結構性剛需]] 部分滿足（retail + 氣電 firm power）
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] 部分滿足（retail + 氣電 firm power）
 
 ### ⚠️ 風險
 
@@ -163,7 +164,7 @@ confidence: high
 
 → **NRG 20/25 的差異化定位**：客戶分散（retail 8M + Vivint 230 萬）勝 + ERCOT firm power 多 ISO + Forward PE 12-16x **估值最乾淨**；無核電 + 無 hyperscaler PPA 是結構性 narrative 弱
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | NRG 滿足 ✅/⚠️/❌ | 證據 |
 |---|---|---|
@@ -213,7 +214,7 @@ confidence: high
 - [[Talen Energy]]：核電 pure-play / NRG retail 整合（TLN 19 / NRG 20）
 - [[賣水人選股邏輯（投資版）]]：NRG = retail + 氣電 + 智能家居整合 IPP
 - [[控制點轉移（投資版）]]：拿到「retail + ERCOT 氣電 + Vivint 智能家居 + EV 充電」四段控制權
-- [[宋分 #20 — 能源結構性剛需]]：部分滿足（三標準 2/3）
+- [[宋分 ＃20 — 能源結構性剛需]]：部分滿足（三標準 2/3）
 - [[GE Vernova]]：NRG 氣電擴建用 GEV gas turbine
 - [[公司 Entity 模板（Step 1-3 三段式）]]：本 entity 完整套用三段式
 
@@ -225,7 +226,7 @@ confidence: high
 - [[Talen Energy]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[GE Vernova]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 

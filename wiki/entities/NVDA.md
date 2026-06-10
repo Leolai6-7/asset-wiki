@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-04
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources:
   - raw/美股送分題-06-備忘錄1-CSP-AI通縮-2026-03-09.md
   - raw/美股送分題-09-備忘錄2-HBM-Meta-私募-2026-03-16.md
@@ -15,7 +15,8 @@ sources:
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
   - raw/2026-06-06_FOMOSOC-KP45-AI-PC-RTX-Spark-Windows-CUDA-Intel-Alphabet-Microsoft-Build.md
 tags: [標的, 美股, AI, 半導體, GPU, M7, CUDA, Chiplet, 訓練主場, Google TPU 競爭, Cerebras niche 競爭, RTX Spark, Vera Rubin, AI PC, 水電公司, 三層記憶體架構]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # NVDA

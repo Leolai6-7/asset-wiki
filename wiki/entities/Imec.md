@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-12-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（imec 官網 + 2024 年報 / SiPho R&D + ASML + Intel + Samsung + TSMC 合作 / 2nm + GAA FET / EUV pilot line）
 evidence_url: https://www.imec-int.com/en
 tags: [非上市, 比利時, R&D, consortium, 半導體, SiPho, EUV, 2nm, GAA, FET, ASML, Intel, Samsung, TSMC, 上下游全產業, foreign_competitor]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -175,7 +176,7 @@ confidence: high
 - **填補 [[Bottleneck Theory（瓶頸論）]] 七層之前的「層 0+ R&D 預備層」**
 - **填補 [[ASML]] High-NA EUV pilot 合作關係**
 - **填補 [[半導體基礎建設化]] 全球 R&D 公共基礎建設**
-- **對 [[宋分備忘錄 #1 — CSP-AI 通縮]]** 視角：CSP CapEx 上升 → 上游 fab R&D 預算上升 → Imec 預算結構性受惠
+- **對 [[宋分備忘錄 ＃1 — CSP-AI 通縮]]** 視角：CSP CapEx 上升 → 上游 fab R&D 預算上升 → Imec 預算結構性受惠
 - **對 [[AI infra CapEx 三階段論]]** 視角：第三階段（上游材料爆掉）+ R&D 預備層加速
 
 ## 五軸評分（25 分制）⚠️ **codex 校準：雙軸拆分（結構影響分 vs 可投資五軸分）**

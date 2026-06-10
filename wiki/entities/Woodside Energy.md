@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-05-06_FOMOSOC-KP46-LNG-油田服務-煉油-化肥-能源結構重塑.md
 evidence_url: https://www.woodside.com/
 tags: [標的, 美股, 澳股, LNG, 天然氣, 出口, AI infra 電力, firm power 第五選擇, 美澳 LNG 三巨頭, Driftwood LNG, Tellurian 收購, North West Shelf, Pluto, Scarborough, Browse, 油氣, KP46, G1]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -193,7 +194,7 @@ confidence: high
 - **歐洲 hyperscaler 海外資料中心 firm power 缺口 ramp（Driftwood ramp 後）**
 - **油氣 25% 業務在油價 +$80-90 保護 firm 期間多賺一筆**
 - 對抗 [[CapEx 見頂辯論]]：AI 海外資料中心 firm power 是物理瓶頸 → Woodside 美澳雙路徑受惠
-- 對應 [[宋分 #20 — 能源結構性剛需]] **三標準全滿**：供給結構改變 + 雙路徑 CapEx 持續 + LNG 20 年現金流
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] **三標準全滿**：供給結構改變 + 雙路徑 CapEx 持續 + LNG 20 年現金流
 
 ### ⚠️ 風險
 
@@ -241,7 +242,7 @@ confidence: high
 | **AWS / Azure / Google / Meta** 歐洲資料中心 | Woodside Driftwood LNG → 歐洲 utility → hyperscaler 海外 DC（pending ramp）| 估算 2030 LNG 出口 ~3-5% 對應 hyperscaler 歐洲 DC（Driftwood Phase 1 ramp 後）|
 | **總計 hyperscaler 間接** | | **~8-15% Woodside 出口量對應 hyperscaler 海外 DC**（2030 推估）|
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | Woodside 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -319,8 +320,8 @@ confidence: high
 - [[AI infra 電力戰場]]：本 entity 是 **firm power 第五選擇 anchor 美澳雙路徑版**（境外 LNG 出口）
 - [[賣水人選股邏輯（投資版）]]：Woodside = LNG 出口 anchor + 賣水人之中的賣水人（不押誰贏、跨大洋雙路徑）
 - [[控制點轉移（投資版）]]：拿到「澳洲 LNG 規格 + 美國 Driftwood 規格 + 跨大洋 sovereign + JKM + Henry Hub 雙公式」四段控制點
-- [[宋分 #20 — 能源結構性剛需]]：Woodside = 三標準全滿
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：Woodside = 「被遺忘的 AI 受惠者」境外美澳放大版
+- [[宋分 ＃20 — 能源結構性剛需]]：Woodside = 三標準全滿
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：Woodside = 「被遺忘的 AI 受惠者」境外美澳放大版
 - [[效率→安全切換]]：Woodside 澳洲 LNG SPA 多年長約 = hyperscaler 要 24/7 亞洲算力的安全代價
 - [[AI infra CapEx 三階段論]]：Woodside 是第三階段下半場 firm power 境外 anchor 美澳版
 - [[半導體基礎建設化]]：Woodside 走同一路徑（從週期能源股 → 結構性 AI 基建 anchor、美澳跨大洋）
@@ -340,8 +341,8 @@ confidence: high
 - [[AI infra 電力戰場]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
+- [[宋分 ＃20 — 能源結構性剛需]]
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
 - [[Bottleneck Theory（瓶頸論）]]
 - [[Cheniere Energy]] / [[Sempra LNG]] / [[Cameron LNG]] / [[Tellurian]]
 - [[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] / [[Bloom Energy]] / [[Talen Energy]]

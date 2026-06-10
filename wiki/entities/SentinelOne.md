@@ -5,9 +5,10 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 sources: []
 tags: [標的, AI 資安, EDR, XDR, AI-native, Endpoint 資安]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

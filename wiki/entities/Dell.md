@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 sources:
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
   - raw/2026-06-06_FOMOSOC-KP45-AI-PC-RTX-Spark-Windows-CUDA-Intel-Alphabet-Microsoft-Build.md
 tags: [標的, 美股, AI server, AI PC, OEM, 系統整合, 整廠 refresh, pull-through effect, NVDA RTX Spark, DFS 融資]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Dell Technologies（NYSE: DELL）

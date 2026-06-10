@@ -5,12 +5,13 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-02-15
 expires_on: 2027-12-31
 sources:
   - WebSearch 2026-06-08（ConnectX-9 / Spectrum-X / Quantum-X / NVLink 6 / Spectrum-XGS / NVLink Fusion 七查詢綜整）
 evidence_url: https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/
 tags: [NVDA, 網路, NVLink, Spectrum-X, Quantum-X, ConnectX-9, BlueField-4, CPO, scale up, scale out, scale across, Rubin, 交叉概念]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

@@ -5,10 +5,11 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-11-15
 sources: []
 tags: [標的, 日股, 半導體, 石英, timing, TCXO, OCXO, 印表機, 投影機, 機器人, 賣水人, SiTime 對手, 石英陣營, 多軌組合王, AI server]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Epson（6724.JP、Seiko Epson）

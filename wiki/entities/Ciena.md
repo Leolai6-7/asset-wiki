@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-05
 updated: 2026-06-05
 as_of: 2026-06-05
-check_after: 2026-12-05
+check_after: 2026-10-15
 sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
 tags: [標的, 美股, DCI, 光通訊, 設備商, foreign_competitor, AI 基礎設施, hyperscaler]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Ciena（CIEN）

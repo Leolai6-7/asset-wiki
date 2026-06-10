@@ -3,11 +3,14 @@ title: AI 模型公司 — OpenAI 1220 億融資結構
 aliases: [OpenAI 1220億, OpenAI 122B 融資, OpenAI 條件資本]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-10-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_OpenAI拿了1220億——但這筆錢不是你以為的那種錢.md
 tags: [OpenAI, AI 融資, 循環投資, 條件資本, IPO, 估值, CapEx, AI 泡沫]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 模型公司 — OpenAI 1220 億融資結構
@@ -52,7 +55,7 @@ OpenAI 的 1,220 億不是純現金，是**條件資本 + 循環投資**織出�
   - 油價飆 / 電力成本暴漲（中東地緣風險） → 資料中心經濟模型崩
   - Oracle $50B 債、Microsoft Azure CapEx、Nvidia 應收帳款 全部坐在同一個假設上
   - 如果 OpenAI 推遲 IPO → Amazon $35B 不撥款 → 跑道縮短 → 算力購買力下降 → Nvidia / Oracle 營收下修 → CSP-AI 通縮辯論被快進
-- → 連到 [[宋分備忘錄 #1 — CSP-AI 通縮]]、[[CapEx 見頂辯論]]、[[FCF 拐點]]。
+- → 連到 [[宋分備忘錄 ＃1 — CSP-AI 通縮]]、[[CapEx 見頂辯論]]、[[FCF 拐點]]。
 
 ### 三、供應鏈層級的真贏家
 
@@ -79,7 +82,7 @@ OpenAI 的 1,220 億不是純現金，是**條件資本 + 循環投資**織出�
 |---|---|
 | 「投資人=供應商」閉環 | [[跳出個股看三層：產業、目的、供應]] 的「供應」層 |
 | 估值本質 | [[Forward PE 估值法]]、[[DCF vs PE]]、[[PE 壓縮公式]] |
-| CapEx 風險 | [[CapEx 見頂辯論]]、[[FCF 拐點]]、[[宋分備忘錄 #1 — CSP-AI 通縮]] |
+| CapEx 風險 | [[CapEx 見頂辯論]]、[[FCF 拐點]]、[[宋分備忘錄 ＃1 — CSP-AI 通縮]] |
 | 真贏家定位 | [[半導體基礎建設化]]、[[NVDA]]、[[AVGO]]、[[TSMC]] |
 | 估值脆弱性 | [[修正三階段]]、[[三個風險指標]] |
 | 「賣水人」邏輯 | [[跳出個股看三層：產業、目的、供應]] |
@@ -89,7 +92,7 @@ OpenAI 的 1,220 億不是純現金，是**條件資本 + 循環投資**織出�
 - [[AI 模型公司 — Anthropic 被列為國安威脅]]
 - [[AI 模型公司 — 微軟 Copilot 條款僅供娛樂]]
 - [[AI 行業 — 成長中裁員與資本重分配]]
-- [[宋分備忘錄 #1 — CSP-AI 通縮]]
+- [[宋分備忘錄 ＃1 — CSP-AI 通縮]]
 - [[CapEx 見頂辯論]]
 - [[FCF 拐點]]
 - [[半導體基礎建設化]]

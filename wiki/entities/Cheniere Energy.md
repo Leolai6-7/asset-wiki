@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-05-06_FOMOSOC-KP46-LNG-油田服務-煉油-化肥-能源結構重塑.md
 evidence_url: https://www.fomosoc.com/p/46lng
 tags: [標的, 美股, LNG, 天然氣, 出口, AI infra 電力, firm power 第五選擇, hyperscaler 海外資料中心, Sabine Pass, Corpus Christi, SPA 長約, foreign_competitor, Mega Cap, KP46]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -41,7 +42,7 @@ confidence: high
   - **第二波**（2022-2024）：俄烏戰後歐洲被迫向美國買 LNG、美國 LNG 出口爆炸式增長
   - **第三波 ⭐**（2025-2030）：美伊戰後 + AI 海外 hyperscaler firm power + Qatar 修復延宕 → 結構性供需逆轉、Cheniere 是最大受惠者
 - 對應 [[AI infra 電力戰場]]：**第五選擇 firm power anchor**（境外擴展）
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿**：供給結構改變（5 個不可逆）+ Cheniere CapEx $20B+ + SPA 20 年現金流鎖死
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿**：供給結構改變（5 個不可逆）+ Cheniere CapEx $20B+ + SPA 20 年現金流鎖死
 - 對應 [[控制點轉移（投資版）]]：**美國 LNG 從「價格接受者」→「價格制定者」**、Cheniere 作為美國 LNG 出口 #1 受惠最大
 - 對應 [[Bottleneck Theory（瓶頸論）]]：**Hormuz 海峽 = 全球 1/5 石油 / 天然氣 chokepoint**、保險費 8x 不可逆 = chokepoint pricing 結構性 lock-in、Cheniere 是 chokepoint 規避者（美國 / 大西洋路徑、不過 Hormuz）
 
@@ -171,7 +172,7 @@ confidence: high
 - **Trump 政府支持化石燃料 + LNG 出口 + Biden 政府 LNG 凍結解凍**
 - **AI 算力 ramp 2026-2030** = 新 SPA 持續簽約
 - 對抗 [[CapEx 見頂辯論]]：AI 海外資料中心 firm power 是物理瓶頸 → Cheniere LNG anchor 受惠
-- 對應 [[宋分 #20 — 能源結構性剛需]] **三標準全滿**：供給結構改變 + 持續 CapEx + SPA 20 年現金流
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] **三標準全滿**：供給結構改變 + 持續 CapEx + SPA 20 年現金流
 
 ### ⚠️ 風險
 
@@ -210,7 +211,7 @@ confidence: high
 
 → **直接客戶**：BP / Shell / Total / Equinor / 中海油 / KOGAS / JERA / PetroNet / Naturgy / Galp / Vitol 約 10-15 家、SPA 20 年期、Henry Hub +115% 公式
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | Cheniere 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -274,8 +275,8 @@ confidence: high
 - [[AI infra 電力戰場]]：本 entity 是 **firm power 第五選擇 anchor**（境外 LNG 出口）
 - [[賣水人選股邏輯（投資版）]]：Cheniere = LNG 出口 anchor + 賣水人之中的賣水人（不押誰贏）
 - [[控制點轉移（投資版）]]：拿到「LNG 液化規格 + Henry Hub 採購公式 + 20 年 SPA + 兩廠地緣分散」四段控制點
-- [[宋分 #20 — 能源結構性剛需]]：Cheniere = 三標準全滿
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：Cheniere = 「被遺忘的 AI 受惠者」境外放大版
+- [[宋分 ＃20 — 能源結構性剛需]]：Cheniere = 三標準全滿
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：Cheniere = 「被遺忘的 AI 受惠者」境外放大版
 - [[效率→安全切換]]：Cheniere SPA 20 年長約 = hyperscaler 要 24/7 海外算力的安全代價
 - [[AI infra CapEx 三階段論]]：Cheniere 是第三階段下半場 firm power 境外 anchor
 - [[半導體基礎建設化]]：Cheniere 走同一路徑（從週期能源股 → 結構性 AI 基建 anchor）
@@ -294,8 +295,8 @@ confidence: high
 - [[AI infra 電力戰場]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
+- [[宋分 ＃20 — 能源結構性剛需]]
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
 - [[Bottleneck Theory（瓶頸論）]]
 - [[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] / [[Bloom Energy]] / [[Talen Energy]]
 - [[Sempra LNG]] / [[Cameron LNG]] / [[Tellurian]]

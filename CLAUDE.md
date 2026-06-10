@@ -44,8 +44,8 @@ wiki/
 
 觸發：投資/市場問題、研究前查背景、定 thesis 前查方法論
 
-步驟：
-1. 讀 wiki/index.md 找相關頁
+步驟（#P11 改 grep-first）：
+1. **grep-first**：`grep -r "關鍵詞" wiki/` 直達目標檔；找反向關係用 `grep -r "[[名稱]]" wiki/`——index.md 只做總覽入口、**不要把 index 當事實來源**（它不內嵌數字、數字唯一真值在各檔）
 2. 讀目標頁
 3. **跟著 wikilinks 遍歷 1-2 層**（方法論之間、方法↔標的、標的↔產業鏈、分析師↔方法）是圖的邊，不是裝飾
 4. 綜合回答，附 [[來源]]
@@ -205,3 +205,19 @@ git push origin main             # 如有 remote
 ## 知識導航
 
 wiki/ 的 [[wikilink]] 就是可查的知識圖譜——grep `[[相關概念]]` 看哪些檔連到它，跟著走。不需要 graph 工具。
+
+
+## #P11 構建政策（2026-06-10 知識庫對抗審核後生效）
+
+1. **單一真值**：五軸分數、估值、判定的唯一真值＝entity 檔本體；index／master 波次表／交叉表為快照、衝突時 entity 勝、不回頭同步
+2. **區間估廢止**：財務快照表**禁止無來源數字**——查不到寫「待補」、不准用模型記憶填「區間估」（#P10 抽查：手工快照硬錯率 41%、驗證流程檔 0%）
+3. **驗證 per-claim 強制**：所有帶數字的 claim 出檔前須有來源（URL 或 raw/ 一手）、不是 per-檔 opt-in
+4. **confidence 紀律**：high＝sources 含外部可驗 URL 的多源確認、否則上限 medium（#P11 已自動清洗 204 檔）
+5. **新規則 flag-only**：新判讀規則上線預設只記錄、過預註冊歷史檢驗（n≥5＋假陽性率）才可驅動判定
+6. **supersession 回寫**：框架被取代／判定被翻案時、**舊頁必須加一行「⚠️ 已被 [[X]] 取代／修正（日期）」**——只讀單頁的 agent 不應拿到過期真理
+7. **證偽條件標準段**：entity 一律用「## 證偽條件（Falsification）」段名（可 grep 審計）、新檔必填、舊檔逐步補
+8. **雙盲評分**：新 entity 五軸先盲評（不給 tier 錨點）再對錨；分歧 >2 分留 adjudication 紀錄
+9. **tags 凍結**：不再新增自由 tags（69% 只出現一次＝噪音）、擇期重建控制詞彙
+10. **log 按月切檔**：月底將 wiki/log.md 歸檔為 log-YYYY-MM.md、新月起新檔
+11. **ingest 拒收帳**：每次 ingest 決策記入 wiki/ingest_decisions.md（accept／reject／defer＋決策關聯）——gate 要有拒收紀錄才算存在
+12. **lint 工具**：`python3 tools/lint.py` 每週檢視必跑（斷鏈／檔名 `#`／schema 覆蓋率／禁用詞）

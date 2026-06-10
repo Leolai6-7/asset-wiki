@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（AMAT FY2025 全年報 + Q4 法說 + ASML peer calibration + CVD/PVD/etch/CMP/implant 站別覆蓋）
 evidence_url: https://www.appliedmaterials.com/us/en/about/investor-relations.html
 tags: [標的, 美股, NASDAQ, 半導體設備, CVD, PVD, etch, CMP, implant, 真賣水, 賣水人之中的賣水人, ASML peer, 前段設備三巨頭, foreign_competitor]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

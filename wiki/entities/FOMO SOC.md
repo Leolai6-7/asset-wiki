@@ -3,11 +3,14 @@ title: FOMO SOC
 aliases: [FOMO SOC, FOMOSoc, KP@FOMOSoc, FOMO 研究院, FOMOSoc Substack]
 type: entity
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-10-15
 updated: 2026-06-09
 sources:
   - WebSearch 2026-06-09（FOMO SOC Substack 第 40-50 期、KP@FOMOSoc 主筆、wiki 已 ingest 文章 ~12 篇）
 evidence_url: https://www.fomosoc.com/
 tags: [KOL, 分析師, Substack, 繁中, AI 基礎建設, 能源, LNG, 電力, 800V HVDC, 被動元件, MLCC, 付費牆, 機構視角, 結構性 thesis, reference entity]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 
@@ -151,3 +154,11 @@ confidence: medium
 - [KP #40 AI 變現能見度分歧（2026-05-02）](https://www.fomosoc.com/p/40-ai-monetization)
 - [KP #41 AI 利潤奇點 + FDE 戰略（2026-05-09）](https://www.fomosoc.com/p/41-ai-profit-singularity)
 - [KP #42 Cerebras WSE 架構（2026-05-16）](https://www.fomosoc.com/p/42-cerebras-wse)
+
+
+## ⚠️ #P11 認識論審核後的凍結聲明（2026-06-10）
+
+- **本檔所有「命中率」子分數與 reliability 總分、即日起標記為「未計算」**——原分數基於精選名場面（n=1-2）、無分母、無失誤紀錄、違反本庫自己的「未滿 10 筆不給分」紀律（認識論紅隊：KOL entity 內「失誤」字串出現 0 次）
+- 恢復給分條件：per-KOL 全量帶時間戳 call ledger（n≥20 已結）＋失誤紀錄段
+- 「思維強度」子分數保留（它評的是框架品質、不是預測戰績）
+- 在此之前、KOL 權重僅用於 ingest 排序、**不得作為 thesis 信心的輸入**

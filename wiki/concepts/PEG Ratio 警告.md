@@ -3,11 +3,14 @@ title: PEG Ratio 警告
 aliases: [PEG, PEG Ratio, PEG 警告]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-09-15
 updated: 2026-06-04
 sources:
   - raw/美股送分題-notes-市場解碼與估值筆記-2026-02至04.md
 tags: [估值, PEG, PE, 成長, 警告訊號]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # PEG Ratio 警告

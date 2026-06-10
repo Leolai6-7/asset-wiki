@@ -5,14 +5,15 @@ type: entity
 created: 2026-06-04
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-12-15
 sources:
   - raw/美股送分題-notes-市場解碼與估值筆記-2026-02至04.md
   - raw/2026-05-02_FOMOSOC-KP40-五大巨頭Q1財報AI變現分歧.md
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
 tags: [標的, 美股, M7, Mega Cap, CSP, AWS, hyperscaler, Trainium, Inferentia, Graviton, 自研晶片, Anthropic, 1.6T 採購者, RPO, 三循環 CapEx]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Amazon.com（NASDAQ: AMZN）

@@ -3,11 +3,14 @@ title: 被動賣壓 vs 主動買盤
 aliases: [被動賣壓 vs 主動買盤, CTA 賣壓, ETF 賣壓, 流動性錯誤定價]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-11-15
 updated: 2026-06-04
 sources:
   - raw/美股送分題-15-CTA被動基金賣壓-2026-03-28.md
 tags: [流動性, CTA, ETF, 機構, 主動買盤, 止跌順序]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 被動賣壓 vs 主動買盤

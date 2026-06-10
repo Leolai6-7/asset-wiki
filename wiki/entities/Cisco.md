@@ -5,13 +5,14 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 sources:
   - raw/2026-05-20_FOMOSOC-48-DCI-Nokia-Cisco.md
   - https://www.fomosoc.com/p/dci-48nokiacisco
   - https://www.cisco.com/
   - https://investor.cisco.com/
 tags: [標的, 美股, NASDAQ, Mega Cap, DCI, 資料中心交換, Silicon One, Splunk, Nexus 9k, AI infra, hyperscaler, 多元業務, 對沖位]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

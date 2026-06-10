@@ -5,11 +5,12 @@ type: summary
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-05-16
-check_after: 2026-12-09
+check_after: 2027-01-15
 sources:
   - raw/2026-05-16_FOMOSOC-KP42-Cerebras上市WSE-3對NVDA啟示.md
 evidence_url: https://www.fomosoc.com/p/cerebrasnvidia-kp42
 tags: [FOMO SOC, KP 思考筆記, Cerebras, WSE-3, 晶圓級晶片, SRAM 推論架構, HBM, NVDA, 台積電, CoreWeave, Nebius, 美債殖利率, Hormuz 海峽, 通膨, 長端利率, ASIC pure-play 期權]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

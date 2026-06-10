@@ -5,12 +5,13 @@ type: concept
 created: 2026-06-04
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2026-11-15
 sources:
   - raw/美股送分題-09-備忘錄2-HBM-Meta-私募-2026-03-16.md
   - raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md
 tags: [HBM, 記憶體, 半導體, 估值, AI 供應鏈, Re-rate, NVDA 合約]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # HBM iPhone moment
@@ -93,4 +94,4 @@ Hyperscaler 預付 HBM 到 2028 → CSP CapEx 短期不會見頂 → 對「[[FCF
 - [[NVDA]]
 - [[SK Hynix]]
 - [[Micron]]
-- [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]
+- [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]]

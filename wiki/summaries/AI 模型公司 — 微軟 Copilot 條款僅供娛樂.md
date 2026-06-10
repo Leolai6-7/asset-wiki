@@ -3,11 +3,14 @@ title: AI 模型公司 — 微軟 Copilot 條款僅供娛樂
 aliases: [Copilot 僅供娛樂, Copilot 條款, Copilot NPS, AI 訂閱制]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-01-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_微軟每月收你30美元用Copilot——但條款寫著僅供娛樂.md
 tags: [Microsoft, Copilot, SaaS, 訂閱制, unit economics, AI 責任, NPS]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 模型公司 — 微軟 Copilot 條款僅供娛樂

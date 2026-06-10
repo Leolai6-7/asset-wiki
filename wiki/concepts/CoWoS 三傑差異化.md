@@ -3,11 +3,14 @@ title: CoWoS 三傑差異化
 aliases: [CoWoS 三傑, 弘塑辛耘萬潤, 三傑差異化]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2026-10-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [CoWoS, 三傑, 弘塑, 辛耘, 萬潤, 對照, 差異化]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # CoWoS 三傑差異化
@@ -86,7 +89,7 @@ confidence: high
 - [[TGV 製程鏈圖譜]]：三傑在 TGV 鏈中的位置
 - [[賣水人選股邏輯（投資版）]]：三傑的不同流派
 - [[Re-rate 捕捉法]]：弘塑 4/4 是經典範例
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：類比 IC 之外的「被忘 AI 受惠者」
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：類比 IC 之外的「被忘 AI 受惠者」
 - [[修正三階段]]：盤整期的相對抗跌觀察
 
 ## 相關連結

@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources:
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
 tags: [標的, 美股, IT 諮詢, 系統整合, FDE 戰略, Anthropic 合作, 3 萬員工, AI 部署, Industry X, Julie Sweet, Fortune 500, 跨產業, 政府客戶, 諮詢年金, 賣水人之中的賣水人]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Accenture（ACN）

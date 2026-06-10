@@ -3,11 +3,14 @@ title: AI 廣告信任危機
 aliases: [AI 廣告信任危機, AI 廣告利益衝突, AI 推薦污染]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-12-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-13_AI廣告信任危機-聊天機器人的利益衝突.md
 tags: [廣告, AI, Google, Meta, 信任契約, 利益衝突]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 廣告信任危機

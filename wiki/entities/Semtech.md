@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2027-01-15
 sources:
   - https://www.theglobeandmail.com/investing/markets/stocks/SMTC/pressreleases/2161175/semtech-reports-record-q1-fiscal-2027-revenue-growth/
   - https://seekingalpha.com/news/4597199-semtech-forecasts-328m-q2-revenue-as-it-targets-35-percent-sequential-data-center-growth
@@ -15,6 +15,7 @@ sources:
   - https://www.semtech.com/company/press/amphenol-semtech-introduce-1.6t-active-copper-cable-ofc-2025
   - https://stockanalysis.com/stocks/smtc/
 tags: [標的, US, NASDAQ, 銅纜, ACC, redriver, linear TIA, LPO, LoRa, IoT, AI 數據中心, SemiAnalysis 銅纜受惠, CPO 延期受惠, #P1]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

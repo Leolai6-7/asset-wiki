@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2026-10-15
 sources:
   - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 日本, 化學材料, 半導體材料, 玻璃基板, 光阻劑, 先進封裝, foreign_competitor, SEMCO 合作方, Dongwoo Fine-Chem 母公司]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

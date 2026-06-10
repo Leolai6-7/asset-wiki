@@ -3,10 +3,13 @@ title: 半導體／算力供應鏈 — Intel TeraFab 與 Musk 晶片
 aliases: [Intel TeraFab, Musk Terafab, Tesla AI5 AI6, Intel 18A Terafab]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-09-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-11_intel-terafab-musk-chip.md
 tags: [半導體, Intel, Tesla, xAI, SpaceX, 晶圓代工, 18A, 美國產能]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 
@@ -103,4 +106,4 @@ confidence: medium
 - [[效率→安全切換]]
 - [[半導體基礎建設化]]
 - [[資訊擴散四階段]]
-- [[宋分備忘錄 #6 — 市場世界觀切換]]
+- [[宋分備忘錄 ＃6 — 市場世界觀切換]]

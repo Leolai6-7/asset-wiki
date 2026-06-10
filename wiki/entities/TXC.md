@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources:
   - raw/2026-06-09_TXC-3042-MEMO-法說-Photo Die-1.6T 312.5MHz.md
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, 台股, 半導體, 石英, timing, TCXO, VCXO, OCXO, 賣水人, SiTime 對手, 石英陣營, AI server]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # TXC（3042.TW、台灣晶技）

@@ -5,12 +5,13 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-01-15
 expires_on: 2028-12-31
 sources:
   - WebSearch 2026-06-08（HBM4E / CoPoS / Intel glass / Absolics 五查詢綜整）
 evidence_url: https://www.trendforce.com/news/2026/04/13/news-tsmc-advances-panel-level-packaging-copos-pilot-line-reportedly-set-for-june-completion-2028-29-ramp-eyed/
 tags: [HBM4E, 玻璃中介層, TGV, 先進封裝, 2028 anchor, AI 記憶體, SK Hynix, Samsung, Micron, TSMC CoPoS, Intel, Absolics, 交叉概念]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

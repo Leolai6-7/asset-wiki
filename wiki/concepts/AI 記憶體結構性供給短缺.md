@@ -5,12 +5,13 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-01-15
 expires_on: 2027-12-31
 sources:
   - raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md
 evidence_url: https://news.skhynix.com/multi-year-tech-partnership-with-nvidia/
 tags: [記憶體, HBM, AI infra, 結構性短缺, NVDA, SK Hynix, 估值範式, Re-rate]
+thesis_dependency: none（可遷移方法）
 confidence: medium
 ---
 
@@ -128,7 +129,7 @@ confidence: medium
 
 - 結構性短缺 = CapEx **不會見頂**、FCF **不會輕易拐點**
 - 對「FCF 拐點即將」的多方敘事是直接挑戰
-- 同步補強：[[宋分備忘錄 #1 — CSP-AI 通縮]] 提到的「Hyperscaler 預付 HBM 訂單到 2028」現有 ANCHOR 確認：
+- 同步補強：[[宋分備忘錄 ＃1 — CSP-AI 通縮]] 提到的「Hyperscaler 預付 HBM 訂單到 2028」現有 ANCHOR 確認：
   - 2025-10 OpenAI Stargate x Samsung + SK Hynix LOI = 900K wafer/月（全球 DRAM 40%）（[Tom's Hardware](https://www.tomshardware.com/pc-components/dram/openais-stargate-project-to-consume-up-to-40-percent-of-global-dram-output-inks-deal-with-samsung-and-sk-hynix-to-the-tune-of-up-to-900-000-wafers-per-month)）
   - Micron 已簽**史上首次 5 年合約**（[Micron press 2026](https://investors.micron.com/news-releases/news-release-details/micron-high-volume-production-hbm4-designed-nvidia-vera-rubin)）
   - SK Hynix 2026 HBM **全部 sold out**、訂單延伸到 2027（[TechSpot](https://www.techspot.com/news/110058-sk-hynix-completely-sells-out-semiconductor-supply-ai.html)、[ITdaily](https://itdaily.com/news/business/sk-hynix-hbm-2026-sold-out/)）
@@ -154,7 +155,7 @@ confidence: medium
 - 但黃仁勳同日 anchor 確認多年訂單 = **基本面 vs 情緒分歧**
 - 對逆向投資者：恐慌中找錨點 = [[預期差]] 機會
 
-### 跟 [[宋分備忘錄 #1 — CSP-AI 通縮]]：補強 vs 反面
+### 跟 [[宋分備忘錄 ＃1 — CSP-AI 通縮]]：補強 vs 反面
 
 | 主題 | 宋分備忘錄 #1 立場 | 本 concept 補強 |
 |---|---|---|
@@ -220,7 +221,7 @@ Bear case（中國全閉環 + 西方需求放緩）：Forward PE 8-15x、PB 派�
 - 「結構性短缺」精準描述應為 **「西方 hyperscaler / 主權 AI 結構性短缺」**
 - [[效率→安全切換]] 在中國半導體自主路徑的極端化 = anchor 1-3 的長期 driver
 
-→ 跟 [[宋分備忘錄 #1 — CSP-AI 通縮]] 對接：CSP 自研晶片（西方賣水人受惠長期張力）+ 中國國產替代（西方賣水人短期張力）= **雙引擎張力**。
+→ 跟 [[宋分備忘錄 ＃1 — CSP-AI 通縮]] 對接：CSP 自研晶片（西方賣水人受惠長期張力）+ 中國國產替代（西方賣水人短期張力）= **雙引擎張力**。
 
 ## ⚠️ 風險（thesis 失效情境）
 
@@ -302,7 +303,7 @@ Bear case（中國全閉環 + 西方需求放緩）：Forward PE 8-15x、PB 派�
 - [[CapEx 見頂辯論]] / [[FCF 拐點]]：結構性短缺挑戰見頂論
 - [[資訊擴散四階段]] / [[市場四階段：懷疑／驗證／共識／反轉]]：韓股熔斷是末段警訊
 - [[Jevons Paradox（投資版）]]：HBM 效能提升 → 需求暴增的學術根基
-- [[宋分備忘錄 #1 — CSP-AI 通縮]]：本 concept 是「2028 預付」假設的 over-shoot 驗證版
+- [[宋分備忘錄 ＃1 — CSP-AI 通縮]]：本 concept 是「2028 預付」假設的 over-shoot 驗證版
 - [[賣水人選股邏輯（投資版）]]：Tier 3-4 受惠路徑
 - [[預期差]]：韓股熔斷恐慌中找 anchor 的逆向機會
 
@@ -352,7 +353,7 @@ Bear case（中國全閉環 + 西方需求放緩）：Forward PE 8-15x、PB 派�
 - [[資訊擴散四階段]]
 - [[市場四階段：懷疑／驗證／共識／反轉]]
 - [[Jevons Paradox（投資版）]]
-- [[宋分備忘錄 #1 — CSP-AI 通縮]]
+- [[宋分備忘錄 ＃1 — CSP-AI 通縮]]
 - [[賣水人選股邏輯（投資版）]]
 - [[預期差]]
 - [[NVDA]]

@@ -5,10 +5,11 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 sources: []
 tags: [標的, 日股, 半導體, 石英, timing, TCXO, OCXO, 光學晶振, 賣水人, SiTime 對手, 石英陣營, Apple, AI server]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # NDK（6779.JP、Nihon Dempa Kogyo / 日本電波工業）

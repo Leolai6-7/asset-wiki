@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（MACOM FY2025 10-K + Q3 法說 + IQE £45M 戰略投資公告 / 5G optical / GaAs/InP RFIC）
 evidence_url: https://www.macom.com/about-us/investor-relations
 tags: [標的, 美股, NASDAQ, 5G, 光通訊, RF, GaAs, InP, GaN, 光模組, CPO, AI infra, IQE, 戰略入股 11.5%, 國防, foreign_competitor, 第三戰場]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

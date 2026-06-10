@@ -3,11 +3,14 @@ title: MCP（Model Context Protocol）
 aliases: [MCP, Model Context Protocol, MCP 協議]
 type: entity
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-12-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_MCP九千七百萬次安裝——Anthropic不是在賣模型是在搶接口.md
 tags: [協議, 接口, Anthropic, AAIF, Linux Foundation, agent]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # MCP（Model Context Protocol）

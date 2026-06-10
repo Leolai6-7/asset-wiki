@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-05-16
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources:
   - raw/2026-05-16_FOMOSOC-KP42-Cerebras上市WSE-3對NVDA啟示.md
 evidence_url: https://www.fomosoc.com/p/cerebrasnvidia-kp42
 tags: [標的, 美股, AI ASIC, 晶圓級晶片, WSE-3, OpenAI 客戶, TSMC 5nm 單一 fab, 推論 niche, IPO 2026-05, SRAM 推論架構]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

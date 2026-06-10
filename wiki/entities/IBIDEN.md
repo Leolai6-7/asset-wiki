@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-05
 updated: 2026-06-05
 as_of: 2026-06-05
-check_after: 2026-12-05
+check_after: 2026-10-15
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 日股, ABF 載板, 半導體封裝, foreign_competitor, NVDA, Intel, MLCC 嵌入式基板, 玻璃基板]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # IBIDEN（4062.JP）

@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（群創 2025 年報 / 2026 Q1 法說 / FOPLP 轉型公告 + 東捷設備合作 / 玻璃基板 + 鴻海 AI server 整合）
 evidence_url: https://www.innolux.com/zh-TW/Innovations/SemiconductorPackaging
 tags: [標的, 台股, 上市, 面板, 轉型, FOPLP, 玻璃基板, AI infra, 半導體先進封裝, 鴻海集團, 第一戰場, foreign_competitor]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

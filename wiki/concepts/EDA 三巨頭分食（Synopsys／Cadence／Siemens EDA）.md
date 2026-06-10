@@ -3,11 +3,14 @@ title: EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）
 aliases: [EDA 三巨頭, EDA 三巨頭分食, EDA 寡占, EDA 全球市佔, EDA Big 3, Synopsys Cadence Siemens EDA]
 type: concept
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-10-15
 updated: 2026-06-09
 sources:
   - WebSearch 2026-06-09（Gartner / IDC EDA 全球市佔報告 + Synopsys FY2025 法說 + Cadence FY2025 法說 + Siemens Digital Industries FY2025 + NVDA AI Foundation Models for Chip Design）
 tags: [Meta 框架, EDA, 寡占, 賣水人之中的賣水人, AI 自動設計, 半導體設計, 控制點轉移, AI Copilot, AI agent for chip design]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # EDA 三巨頭分食（Synopsys / Cadence / Siemens EDA）

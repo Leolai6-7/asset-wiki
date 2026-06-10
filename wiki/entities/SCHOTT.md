@@ -3,10 +3,13 @@ title: SCHOTT
 aliases: [SCHOTT, SCHOTT AG, Schott AG, 蕭特, Carl Zeiss Foundation, HermeS]
 type: entity
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2026-11-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 德國, 玻璃材料, 半導體基板, TGV, MEMS, 非上市, 國際, foreign_competitor]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

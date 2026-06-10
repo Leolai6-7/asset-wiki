@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-08
+check_after: 2026-10-15
 sources:
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
   - https://www.sec.gov/Archives/edgar/data/0001674101/000162828026026379/q12026exhibit991vrt04222026.htm
@@ -13,6 +13,7 @@ sources:
   - https://thecoolingreport.com/intel/nvidia-rubin-liquid-cooling-standard-not-optional
   - https://www.heygotrade.com/en/blog/vertiv-vrt-data-center-cooling-ai-2026/
 tags: [標的, 美股, AI infra, 散熱, 液冷, CDU, cold plate, 電源, UPS, NVDA Rubin, 800V HVDC, pure-play, 整合 turnkey]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

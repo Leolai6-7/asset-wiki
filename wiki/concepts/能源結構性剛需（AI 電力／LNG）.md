@@ -5,11 +5,12 @@ type: concept
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 sources:
   - raw/宋分備忘錄 #20
 tags: [能源, AI 電力, LNG, 結構性剛需, firm power, 賣水人]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 能源結構性剛需（AI 電力／LNG）
@@ -22,7 +23,7 @@ confidence: high
 
 ## 宋分 #20 三標準
 
-[[宋分備忘錄 #3 — AI 半導體受惠者擴散]] 提到 #20 三標準辨識「結構性 re-rate」：
+[[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]] 提到 #20 三標準辨識「結構性 re-rate」：
 
 | 標準 | 內容 | 失敗條件 |
 |---|---|---|
@@ -108,7 +109,7 @@ confidence: high
 - [[AI infra CapEx 三階段論]]：第三階段（電力 + 散熱爆掉）對應結構性剛需
 - [[效率→安全切換]]：firm power 是「安全 over 效率」的能源端實踐
 - [[控制點轉移（投資版）]]：hyperscaler 把控制點從 commodity spot → 多年 PPA + LNG 長約
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：本 concept 是 #20 三標準的能源落地
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：本 concept 是 #20 三標準的能源落地
 - [[FCF 拐點]]：結構性 re-rate 對應 FCF 拐點到位
 - [[半導體基礎建設化]]：能源也在「基礎建設化」（從 commodity 變剛需 service）
 

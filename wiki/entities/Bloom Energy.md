@@ -5,13 +5,14 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 expires_on: 2027-06-09
 sources:
   - https://www.bloomenergy.com/
   - https://news.cnyes.com/news/id/6483461
   - https://www.cmoney.tw/forum/article/179165070
 tags: [標的, 美股, AI infra, 電力, firm power, SOFC, 固態氧化物燃料電池, 燃料電池, 氫能, hyperscaler, 高力 8996, BPHE, AI 電力, 第四選擇, niche specialist, NVDA, Mid Cap]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -158,7 +159,7 @@ confidence: high
 - **印度 Tirupur 廠 ramp**（國際擴張第二曲線）
 - **碳橋接 → 純氫過渡**（2028+ 純氫 SOFC 商業化）
 - 對抗 [[CapEx 見頂辯論]]：AI 資料中心電力需求是物理瓶頸 → Bloom firm power 是供給端 anchor
-- 對應 [[宋分 #20 — 能源結構性剛需]] **三標準全滿**：長期供給結構改變 + 持續 CapEx + 20 年服務合約現金流
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] **三標準全滿**：長期供給結構改變 + 持續 CapEx + 20 年服務合約現金流
 
 ### ⚠️ 風險
 
@@ -258,7 +259,7 @@ confidence: high
 
 → Bloom 是「**Oracle Stargate firm power 後勤 anchor**」、Larry Ellison 押注 AI infra 的補完拼圖
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | Bloom 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -321,8 +322,8 @@ confidence: high
 - [[AI infra CapEx 三階段論]]：第三階段下半場 firm power 第四選擇補位
 - [[賣水人選股邏輯（投資版）]]：Bloom = AI firm power 賣水人 + niche specialist alpha
 - [[控制點轉移（投資版）]]：拿到「SOFC 規格定義 + 燃料靈活性 + 模組化部署」三段控制點
-- [[宋分 #20 — 能源結構性剛需]]：Bloom = 三標準 2.5/3 滿足
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：Bloom = 「被遺忘的 AI 受惠者」第四選擇放大版
+- [[宋分 ＃20 — 能源結構性剛需]]：Bloom = 三標準 2.5/3 滿足
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：Bloom = 「被遺忘的 AI 受惠者」第四選擇放大版
 - [[效率→安全切換]]：Bloom 5-10 分鐘部署 = AI 公司「要 24/7 即時 firm power」的速度勝
 - [[Constellation Energy]] / [[Vistra]] / [[GE Vernova]]：**AI infra 電力戰場 anchor triplet**（Bloom 是第四選擇 firm power 補位）
 - [[Talen Energy]]：核電 pure-play alpha vs Bloom SOFC pure-play alpha（兩種 firm power niche）
@@ -340,7 +341,7 @@ confidence: high
 - [[AI infra CapEx 三階段論]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[Constellation Energy]] / [[Vistra]] / [[GE Vernova]] / [[Talen Energy]]
 - [[Eaton]] / [[Schneider Electric]]
 - [[高力 8996|高力]]

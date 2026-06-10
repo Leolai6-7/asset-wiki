@@ -3,12 +3,15 @@ title: CPO 供應鏈圖譜
 aliases: [CPO 供應鏈, 共同封裝光學供應鏈, CPO Supply Chain]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-01-15
 updated: 2026-06-10
 sources:
   - raw/2026-05-07_wallstengine_SiTime-1.6T-CPO時脈元件三倍增量.md
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [CPO, 光通訊, 供應鏈, 半導體, AI 基礎設施, 賣水人]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # CPO 供應鏈圖譜

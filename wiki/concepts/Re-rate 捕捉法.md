@@ -11,7 +11,8 @@ sources:
   - raw/美股送分題-13-類比晶片結構性重估-2026-03-24.md
   - raw/美股送分題-09-備忘錄2-HBM-Meta-私募-2026-03-16.md
 tags: [Meta 框架, 估值方法, Re-rate, 倍數重定價, 結構性重估, 投資策略]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # Re-rate 捕捉法
@@ -48,7 +49,7 @@ asset-wiki 全域 redlink **42 次**最高頻方法論 concept（含 entity / co
 | **[[HBM iPhone moment]]** | 記憶體從**週期性商品 → AI infra 元件**、PE 6x → 15-25x | [[SK Hynix]] / [[Micron]] / [[Samsung Electronics]]、2024-2026 整體進場 |
 | **[[半導體基礎建設化]]** | 半導體從**景氣循環 → 長期基礎設施**、PE 18-25x → 30-50x | [[TSMC]] 2017-2024 / [[ASML]] / [[Synopsys]] |
 | **[[市場四階段：懷疑／驗證／共識／反轉]]** | 從**驗證階段 → 共識階段**、倍數加速擴張（最大 alpha 區）| [[Vistra]] 2024-2026 / [[Constellation Energy]] 2024-2026 |
-| **[[宋分 #20 — 能源結構性剛需]]** | 能源從**stranded asset → AI baseload**、PE 8-12x → 22-32x | [[Vistra]] / [[Constellation Energy]] / [[GE Vernova]] 12 個月 +200-400% |
+| **[[宋分 ＃20 — 能源結構性剛需]]** | 能源從**stranded asset → AI baseload**、PE 8-12x → 22-32x | [[Vistra]] / [[Constellation Energy]] / [[GE Vernova]] 12 個月 +200-400% |
 | **[[效率→安全切換]]** | 估值風險溢價結構性下調、信任溢價結構性上調 | Hyperscaler 鎖長約 PPA → 電力公司現金流 visibility |
 
 → **沒有 framework 對應的 re-rate 案例 = 估值想像 / not Re-rate 捕捉法適用**。本 concept 強制把 re-rate thesis 對接到 wiki 既有 framework 才算 valid。
@@ -59,8 +60,8 @@ asset-wiki 全域 redlink **42 次**最高頻方法論 concept（含 entity / co
 |---|---|---|---|---|
 | **[[TSMC]]** 2017-2024 | 7 年 | PE 14-16x → 22-28x | [[半導體基礎建設化]] | EUV + N7/N5/N3 連續推進 + Apple Silicon + AI |
 | **[[NVDA]]** 2019-2024 | 5 年 | PE 35-40x → 50-65x | [[半導體基礎建設化]] + 接口控制權 | 從遊戲卡 → AI infra 標準（CUDA + NVLink lock-in）|
-| **[[Vistra]]** 2024-2026 | 1.5 年 | PE 8-12x → 20-22x | [[宋分 #20 — 能源結構性剛需]] + [[AI infra 電力戰場]] | Three Mile Island MSFT PPA 簽訂引爆（2024-09）|
-| **[[Constellation Energy]]** 2024-2026 | 1.5 年 | PE 12-15x → 30-32x | [[宋分 #20 — 能源結構性剛需]] + [[AI infra 電力戰場]] | Three Mile Island 復役（2024-09）+ Calpine 併購 $16.4B（2026-03）|
+| **[[Vistra]]** 2024-2026 | 1.5 年 | PE 8-12x → 20-22x | [[宋分 ＃20 — 能源結構性剛需]] + [[AI infra 電力戰場]] | Three Mile Island MSFT PPA 簽訂引爆（2024-09）|
+| **[[Constellation Energy]]** 2024-2026 | 1.5 年 | PE 12-15x → 30-32x | [[宋分 ＃20 — 能源結構性剛需]] + [[AI infra 電力戰場]] | Three Mile Island 復役（2024-09）+ Calpine 併購 $16.4B（2026-03）|
 
 → 三類典型 re-rate 時間尺度：**短週期（電力 anchor 12-18 月）+ 中週期（半導體 anchor 5-7 年）+ 長週期（基礎設施成熟 anchor 10-15 年）**
 
@@ -95,7 +96,7 @@ asset-wiki 全域 redlink **42 次**最高頻方法論 concept（含 entity / co
 
 - [[半導體基礎建設化]] — 估值框架本身改變（週期 → 基礎設施）的母 thesis
 - [[HBM iPhone moment]] — 半導體基礎建設化在 HBM 子領域的具體實現
-- [[宋分 #20 — 能源結構性剛需]] — 能源版的結構性重估
+- [[宋分 ＃20 — 能源結構性剛需]] — 能源版的結構性重估
 - [[效率→安全切換]] — 風險溢價結構性下調
 
 ### 下游觸發機制（如何捕捉 re-rate 進行式）
@@ -150,7 +151,7 @@ asset-wiki 全域 redlink **42 次**最高頻方法論 concept（含 entity / co
 - [[五軸分數 confidence gate（低信心給區間 + thesis-dependent flag）]] — Re-rate 判斷的 confidence 校準規則
 - [[半導體基礎建設化]]
 - [[HBM iPhone moment]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[市場四階段：懷疑／驗證／共識／反轉]]
 - [[資訊擴散四階段]]
 - [[預期差]]

@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-01-15
 expires_on: 2027-06-08
 sources:
   - raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md
 evidence_url: https://www.sec.gov/Archives/edgar/data/0000106040/000162828026028878/a4ex991-pressreleaseq326.htm
 tags: [標的, 美股, HDD, 儲存, AI 資料中心, nearline, foreign_competitor, 2025 spin-off, 純 HDD 公司]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

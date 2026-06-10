@@ -3,11 +3,14 @@ title: 開源戰略 — Netflix 第一個開源 AI 模型
 aliases: [Netflix VOID, Netflix 開源 AI, VOID 物件移除模型]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-10-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_Netflix開源了第一個AI模型——但它不是在做慈善.md
 tags: [Netflix, 開源戰略, VOID, Runway, Adobe, 影視, 後製產業]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 開源戰略 — Netflix 第一個開源 AI 模型

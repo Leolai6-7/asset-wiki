@@ -6,11 +6,12 @@ created: 2026-06-08
 updated: 2026-06-09
 last_minor_update: 2026-06-09 第 5 層 Beneficiary 補 Eoptolink wikilink + 中國 OEM 雙頭對照
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
   - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
 tags: [Meta 框架, 投資方法論, AI 供應鏈, chokepoint, 光通訊, CPO, InP, Serenity, KOL 框架]
+thesis_dependency: none（可遷移方法）
 confidence: medium
 ---
 

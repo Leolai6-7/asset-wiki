@@ -5,12 +5,13 @@ type: concept
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-05-16
-check_after: 2026-12-09
+check_after: 2026-09-15
 expires_on: 2028-05-09
 sources:
   - raw/2026-05-16_FOMOSOC-KP42-Cerebras上市WSE-3對NVDA啟示.md
 evidence_url: https://www.fomosoc.com/p/cerebrasnvidia-kp42
 tags: [Cerebras, WSE-3, 晶圓級晶片, SRAM, HBM 對沖, 推論架構, 記憶體分裂, NVDA niche 競爭, 台積電 5nm, OpenAI 客戶]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

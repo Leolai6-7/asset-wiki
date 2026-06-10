@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-05
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
   - raw/2026-05-20_FOMOSOC-48-DCI-Nokia-Cisco.md
 tags: [標的, 美股, 歐股, DCI, 光通訊, 設備商, foreign_competitor, AI 基礎設施, hyperscaler, 5G]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Nokia（NOK）

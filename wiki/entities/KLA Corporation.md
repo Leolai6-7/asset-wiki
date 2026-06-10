@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（KLA FY2025 全年報 + Q4 法說 + Process Control >50% 市佔 + pattern wafer / mask / reticle defect inspection 全產品線）
 evidence_url: https://ir.kla.com/
 tags: [標的, 美股, NASDAQ, 半導體設備, Process Control, inspection, metrology, e-beam, defect inspection, 真賣水, 賣水人之中的賣水人, ASML peer, 前段設備三巨頭, foreign_competitor]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

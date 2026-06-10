@@ -5,13 +5,14 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-09
+check_after: 2027-02-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, 美股, 功率半導體, GaN, SiC, 800V HVDC, AI infra 電力, Pure-play, NVDA 共同制定, Small Cap, 高 alpha, 高波動]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Navitas Semiconductor（NVTS）
@@ -39,7 +40,7 @@ confidence: high
   - GaN power IC 全球 2025 ~$2B、2030 預估 ~$10-15B（CAGR ~30-40%）
   - 800V HVDC 帶動高頻 GaN + 高壓 SiC 需求暴增
 - 對應 [[AI infra 電力戰場]]：**第三層電力分配高 alpha pure-play**
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿但客戶集中**：GaN 結構改變 + 持續 CapEx + 800V HVDC 鎖死
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿但客戶集中**：GaN 結構改變 + 持續 CapEx + 800V HVDC 鎖死
 
 ### 目的層
 
@@ -207,7 +208,7 @@ confidence: high
 
 ⭐ **NVTS 在「800V → 48V」這段是唯一 GaN pure-play 量產商** = AI server 電源轉換受惠最直接
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | NVTS 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -275,8 +276,8 @@ SemiAnalysis 2026-06-09 機構報告（[[2026-06-09_SemiAnalysis-800VDC-CPO-延�
 - [[AI infra 電力戰場]]：本 entity 是**第三層電力分配高 alpha pure-play**
 - [[賣水人選股邏輯（投資版）]]：NVTS = 電力 anchor pure-play 高 alpha 版
 - [[控制點轉移（投資版）]]：拿到「GaN 800V HVDC 量產 first-mover + NVDA design-in」深層控制點
-- [[宋分 #20 — 能源結構性剛需]]：NVTS = 三標準部分滿足（pure-play option）
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：NVTS = AI 受惠者 GaN pure-play 版
+- [[宋分 ＃20 — 能源結構性剛需]]：NVTS = 三標準部分滿足（pure-play option）
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：NVTS = AI 受惠者 GaN pure-play 版
 - [[效率→安全切換]]：NVTS GaN 高效率 = 機房電力效率升級
 - [[AI infra CapEx 三階段論]]：NVTS 是第三階段下半場高 alpha pure-play
 - [[Wolfspeed]]：SiC pure-play 對照（Wolfspeed 已破產、NVTS 教訓）
@@ -296,7 +297,7 @@ SemiAnalysis 2026-06-09 機構報告（[[2026-06-09_SemiAnalysis-800VDC-CPO-延�
 - [[Texas Instruments TXN]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[AI infra CapEx 三階段論]]
 - [[NVDA]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]

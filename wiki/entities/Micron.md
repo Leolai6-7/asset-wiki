@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2026-09-15
 sources:
   - raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md
 tags: [標的, 美股, 記憶體, HBM, DRAM, LPDDR5X, SOCAMM, foreign_competitor, AI, CHIPS Act]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Micron（MU.NASDAQ / 美光）

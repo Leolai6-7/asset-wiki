@@ -3,10 +3,13 @@ title: 研究方法 SOP（驗證型 ingest 與記分板閉環）
 aliases: [研究方法 SOP, 研究方法, 驗證型 ingest, 記分板閉環]
 type: concept
 created: 2026-06-10
+as_of: 2026-06-10
+check_after: 2027-01-15
 updated: 2026-06-10
 sources:
   - 2026-06-10 方法論收口（P1 SemiAnalysis 驗證型 ingest 為範本）
 tags: [Meta 框架, 研究方法, SOP, 驗證, 評分, 閉環, 方法論總綱]
+thesis_dependency: none（可遷移方法）
 confidence: medium
 ---
 
@@ -23,6 +26,8 @@ confidence: medium
 ```
 
 ## ① 知識點 gate（什麼配進庫）
+
+⚠️ #P11：gate 決策一律記入 wiki/ingest_decisions.md（accept／reject／defer）——零拒收紀錄的 gate 不算存在；thesis 級素材**必附反方欄**（≥1 個 disconfirming 來源、找過沒有就寫「找過、沒有」）。
 
 > 把素材剝離個人情境後、能不能獨立成立並被引用？是 → wiki；否 → 不進庫。
 
@@ -91,3 +96,11 @@ ingest 的優先序由決策迴路拉動：**持倉的研究缺口 ＞ 記分板
 - [[KOL source reliability（KOL 來源可靠度評估）]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]、[[時效 metadata schema（lint 規範）]]
 - [[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|SemiAnalysis 延期報告驗證]]（驗證型 ingest 範本）
+
+
+## ⚠️ #P11 增補（知識庫對抗審核後）
+
+- **單一真值／區間估廢止／per-claim 驗證／supersession 回寫／雙盲評分**——條文見 CLAUDE.md #P11 構建政策、此處為指針
+- **反方視角配額**：每週檢視固定掃 2-3 個空方／反方 feed；新 thesis summary 含非多頭來源比例目標 >20%（2026-06-10 現值 0%）
+- **反方樞紐**：[[2000 光纖泡沫 base rate（反方樞紐）]]／[[AI capex ROI 失敗情境（反方樞紐）]]／[[利率與 AI 久期（反方樞紐）]]／[[台幣匯率與台美持倉（反方樞紐）]]——查詢任何多頭 thesis 時、至少過一個反方樞紐再下結論
+- **知識 VaR**：全檔 frontmatter `thesis_dependency` 欄（AI-capex／none／counter）——「押同一前提的知識佔比」每季入每週檢視統計

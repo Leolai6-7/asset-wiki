@@ -5,14 +5,15 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
   - raw/2026-05-06_FOMOSOC-KP46-LNG-油田服務-煉油-化肥-能源結構重塑.md
 tags: [Meta 框架, AI 基礎建設, 電力, HVDC, Rubin, 核電, SOFC, LNG 出口, 賣水人, 第六戰場, Capex anchor]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # AI infra 電力戰場
@@ -166,7 +167,7 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 
 → 「800V HVDC 整鏈五站」完整賣水人池：灰區 SST [[ABB]]/[[Hitachi]]/[[Eaton]]/[[Siemens]] → BBU [[Vertiv]]/[[Schneider Electric]] → 機櫃 PSU [[台達電]] → 白區 PoL 中間態 [[Vicor]]/[[Monolithic Power Systems MPS]] → 白區功率 IC [[Infineon]]/[[Navitas Semiconductor]]/[[Wolfspeed]]/[[Texas Instruments TXN]]
 
-## 跟 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]] 的對接
+## 跟 [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]] 的對接
 
 > 宋分 #3 點名「**類比 IC 是被遺忘的 AI 受惠者**」（TXN / ADI）—— 因為「AI 資料中心電源管理需求正爆發、估值仍按傳統景氣循環定價 → 結構性低估」
 
@@ -180,7 +181,7 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 
 → 電力戰場是「AI 受惠擴散」最強驗證：**不是製造 AI，而是 AI 製造完之後沒這個跑不動**
 
-## 跟 [[宋分 #20 — 能源結構性剛需]] 的對接
+## 跟 [[宋分 ＃20 — 能源結構性剛需]] 的對接
 
 宋分 #20 提出**結構性重估三標準**：
 
@@ -304,8 +305,8 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 
 - [[AI infra CapEx 三階段論]]：本 concept 是第三階段下半場「電力 anchor」獨立化
 - [[賣水人選股邏輯（投資版）]]：電力戰場 = 「賣水人之中的賣水人」純度最高版本
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：電力戰場 = 「被遺忘的 AI 受惠者」放大版
-- [[宋分 #20 — 能源結構性剛需]]：電力戰場 = 結構性重估三標準**全滿**個案
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：電力戰場 = 「被遺忘的 AI 受惠者」放大版
+- [[宋分 ＃20 — 能源結構性剛需]]：電力戰場 = 結構性重估三標準**全滿**個案
 - [[效率→安全切換]]：電力戰場 = AI 公司「要 24/7 不斷算力」的安全代價
 - [[控制點轉移（投資版）]]：NVDA 800V HVDC 把控制點從晶片推到電網
 - [[半導體基礎建設化]]：電力公司也走同一路徑（從週期股 → 結構性成長股）
@@ -359,8 +360,8 @@ asset-wiki 第六戰場（前五波：第一光通訊 / DCI、第二 MLCC 嵌入
 
 - [[AI infra CapEx 三階段論]]
 - [[賣水人選股邏輯（投資版）]]
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[效率→安全切換]]
 - [[控制點轉移（投資版）]]
 - [[半導體基礎建設化]]

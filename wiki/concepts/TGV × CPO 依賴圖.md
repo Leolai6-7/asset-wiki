@@ -3,12 +3,14 @@ title: TGV × CPO 依賴圖
 aliases: [TGV CPO 依賴, TGV CPO 關係, 玻璃基板 CPO]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
 updated: 2026-06-10
 check_after: 2026-09-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
   - raw/2026-05-07_wallstengine_SiTime-1.6T-CPO時脈元件三倍增量.md
 tags: [TGV, CPO, 依賴圖, Intel, LPKF, LIDE, 玻璃基板, 光通訊]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

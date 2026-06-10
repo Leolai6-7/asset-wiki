@@ -2,10 +2,13 @@
 title: SemiAnalysis 800VDC 與 CPO 延期報告 — 驗證與對撞分析
 type: summary
 created: 2026-06-10
+as_of: 2026-06-10
+check_after: 2026-12-15
 updated: 2026-06-10
 sources:
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [SemiAnalysis, 800VDC, CPO, 延期, Feynman, COUPE, 良率, Mt. Diablo, 驗證型 ingest, CPO 測試, 預期差]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-05
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-01-15
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
   - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
 tags: [標的, 韓國, FC-BGA, ABF 載板, 玻璃基板, 中介層, foreign_competitor, Samsung 集團, Apple Baltra, Broadcom AVGO 鏈, 鈦昇對手, Sumitomo 合作]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Samsung Electro-Mechanics（KRX: 009150 / 삼성전기）

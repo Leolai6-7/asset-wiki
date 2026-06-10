@@ -3,10 +3,13 @@ title: 手機與邊緣晶片端 TGV/FOPLP watchlist
 aliases: [手機晶片 TGV, 邊緣 SoC 封裝, 手機端 watchlist, edge SoC 封裝路線]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2026-11-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [TGV, FOPLP, Apple, Qualcomm, Samsung, ByteDance, MediaTek, Tesla, xAI, watchlist, 手機晶片, 邊緣 AI]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

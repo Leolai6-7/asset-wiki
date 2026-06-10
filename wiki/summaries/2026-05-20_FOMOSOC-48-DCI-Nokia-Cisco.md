@@ -2,11 +2,14 @@
 title: FOMO SOC #48 — DCI + Nokia + Cisco（Scale-Across 新瓶頸 + Nokia 三張牌）
 type: summary
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-09-15
 updated: 2026-06-09
 sources:
   - raw/2026-05-20_FOMOSOC-48-DCI-Nokia-Cisco.md
 evidence_url: https://www.fomosoc.com/p/dci-48nokiacisco
 tags: [DCI, Scale-Across, Nokia, Cisco, NVDA AI-RAN, Infinera, 7220 IXR-H6, Arista, Hyper Rail, Multi-Rail, 被動受惠者]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

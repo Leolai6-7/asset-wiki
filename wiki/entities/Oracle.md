@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-12-15
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
   - raw/2026-04-06_OpenAI拿了1220億——但這筆錢不是你以為的那種錢.md
 tags: [標的, 美股, 雲端, 資料庫, AI infra, Stargate, OpenAI, 1.6T 光模組, CapEx 三階段, 循環投資, Larry Ellison]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Oracle（ORCL）

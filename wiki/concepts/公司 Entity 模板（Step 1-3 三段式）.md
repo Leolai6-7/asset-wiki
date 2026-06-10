@@ -3,10 +3,13 @@ title: 公司 Entity 模板（Step 1-3 三段式）
 aliases: [公司 Entity 模板, Entity 三段式, Entity 標準格式]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2026-12-15
 updated: 2026-06-05
 sources: []
 tags: [Meta 框架, ingest 慣例, entity 格式, 研究流程]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # 公司 Entity 模板（Step 1-3 三段式）
@@ -23,7 +26,7 @@ asset-wiki 的**公司 entity 標準格式**。把研究流程的 Step 1-3 寫�
 
 ### 1. 一句話定位（Step 1 產出）
 
-來自 [[10-K 閱讀法（分析師底層 #1）]] 的 Item 1 Business + Risk Factors 30 分鐘快篩：
+來自 [[10-K 閱讀法（分析師底層 ＃1）]] 的 Item 1 Business + Risk Factors 30 分鐘快篩：
 
 > {這家公司在哪個產業、做什麼、靠誰賺錢}
 
@@ -39,7 +42,7 @@ asset-wiki 的**公司 entity 標準格式**。把研究流程的 Step 1-3 寫�
 [[資訊擴散四階段]] 哪一階段？TAM、競爭格局。
 
 ### 目的層
-公司在產業裡的真實角色（學 [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE|宋分備忘錄 #2]] 對 Meta 的辨識：
+公司在產業裡的真實角色（學 [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE|宋分備忘錄 #2]] 對 Meta 的辨識：
 不是 AI 公司是廣告公司）。商業模式核心。
 
 ### 供應層
@@ -120,7 +123,14 @@ asset-wiki 既有的 [[AVGO]]、[[NVDA]]、[[Anthropic]] 都接近這個格式�
 ## 相關連結
 
 - [[跳出個股看三層：產業、目的、供應]]
-- [[10-K 閱讀法（分析師底層 #1）]]
+- [[10-K 閱讀法（分析師底層 ＃1）]]
 - [[五層損益表（營業槓桿）]]
 - [[Re-rate 捕捉法]]
 - [[宋分（美股送分題）]]
+
+
+## ⚠️ #P11 模板修訂（2026-06-10 知識庫審核後）
+
+1. **新增必填標準段「## 證偽條件（Falsification）」**——統一段名（破口／崩塌／重評等散稱不可作為替代）、全庫可 `grep "證偽條件"` 審計 gate 達標率
+2. **財務快照「區間估」廢止**——無來源數字禁入快照表、查不到寫「待補」（#P10 抽查實證：區間估後門＝41% 硬錯率的來源）
+3. **「為什麼不該買」段建議化為標準**——對 ≥20 分 entity 必填「做空本檔的最強論證」（修復模板買入形狀偏誤、認識論審核）

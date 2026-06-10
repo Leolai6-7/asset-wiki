@@ -3,12 +3,15 @@ title: SiTime
 aliases: [SiTime, SITM, MEMS 時脈]
 type: entity
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-09-15
 updated: 2026-06-10
 sources:
   - raw/2026-05-07_wallstengine_SiTime-1.6T-CPO時脈元件三倍增量.md
   - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, 美股, 半導體, MEMS, 時脈, CPO, 賣水人]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # SiTime（SITM）

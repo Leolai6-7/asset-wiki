@@ -3,13 +3,16 @@ title: OpenAI
 aliases: [OpenAI, ChatGPT]
 type: entity
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-10-15
 updated: 2026-06-09
 sources:
   - raw/2026-04-06_OpenAI拿了1220億——但這筆錢不是你以為的那種錢.md
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
   - raw/2026-05-16_FOMOSOC-KP42-Cerebras上市WSE-3對NVDA啟示.md
 tags: [標的, AI, 模型公司, 私募, IPO, Microsoft, FDE 戰略, Deployment Company, Cerebras 200 億訂單]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # OpenAI

@@ -2,11 +2,14 @@
 title: FOMO SOC KP #46 — LNG 能源結構重塑（美伊戰後五大不可逆轉變）
 type: summary
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-10-15
 updated: 2026-06-09
 sources:
   - raw/2026-05-06_FOMOSOC-KP46-LNG-油田服務-煉油-化肥-能源結構重塑.md
 evidence_url: https://www.fomosoc.com/p/46lng
 tags: [LNG, 油價地板, Hormuz, 核能政治翻身, 美伊戰爭, 能源結構重塑, AI 資料中心電力 anchor, firm power 第五選擇, KP44 期前作]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -46,7 +49,7 @@ confidence: high
 - AI 資料中心電力 demand → LNG 出口需求結構性放大
 - **這擴展了「電力戰場」的地理邊界**——從美國境內核電 baseload → 全球 LNG 出口 anchor
 
-### 對接 [[宋分 #20 — 能源結構性剛需]] 三標準
+### 對接 [[宋分 ＃20 — 能源結構性剛需]] 三標準
 | 標準 | LNG 滿足 |
 |---|---|
 | 1. 長期供給結構改變 | ✅ 戰後 5 個不可逆 + Qatar 修復 3-5 年 |
@@ -103,7 +106,7 @@ confidence: high
 
 - [[AI infra 電力戰場]]
 - [[AI infra CapEx 三階段論]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[Bottleneck Theory（瓶頸論）]]
 - [[控制點轉移（投資版）]]
 - [[賣水人選股邏輯（投資版）]]

@@ -3,11 +3,13 @@ title: 時效 metadata schema（lint 規範）
 aliases: [時效 metadata, lint metadata, snapshot 時效, expires_on, check_after]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
 updated: 2026-06-05
 check_after: 2027-06-05
 sources: []
 tags: [Meta 框架, ingest 慣例, schema, lint, 時效, snapshot]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # 時效 metadata schema（lint 規範）

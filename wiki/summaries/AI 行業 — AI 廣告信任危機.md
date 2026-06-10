@@ -3,11 +3,14 @@ title: AI 行業 — AI 廣告信任危機
 aliases: [AI 廣告危機, 聊天機器人廣告, GEO, 利益衝突, AI 訂閱死亡螺旋]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-10-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-13_AI廣告信任危機-聊天機器人的利益衝突.md
 tags: [OpenAI, Meta, Google, Anthropic, 廣告, AI 訂閱制, 信任契約, GEO]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 行業 — AI 廣告信任危機

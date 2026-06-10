@@ -5,12 +5,13 @@ type: concept
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 sources:
   - raw/2026-04-06_Claude花4000美元找到22個Firefox漏洞——但這不是你該興奮的原因.md
   - raw/2026-04-09_資安產業結構-紅藍隊分離與商業模式.md
   - https://www.gartner.com/en/newsroom/press-releases/2024-12-cybersecurity-market-forecast
 tags: [AI 資安, 賽道地圖, 三軌, Endpoint, Cloud Security, Network Security, agentic SOC, CrowdStrike, Palo Alto Networks, Wiz, Microsoft Defender, Zscaler, Cloudflare, AI-SPM]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -143,7 +144,7 @@ confidence: high
 - [[AI 資安攻防成本曲線]]：本 concept 從**市場結構**切、AI 資安攻防成本曲線從**thesis 角度**切、兩者互補
 - [[賣水人選股邏輯（投資版）]]：AI 資安賽道是「中性受惠 AI CapEx 擴張的賣水人」、本 concept 是 AI 資安賽道的賽道地圖、master 表「資安：AI-SPM 賽道」段對應
 - [[效率→安全切換]]：資安從「奢侈品」變「剛需」、本 concept 是這條 thesis 的市場結構展開
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：AI 資安賽道是「**被遺忘的 AI 受惠者**」放大版（vs 半導體被市場過度關注）= 資安平台是「**AI 之後的剛需 service**」
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：AI 資安賽道是「**被遺忘的 AI 受惠者**」放大版（vs 半導體被市場過度關注）= 資安平台是「**AI 之後的剛需 service**」
 - [[公司 Entity 模板（Step 1-3 三段式）]]：本 concept 是 entity（CRWD / PANW / Wiz / Microsoft）的賽道背景
 - [[控制點轉移（投資版）]]：CRWD / PANW 拿到 endpoint / network / cloud / SecOps 多段控制點，但 Microsoft Defender bundle 是平台層級控制點威脅
 - [[市場四階段：懷疑／驗證／共識／反轉]]：AI 資安賽道在「驗證 → 共識」加速段
@@ -224,7 +225,7 @@ confidence: high
 - [[Microsoft]] — Defender / Security Copilot 平台 lock-in 威脅
 - [[賣水人選股邏輯（投資版）]] — AI 資安賽道是中性受惠賣水人
 - [[效率→安全切換]] — 資安從奢侈品變剛需
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]] — 被遺忘的 AI 受惠者放大版
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]] — 被遺忘的 AI 受惠者放大版
 - [[控制點轉移（投資版）]] — Microsoft Defender bundle 是平台層級控制點威脅
 - [[公司 Entity 模板（Step 1-3 三段式）]] — entity schema
 - [[市場四階段：懷疑／驗證／共識／反轉]] — AI 資安賽道在「驗證 → 共識」段

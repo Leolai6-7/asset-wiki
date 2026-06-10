@@ -3,12 +3,15 @@ title: AI 通縮三路徑
 aliases: [AI 通縮, AI Deflation, AI 通縮交易]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-09-15
 updated: 2026-06-04
 sources:
   - raw/美股送分題-06-備忘錄1-CSP-AI通縮-2026-03-09.md
   - raw/美股送分題-16-備忘錄4-修正尾聲-2026-03-30.md
 tags: [AI, 通縮, 宏觀, 央行政策, 資產泡沫]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 通縮三路徑

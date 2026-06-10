@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 美股, 電力, 核電, 氣電, AI infra 電力, AWS, Susquehanna, 17 年 PPA, IPP, Pure-play, foreign_competitor, Mid Cap]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Talen Energy（TLN）
@@ -35,7 +36,7 @@ confidence: high
   - FERC 2024-11 對 BTM 結構提出疑問 → 2025-06 重議升級成 grid-connected 結構（front-of-the-meter）
   - 2025-09 跟 AWS + Cumulus（Susquehanna majority owner）三方資產交易 = **新混合架構 17 年 $18B+ 鎖死**
 - 對應 [[AI infra 電力戰場]]：**第一層電力產生 #3 anchor（純度首選）**
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿**：核電 stranded → AI baseload 結構改變 + Caithness $3.5B CapEx + AWS 17 年 PPA 鎖死
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿**：核電 stranded → AI baseload 結構改變 + Caithness $3.5B CapEx + AWS 17 年 PPA 鎖死
 
 ### 目的層
 
@@ -135,7 +136,7 @@ confidence: high
 - **Trump 政府支持核電** = 政治紅利
 - **AI 算力 ramp** 2026-2030 = 新 PPA 持續簽約
 - 對抗 [[CapEx 見頂辯論]]：物理電網是真正的瓶頸
-- 對應 [[宋分 #20 — 能源結構性剛需]] 三標準全滿
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] 三標準全滿
 
 ### ⚠️ 風險
 
@@ -188,7 +189,7 @@ confidence: high
 
 > **重要警語**：AWS 1,920MW 對應「1MW rack」是單純物理上限對照、實際 PUE + 散熱 → 60-80% × 上限。但 **TLN 是 AWS 在 2026-2030 主要核電 anchor 之一**。
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | TLN 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -241,8 +242,8 @@ confidence: high
 - [[AI infra 電力戰場]]：本 entity 是**第一層電力產生 #3 anchor（pure-play）**
 - [[賣水人選股邏輯（投資版）]]：TLN = 電力 anchor pure-play 版
 - [[控制點轉移（投資版）]]：拿到「Susquehanna + AWS 直接連接」兩段控制點
-- [[宋分 #20 — 能源結構性剛需]]：TLN = 三標準全滿（客戶集中 caveat）
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：TLN = AI 受惠者最 pure-play 標的
+- [[宋分 ＃20 — 能源結構性剛需]]：TLN = 三標準全滿（客戶集中 caveat）
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：TLN = AI 受惠者最 pure-play 標的
 - [[效率→安全切換]]：TLN AWS 17 年 PPA = AWS 要 24/7 算力的安全代價
 - [[AI infra CapEx 三階段論]]：TLN 是第三階段下半場電力 anchor 純度首選
 - [[半導體基礎建設化]]：TLN 走同一路徑（從重整 → 結構性成長股）
@@ -260,8 +261,8 @@ confidence: high
 - [[GE Vernova]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
+- [[宋分 ＃20 — 能源結構性剛需]]
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
 - [[AI infra CapEx 三階段論]]
 - [[AMZN]]
 - [[NVDA]]（Rubin 1MW 機櫃 trigger）

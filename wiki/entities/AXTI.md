@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-02-15
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, US, NASDAQ, InP, indium phosphide, 化合物半導體 substrate, 6N gallium, 7N indium, BoYu, JinMei, Tongmei, China supply chain, 4 chokepoints 垂直整合, foreign_competitor, Bottleneck Theory L1+L3, Serenity 重押, 5x return, 雙頭壟斷, Strait of Hormuz, Strait of AXTI]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AXTI（NASDAQ: AXTI / AXT Inc.）

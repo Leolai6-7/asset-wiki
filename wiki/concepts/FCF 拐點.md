@@ -3,12 +3,15 @@ title: FCF 拐點
 aliases: [FCF 拐點, Free Cash Flow Inflection, 自由現金流拐點]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-02-15
 updated: 2026-06-04
 sources:
   - raw/美股送分題-06-備忘錄1-CSP-AI通縮-2026-03-09.md
   - raw/美股送分題-19-備忘錄5-複利成長-2026-04-06.md
 tags: [估值, CSP, CapEx, FCF, 重新定價]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # FCF 拐點

@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 美股, 電力管理, 800V HVDC, 配電, UPS, switchgear, AI infra 電力, AI infra 散熱, 變壓器, NVDA 共同制定, Mega Cap, 愛爾蘭, Crouse-Hinds, Boyd, cold plate, CDU, thermal management, foreign_competitor]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Eaton（ETN）
@@ -35,7 +36,7 @@ confidence: high
   - 中壓 switchgear（4.16kV - 38kV）交期 12-24 個月
   - 美國 / 歐洲 grid 升級 + data center 新建雙頭吃 = 結構性 backlog 累積
 - 對應 [[AI infra 電力戰場]]：**第三層電力分配 #1 anchor**（800V HVDC turnkey + switchgear 雙引擎）
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿**：800V HVDC 結構改變 + 持續 CapEx + backlog $13B+ 鎖死
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿**：800V HVDC 結構改變 + 持續 CapEx + backlog $13B+ 鎖死
 
 ### 目的層
 
@@ -182,7 +183,7 @@ confidence: high
 - **Electrical Americas 連續多季 organic +10%+**
 - **Aerospace / 軍工 sub-segment AI server 受惠**
 - 對抗 [[CapEx 見頂辯論]]：data center 電力 turnkey 是物理瓶頸
-- 對應 [[宋分 #20 — 能源結構性剛需]] 三標準全滿
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] 三標準全滿
 
 ### ⚠️ 風險
 
@@ -239,7 +240,7 @@ confidence: high
 
 → **Eaton 在「電網入口到機架」turnkey 配電必經之路 = 結構性護城河**
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | ETN 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -295,8 +296,8 @@ confidence: high
 - [[AI infra 散熱戰場]]：**Boyd 段加入後**為 cold plate + manifold + CDU **OEM 賽道 anchor**（跟 [[Vertiv]] 直接對手、跟 [[雙鴻]] / [[奇鋐 3017|奇鋐]] 部分競爭、跟 [[高力 8996|高力]] / [[Alfa Laval]] BPHE 採購對象）
 - [[賣水人選股邏輯（投資版）]]：ETN = 電力 turnkey 整合 anchor + Boyd 段 power + cooling 雙軌
 - [[控制點轉移（投資版）]]：拿到「800V HVDC reference architecture + turnkey + 軟體 + Boyd 散熱整合」四段控制點
-- [[宋分 #20 — 能源結構性剛需]]：ETN = 三標準全滿
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：ETN = 「被遺忘的 AI 受惠者」turnkey 版
+- [[宋分 ＃20 — 能源結構性剛需]]：ETN = 三標準全滿
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：ETN = 「被遺忘的 AI 受惠者」turnkey 版
 - [[效率→安全切換]]：ETN 800V HVDC = 機房電力安全升級
 - [[AI infra CapEx 三階段論]]：ETN 是第三階段下半場電力 anchor #2 + Boyd 段散熱補位
 - [[NVDA]]：800V HVDC reference architecture 共同制定 + 31 家伙伴首發 + Boyd 在 NVDA Rubin cold plate / CDU 4 家認證
@@ -315,7 +316,7 @@ confidence: high
 - [[GE Vernova]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[AI infra CapEx 三階段論]]
 - [[NVDA]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]

@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md
 evidence_url: https://en.sedaily.com/finance/2026/05/27/cxmt-clears-65-trillion-won-ipo-review-as-dram-share-jumps
 tags: [標的, 中國, 國家隊, 記憶體, DRAM, HBM, LPDDR5, 國產替代, 制裁對沖, 未上市待 IPO, foreign_competitor, 中國半導體]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

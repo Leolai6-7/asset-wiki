@@ -3,11 +3,14 @@ title: TGV 路線分歧（雷射改質 vs 雷射打孔）
 aliases: [TGV 路線分歧, 雷射改質, 雷射打孔, LPKF LIDE]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2027-01-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [TGV, 雷射, 製程路線, 鈦昇, 雷科, 投資押注]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # TGV 路線分歧（雷射改質 vs 雷射打孔）

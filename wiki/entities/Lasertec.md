@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2026-10-15
 sources:
   - https://www.lasertec.co.jp/en/ir/
   - https://ca.marketscreener.com/news/lasertec-presentation-material-fiscal-year-ended-june-2025-financial-results-ce7c5edfd989f320
@@ -16,6 +16,7 @@ sources:
   - https://fortune.com/2024/06/05/short-seller-scorpion-capital-lasertec-japan-semiconductors-chips-euv-fraud-allegations/
   - https://www.lasertec.co.jp/en/sustainability/governance.html
 tags: [標的, 日股, TSE, 半導體設備, mask inspection, actinic, EUV, High-NA, 檢測賣水人, 壟斷, watchlist]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

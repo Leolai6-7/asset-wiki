@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources:
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
 tags: [標的, 私募合夥制, IT 諮詢, 系統整合, AI 諮詢, Big Four, 全球 #2, 跨產業, 政府客戶, 諮詢年金, 賣水人之中的賣水人, NOT-INVESTABLE, reference_only, G1]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Deloitte（私募合夥制、非上市）

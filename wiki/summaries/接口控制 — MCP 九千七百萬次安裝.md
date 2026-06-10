@@ -3,11 +3,14 @@ title: 接口控制 — MCP 九千七百萬次安裝
 aliases: [MCP 接口控制, Anthropic 搶接口, Model Context Protocol 投資視角]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-10-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_MCP九千七百萬次安裝——Anthropic不是在賣模型是在搶接口.md
 tags: [Anthropic, MCP, 接口控制, 協議層, 控制點轉移, AI 資安, Agent]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 接口控制 — MCP 九千七百萬次安裝

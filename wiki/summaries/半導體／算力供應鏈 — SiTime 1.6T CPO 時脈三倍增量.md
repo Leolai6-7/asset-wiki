@@ -3,11 +3,14 @@ title: 半導體／算力供應鏈 — SiTime 1.6T CPO 時脈三倍增量
 aliases: [SiTime 1.6T, SITM CPO timing, CPO 時脈三倍]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-12-15
 updated: 2026-06-04
 sources:
   - raw/2026-05-07_wallstengine_SiTime-1.6T-CPO時脈元件三倍增量.md
 tags: [半導體, SITM, CPO, 光通訊, 時脈元件, 賣水人, 1.6T]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 半導體／算力供應鏈 — SiTime 1.6T CPO 時脈三倍增量
@@ -43,7 +46,7 @@ CPO 是「**把光引擎從可插拔模組搬進交換 ASIC 旁邊封裝**」的
 **真正的賣水人位置（避開光引擎輸贏判斷的玩家）：**
 - **SiTime / TXC / 京瓷**：timing，不管哪家光引擎贏都要買
 - **TSMC**：CPO 封裝產能（CoUPE / CoWoS-L），任何 CPO ASIC 都要用
-- **MPS / ADI**：電源，類比 IC 結構性低估的延伸（見 [[宋分 #13 — 類比晶片結構性重估]]）
+- **MPS / ADI**：電源，類比 IC 結構性低估的延伸（見 [[宋分 ＃13 — 類比晶片結構性重估]]）
 
 **SiTime 三倍 timing 增量的機制（為何不是線性成長）：**
 1. **SerDes 通道數爆炸**：CPO 把 lane 數從 8/16 拉到 32/64+，每個 lane 都要 timing reference

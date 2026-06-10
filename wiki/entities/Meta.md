@@ -3,13 +3,16 @@ title: Meta
 aliases: [Meta, Facebook, Meta Platforms, FB]
 type: entity
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-02-15
 updated: 2026-06-09
 sources:
   - raw/美股送分題-09-備忘錄2-HBM-Meta-私募-2026-03-16.md
   - raw/美股送分題-notes-市場解碼與估值筆記-2026-02至04.md
   - raw/2026-05-02_FOMOSOC-KP40-五大巨頭Q1財報AI變現分歧.md
 tags: [標的, 美股, AI, 廣告, M7, LLaMA, AVGO, AMD, 變現能見度最低, hyperscaler, CapEx 內部黑箱]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Meta

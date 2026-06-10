@@ -5,10 +5,11 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-11-15
 sources:
   - WebSearch 2026-06-08（Q1 2026 6-K / Lumilens $50M / Foxconn / Mitsubishi / valuation）
 tags: [標的, 美股, 矽光, 光晶片初創, CPO, 光引擎, 高風險高潛在報酬, 仍 thesis 階段, 收入未達規模]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

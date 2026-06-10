@@ -3,11 +3,14 @@ title: Amkor
 aliases: [Amkor Technology, AMKR, AMKR.US, NASDAQ:AMKR, 安靠]
 type: entity
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2026-12-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 美股, OSAT, 先進封裝, EMIB, 玻璃基板, Intel, Arizona, CHIPS Act, 整合方]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Amkor（NASDAQ: AMKR）

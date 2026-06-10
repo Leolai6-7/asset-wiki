@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-11-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（PSEG FY2025 全年報 + Q4 法說 + Salem + Hope Creek 二核電廠 + 海上風電 ramp + utility 80% + 核電 fleet 3,750MW）
 evidence_url: https://investor.pseg.com/
 tags: [標的, 美股, NYSE, 電力, 核電, utility, 新澤西, Salem, Hope Creek, 海上風電, AI infra 電力, 結構性剛需, Constellation 對照, foreign_competitor, Mid Cap]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -32,7 +33,7 @@ confidence: high
   - 新澤西 + 賓州 + 紐約 data center 客戶持續增長
   - 美東海上風電：Ocean Wind 1（取消）+ Ocean Wind 2 + Atlantic Shores Wind 跨大西洋沿岸 ~2.5-3GW potential（但 2024-2025 海上風電多次延宕 + 取消）
 - 對應 [[AI infra 電力戰場]]：**第一層電力產生 + utility 區域 anchor**（vs CEG 純 IPP 規模差別）
-- 對應 [[宋分 #20 — 能源結構性剛需]]：**部分滿足**（utility + 核電 baseload + 跟 hyperscaler 直接 PPA potential、但目前無大型 hyperscaler PPA 公開）
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]：**部分滿足**（utility + 核電 baseload + 跟 hyperscaler 直接 PPA potential、但目前無大型 hyperscaler PPA 公開）
 
 ### 目的層
 
@@ -186,7 +187,7 @@ confidence: high
 - [[NRG Energy]]：retail + 氣電 對比（NRG 20 retail / PSEG 19 utility）
 - [[賣水人選股邏輯（投資版）]]：PSEG = utility 監管 + 核電 baseload + 海上風電三軌
 - [[控制點轉移（投資版）]]：拿到「utility 監管 + 核電 + 海上風電 leases + 新澤西區域 anchor」四段控制權
-- [[宋分 #20 — 能源結構性剛需]]：部分滿足（三標準 2/3）
+- [[宋分 ＃20 — 能源結構性剛需]]：部分滿足（三標準 2/3）
 - [[公司 Entity 模板（Step 1-3 三段式）]]：本 entity 完整套用三段式
 
 ## 相關連結
@@ -199,7 +200,7 @@ confidence: high
 - [[NRG Energy]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 
 ## Sources

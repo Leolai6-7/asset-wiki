@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 sources:
   - https://gf.com/
   - https://investors.gf.com/
@@ -13,6 +13,7 @@ sources:
   - https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-photonics-platform
   - raw/2026-05-27_FOMOSOC-49-GlobalFoundries.md
 tags: [標的, 美股, foundry, 特殊製程, SiPho, CMOS-SOI, 矽光子, FD-SOI, 22FDX, AI infra, NVDA NVLink Fusion, Ayar Labs, Mubadala, foundry 對手, 多元化, 量子計算, cryo-CMOS, PsiQuantum, Quantinuum, Diraq, 準國防資產, 政府入股]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

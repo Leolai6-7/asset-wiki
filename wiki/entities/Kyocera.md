@@ -5,10 +5,11 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 sources: []
 tags: [標的, 日股, 美股, 半導體, 石英, timing, 陶瓷, connector, 鉭電容, AVX, 太陽能, 印刷, 通訊設備, 賣水人, 跨戰場 conglomerate, SiTime 對手, 石英陣營, 被動元件第三道防線, AI server]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Kyocera（NYSE: KYO + 6971.JP、京瓷）

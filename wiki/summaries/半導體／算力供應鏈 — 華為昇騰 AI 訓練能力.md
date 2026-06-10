@@ -3,10 +3,13 @@ title: 半導體／算力供應鏈 — 華為昇騰 AI 訓練能力
 aliases: [昇騰 910C, Ascend 950, 華為 AI 晶片, 中國 AI 算力替代]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-01-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-07_華為昇騰晶片-AI訓練能力.md
 tags: [半導體, 華為, 昇騰, 中國, AI 晶片, 算力替代, 出口管制]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 
@@ -118,4 +121,4 @@ confidence: medium
 - [[HBM iPhone moment]]
 - [[效率→安全切換]]
 - [[CapEx 見頂辯論]]
-- [[宋分備忘錄 #6 — 市場世界觀切換]]
+- [[宋分備忘錄 ＃6 — 市場世界觀切換]]

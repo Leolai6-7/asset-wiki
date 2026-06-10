@@ -3,12 +3,15 @@ title: 玻璃基板與 FOPLP 賽道
 aliases: [玻璃基板, FOPLP, Glass Core, 扇出封裝, 玻璃中介層]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2027-02-15
 updated: 2026-06-08
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
   - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
 tags: [玻璃基板, FOPLP, 半導體, 先進封裝, Intel EMIB, AMD, Broadcom, Apple, TSMC CoPoS, TrendForce, Serenity]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 玻璃基板與 FOPLP 賽道

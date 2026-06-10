@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-12-15
 sources:
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
 tags: [標的, 美股, Forward Deployed Engineer, FDE 原型, 政府客戶, Gotham, Foundry, AIP, Alex Karp, Peter Thiel, Re-rate已price in, 估值警惕, 10年驗證]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Palantir（PLTR）

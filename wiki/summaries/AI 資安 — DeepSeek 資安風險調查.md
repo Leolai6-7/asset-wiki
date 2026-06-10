@@ -3,11 +3,14 @@ title: AI 資安 — DeepSeek 資安風險調查
 aliases: [DeepSeek 資安風險, DeepSeek 資料外洩, 中國 AI 資安風險]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-01-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-07_DeepSeek資安風險調查.md
 tags: [AI 資安, 中國 AI, DeepSeek, Wiz, 資料主權, 國家安全]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 資安 — DeepSeek 資安風險調查

@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-01-15
 expires_on: 2027-06-08
 sources:
   - raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md
 tags: [標的, 韓國, 記憶體, HBM, DRAM, foreign_competitor, NVDA 合約, AI infra, 結構性短缺]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # SK Hynix（KRX: 000660 / 韓國交易所）
@@ -256,7 +257,7 @@ confidence: high
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 - [[時效 metadata schema（lint 規範）]]
 - [[宋分（美股送分題）]]
-- [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]
+- [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]]
 - [[CXMT]]
 - [[中國半導體國產替代（投資對沖視角）]]
 

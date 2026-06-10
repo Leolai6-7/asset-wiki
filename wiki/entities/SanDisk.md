@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（SEC 8-K SanDisk spin-off / FY2026 Q3 財報 / HBF 標準化 / NVDA Rubin & Vera Vera 路線圖）
 evidence_url: https://www.sec.gov/Archives/edgar/data/0000106040/000119312525033383/d847507dex991.htm
 tags: [標的, 美股, 記憶體, NAND, 3D NAND, Enterprise SSD, BiCS, AI, HBF, foreign_competitor, 2025 spin-off]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

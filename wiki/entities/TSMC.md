@@ -3,6 +3,8 @@ title: TSMC
 aliases: [台積電, Taiwan Semiconductor, 2330, TSM]
 type: entity
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-12-15
 updated: 2026-06-08
 sources:
   - raw/美股送分題-09-備忘錄2-HBM-Meta-私募-2026-03-16.md
@@ -10,7 +12,8 @@ sources:
   - raw/美股送分題-22-備忘錄6-市場切換-2026-04-13.md
   - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
 tags: [標的, 半導體, 晶圓代工, AI 基礎設施, 護國神山, CoPoS, 玻璃中介層]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # TSMC（台積電）

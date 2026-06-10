@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, M7, Mega Cap, Edge AI, Apple Silicon, Apple Intelligence, iPhone, Vision Pro, Mac, Services, fabless, 終端品牌, edge AI infra anchor]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Apple Inc.（NASDAQ: AAPL）
@@ -187,7 +188,7 @@ confidence: high
 - **Stock buyback USD ~$110B/year + dividend**：EPS 結構性拉升 + 回饋股東
 - **TSMC N2 / N3P 制程獨家 first 客戶**：每代 Apple A + M 系列 first-mover anchor
 - 對應 [[AI infra CapEx 三階段論]] 第三階段台灣鏈條 Edge AI 終端 anchor + [[控制點轉移（投資版）]] iOS + Apple Silicon + App Store + Apple Intelligence 四重 chokepoint
-- 🆕 **2026-06-09 Apple Cybercab Robotaxi 隱藏期權**（[[宋分備忘錄 #11 — 油價+AI+Robotaxi 改寫贏家]] 補位）：Apple Car 項目（Project Titan、2014-2024 投入 ~$10B 後 2024-02 取消整車路線）轉向 **Cybercab Robotaxi（自駕 SaaS 平台）+ Apple Intelligence 整合**；對應四層 Robotaxi 受惠玩家分類（Tesla / Waymo 北美 + Volvo / Daimler / Traton 歐洲重卡 TaaS + Ford / GM SaaS 轉型 + Uber 平台層）的「**北美第五位隱藏選項**」；非 Apple 主推 narrative 但 **iOS + CarPlay + Vision Pro AR 整合**潛在「**車內 OS 控制權**」延伸；vs Tesla Cybercab（2027 量產）+ Waymo（無 SaaS revenue 但 paid trips 高速 ramp）+ Apple Cybercab（推測 2028+ 量產、未公開 timeline）形成「**美系自駕 SaaS 三巨頭**」分歧路線；如 ramp 成 = Apple 三軌變四軌（iPhone + Mac + Vision Pro + Cybercab）+ Services 高毛利擴張新軌；如不 ramp = thesis 無實質影響（既有三軌仍 carry）
+- 🆕 **2026-06-09 Apple Cybercab Robotaxi 隱藏期權**（[[宋分備忘錄 ＃11 — 油價+AI+Robotaxi 改寫贏家]] 補位）：Apple Car 項目（Project Titan、2014-2024 投入 ~$10B 後 2024-02 取消整車路線）轉向 **Cybercab Robotaxi（自駕 SaaS 平台）+ Apple Intelligence 整合**；對應四層 Robotaxi 受惠玩家分類（Tesla / Waymo 北美 + Volvo / Daimler / Traton 歐洲重卡 TaaS + Ford / GM SaaS 轉型 + Uber 平台層）的「**北美第五位隱藏選項**」；非 Apple 主推 narrative 但 **iOS + CarPlay + Vision Pro AR 整合**潛在「**車內 OS 控制權**」延伸；vs Tesla Cybercab（2027 量產）+ Waymo（無 SaaS revenue 但 paid trips 高速 ramp）+ Apple Cybercab（推測 2028+ 量產、未公開 timeline）形成「**美系自駕 SaaS 三巨頭**」分歧路線；如 ramp 成 = Apple 三軌變四軌（iPhone + Mac + Vision Pro + Cybercab）+ Services 高毛利擴張新軌；如不 ramp = thesis 無實質影響（既有三軌仍 carry）
 
 ### ⚠️ 風險
 
@@ -264,7 +265,7 @@ Apple 跟上游 anchor 的關係**不是「客戶」而是「結構性 lock-in�
 - [[6 戰場交集圖譜]]：Apple 跨「Edge AI（終端）+ Apple Silicon 設計鏈（晶片）+ Services（軟體）」三戰場 anchor
 - [[賣水人選股邏輯（投資版）]]：Apple 不純套用賣水人五軸框架、用「Edge AI infra 結構性 anchor」視角校準
 - [[手機與邊緣晶片端 TGV-FOPLP watchlist]]：Apple Baltra（自研 AI server 晶片）採 Samsung Electro-Mechanics 玻璃基板 + TSMC 3nm N3E、TGV 鏈第二根 anchor、本 entity 細化 watchlist Apple 段
-- [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]：HBM iPhone moment 類比、Apple Intelligence + iPhone 換機 cycle 對應 HBM 從週期商品變 AI infra 元件
+- [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]]：HBM iPhone moment 類比、Apple Intelligence + iPhone 換機 cycle 對應 HBM 從週期商品變 AI infra 元件
 - [[半導體基礎建設化]]：Apple Silicon fabless 設計商 + TSMC + EDA 雙頭 + 鴻海代工 + 村田 MLCC 五層 chokepoint
 - [[控制點轉移（投資版）]]：拿到「iOS + Apple Silicon + App Store + Apple Intelligence Edge AI」四重 chokepoint
 - [[AI infra CapEx 三階段論]]：第三階段台灣鏈條 Edge AI 終端 anchor
@@ -279,7 +280,7 @@ Apple 跟上游 anchor 的關係**不是「客戶」而是「結構性 lock-in�
 - [[Meta]]、[[AMZN]]、[[OpenAI]]、[[Anthropic]]
 - [[賣水人選股邏輯（投資版）]]、[[控制點轉移（投資版）]]、[[半導體基礎建設化]]
 - [[6 戰場交集圖譜]]、[[AI infra CapEx 三階段論]]
-- [[手機與邊緣晶片端 TGV-FOPLP watchlist]]、[[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]
+- [[手機與邊緣晶片端 TGV-FOPLP watchlist]]、[[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 
 ## ⭐ Q1 2026 財報 — 變現能見度有限 + 記憶體成本壓力（2026-05-02 KP40）

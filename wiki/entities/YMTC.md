@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（YMTC Xtacking 4.0 / Counterpoint Q1 2026 NAND 市佔 / 紫光 + 國家大基金股權結構 / US Entity List 制裁）
 evidence_url: https://www.counterpointresearch.com/insights/global-nand-flash-revenue-share/
 tags: [標的, 中國, 未上市, 記憶體, NAND, 3D NAND, Xtacking, AI, 中美科技戰, foreign_competitor, Entity List, 國產替代, 紫光, 國家大基金, 2026 Q1 13% 市佔]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 
@@ -30,7 +31,7 @@ confidence: medium
   - 驗證進行中：2024 Xtacking 3.0 232 層、2025-2026 Xtacking 4.0 294 層（超預期 closing）、X4-9070 商業上市
 - 在 [[資訊擴散四階段]]：機構（jpm / Goldman / Counterpoint）已覆蓋、台灣賣方有零散研究、媒體層（TechInsights / Tom's Hardware）熱炒中、ETF 因未上市無法配置
 - TAM：3D NAND 全市場 2026 USD 58.7B → 2031 USD 76B（CAGR 5.3%）；中國國產替代政策驅動 + 國產 AI server 結構性配套
-- [[宋分備忘錄 #1 — CSP-AI 通縮]] 視角：中國 CSP（阿里 / 騰訊 / 字節）NAND 國產替代 = YMTC TAM 隔離受惠軌
+- [[宋分備忘錄 ＃1 — CSP-AI 通縮]] 視角：中國 CSP（阿里 / 騰訊 / 字節）NAND 國產替代 = YMTC TAM 隔離受惠軌
 - [[Bottleneck Theory（瓶頸論）]] 視角：YMTC = 中國 NAND chokepoint（國產替代政策下無替代）、跟 [[SK Hynix]] HBM 給美 NVDA 是 mirror image（美中各自的單一供應商）
 
 ### 目的層
@@ -167,7 +168,7 @@ confidence: medium
 - **對 [[Kioxia]] thesis**：日本 NAND BiCS 全球安全網（vs YMTC 中國 anchor）
 - **對 [[華為]]**：YMTC 是華為 AI / 手機 / 雲端 NAND 結構性供應商、跟 [[SK Hynix]] HBM 對華為的關係 mirror image（國產替代 vs 國際採購）
 - **對 [[DeepSeek]] / 國產 AI 模型訓練 server**：YMTC NAND 是國產替代 enterprise SSD 唯一頭部選項
-- **對 [[宋分備忘錄 #1 — CSP-AI 通縮]]**：中國 CSP（阿里 / 騰訊 / 字節）NAND 國產替代 = YMTC 結構性受惠軌、跟美 CSP 完全脫鉤
+- **對 [[宋分備忘錄 ＃1 — CSP-AI 通縮]]**：中國 CSP（阿里 / 騰訊 / 字節）NAND 國產替代 = YMTC 結構性受惠軌、跟美 CSP 完全脫鉤
 
 ## 五軸評分（25 分制）
 
@@ -191,7 +192,7 @@ confidence: medium
 - [[DeepSeek]]：YMTC NAND 是 DeepSeek / 國產 AI 訓練 server enterprise SSD 唯一頭部選項
 - [[SanDisk]]：mirror image（美 NAND pure-play vs 中 NAND pure-play）、政治護城河相互強化
 - [[Kioxia]]：vs 美日 NAND 同盟（BiCS）/ 中國 Xtacking 雙軌
-- [[宋分備忘錄 #1 — CSP-AI 通縮]]：中國 CSP NAND 國產替代 = YMTC 隔離受惠軌
+- [[宋分備忘錄 ＃1 — CSP-AI 通縮]]：中國 CSP NAND 國產替代 = YMTC 隔離受惠軌
 - [[市場四階段：懷疑／驗證／共識／反轉]]：「懷疑 → 驗證」過渡期（Xtacking 4.0 超預期 closing gap）
 - [[公司 Entity 模板（Step 1-3 三段式）]]：本 entity 完整套用三段式
 
@@ -203,7 +204,7 @@ confidence: medium
 - [[華為]]
 - [[DeepSeek]]
 - [[SanDisk]]、[[Kioxia]]、[[Micron]]、[[Samsung Electronics]]、[[SK Hynix]]、[[Solidigm]]
-- [[宋分備忘錄 #1 — CSP-AI 通縮]]
+- [[宋分備忘錄 ＃1 — CSP-AI 通縮]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 
 ## Sources

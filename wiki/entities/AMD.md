@@ -3,12 +3,15 @@ title: AMD
 aliases: [AMD, Advanced Micro Devices]
 type: entity
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-01-15
 updated: 2026-06-09
 sources:
   - raw/美股送分題-notes-市場解碼與估值筆記-2026-02至04.md
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
 tags: [標的, 美股, AI, 半導體, GPU, CPU, EPYC, 伺服器 CPU, Meta, 2030 市場翻倍]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AMD

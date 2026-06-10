@@ -3,11 +3,14 @@ title: AI 訂閱制 unit economics
 aliases: [AI 訂閱制, AI SaaS 訂閱, AI Copilot 真相]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-02-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_微軟每月收你30美元用Copilot——但條款寫著僅供娛樂.md
 tags: [SaaS, 訂閱制, AI, 商業模式, unit economics, Copilot]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 訂閱制 unit economics
@@ -43,7 +46,7 @@ confidence: high
 
 ## 對 SaaS 估值的根本衝擊
 
-→ 連 [[PE 壓縮公式]]、[[宋分備忘錄 #6 — 市場世界觀切換]]
+→ 連 [[PE 壓縮公式]]、[[宋分備忘錄 ＃6 — 市場世界觀切換]]
 
 - SaaS 倍數本來是 **40-60x PE**（高毛利 + 訂閱穩定）
 - AI SaaS 若毛利 < 40% + NPS 為負 + 滲透卡住
@@ -63,7 +66,7 @@ confidence: high
 - [[模型商品化]]：DeepSeek 壓低推論成本是雙刃劍
 - [[Forward PE 估值法]]：SaaS 倍數定價的根本前提
 - [[PE 壓縮公式]]：r 上升 + g 下降 → PE 雙重壓縮
-- [[宋分備忘錄 #6 — 市場世界觀切換]]：機構在追問「現金流是否變穩定」
+- [[宋分備忘錄 ＃6 — 市場世界觀切換]]：機構在追問「現金流是否變穩定」
 
 ## 待 ingest 延伸
 

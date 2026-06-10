@@ -5,9 +5,10 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-09-15
 sources: []
 tags: [標的, 後段檢測, AOI, 先進封裝, 半導體檢測, 賣水人, 以色列]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

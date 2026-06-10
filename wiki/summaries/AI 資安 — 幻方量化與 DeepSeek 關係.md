@@ -3,11 +3,14 @@ title: AI 資安 — 幻方量化與 DeepSeek 關係
 aliases: [幻方量化, High-Flyer, DeepSeek 商業模式, 開源作為武器]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-10-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_幻方量化-deepseek關係.md
 tags: [DeepSeek, 幻方量化, 中國 AI, 開源策略, 商業模式, 競爭結構]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 資安 — 幻方量化與 DeepSeek 關係

@@ -3,11 +3,14 @@ title: 宋分 Notes 合輯 — 市場解碼與估值筆記
 aliases: [宋分 Notes, 市場解碼, 估值筆記]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-11-15
 updated: 2026-06-04
 sources:
   - raw/美股送分題-notes-市場解碼與估值筆記-2026-02至04.md
 tags: [宋分, Substack Notes, 估值, Forward PE, DCF, PEG, 個股]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 宋分 Substack Notes 合輯（2026-02 至 03）

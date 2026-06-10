@@ -3,11 +3,14 @@ title: 宋分 note — TXN +19% re-rate 三段論
 aliases: [宋分 TXN re-rate, TXN +19%, 產業透鏡 #5]
 type: summary
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2027-01-15
 updated: 2026-06-09
 sources:
   - raw/美股送分題-note-TXN-19漲-re-rate-2026-04-24.md
 tags: [宋分, note, TXN, Re-rate, 類比晶片, 三段估值]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 宋分 note — TXN +19% 是利多反應還是 re-rate 開始？
@@ -48,7 +51,7 @@ confidence: high
 
 ## 與 wiki 既有 thesis 的對接
 
-- [[宋分 #13 — 類比晶片結構性重估]]：TXN 是該 thesis 的核心標的
+- [[宋分 ＃13 — 類比晶片結構性重估]]：TXN 是該 thesis 的核心標的
 - [[Re-rate 捕捉法]]：補入「三段估值 framework」
 - [[預期差]]：預期 price in、earnings 未驗證 = 標準預期差結構
 - [[Texas Instruments TXN]] entity Step 3 需補入：「2026-04 +19% 移位（階段 3 → 階段 1）+ AI / 資料中心 60%/90% 成長 + 公平 PE 上限 35-38x」
@@ -56,7 +59,7 @@ confidence: high
 ## 相關連結
 
 - [[宋分（美股送分題）]]
-- [[宋分 #13 — 類比晶片結構性重估]]
+- [[宋分 ＃13 — 類比晶片結構性重估]]
 - [[Re-rate 捕捉法]]
 - [[預期差]]
 - [[Texas Instruments TXN]]

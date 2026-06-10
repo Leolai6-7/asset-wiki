@@ -3,11 +3,14 @@ title: AI 資安 — Claude 4000 美元找到 22 個 Firefox 漏洞
 aliases: [Claude Firefox 漏洞, AI 找漏洞, 安全審計經濟學]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-12-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_Claude花4000美元找到22個Firefox漏洞——但這不是你該興奮的原因.md
 tags: [AI 資安, Anthropic, Claude, Mozilla, Firefox, 安全審計, AppSec]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 資安 — Claude 4000 美元找到 22 個 Firefox 漏洞

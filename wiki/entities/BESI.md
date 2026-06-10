@@ -5,9 +5,10 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-12-15
 sources: []
 tags: [標的, 後段封裝設備, Hybrid Bonding, AI 半導體, 賣水人, 荷蘭]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

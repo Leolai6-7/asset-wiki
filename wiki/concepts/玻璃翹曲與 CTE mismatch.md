@@ -3,12 +3,14 @@ title: 玻璃翹曲與 CTE mismatch
 aliases: [玻璃翹曲, CTE mismatch, Warpage, 熱膨脹差異]
 type: concept
 created: 2026-06-05
+as_of: 2026-06-05
 updated: 2026-06-05
-check_after: 2026-12-05
+check_after: 2027-01-15
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [TGV, 玻璃基板, 翹曲, CTE, RDL, 熱壓合, 良率]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 玻璃翹曲與 CTE mismatch

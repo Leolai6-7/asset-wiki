@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
   - raw/2026-05-16_FOMOSOC-KP42-Cerebras上市WSE-3對NVDA啟示.md
 tags: [標的, 美股, neocloud, AI 雲端, GPU 雲, NVDA 戰略客戶, NVDA 投資, 循環投資, 1.6T 光模組, CapEx 三階段, 高槓桿利潤率陷阱, Q2 miss]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # CoreWeave（CRWV）

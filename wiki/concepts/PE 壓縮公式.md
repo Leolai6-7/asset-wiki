@@ -3,11 +3,14 @@ title: PE 壓縮公式
 aliases: [PE 公式, PE Compression, Gordon Growth]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-12-15
 updated: 2026-06-04
 sources:
   - raw/美股送分題-notes-市場解碼與估值筆記-2026-02至04.md
 tags: [估值, PE, 折現率, 成長率, 利率]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # PE 壓縮公式

@@ -27,32 +27,32 @@
 
 #### 教學系列補（5 篇）
 
-1. **[[宋分 #29 — AMD CPU AI 戰場與過度定價邊界]]**（2026-05-05、deep dive）
+1. **[[宋分 ＃29 — AMD CPU AI 戰場與過度定價邊界]]**（2026-05-05、deep dive）
    - 結構性重估三要素（定價權 + CPU/GPU 1:8→1:2 + TAM 30x 暴增）
    - PE 區間校準（20-30x 合理 / 30-40x stretched / 40-50x 過度定價）
    - 過熱警訊三條件 = 分析師判斷「邊界」工具
    - AMD 2026 EPS 6+、2027 11-13、資料中心 37%→52%
    - confidence: high
    - 跨庫對接：可連 llm-wiki [[AMD]] 對照
-   - 連 [[宋分 #13 — 類比晶片結構性重估]] + [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
+   - 連 [[宋分 ＃13 — 類比晶片結構性重估]] + [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
 
-2. **[[宋分 #30 — 連續上修 EPS 與市場三階段]]**（2026-05-09、教學）
+2. **[[宋分 ＃30 — 連續上修 EPS 與市場三階段]]**（2026-05-09、教學）
    - 三個連續上修指標（需求 RPO + 定價權 + 公司不給上限）
    - 市場三階段（想像力 → 驗證 → 確定性）
    - 機構交易「邊際變化」vs 散戶交易「絕對好壞」核心反差
    - 分批 + 季度驗證 + 接受「永遠不買在最低」三步驟風險管理
    - confidence: high
-   - 連 [[宋分 #18 — 強勢股在下跌中發現]] + [[宋分 #05 — 散戶買在起漲點]] + [[預期差]]
+   - 連 [[宋分 ＃18 — 強勢股在下跌中發現]] + [[宋分 ＃05 — 散戶買在起漲點]] + [[預期差]]
 
-3. **[[宋分 #31 — 分析師底層系統 #3（資產負債表 NVDA $390 校準）]]**（2026-05-29、教學）
+3. **[[宋分 ＃31 — 分析師底層系統 ＃3（資產負債表 NVDA $390 校準）]]**（2026-05-29、教學）
    - **系列教學第三篇、完成「分析師底層系統」三部曲**（#17 10-K + #23 營業槓桿 + #31 資產負債表）
    - 五大關鍵指標（CFO + 融資 + 應收帳款 + 庫存結構 + 長期負債）
    - 「做不完 vs 賣不掉」庫存判斷分水嶺
    - NVDA $390 時點全綠校準（合約負債 50%、利息保障 528x、股東權益 838B → 1,954B）= **真正大成長循環、非泡沫**
    - confidence: high
-   - 連 [[10-K 閱讀法（分析師底層 #1）]] + [[五層損益表（營業槓桿）]] + [[NVDA]] entity Step 3
+   - 連 [[10-K 閱讀法（分析師底層 ＃1）]] + [[五層損益表（營業槓桿）]] + [[NVDA]] entity Step 3
 
-4. **[[宋分 #32 — 左側 vs 右側交易與 AI 行情]]**（2026-06-06、價值投資反思）
+4. **[[宋分 ＃32 — 左側 vs 右側交易與 AI 行情]]**（2026-06-06、價值投資反思）
    - 左側「價格錯了」vs 右側「價值變了」核心對照
    - AI 行情下左側框架失效（市場不斷重新計算價值 100→200→300）
    - 機構「試單→驗證→確認→趨勢延續」套路
@@ -60,18 +60,18 @@
    - confidence: high
    - 配對 #33 安全邊際被誤解 = 價值投資反思雙篇
 
-5. **[[宋分 #33 — 安全邊際被誤解]]**（2026-05-23、價值投資反思）
+5. **[[宋分 ＃33 — 安全邊際被誤解]]**（2026-05-23、價值投資反思）
    - 安全邊際 = **犯錯空間**（不是低 PE 或便宜股票）
    - 紀律 = 基本面改變時停損（不是機械式破線就出場）
    - 投資是**存活遊戲**不是預測遊戲
    - 機構優勢在部位管理 + 風險調整（不是內線）
    - 成熟配置 = 核心穩定 60-70% + 進攻 30-40%
    - confidence: high
-   - 連 [[宋分 #11 — 停損看錯]] + [[宋分 #21 — 反彈該不該上車]] + [[宋分 #14 — 相對低點判斷]]
+   - 連 [[宋分 ＃11 — 停損看錯]] + [[宋分 ＃21 — 反彈該不該上車]] + [[宋分 ＃14 — 相對低點判斷]]
 
 #### 備忘錄系列補（4 篇）
 
-6. **[[宋分備忘錄 #11 — 油價+AI+Robotaxi 改寫贏家]]**（2026-05-11、月度宏觀）⭐
+6. **[[宋分備忘錄 ＃11 — 油價+AI+Robotaxi 改寫贏家]]**（2026-05-11、月度宏觀）⭐
    - **本期最關鍵 anchor：Robotaxi 段**
    - 油價 $5/加侖需求破壞臨界（低收入族群衝擊 4x）
    - Walmart 平台化（零售→廣告+數據+物流 PE）
@@ -82,7 +82,7 @@
    - **跨庫對接 llm-wiki [[Tesla]] / [[Waymo]] / [[Robotaxi 競賽]]**
    - confidence: high
 
-7. **[[宋分備忘錄 #12 — AI 獲利擴散期 + 體驗經濟稀缺]]**（2026-05-18、月度宏觀）
+7. **[[宋分備忘錄 ＃12 — AI 獲利擴散期 + 體驗經濟稀缺]]**（2026-05-18、月度宏觀）
    - S&P 500 PE 壓縮 18% + EPS 跑贏股價 = **估值被壓縮、不是被推升**
    - 「AI 實際經濟」第二階段受惠（金融 + 工業 + 消費耐久財）
    - 金融白領最易切入（JPM / GS 隱含、HON / GE Vernova / Walmart / Costco 潛在受惠）
@@ -91,7 +91,7 @@
    - 新舊框架對比（FAANG 整齊 → M7 內部分化）
    - confidence: high
 
-8. **[[宋分備忘錄 #13 — Agentic Internet 入口革命 + UCP 控制權]]**（2026-05-25、月度宏觀）⭐
+8. **[[宋分備忘錄 ＃13 — Agentic Internet 入口革命 + UCP 控制權]]**（2026-05-25、月度宏觀）⭐
    - **核心 anchor：Google UCP（Universal Commerce Protocol）= 下一個 20 年的 chokepoint**
    - 「最常替用戶做決定的 AI」= 新入口
    - Agent 是新 iPhone 時刻（催生下一波 Uber / TikTok 等級 winner）
@@ -102,7 +102,7 @@
    - confidence: high
    - 跨庫對接 llm-wiki [[MCP 九千七百萬次安裝]] + [[OpenAI]] + [[Anthropic]]
 
-9. **[[宋分備忘錄 #14 — AI 成功速度不夠快 + 期待風險階段]]**（2026-06-08、月度宏觀、來源為 substack note c-272461220）⭐
+9. **[[宋分備忘錄 ＃14 — AI 成功速度不夠快 + 期待風險階段]]**（2026-06-08、月度宏觀、來源為 substack note c-272461220）⭐
    - **「市場最大風險不是 AI 失敗、是 AI 成功速度不夠快」**核心命題
    - S&P 8% 漲幅 vs EPS >15% 上修（估值被壓縮）
    - 高盛框架「**今日 AI 獲利多為價值轉移**」（NVDA / AVGO / Vertiv 先獲利、終端價值尚未反映）
@@ -158,7 +158,7 @@
 
 #### Note 短文（5 篇）
 
-1. **[[宋分 note — 備忘錄 #7 Follow-up QA（token 定價）]]**（2026-04-20、substack note c-246274443）
+1. **[[宋分 note — 備忘錄 ＃7 Follow-up QA（token 定價）]]**（2026-04-20、substack note c-246274443）
    - 核心：Token 會便宜、**「不可替代的 token」不會便宜**
    - AI compute = **區域型電力市場**而非全球商品市場
    - Revenue re-rate 靠 per-token → per-task → subscription package 升級
@@ -166,31 +166,31 @@
    - **Workflow lock-in = 估值溢價最深源頭**
    - 對接 [[AI 利潤奇點（Token 經濟學拐點）]] follow-up + [[AI 訂閱制 unit economics]] 升級 + [[控制點轉移（投資版）]] 新控制點
 
-2. **[[宋分 note — 市場解碼 #19 ROIC × Organic Growth]]**（2026-04-22、substack note c-248302019）
+2. **[[宋分 note — 市場解碼 ＃19 ROIC × Organic Growth]]**（2026-04-22、substack note c-248302019）
    - 核心：市場不是找**成長最快**的、是找**成長可以複利**的
    - 三角條件：ROIC 上升（資本效率）+ Organic Growth 持續（再投資空間）+ **兩者同時** = re-rate 觸發
    - 單靠任一條件都不夠
    - Amazon 案例：低毛利電商養高毛利 AWS
    - 補完 [[Re-rate 捕捉法]]「ROIC × Organic Growth 雙條件」段
-   - 跟 [[宋分 #19 — Amazon 資本週期與衛星 re-rate]] 為方法論精煉版 / 深度展開版的搭配
+   - 跟 [[宋分 ＃19 — Amazon 資本週期與衛星 re-rate]] 為方法論精煉版 / 深度展開版的搭配
 
 3. **[[宋分 note — TXN +19% re-rate 三段論]]**（2026-04-24、substack note c-247316352）
    - 核心：**新高 PE ≠ re-rate 結束**
    - 三段估值 framework：階段 1（敘事建立 PE 擴張）/ 階段 2（基本面追上 股價盤整）/ 階段 3（成長減速 PE 壓縮）
    - TXN：階段 3 → 階段 1 移位、資料中心 +60% YoY / +90% QoQ、2026 PE 36x vs 歷史 25x
    - **敘事與基本面的時間差 = alpha 來源**
-   - 對接 [[宋分 #13 — 類比晶片結構性重估]] + [[Re-rate 捕捉法]] + [[Texas Instruments TXN]] Step 3 待補入
+   - 對接 [[宋分 ＃13 — 類比晶片結構性重估]] + [[Re-rate 捕捉法]] + [[Texas Instruments TXN]] Step 3 待補入
 
-4. **[[宋分 note — 市場解碼 #20 看不賺錢卻變大牛股]]**（2026-04-29、substack note c-250975884）
+4. **[[宋分 note — 市場解碼 ＃20 看不賺錢卻變大牛股]]**（2026-04-29、substack note c-250975884）
    - 核心：**會計上的「利潤」≠ 真正的價值創造能力**
    - 案例：Amazon 物流 / Prime / 早期 AWS / Netflix 內容庫 / Microsoft license→subscription 都費用化但建護城河 vs WeWork 真燒錢失敗
    - 三條評估準則（防禦性 + 現金流可預測性 + 規模效率）+ 6 題 checklist
    - **Forward PE 看起來貴 ≠ 真的貴**——若大部分「貴」來自費用化策略投資
-   - 對接 [[宋分 #19 — Amazon 資本週期與衛星 re-rate]] + [[Re-rate 捕捉法]] + [[Forward PE 估值法]] 補入「策略投資 adjusted PE」
+   - 對接 [[宋分 ＃19 — Amazon 資本週期與衛星 re-rate]] + [[Re-rate 捕捉法]] + [[Forward PE 估值法]] 補入「策略投資 adjusted PE」
 
 #### Deep dive（4 篇）
 
-5. **[[宋分 #19 — Amazon 資本週期與衛星 re-rate]]**（2026-04-21、/p/amazonamazonre-rate）
+5. **[[宋分 ＃19 — Amazon 資本週期與衛星 re-rate]]**（2026-04-21、/p/amazonamazonre-rate）
    - 核心：Amazon 不是成長股、是**資本週期股**
    - 三段資本週期（電商物流 → AWS 高毛利 → AI + 衛星基礎建設）
    - 會計策略隱藏護城河（費用化的策略投資）
@@ -200,14 +200,14 @@
    - 追蹤指標四件套（單位成長 vs 配送成本比 + 第三方服務費 + backlog YoY + 營益率觸底）
    - 對接 [[AMZN]] 待補「衛星 + 廣告 Prime margin engine」+ [[Re-rate 捕捉法]] + [[FCF 拐點]] + [[控制點轉移（投資版）]]
 
-6. **[[宋分 #34 — 怎麼知道 price in 了沒有]]**（2026-04-26、/p/price-in；**原 wiki #24，因 substack 教學系列 #24 已被 漲回來時三個錯 佔用、rename 為 #34，aliases 含舊名**）
+6. **[[宋分 ＃34 — 怎麼知道 price in 了沒有]]**（2026-04-26、/p/price-in；**原 wiki #24，因 substack 教學系列 #24 已被 漲回來時三個錯 佔用、rename 為 #34，aliases 含舊名**）
    - 核心：市場運作「**預期 → 驗證 → 定價**」三階段
    - 散戶最容易犯的錯：用「一天波動」判斷「長期結構」
    - 判斷 price in 的四件事（共識預期 + 股價走法 + 法說會反應 + 異常成交量/隱含波動率）
    - 資金行情中**機構反而更保守** = 資金行情前段 → 中後段的轉折訊號
    - 補完 [[預期差]]「實戰判斷 price in 四件事」+ [[市場四階段：懷疑／驗證／共識／反轉]] + [[散戶 vs 機構買股差異]]
 
-7. **[[宋分備忘錄 #8 — 初期牛市結構（邊漲邊懷疑）]]**（2026-04-27、/p/8）
+7. **[[宋分備忘錄 ＃8 — 初期牛市結構（邊漲邊懷疑）]]**（2026-04-27、/p/8）
    - 核心：**創新高 ≠ 過熱，邊漲邊懷疑 = 初期牛市典型**
    - 經濟動能從「政府政策驅動」轉向「**企業自發投資 + 生產力**」
    - 實體 CapEx 週期 > 金融週期更持久
@@ -216,14 +216,14 @@
    - 財報驗證三件事（營收變動率加速 + 訂單積壓增長 + AI 收入明確量化）= 初期 → 中期牛市拐點
    - 對應 [[市場四階段：懷疑／驗證／共識／反轉]] 驗證階段 + [[CapEx 見頂辯論]] 正面論證
 
-8. **[[宋分 #35 — 資金行情下一步（避免裸泳）]]**（2026-05-02、/p/465；**原 wiki #25，因 substack 教學系列 #25 已被 機構獲利了結節奏 佔用、rename 為 #35，aliases 含舊名**）
+8. **[[宋分 ＃35 — 資金行情下一步（避免裸泳）]]**（2026-05-02、/p/465；**原 wiki #25，因 substack 教學系列 #25 已被 機構獲利了結節奏 佔用、rename 為 #35，aliases 含舊名**）
    - 核心：**資金行情 ≠ 基本面行情**
    - 過熱訊號四件事（估值脫離現實 + 敘事無法被反駁 + 邊際資金變弱 + **對壞消息失去反應 = 頂訊號**）
    - 資金行情 → 分化行情（強勢股續漲、弱勢股續跌）
    - 操作建議：提高持股標準 + 砍無優勢部位 + 接納「賺得少但活得久」
    - 與 #8（備忘錄）並列：**雙視角**（牛市仍在初期 + 資金行情末段該怎麼換檔）
 
-9. **[[宋分備忘錄 #9 — 確定性分化（不是全面牛市）]]**（2026-05-04、/p/9ai）
+9. **[[宋分備忘錄 ＃9 — 確定性分化（不是全面牛市）]]**（2026-05-04、/p/9ai）
    - 核心：**這不是全面牛市，是確定性分化**
    - Apple「重新分配定價權」GM 49.3% 通膨下仍 expand = pricing power 範本
    - Microsoft GitHub Copilot 從 seats → **seats + usage** = SaaS pricing 範式革命
@@ -272,23 +272,23 @@ Leo 提供 9 個宋分 substack URL，要求 fetch + 跟既有 wiki/summaries/ �
 
 #### 補建內容（3 篇 summary + 3 篇 raw）
 
-1. **[[宋分 #24 — 漲回來時三個錯]]** confidence: high
+1. **[[宋分 ＃24 — 漲回來時三個錯]]** confidence: high
    - 反彈三個基本錯誤（理想價對抗 + 情緒性加碼 + 追補損失）
    - 三階段建倉框架（試水位 → 確認 → 趨勢延伸）
-   - 跟 [[宋分 #21 — 反彈該不該上車]] 互補（進不進 vs 進後怎麼坐穩）
+   - 跟 [[宋分 ＃21 — 反彈該不該上車]] 互補（進不進 vs 進後怎麼坐穩）
 
-2. **[[宋分 #25 — 機構獲利了結節奏]]** confidence: high
+2. **[[宋分 ＃25 — 機構獲利了結節奏]]** confidence: high
    - 機構三階段獲利了結（10-20% / 20-40% / 大幅減）
    - 跟 #24 進出對稱（建倉三階段 vs 出貨三階段）
    - 散戶賣贏留輸 = 組合 momentum 被削；機構幾乎不在恐慌中決定賣
 
-3. **[[宋分備忘錄 #7 — CSP Token 定價權]]** confidence: high
+3. **[[宋分備忘錄 ＃7 — CSP Token 定價權]]** confidence: high
    - CSP 真正拐點 = Token 定價權（不是 AI 能力）
    - 企業 $1 Token vs $55 人工 = 50x 價值差 = 定價權來源
    - Blackwell/Rubin 推論效率 +30x + Agentic 用量 10x = 營收非線性
    - MS CIO 調查 39% 把 AI 列最高優先、2026 年底正式上線
    - 跟 [[AI 利潤奇點（Token 經濟學拐點）]] 同陣營反向證明
-   - 跟 [[宋分備忘錄 #1 — CSP-AI 通縮]] 完整反轉（恐慌期資本黑洞 → 反向定價落地的 Token 收費機）
+   - 跟 [[宋分備忘錄 ＃1 — CSP-AI 通縮]] 完整反轉（恐慌期資本黑洞 → 反向定價落地的 Token 收費機）
 
 #### Surprising finding
 
@@ -1635,7 +1635,7 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
     - 傳統 DRAM / NAND = PB 估值法（[[PB 估值法（記憶體週期）]] 仍適用）
     - 切換 trigger：HBM 占比 > 40% + ASP YoY > 30% → 切到結構性短缺框架
     - 退場 trigger：HBM ASP 連續兩季 QoQ 負成長 → 退回 PB 框架
-    - 校準 [[宋分備忘錄 #1 — CSP-AI 通縮]]「2028 預付訂單」: 現實已 over-shoot 到 2030 multi-year design-in（OpenAI Stargate 900K wafer/月 LOI + Micron 5 年合約 + SK Group Chey 2030 預警）
+    - 校準 [[宋分備忘錄 ＃1 — CSP-AI 通縮]]「2028 預付訂單」: 現實已 over-shoot 到 2030 multi-year design-in（OpenAI Stargate 900K wafer/月 LOI + Micron 5 年合約 + SK Group Chey 2030 預警）
   - 風險完整評估（thesis 失效情境）：
     1. 模型效率躍進（DeepSeek 2.0、MLA + MoE）→ 但 [[Jevons Paradox（投資版）]] 反向
     2. AI 需求結構性放緩（CSP CapEx 物理上限、Micron Idaho fab 2027/2028 first-mover oversupply 是 bear case 時間錨）
@@ -2029,7 +2029,7 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
 
 → **VST 五軸最高（客戶分散 + 估值最佳）、CEG/GEV 並列 22 分**
 
-### 跟 [[宋分 #20 — 能源結構性剛需]] thesis 校準（codex 校準必返回）
+### 跟 [[宋分 ＃20 — 能源結構性剛需]] thesis 校準（codex 校準必返回）
 
 **三標準全滿**：
 
@@ -2055,8 +2055,8 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
 
 - [[AI infra CapEx 三階段論]]：電力戰場是第三階段下半場 anchor、是「物理瓶頸」最強證據
 - [[賣水人選股邏輯（投資版）]]：電力戰場 = 「賣水人之中的賣水人」最高純度版本（不押 AI 誰贏、所有 hyperscaler 都需要 24/7 carbon-free baseload）
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：電力戰場 = 「被遺忘 AI 受惠者」放大版（vs 宋分原文點名 TXN/ADI 類比 IC）
-- [[宋分 #20 — 能源結構性剛需]]：三標準全滿、最完整結構性重估個案
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：電力戰場 = 「被遺忘 AI 受惠者」放大版（vs 宋分原文點名 TXN/ADI 類比 IC）
+- [[宋分 ＃20 — 能源結構性剛需]]：三標準全滿、最完整結構性重估個案
 - [[效率→安全切換]]：電力戰場 = AI 公司「要 24/7 不斷算力」的安全代價、不再追求 cheapest spot price
 - [[信昌電]]：機櫃內 PSU MLCC（第三層）配套 CEG/VST 的電力供給（第一層）+ GEV 的變壓器（第二層）= **三戰場垂直 stack**
 - [[控制點轉移（投資版）]]：NVDA 800V HVDC 把控制點從晶片推到電網、CEG/VST/GEV 在第一第二層拿控制點
@@ -2391,7 +2391,7 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
   - 新建 **concept [[800V HVDC 灰白區重劃（物理鐵壁論）]]**（三條 anchor：物理鐵壁 + 自來水隱喻 + 灰白區重劃；5 站完整圖譜；受惠鏈按灰白區排序；監控指標 5 條）
   - 新建 3 entity（**白區末端電源 IC** 之前缺位）：
     - **[[Infineon]] 22/25**（路線 5 + 站別 4 + 耗材 3 + IP 5 + 客戶分散 5）— GaN+SiC 雙料 + 跨汽車工業 AI 三軸最分散、8" SiC 量產領先 [[Wolfspeed]] 1-2 年
-    - **[[Texas Instruments TXN]] 20/25**（路線 3 + 站別 4 + 耗材 4 + IP 4 + 客戶分散 5）— 類比 IC 大宗 + 300mm analog fab 規模 + 跨產業最分散；對接 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]] 類比 IC「被遺忘的 AI 受惠者」放大版
+    - **[[Texas Instruments TXN]] 20/25**（路線 3 + 站別 4 + 耗材 4 + IP 4 + 客戶分散 5）— 類比 IC 大宗 + 300mm analog fab 規模 + 跨產業最分散；對接 [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]] 類比 IC「被遺忘的 AI 受惠者」放大版
     - **[[Vicor]] 19/25**（路線 4 + 站別 5 + 耗材 2 + IP 5 + 客戶分散 3）— Factorized Power Architecture 持有人、48V→core PoL 龍頭；架構雙刃劍：800V→48V 中間態受惠 / 800V 直連 chip 普及則被擠壓
 - 連動更新：
   - [[賣水人選股邏輯（投資版）]] master 表新增「800V HVDC 白區晶片級電源 IC（第五戰場補位）」段（含 3 家五軸 + 整鏈五站完整賣水人池 + 物理鐵壁論一句話）
@@ -2464,7 +2464,7 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
       - 供應層：跟 [[高力 8996|高力]] hot box + BPHE 雙心臟共生（高力 SOFC 業務佔 ~40%）+ 跟 [[Oracle]] Stargate $500B 計畫 firm power 後勤
     - 五軸 **19/25**（路線 5 + 站別 4 + 耗材 3 + IP 4 + 客戶分散 3）= 跟 Talen 19 / Navitas 19 / Vicor 19 同分 pure-play alpha tier
     - 財務 snapshot：市值 ~$10-15B USD（Mid Cap）/ Forward PE 50-100x / 12M +200-400% / Re-rate 2-3/4 / FY 2026 營收 $34-38 億 USD（+25-30% YoY、上修自 $31-33 億）/ 非 GAAP 毛利率 ~34% / 2026 1GW → 2GW 翻倍 / 客戶 Oracle Stargate + Equinix + 評估中 hyperscaler
-    - 對應 [[宋分 #20 — 能源結構性剛需]] **三標準 2.5/3 滿足**（虧損 $4B+、2026 才首次接近 EBIT 正稍弱）
+    - 對應 [[宋分 ＃20 — 能源結構性剛需]] **三標準 2.5/3 滿足**（虧損 $4B+、2026 才首次接近 EBIT 正稍弱）
 
   - **[[Alfa Laval]]（STO: ALFA）新建 entity** — **全球 BPHE 規模龍頭 industrial 多元對照組**
     - 一句話：全球板式熱交換器 (BPHE) 規模龍頭 + 全球 BPHE >15% 市佔（vs 高力 5.1% 全球前五大 30x 規模差）+ 跨產業多元組合王 + 130 年瑞典老牌
@@ -2504,8 +2504,8 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
     - 整合戰略意義：Eaton 從「配電 turnkey」（既有 800V HVDC reference architecture + switchgear + UPS + PDU）升級為「**power + cooling 雙軌 turnkey**」= 直接挑戰 [[Vertiv]] 主場、NVDA Rubin cold plate / CDU 4 家認證之一
     - 對 Eaton AI infra 影響：AI infra exposure 翻倍、過去主透過 Electrical Americas、現在新增 cold plate + manifold + CDU 三鏈
     - 散熱戰場 OEM cold plate 賽道對手位變化：Eaton-Boyd（整合）/ Vertiv（Strategic Thermal Labs 併購後）/ 雙鴻 / 奇鋐 / CoolIT（純獨立）
-  - **最 surprising 一家**：**[[Bloom Energy]]** — 以為「燃料電池小眾故事」、實際是「**hyperscaler firm power 第四選擇 + Oracle Stargate $500B anchor + 跟高力 8996 hot box 共生**」三軸結構性 anchor、是「**[[宋分 #20 — 能源結構性剛需]] 三標準 2.5/3 滿足 + 5-10 分鐘部署 + 跳電網瓶頸唯一**」AI firm power 第四選擇 pure-play alpha
-  - **跟 [[宋分 #20 — 能源結構性剛需]] 校準**：
+  - **最 surprising 一家**：**[[Bloom Energy]]** — 以為「燃料電池小眾故事」、實際是「**hyperscaler firm power 第四選擇 + Oracle Stargate $500B anchor + 跟高力 8996 hot box 共生**」三軸結構性 anchor、是「**[[宋分 ＃20 — 能源結構性剛需]] 三標準 2.5/3 滿足 + 5-10 分鐘部署 + 跳電網瓶頸唯一**」AI firm power 第四選擇 pure-play alpha
+  - **跟 [[宋分 ＃20 — 能源結構性剛需]] 校準**：
     - Bloom Energy：三標準 2.5/3 滿足（虧損 $4B+ 是唯一弱項）
     - Alfa Laval：三標準 2/3 滿足（AI 純度低 <5% + 無 AI 暴衝 alpha 是主要弱項）
     - Eaton（含 Boyd 段）：三標準 3/3 全滿（既有電力戰場 anchor 校準 + Boyd 散熱補位翻倍）
@@ -2554,7 +2554,7 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
 - 任務背景：
   - 既建 [[AI 資安攻防成本曲線]] concept（thesis 角度切「攻防成本同時下降、總支出反而上升」）+ 既建 [[AI 資安 — 紅藍隊分離與商業模式]] summary（提到 CRWD / PANW / Wiz / Microsoft Defender / agentic SOC）+ 既建 [[AI 資安 — DeepSeek 資安風險調查]] / [[AI 資安 — Claude 4000 美元找到 22 個 Firefox 漏洞]] 補完 AI 資安賽道 thesis 層
   - 但 wiki 缺 AI 資安賽道**entity 層**——CRWD / PANW / NET / ZS / Wiz / SentinelOne / Okta / CyberArk / Snyk / Semgrep 都缺；既建 [[賣水人選股邏輯（投資版）]] master 表 line 60「資安：AI-SPM 賽道」只是文字提到、沒有結構化 entity
-  - 跟 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]「被遺忘的 AI 受惠者」放大版接軌——AI 資安市場 ~B（2030）+ CAGR 12-15% vs AI 半導體 ~$1T = 1/3 規模、相對被市場忽略
+  - 跟 [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]「被遺忘的 AI 受惠者」放大版接軌——AI 資安市場 ~B（2030）+ CAGR 12-15% vs AI 半導體 ~$1T = 1/3 規模、相對被市場忽略
   - 跨庫對接 llm-wiki：[[AI 資安研究]] / [[責任歸屬（AI Liability）]] / agentic SOC / [[AI 廣告 / 利益衝突]]（**AI 資安賽道無利益衝突 = 估值乾淨度勝 AI 廣告賽道**）
 
 - 3 家落地：
@@ -2598,7 +2598,7 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
   - **Wiz $32B 私募估值是 anchor**：2025-09 Google 全額收購（cash deal）= 雲端 CSPM 市場 anchor 估值、對 PANW Prisma Cloud / CRWD Falcon Cloud Security 業務有 SoP 折價空間隱含
   - **AI 攻防雙引擎 = 資安總支出結構性 ↑**：攻擊頻率倍增 × 防守覆蓋率倍增、ARR 結構性放大、跟 [[AI 資安攻防成本曲線]] thesis 一致
   - **agentic SOC 戰場 2026-2027 白熱化**：Charlotte AI vs Cortex XSIAM AI Copilot vs Microsoft Security Copilot 三方混戰、**PANW Cortex XSIAM first-mover 領先 6-12 個月**
-  - **被遺忘的 AI 受惠者**：AI 資安市場 ~$300B（2030）vs AI 半導體 ~$1T（2030）= **1/3 規模**、相對被市場忽略 = [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]「被遺忘 AI 受惠者」放大版
+  - **被遺忘的 AI 受惠者**：AI 資安市場 ~$300B（2030）vs AI 半導體 ~$1T（2030）= **1/3 規模**、相對被市場忽略 = [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]「被遺忘 AI 受惠者」放大版
   - **跟 llm-wiki 跨庫對接**：AI Liability / 幻覺風險 / agentic SOC / AI 廣告 / 利益衝突——**AI 資安賽道無利益衝突 = 估值乾淨度勝 AI 廣告賽道**
   - **2024-07 CrowdStrike 全球當機事件後 12-15 個月 recovery 完成**：客戶留存率 97%+ 不變 = 驗證「single agent + Threat Graph 規模 lock-in 太深、客戶無法 switch out」核心 thesis
   - **PANW Free Cash Flow Margin 35-40% 勝 CRWD 30-35%**：訂閱黏性 + 三平台 captive + estate buy-out 策略支撐
@@ -2646,7 +2646,7 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
 - 累計：**67 concept + 113 entity + 42 summary**（#C1 +1 concept [[EDA 三巨頭分食（Synopsys／Cadence／Siemens EDA）]] + 1 entity [[Cadence]] + 3 entity update [[Synopsys]] / [[Siemens]] / [[半導體基礎建設化]]）
 
 ### 2026-06-09 ingest #D1 — Apple Inc.（NASDAQ: AAPL）entity 補位（29 refs 最大孤兒、Edge AI infra anchor 22/25）
-- 觸發：Apple 是 wiki 29 refs 最大「無 entity 孤兒」、wiki 早已多處引用（[[鴻海 2317]] / [[廣達 2382]] / [[6 戰場交集圖譜]] / [[手機與邊緣晶片端 TGV-FOPLP watchlist]] / [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]] / [[Cadence]] / [[IBIDEN]] / [[TDK]] / [[Samsung Electro-Mechanics]] 等）但缺 entity 文章、本次補位
+- 觸發：Apple 是 wiki 29 refs 最大「無 entity 孤兒」、wiki 早已多處引用（[[鴻海 2317]] / [[廣達 2382]] / [[6 戰場交集圖譜]] / [[手機與邊緣晶片端 TGV-FOPLP watchlist]] / [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]] / [[Cadence]] / [[IBIDEN]] / [[TDK]] / [[Samsung Electro-Mechanics]] 等）但缺 entity 文章、本次補位
 - 新建 **[[Apple|Apple Inc.]]**（NASDAQ: AAPL）entity — **Edge AI infra 結構性 anchor + Apple Silicon fabless 設計商 + 終端品牌三軌 platform**：
   - 一句話定位：全球高端智慧型手機 + 智慧型手錶 #1 終端品牌 + Apple Silicon fabless 設計商 + Edge AI 部署 anchor 三軌結構性 platform
   - **雙身分定位**（重要、本 entity 的核心 framing）：(1) **AI 時代終端品牌**（iPhone / Mac / iPad / Vision Pro / Watch / Services）+ (2) **Apple Silicon fabless 設計商**（A 系列 iPhone / M 系列 Mac / U/R 系列 Vision Pro + Neural Engine）+ (3) **Edge AI 部署 anchor**（Apple Intelligence iOS 27 + Private Cloud Compute + 終端 LLM 部署典範）
@@ -2661,7 +2661,7 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
   - [[賣水人選股邏輯（投資版）]] master 表：新建第十四波「**Edge AI infra 結構性 anchor**」段（Apple 22/25 + 8 條關鍵發現）+ 「跟 wiki 既有概念連結」段補 Apple
   - [[6 戰場交集圖譜]] concept：(1) 跨 2 戰場段加 Apple row（Edge AI + Apple Silicon + Services）+ (2) 跨戰場矩陣總結加 Apple 9.5 名 66 分（跨深度）+ (3) 跨戰場 anchor 軌補 Apple + (4) 相關連結補 Apple
   - [[手機與邊緣晶片端 TGV-FOPLP watchlist]] concept：Apple Baltra 段補 entity wikilink（[[Apple|Apple Inc.]]）
-  - [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]] summary：補「Apple Intelligence + iPhone moment 對照」段（三軸 iPhone moment 並列：原 iPhone moment 2007 + HBM iPhone moment 2026 + Apple Intelligence iPhone moment 2025）+ 相關連結補 Apple
+  - [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]] summary：補「Apple Intelligence + iPhone moment 對照」段（三軸 iPhone moment 並列：原 iPhone moment 2007 + HBM iPhone moment 2026 + Apple Intelligence iPhone moment 2025）+ 相關連結補 Apple
   - [[鴻海 2317]] entity：(1) Apple Vision Pro 全部 → [[Apple|Apple Inc.]] Vision Pro wikilink（7 處替換）+ (2) 相關連結補 Apple（iPhone 70-80% 主代工 + Vision Pro 主代工 + Mac 部分代工 = Apple 30%+ 鴻海營收 anchor）
   - [[廣達 2382]] entity：相關連結補 Apple（Mac M-series 全系列主代工、NB 段重要客戶）
   - [[index.md]]：M7 / AI 半導體段補 [[Apple|Apple Inc.]] 條目（Edge AI infra 結構性 anchor + Apple Silicon fabless 設計商 + 終端品牌三軌 platform 22/25）
@@ -2673,7 +2673,7 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
   - **Apple Intelligence vs Cloud LLM 路線壓力**：Apple Intelligence 自研 LLM vs 整合 OpenAI / Anthropic / Gemini 多家、慢於 Google Pixel AI（2024-04）+ Samsung Galaxy AI（2024-01）約 12-18 個月、但「mass-market on-device LLM 部署典範 + Private Cloud Compute 隱私 differentiator」結構性護城河
   - **iPhone 集中度 50% 營收 + App Store 30% 抽成法律壓力（Epic / EU DMA）= 估值上限**：2026-2028 估減至 15-27% → Services 毛利率壓縮、估值上限打 8-9 折
   - **最 surprising 發現**：Apple **22/25** 跟 [[Eaton]] 22 / [[Schneider Electric]] 22 / [[Cadence]] 22 / [[Vertiv]] 22 **同分但角色不同**——Apple 是「**Edge AI 終端品牌**」、不純套用「賣水人」框架；以為「Apple 是消費電子品牌、估值上限被消費換機循環約束」、實際是「**Edge AI infra 結構性 anchor + Apple Silicon 自研全棧 + 全球 active devices ~2B+ + Services 75%+ 毛利 recurring**」四軸結構性 anchor、可進跨戰場 anchor 軌底倉 5-10% 配置
-- 累計：**67 concept + 114 entity + 42 summary**（#D1 +1 entity [[Apple|Apple Inc.]] + 5 entity / concept update [[賣水人選股邏輯（投資版）]] / [[6 戰場交集圖譜]] / [[手機與邊緣晶片端 TGV-FOPLP watchlist]] / [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]] / [[鴻海 2317]] / [[廣達 2382]]）
+- 累計：**67 concept + 114 entity + 42 summary**（#D1 +1 entity [[Apple|Apple Inc.]] + 5 entity / concept update [[賣水人選股邏輯（投資版）]] / [[6 戰場交集圖譜]] / [[手機與邊緣晶片端 TGV-FOPLP watchlist]] / [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]] / [[鴻海 2317]] / [[廣達 2382]]）
 
 ### 2026-06-09 ingest #D2 — ASML entity 補位（頂級真賣水人 #1 + wiki 唯一 25/25 + 14 refs 缺位）
 - 觸發：Leo 「補 ASML entity（頂級真賣水人 #1、14 refs 缺位、賣水人之中的賣水人核心 anchor）」+ D 系列 ingest 第二 dispatch
@@ -2757,7 +2757,7 @@ J3（11 entity）+ J2（4 concept）+ J1（2 entity）三 subagent 全部 stall�
   - 補強 1 concept：[[AI infra 電力戰場]]（LNG 第五選擇 firm power + 4 玩家 anchor + Sources 加 FOMO SOC #46 URL）
   - 更新 [[index.md]]（標的 M7 Apple 下方新增 Tesla / SpaceX + Anthropic / Microsoft / Google 補強段 + 新建「AI server 系統整合 + AI PC OEM Dell」段 + TGV 賽道下方新建「FOMO SOC KP 系列 #E1-#E4」段含 6 篇 summary）
 - 四篇主題核心 thesis：
-  - **#46 LNG**：美伊戰後五大不可逆（油價地板 $80-90 + Hormuz 保險 8x + Qatar -17% + 核能政治翻身 + 中東能源重組）+ Qatar Ras Laffan -17% + 2030 累積缺口 1,200 億立方公尺 + LNG 出口 = AI infra 電力戰場 firm power 第五選擇（Cheniere / Sempra LNG / Cameron LNG / Tellurian）+ 美國 LNG 從「價格接受者」變「價格制定者」+ 對接 [[宋分 #20 — 能源結構性剛需]] 三標準全滿 + [[Bottleneck Theory（瓶頸論）]] Hormuz chokepoint
+  - **#46 LNG**：美伊戰後五大不可逆（油價地板 $80-90 + Hormuz 保險 8x + Qatar -17% + 核能政治翻身 + 中東能源重組）+ Qatar Ras Laffan -17% + 2030 累積缺口 1,200 億立方公尺 + LNG 出口 = AI infra 電力戰場 firm power 第五選擇（Cheniere / Sempra LNG / Cameron LNG / Tellurian）+ 美國 LNG 從「價格接受者」變「價格制定者」+ 對接 [[宋分 ＃20 — 能源結構性剛需]] 三標準全滿 + [[Bottleneck Theory（瓶頸論）]] Hormuz chokepoint
   - **KP43**：SpaceX S-1 $1.5-2T 兆級估值「belief-dependent」（Trailing P/S 94-107x / Forward P/S 60-75x）+ Starlink 10.3M 用戶 164 國 + ARPU 衰退 $99 → $66 + Starship 完成後 cost down -90% + AI 部門 Colossus 1+2 + Anthropic 12 年 $1.5B/年雲合約 + Anthropic ARR 軌跡 2024 $1B → 2026-04 $30B（300% club）+ Q2 2026 首季獲利 $559M（毛利 71¢ → 56¢）= 從「capital burn」→「monetization」+ Cloudflare 三類員工框架（Builder / Seller / Measurer）+ AI-washing 警惕
   - **KP44**：五家敘事翻轉週報——(1) Tesla/SpaceX 合併 Dan Ives 80-90% vs 預測市場 40% + (2) Marvell 從 ASIC 第二名翻成「interconnect 寡占」光 DSP 60% + Celestial AI + XConn + Polariton 三併購 + (3) Snowflake AWS $60B 5 年合約變「企業 AI agent 可信執行環境」+ Graviton + GPU 雙軌 + (4) **Dell pull-through effect**：FY2026 Q1 AI server +757% YoY 單季 ~$16.1B + 總營收 +88% + OpEx/Revenue 8.4% 20 年低點 + 單日股價 +30% + (5) **Anthropic Series H $65B、估值 USD $965B 超越 OpenAI + $36B TPU 租賃融資 Apollo + Blackstone + Broadcom 擔保 + Micron + Samsung + SK Hynix 股權參與 source locking = 雙引擎融資 + 資本分層典範**
   - **KP45**：AI PC 五軌混戰（NVDA RTX Spark + Intel Xeon orchestration + Apple M-series + Qualcomm Snapdragon X + AMD Strix Halo）+ NVDA「**水電公司**」隱喻 + Microsoft Build 2026 棄爭模型皇冠定位「**協調者**」（Scout autopilot + Microsoft IQ + MXC sandbox）+ 定價轉變 per-seat SaaS → consumption-based agent compute + **Alphabet USD $84.75B 史上最大企業融資破 2010 Petrobras $70B 紀錄、2026 CapEx $180-190B 翻倍、Berkshire $10B anchor** + NVDA Vera Rubin NVL72 LPDDR5X 配置砍半揭示**三層記憶體架構**（HBM4 / LPDDR5X / NAND）+ Samsung / SK Hynix / Micron 全棧受惠

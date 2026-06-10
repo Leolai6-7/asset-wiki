@@ -11,6 +11,7 @@ sources:
   - raw/2026-06-09_FOMOSOC-800V-HVDC-灰白區重劃-物理鐵壁論.md
 evidence_url: https://www.infineon.com/cms/en/about-infineon/investor/
 tags: [標的, 功率半導體, GaN, SiC, 類比 IC, 800V HVDC, 汽車, 工業, AI server, 賣水人]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

@@ -5,9 +5,10 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 sources: []
 tags: [標的, AI 資安, SASE, SSE, ZTNA, Network 資安, 雲端原生資安, AI Gateway]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-04
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-11-15
 sources:
   - raw/2026-04-06_美國把Anthropic列為國安威脅——第一家被自己政府封殺的美國AI公司.md
   - raw/2026-04-06_Claude花4000美元找到22個Firefox漏洞——但這不是你該興奮的原因.md
@@ -14,7 +14,8 @@ sources:
   - raw/2026-05-23_FOMOSOC-KP43-SpaceX-IPO-Anthropic.md
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
 tags: [標的, AI, 模型公司, 對齊, MCP, 國安, IPO, FDE 戰略, Accenture 合作, Blackstone 合資, Series H, $965B, TPU 租賃, source locking, Q2 2026 首季獲利, SpaceX 12 年合約]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Anthropic

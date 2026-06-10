@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-01-15
 sources:
   - raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md
 tags: [標的, 韓國, 記憶體, HBM, DRAM, Foundry, 終端, 手機, foreign_competitor, AI]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Samsung Electronics（KRX: 005930 / 三星電子主公司）

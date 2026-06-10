@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（Cadence FY2025 Q1-Q3 法說 + BETA CAE Q4 2024 收購 + Hexagon 2025 D&E 收購 + AI agent for chip design / Spectre simulator / Tensilica DSP IP / EDA 全球市佔）
 evidence_url: https://www.cadence.com/en_US/home/company/investor-relations.html
 tags: [標的, 美股, NASDAQ, EDA, 半導體設計, AI 自動設計, Custom IC, analog, Spectre, Tensilica, DSP IP, system simulation, BETA CAE, Hexagon, 寡占, 跨產業, 賣水人之中的賣水人, foreign_competitor]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

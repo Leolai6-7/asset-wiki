@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 德股, 工業自動化, 變壓器, 燃氣輪機, AI infra 電力, 800V HVDC, Siemens Energy, Siemens Healthineers, Digital Industries, Siemens EDA, Mentor Graphics, EDA, PCB Xpedition, Calibre, conglomerate, foreign_competitor, Mega Cap]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Siemens（SIEGY / SIE.DE）
@@ -36,7 +37,7 @@ confidence: high
   - 用 NVIDIA AI 加速工廠設計 + 訓練 robot
   - Siemens 工業軟體 + NVDA AI = AI 工業時代的 AutoCAD
 - 對應 [[AI infra 電力戰場]]：**第二 + 第三層 anchor**（Siemens Energy 透過持股 + 本體 Smart Infrastructure 配電 + Digital Industries 軟體）
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿**：Siemens Energy 變壓器物理產能緊缺 + 持續 CapEx + backlog €130B+ 鎖死
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿**：Siemens Energy 變壓器物理產能緊缺 + 持續 CapEx + backlog €130B+ 鎖死
 
 ### 目的層
 
@@ -148,7 +149,7 @@ confidence: high
 - **Digital Industries Software 滲透率提升**（Teamcenter + Mendix + NX）
 - **Siemens Healthineers 潛在分拆**（sum-of-parts re-rating）
 - **歐洲 grid modernization** + **RePowerEU**
-- 對應 [[宋分 #20 — 能源結構性剛需]] 三標準全滿
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] 三標準全滿
 
 ### ⚠️ 風險
 
@@ -277,7 +278,7 @@ Teamcenter（PLM）+ NX（CAD）+ Mendix（low-code）+ Polarion（ALM）
 
 ⭐ **Siemens EDA 是 Siemens AG（本體）跟 ABB / Hitachi 的「額外差異化點」**——ABB / Hitachi 沒有 EDA 業務、Siemens 是唯一跨「工業軟體 + EDA + 工業數位孿生」三軸的歐洲 conglomerate
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | Siemens 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -331,8 +332,8 @@ Teamcenter（PLM）+ NX（CAD）+ Mendix（low-code）+ Polarion（ALM）
 - [[AI infra 電力戰場]]：本 entity 是**第二 + 第三層雙層 anchor**（透過 Siemens Energy 持股 + Smart Infrastructure）
 - [[賣水人選股邏輯（投資版）]]：Siemens = 電力 anchor + 工業軟體 + conglomerate 賣水人
 - [[控制點轉移（投資版）]]：拿到「Digital Industries + Smart Infrastructure + Siemens Energy + NVDA Omniverse」四段控制點
-- [[宋分 #20 — 能源結構性剛需]]：Siemens = 三標準全滿
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：Siemens = 跨界軟體 + 電力多元擴散
+- [[宋分 ＃20 — 能源結構性剛需]]：Siemens = 三標準全滿
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：Siemens = 跨界軟體 + 電力多元擴散
 - [[效率→安全切換]]：Siemens Energy HVDC + 變壓器 = 電網安全升級
 - [[AI infra CapEx 三階段論]]：Siemens 是第三階段下半場電力 + 工業軟體擴散
 - [[NVDA]]：Omniverse 工業 metaverse 合作（跨界 AI 工業軟體）
@@ -357,7 +358,7 @@ Teamcenter（PLM）+ NX（CAD）+ Mendix（low-code）+ Polarion（ALM）
 - [[Talen Energy]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[AI infra CapEx 三階段論]]
 - [[NVDA]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]

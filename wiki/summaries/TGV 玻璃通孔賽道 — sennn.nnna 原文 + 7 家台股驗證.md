@@ -3,10 +3,13 @@ title: TGV 玻璃通孔賽道 — sennn.nnna 原文 + 7 家台股驗證
 aliases: [TGV 賽道 summary, TGV 年度工事, TGV 七家台股]
 type: summary
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2026-09-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [TGV, 玻璃通孔, FOPLP, 半導體, 先進封裝, 台股, 賣水人, Intel, AMD, Broadcom, market_size_unverified]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 
@@ -121,7 +124,7 @@ subagent 帶出第三家「**萬潤**」不在原 7 家清單，**待補快篩 e
 | [[Re-rate 捕捉法]] | [[弘塑]] Re-rate 三角形 4/4 滿 |
 | [[市場四階段：懷疑／驗證／共識／反轉]] | TGV 從懷疑→驗證過渡 |
 | [[資訊擴散四階段]] | 仍在階段 1-2（機構/賣方），散戶未大規模進入 |
-| [[宋分備忘錄 #3 — AI 半導體受惠者擴散]] | TGV 是「被忘的 AI 受惠者」延伸 |
+| [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]] | TGV 是「被忘的 AI 受惠者」延伸 |
 
 ## 待補（subagent 提案）
 

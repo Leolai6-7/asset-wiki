@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 expires_on: 2027-12-31
 sources:
   - https://thecoolingreport.com/intel/nvidia-rubin-liquid-cooling-standard-not-optional
@@ -15,6 +15,7 @@ sources:
   - https://www.guru3d.com/story/rubin-ultra-gpu-to-use-advanced-microchannel-cooling-for-its-2300w-tdp/
   - https://news.futunn.com/en/post/62092203/new-direction-for-liquid-cooling-nvidia-requests-suppliers-to-develop
 tags: [Meta 框架, AI infra, 散熱, 液冷, CDU, cold plate, manifold, QD, NVDA Rubin, 800V HVDC, 第六戰場]
+thesis_dependency: none（可遷移方法）
 confidence: high
 ---
 

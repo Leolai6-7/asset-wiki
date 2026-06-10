@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2026-10-15
 expires_on: 2027-06-08
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 美股, 電力, 核電, 氣電, 再生能源, AI infra 電力, 800V HVDC, Meta, AWS, 20 年 PPA, Cogentrix, foreign_competitor, Mega Cap]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Vistra（VST）
@@ -33,7 +34,7 @@ confidence: high
 - 美國 ERCOT（德州）電力需求 2025-2030 預估 **+40-60% / 5 年**（AI + 電動車 + 工業回流）
   - VST 在 ERCOT 是最大私營發電商
 - 對應 [[AI infra 電力戰場]]：**第一層電力產生 #2 anchor**（核電 + 氣電 firm 雙引擎、跟 CEG 形成 dual anchor）
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿**：供給結構改變 + Cogentrix CapEx $4.7B + Meta 20 年 PPA 鎖死
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿**：供給結構改變 + Cogentrix CapEx $4.7B + Meta 20 年 PPA 鎖死
 
 ### 目的層
 
@@ -140,7 +141,7 @@ confidence: high
 - **Trump 政府支持化石燃料 + 核電** = 氣電 + 核電 PTC 紅利
 - **AI 算力 ramp** 2026-2030 = 新 PPA 持續簽約
 - 對抗 [[CapEx 見頂辯論]]：物理電網是真正的瓶頸
-- 對應 [[宋分 #20 — 能源結構性剛需]] 三標準全滿
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] 三標準全滿
 
 ### ⚠️ 風險
 
@@ -189,7 +190,7 @@ confidence: high
 
 → **直接 hyperscaler PPA 規模 = 美國 IPP 第二名**（vs CEG 5,650+ MW 第一、TLN 1.92GW 第三）
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 宋分 #20 **三標準全滿**：
 
@@ -246,8 +247,8 @@ confidence: high
 - [[AI infra 電力戰場]]：本 entity 是**第一層電力產生 #2 anchor**
 - [[賣水人選股邏輯（投資版）]]：VST = 電力 anchor + 地緣分散版
 - [[控制點轉移（投資版）]]：拿到「核電 + 氣電 + 零售 + 跨 ISO」四段控制點
-- [[宋分 #20 — 能源結構性剛需]]：VST = 三標準全滿
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：VST = 「被遺忘的 AI 受惠者」放大版
+- [[宋分 ＃20 — 能源結構性剛需]]：VST = 三標準全滿
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：VST = 「被遺忘的 AI 受惠者」放大版
 - [[效率→安全切換]]：VST 20 年 PPA = Meta + AWS 要 24/7 算力的安全代價
 - [[AI infra CapEx 三階段論]]：VST 是第三階段下半場電力 anchor #2
 - [[半導體基礎建設化]]：VST 走同一路徑（從週期股 → 結構性成長股）
@@ -264,8 +265,8 @@ confidence: high
 - [[信昌電]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]
+- [[宋分 ＃20 — 能源結構性剛需]]
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]
 - [[AI infra CapEx 三階段論]]
 - [[Meta]]、[[AMZN]]、[[Microsoft]]、[[Google]]
 - [[NVDA]]（Rubin 1MW 機櫃 trigger）

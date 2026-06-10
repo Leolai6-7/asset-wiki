@@ -3,11 +3,14 @@ title: 政府風險溢價（AI 公司）
 aliases: [政府風險溢價, AI 政治風險, Anthropic 國安, AI Sovereign Risk]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-01-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_美國把Anthropic列為國安威脅——第一家被自己政府封殺的美國AI公司.md
 tags: [政府風險, 折現率, 估值, Anthropic, 對齊稅, 國安]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # 政府風險溢價（AI 公司）

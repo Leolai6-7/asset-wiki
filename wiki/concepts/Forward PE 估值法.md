@@ -3,11 +3,14 @@ title: Forward PE 估值法
 aliases: [Forward PE, 預估本益比]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-11-15
 updated: 2026-06-04
 sources:
   - raw/美股送分題-notes-市場解碼與估值筆記-2026-02至04.md
 tags: [估值, PE, 基礎工具, Forward PE]
-confidence: high
+thesis_dependency: none（可遷移方法）
+confidence: medium
 ---
 
 # Forward PE 估值法

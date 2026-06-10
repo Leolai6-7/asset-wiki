@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 sources:
   - https://www.fit-foxconn.com/
   - https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sym=6088
   - https://www.honhai.com/en-us/about-us
 tags: [標的, 港股, 連接器, 互連, 鴻海集團, FIT, 高速 connector, CPO, NVDA NVLink, AI server, 賽道對手 Amphenol, ODM 內製整合]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

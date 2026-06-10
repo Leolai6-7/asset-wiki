@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-08
 updated: 2026-06-08
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2026-11-15
 sources:
   - WebSearch 2026-06-08（Q1 2026 earnings / CommScope CCS / valuation / GB200 backplane）
 tags: [標的, 美股, 連接器, 互連, 高速 backplane, AI 基礎建設, CPO 第6層, NVDA 供應鏈, 賣水人, 高估值]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Amphenol（APH）

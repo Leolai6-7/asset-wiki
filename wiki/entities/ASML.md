@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-11-15
 expires_on: 2027-06-09
 sources:
   - WebSearch 2026-06-09（ASML 2025 年報 + Q1 2026 法說 + EUV / High-NA EUV 0.55 NA 出貨進度 + Imec High-NA EUV pilot 合作 + 美中科技戰 EUV 對中出口禁令 2024-2026 timeline）
 evidence_url: https://www.asml.com/en/investors
 tags: [標的, 荷蘭, NASDAQ, AEX, 半導體設備, EUV, High-NA EUV, DUV, 微影設備, 真賣水, 賣水人之中的賣水人, Bottleneck Theory, 半導體基礎建設化, foreign_competitor]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

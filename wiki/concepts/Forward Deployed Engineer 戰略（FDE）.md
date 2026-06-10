@@ -5,12 +5,13 @@ type: concept
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-05-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 expires_on: 2028-05-09
 sources:
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
 evidence_url: https://www.fomosoc.com/p/aicpuanthropic-oaiai-kp41
 tags: [FDE, Forward Deployed Engineer, Palantir, Anthropic, OpenAI, Accenture, 試點煉獄, 企業 AI 採用, AI 服務化, AI 應用層 chokepoint, vertical solution]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

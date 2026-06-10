@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-05
 updated: 2026-06-05
 as_of: 2026-06-05
-check_after: 2026-12-05
+check_after: 2027-01-15
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 日股, MLCC, 嵌入式 MLCC, ECP, 被動元件, foreign_competitor, AI 伺服器, 日本三巨頭]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 太陽誘電 Taiyo Yuden（6976.JP）

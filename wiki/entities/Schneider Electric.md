@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-02-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
 tags: [標的, 法國, 電力管理, UPS, PDU, 配電, EcoStruxure, AI infra 電力, 800V HVDC, NVDA 共同制定, 整合平台, Mega Cap, 軟體]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Schneider Electric（SBGSY / SU.PA）
@@ -35,7 +36,7 @@ confidence: high
   - data center power 全球年 ~$30B、預估 2030 年 ~$70B
   - SU APC + Eaton 兩家全球 ~40-50% 合計市占
 - 對應 [[AI infra 電力戰場]]：**第三層電力分配 #2 anchor（整合平台 + 軟體深）**
-- 對應 [[宋分 #20 — 能源結構性剛需]]**三標準全滿**：800V HVDC 結構改變 + 持續 CapEx + backlog €26B 鎖死
+- 對應 [[宋分 ＃20 — 能源結構性剛需]]**三標準全滿**：800V HVDC 結構改變 + 持續 CapEx + backlog €26B 鎖死
 
 ### 目的層
 
@@ -141,7 +142,7 @@ confidence: high
 - **Industrial Automation AI 整合方案** cross-sell
 - **歐洲 grid modernization** CapEx
 - 對抗 [[CapEx 見頂辯論]]：data center 電力 turnkey 是物理瓶頸
-- 對應 [[宋分 #20 — 能源結構性剛需]] 三標準全滿
+- 對應 [[宋分 ＃20 — 能源結構性剛需]] 三標準全滿
 
 ### ⚠️ 風險
 
@@ -229,7 +230,7 @@ EcoStruxure 三層架構：
 
 → **SU 是「為什麼必須 800V」narrative 定義者 = thought leadership**
 
-## ⭐ 跟 [[宋分 #20 — 能源結構性剛需]] 校準
+## ⭐ 跟 [[宋分 ＃20 — 能源結構性剛需]] 校準
 
 | 條件 | SU 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -282,8 +283,8 @@ EcoStruxure 三層架構：
 - [[AI infra 電力戰場]]：本 entity 是**第三層電力分配 #2 anchor**
 - [[賣水人選股邏輯（投資版）]]：SU = 電力 anchor + 整合平台 + 軟體深賣水人
 - [[控制點轉移（投資版）]]：拿到「EcoStruxure + APC UPS + 800V HVDC + 軟體 recurring」四段控制點
-- [[宋分 #20 — 能源結構性剛需]]：SU = 三標準全滿
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：SU = 整合平台 + 軟體 recurring 擴散版
+- [[宋分 ＃20 — 能源結構性剛需]]：SU = 三標準全滿
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：SU = 整合平台 + 軟體 recurring 擴散版
 - [[效率→安全切換]]：SU 1MW rack 白皮書 = AI 公司要 24/7 算力的安全代價
 - [[AI infra CapEx 三階段論]]：SU 是第三階段下半場電力 anchor #3
 - [[NVDA]]：800V HVDC 31 家共同制定者 + 1MW rack 白皮書定義者
@@ -306,7 +307,7 @@ EcoStruxure 三層架構：
 - [[台達電]]
 - [[賣水人選股邏輯（投資版）]]
 - [[控制點轉移（投資版）]]
-- [[宋分 #20 — 能源結構性剛需]]
+- [[宋分 ＃20 — 能源結構性剛需]]
 - [[AI infra CapEx 三階段論]]
 - [[NVDA]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]

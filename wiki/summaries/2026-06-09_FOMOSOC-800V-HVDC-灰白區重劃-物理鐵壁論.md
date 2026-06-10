@@ -2,11 +2,14 @@
 title: FOMO SOC — 800V HVDC 灰白區重劃 + 物理鐵壁論
 type: summary
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2027-01-15
 updated: 2026-06-09
 sources:
   - raw/2026-06-09_FOMOSOC-800V-HVDC-灰白區重劃-物理鐵壁論.md
 evidence_url: https://www.fomosoc.com/p/800v-hvdc-50hvdc?utm_source=share&utm_medium=android&r=5sk0kp&triedRedirect=true&_src_ref=l.threads.com
 tags: [800V HVDC, 物理鐵壁, 灰白區, 自來水隱喻, SST, BBU, PoL, AI 資料中心, 電力戰場]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

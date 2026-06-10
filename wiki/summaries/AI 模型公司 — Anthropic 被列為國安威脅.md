@@ -3,11 +3,14 @@ title: AI 模型公司 — Anthropic 被列為國安威脅
 aliases: [Anthropic 國安威脅, Anthropic 五角大廈, 對齊稅, alignment tax]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-09-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_美國把Anthropic列為國安威脅——第一家被自己政府封殺的美國AI公司.md
 tags: [Anthropic, OpenAI, 國安, 政府風險, 對齊稅, 估值風險, AI 監管]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # AI 模型公司 — Anthropic 被列為國安威脅

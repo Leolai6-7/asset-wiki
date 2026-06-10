@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2027-02-15
 sources:
   - https://www.lasertec.co.jp/en/products/semiconductor/actis_a150.html
   - https://www.lasertec.co.jp/en/news/2025/20251031_3912.html
@@ -15,6 +15,7 @@ sources:
   - https://www.aehr.com/2026/04/aehr-receives-record-41-million-production-order-from-lead-hyperscale-ai-customer-second-half-bookings-exceed-92-million/
   - https://www.aehr.com/2026/04/aehr-test-systems-reports-over-37-million-in-quarterly-bookings-driven-by-strong-ai-and-data-center-infrastructure-demand/
 tags: [pattern, 檢測, 測試設備, 良率, 賣水人, AXI, burn-in, actinic, Lasertec, watchlist]
+thesis_dependency: none（可遷移方法）
 confidence: medium
 ---
 

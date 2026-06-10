@@ -3,11 +3,14 @@ title: Powertech 力成
 aliases: [Powertech, 力成, 力成科技, PTI, 6239, 6239.TW, Powertech Technology]
 type: entity
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2027-02-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 台股, OSAT, FOPLP, 記憶體封裝, HBM, AMD, Micron, 3D 光引擎, CPO]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Powertech 力成（6239.TW）
@@ -160,7 +163,7 @@ confidence: high
 - [[PB 估值法（記憶體週期）]]：力成 P/B 4.3 倍（NT$335/79）= 仍未達歷史頂點
 - [[日月光 ASE]]：FOPLP 雙頭 → 客戶 mix 截然不同（ASE = NVDA/Apple，力成 = AMD/Micron）
 - [[Amkor]]：相較 Amkor 更 pure-play AI（vs Amkor 集中 Apple/Intel 手機 + CHIPS Act）
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：經典「**被忘的 AI 受惠者**」案例（PE 13.7 + AMD 認證）
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：經典「**被忘的 AI 受惠者**」案例（PE 13.7 + AMD 認證）
 
 ## 相關連結
 

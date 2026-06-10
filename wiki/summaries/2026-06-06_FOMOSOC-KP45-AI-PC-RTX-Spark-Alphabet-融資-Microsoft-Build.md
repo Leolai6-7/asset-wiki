@@ -2,11 +2,14 @@
 title: FOMO SOC KP #45 — AI PC + Windows × CUDA + Intel Xeon orchestration + Alphabet 史上最大融資 + Microsoft Build 2026 + 三層記憶體架構
 type: summary
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2027-02-15
 updated: 2026-06-09
 sources:
   - raw/2026-06-06_FOMOSOC-KP45-AI-PC-RTX-Spark-Windows-CUDA-Intel-Alphabet-Microsoft-Build.md
 evidence_url: https://www.fomosoc.com/p/ai-pc-kp45
 tags: [AI PC, RTX Spark, Windows CUDA, Intel Xeon orchestration, 18A, Alphabet 84.75B 融資, Microsoft Build 2026, Scout autopilot, NVDA Vera Rubin LPDDR5X, 三層記憶體架構]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
@@ -111,7 +114,7 @@ confidence: high
 
 #### [[三層記憶體架構（HBM4 / LPDDR5X / NAND）]] ⭐
 - 跨 [[AI 記憶體結構性供給短缺]] + [[AI infra 3D NAND 戰場]]
-- 對接 [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]：HBM iPhone moment 進化版
+- 對接 [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]]：HBM iPhone moment 進化版
 
 #### [[AI PC 五軌混戰]] ⭐
 - NVDA RTX Spark vs Intel Xeon orchestration vs Apple M-series vs Qualcomm Snapdragon X vs AMD Strix Halo
@@ -159,7 +162,7 @@ confidence: high
 - [[控制點轉移（投資版）]]、[[賣水人選股邏輯（投資版）]]
 - [[Agent 商品化（投資版）]]、[[AI 融資結構（條件資本）]]
 - [[手機與邊緣晶片端 TGV-FOPLP watchlist]]
-- [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]
+- [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]]
 - [[800V HVDC 灰白區重劃（物理鐵壁論）]]（同 KOL 系列）
 - [[FOMO SOC KP — AI 被動元件 MLCC + 鉭電容 + TLVR 電感（第三次週期 K 型復甦）]]（同 KOL 系列）
 - [[FOMO SOC KP #46 — LNG 能源結構重塑（美伊戰後五大不可逆轉變）]]（同 KOL 系列）

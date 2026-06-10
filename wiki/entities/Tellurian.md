@@ -5,12 +5,13 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-05-06_FOMOSOC-KP46-LNG-油田服務-煉油-化肥-能源結構重塑.md
 evidence_url: https://www.fomosoc.com/p/46lng
 tags: [標的, 美股, LNG, 天然氣, 出口, AI infra 電力, firm power 第五選擇, Driftwood LNG, Woodside Energy, 2024 收購, 歷史 entity, reference_only, 非投資標的, 已併入 Woodside, KP46]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

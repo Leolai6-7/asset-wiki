@@ -3,11 +3,14 @@ title: Disco Corp
 aliases: [Disco, Disco Corporation, 6146, 6146.T, 6146.JP, DISPF, ディスコ]
 type: entity
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2026-12-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 日本, 半導體設備, 切割, 研磨, 隱形切割, CoWoS, 國際對手, 雷科對手]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Disco Corp（6146.JP）

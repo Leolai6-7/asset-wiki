@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-05
 updated: 2026-06-05
 as_of: 2026-06-05
-check_after: 2026-12-05
+check_after: 2026-09-15
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 日股, MLCC, 鋁電解電容, SESUB, 嵌入式模組, 矽負極電池, 感測器, HDD head, foreign_competitor, AI 伺服器, 日本三巨頭, Apple 鏈]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # TDK（6762.JP）

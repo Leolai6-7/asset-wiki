@@ -5,12 +5,13 @@ type: concept
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-05-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 expires_on: 2027-12-09
 sources:
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
 evidence_url: https://www.fomosoc.com/p/aicpuanthropic-oaiai-kp41
 tags: [Token 經濟學, AI 利潤奇點, 毛利率拐點, Agentic AI, 自我強化飛輪, S 曲線採用, AI 通縮, Jevons 利潤端, 高盛框架, FOMO SOC]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

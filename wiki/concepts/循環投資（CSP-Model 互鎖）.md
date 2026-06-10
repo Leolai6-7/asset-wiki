@@ -3,11 +3,14 @@ title: 循環投資（CSP-Model 互鎖）
 aliases: [循環投資, CSP-Model 互鎖, Circular Investment]
 type: concept
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-10-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-06_OpenAI拿了1220億——但這筆錢不是你以為的那種錢.md
 tags: [融資, CSP, 模型公司, Microsoft, OpenAI, 循環, 連鎖風險]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 循環投資（CSP-Model 互鎖）
@@ -79,7 +82,7 @@ Microsoft ───────► OpenAI
 
 ### 操作
 
-- 用 [[宋分備忘錄 #1 — CSP-AI 通縮]] 的「FCF 拐點」識別循環何時停止支撐估值
+- 用 [[宋分備忘錄 ＃1 — CSP-AI 通縮]] 的「FCF 拐點」識別循環何時停止支撐估值
 - 用 [[資訊擴散四階段]] 判斷市場還在哪個階段定價循環
 - 用 [[修正三階段]] 識別循環爆破訊號
 

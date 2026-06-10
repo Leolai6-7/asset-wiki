@@ -5,9 +5,10 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-11-15
 sources: []
 tags: [標的, AI 資安, NGFW, Network 資安, 中小企業, SASE]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

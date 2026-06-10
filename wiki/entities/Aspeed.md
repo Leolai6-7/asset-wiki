@@ -5,10 +5,11 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2027-01-15
 sources: []
 tags: [標的, BMC, AI server, 台廠, 賣水人, 系統管理晶片, IPMI]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Aspeed（4555.TW / 信驊科技）

@@ -3,11 +3,14 @@ title: 日月光 ASE
 aliases: [日月光, 日月光投控, ASE, ASE Technology Holding, 3711, 3711.TW, ASX, SPIL]
 type: entity
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2026-12-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 台股, OSAT, 先進封裝, FOPLP, TGV, CoWoS, CoWoP, FoCoS, 整合方]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 日月光 ASE（3711.TW / NYSE: ASX）
@@ -146,7 +149,7 @@ ASE 是 TGV / 玻璃中介層 **整合方第一名**，但**直接 Intel / AMD /
 - [[ABF 載板 vs 玻璃基板 displacement]]：CoWoP 跳過載板 = ABF 廠最大威脅
 - [[控制點轉移（投資版）]]：OSAT 在「整合方」拿到的控制點 vs IDM 自建
 - [[Re-rate 捕捉法]]：LEAP 2027 佔比 33% = 第二波 re-rate trigger
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：經典「**被認知但仍折價**」案例
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：經典「**被認知但仍折價**」案例
 
 ## 相關連結
 

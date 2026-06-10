@@ -5,12 +5,13 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-09
 as_of: 2026-06-08
-check_after: 2026-12-08
+check_after: 2027-02-15
 expires_on: 2027-06-08
 sources:
   - raw/2026-06-08_Leo-黃仁勳定調記憶體結構性短缺-SK-Hynix-合約.md
 evidence_url: https://www.tweaktown.com/news/109677/oh-no-nvidias-next-gen-vera-rubin-ai-systems-to-eat-up-millions-of-terabytes-of-ssds/index.html
 tags: [記憶體, NAND, 3D NAND, Enterprise SSD, AI infra, NVDA 路線圖, 估值範式, QLC, HBF]
+thesis_dependency: none（可遷移方法）
 confidence: medium
 ---
 
@@ -285,7 +286,7 @@ confidence: medium
 - [[Jevons Paradox（投資版）]]：HBF 突破 → AI 模型 context window 倍增 → NAND 需求倍增
 - [[市場四階段：懷疑／驗證／共識／反轉]]：Enterprise SSD 賽道「驗證 → 共識」過渡期、Consumer NAND 仍「反轉前夕」
 - [[資訊擴散四階段]]：Kioxia 12M +2,400% / WDC +880% = 已過「機構→賣方→媒體」進入 ETF 配置
-- [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]：本 concept 補完 NAND 軸
+- [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]]：本 concept 補完 NAND 軸
 - [[公司 Entity 模板（Step 1-3 三段式）]]：4 entity（Kioxia / Solidigm / SanDisk / WDC）皆套用
 
 ## 主要佐證來源
@@ -332,4 +333,4 @@ confidence: medium
 - [[中國半導體國產替代（投資對沖視角）]]
 - [[公司 Entity 模板（Step 1-3 三段式）]]
 - [[時效 metadata schema（lint 規範）]]
-- [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]
+- [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]]

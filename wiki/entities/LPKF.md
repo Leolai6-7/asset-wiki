@@ -3,11 +3,14 @@ title: LPKF
 aliases: [LPKF, LPKF Laser & Electronics, LPK, LPKG, LPKFF, LPK.DE, XTRA:LPK]
 type: entity
 created: 2026-06-05
+as_of: 2026-06-05
+check_after: 2027-01-15
 updated: 2026-06-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
 tags: [標的, 德國, 半導體設備, 雷射, TGV, LIDE, 玻璃基板, 國際對手, 鈦昇對手]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # LPKF（XTRA: LPK）

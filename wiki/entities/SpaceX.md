@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 sources:
   - raw/2026-05-23_FOMOSOC-KP43-SpaceX-IPO-Anthropic.md
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
 tags: [標的, 太空, 衛星, IPO, Musk 控股, AI infra 太空 anchor, Starlink, Starship, Anthropic 雲合約, 軌道 AI 算力]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

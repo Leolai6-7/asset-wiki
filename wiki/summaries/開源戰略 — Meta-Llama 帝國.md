@@ -3,11 +3,14 @@ title: 開源戰略 — Meta-Llama 帝國
 aliases: [Meta Llama 帝國, Llama 開源倒戈, 開源冠軍倒戈]
 type: summary
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2027-02-15
 updated: 2026-06-04
 sources:
   - raw/2026-04-11_開源冠軍倒戈-Meta-Llama帝國.md
 tags: [Meta, LLaMA, 開源戰略, 廣告, AVGO, AMD, 投資視角]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # 開源戰略 — Meta-Llama 帝國
@@ -101,4 +104,4 @@ AI 優化用戶體驗   → 停留增加       → 廣告庫存增加
 - [[Meta]]
 - [[AMD]]、[[AVGO]]、[[NVDA]]
 - [[跳出個股看三層：產業、目的、供應]]
-- [[宋分備忘錄 #2 — HBM iPhone Moment-Meta-軟體 PE]]
+- [[宋分備忘錄 ＃2 — HBM iPhone Moment-Meta-軟體 PE]]

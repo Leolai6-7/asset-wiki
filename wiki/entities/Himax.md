@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2026-10-15
 sources:
   - https://www.globenewswire.com/news-release/2026/02/12/3236971/8267/en/Himax-Technologies-Inc-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-Provides-First-Quarter-2026-Guidance.html
   - https://www.stocktitan.net/news/HIMX/himax-technologies-inc-reports-first-quarter-2026-financial-results-cow69elv5wdl.html
@@ -16,6 +16,7 @@ sources:
   - https://english.cw.com.tw/article/article.action?id=4693
   - https://seekingalpha.com/article/4907217-himax-technologies-still-depends-on-core-products-but-cpo-looks-very-promising
 tags: [標的, US, NASDAQ, 台灣, 顯示驅動 IC, DDIC, TDDI, 車用, CPO, WLO, FAU, FOCI, TSMC, COUPE, LCoS, smart glasses, SemiAnalysis 受壓組]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

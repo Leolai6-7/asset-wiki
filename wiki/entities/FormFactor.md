@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-10
 updated: 2026-06-10
 as_of: 2026-06-10
-check_after: 2026-12-10
+check_after: 2027-02-15
 sources:
   - https://www.stocktitan.net/news/FORM/form-factor-inc-reports-2026-first-quarter-ptznafssjeh9.html
   - https://www.globenewswire.com/news-release/2026/02/04/3232457/0/en/FormFactor-Inc-Reports-2025-Fourth-Quarter-Results.html
@@ -18,6 +18,7 @@ sources:
   - https://www.mordorintelligence.com/industry-reports/probe-card-market
   - https://www.gurufocus.com/term/forward-pe-ratio
 tags: [標的, 美股, 半導體測試, 探針卡, probe card, MEMS, HBM, DRAM, CPO 測試, 矽光子, 量子, 檢測賣水人]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

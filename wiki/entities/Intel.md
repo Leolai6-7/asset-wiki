@@ -3,13 +3,16 @@ title: Intel
 aliases: [Intel, INTC, Intel Foundry, 18A, IDM 2.0, TeraFab]
 type: entity
 created: 2026-06-04
+as_of: 2026-06-04
+check_after: 2026-12-15
 updated: 2026-06-09
 sources:
   - raw/2026-04-11_intel-terafab-musk-chip.md
   - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
   - raw/2026-05-09_FOMOSOC-KP41-AI利潤奇點CPU復興FDE.md
 tags: [標的, 美股, 半導體, Foundry, IDM, 美國產能政治, 玻璃基板, Xeon 伺服器 CPU, NVIDIA DGX, CPU 復興]
-confidence: high
+thesis_dependency: AI-capex
+confidence: medium
 ---
 
 # Intel

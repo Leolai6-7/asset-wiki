@@ -5,7 +5,7 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-10-15
 expires_on: 2027-06-09
 sources:
   - raw/2026-05-13_FOMOSOC-47-Cloudflare-agentic-AI-edge-control.md
@@ -13,6 +13,7 @@ sources:
   - https://www.cloudflare.com/
   - https://investors.cloudflare.com/
 tags: [標的, 美股, AI 資安, Network 軌, SASE, Zero Trust, edge AI, Workers AI, R2, CDN, agentic AI, Network as Control Plane, 接口控制權]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 

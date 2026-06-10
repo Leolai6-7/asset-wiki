@@ -3,10 +3,13 @@ title: Serenity
 aliases: [Serenity, aleabitoreddit, AleaBito, "@aleabitoreddit", Serenity X]
 type: entity
 created: 2026-06-08
+as_of: 2026-06-08
+check_after: 2026-12-15
 updated: 2026-06-08
 sources:
   - raw/2026-06-08_Leo-玻璃基板時間線-TrendForce-Serenity.md
 tags: [KOL, 分析師, X, AI 供應鏈, 半導體, 玻璃基板, CPO, 光通訊, bottleneck theory, 產業觀察, 中文圈現象級]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 
@@ -92,3 +95,11 @@ X 上 **AI / 半導體供應鏈分析師**，2025 年中期從 Reddit r/WSB 轉�
 - Semiconstocks.com Serenity Tracker: https://semiconstocks.com/
 - GitHub yan-labs Serenity tweet archive + skill: https://github.com/yan-labs/serenity-aleabitoreddit
 - Johnson Lee：Serenity, the Bottleneck Hunter（2026-06-06）: https://johnsonlee.io/2026/06/06/serenity-methodology-cannot-be-skill.en/
+
+
+## ⚠️ #P11 認識論審核後的凍結聲明（2026-06-10）
+
+- **本檔所有「命中率」子分數與 reliability 總分、即日起標記為「未計算」**——原分數基於精選名場面（n=1-2）、無分母、無失誤紀錄、違反本庫自己的「未滿 10 筆不給分」紀律（認識論紅隊：KOL entity 內「失誤」字串出現 0 次）
+- 恢復給分條件：per-KOL 全量帶時間戳 call ledger（n≥20 已結）＋失誤紀錄段
+- 「思維強度」子分數保留（它評的是框架品質、不是預測戰績）
+- 在此之前、KOL 權重僅用於 ingest 排序、**不得作為 thesis 信心的輸入**

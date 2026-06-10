@@ -5,11 +5,12 @@ type: entity
 created: 2026-06-09
 updated: 2026-06-09
 as_of: 2026-06-09
-check_after: 2026-12-09
+check_after: 2026-12-15
 expires_on: 2027-06-09
 sources:
   - https://www.alfalaval.com/
 tags: [標的, 瑞典股, AI infra, 散熱, 液冷, BPHE, 板式熱交換器, 工業, HVAC, 食品, 製藥, 規模王, 多元組合, foreign_competitor, Mega Cap, 對手位, 高力 8996]
+thesis_dependency: AI-capex
 confidence: medium
 ---
 
@@ -148,7 +149,7 @@ confidence: medium
 - **海運脫碳 + 排氣處理 niche**（IMO 2030 強制）
 - **印度 / 東南亞市場擴張**
 - **conglomerate sum-of-parts re-rating**（拆 Marine 段）
-- 對應 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：「被遺忘的 AI 受惠者」industrial 多元版
+- 對應 [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：「被遺忘的 AI 受惠者」industrial 多元版
 
 ### ⚠️ 風險
 
@@ -197,7 +198,7 @@ confidence: medium
 - 想要 **AI 液冷 + 燃料電池雙引擎 + niche 純度 + 台廠 niche specialist + 高 alpha** → **[[高力 8996|高力]]**
 - **Leo 偏好（既有判斷）**：高力路線符合「**niche specialist 規格深度型賣水人**」、Alfa Laval 是「規模對照組 anchor」驗證高力 niche 定位的存在意義
 
-## ⭐ 跟 [[宋分備忘錄 #3 — AI 半導體受惠者擴散]] 校準
+## ⭐ 跟 [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]] 校準
 
 | 條件 | Alfa Laval 滿足 ✅/❌ | 證據 |
 |---|---|---|
@@ -258,7 +259,7 @@ confidence: medium
 - [[AI infra CapEx 三階段論]]：第三階段下半場散熱規模供應商之一
 - [[賣水人選股邏輯（投資版）]]：Alfa Laval = **industrial 多元賣水人**（跨產業中性受惠）
 - [[控制點轉移（投資版）]]：跨產業 platform = 控制權分散在多個產業
-- [[宋分備忘錄 #3 — AI 半導體受惠者擴散]]：Alfa Laval = 「被遺忘的 AI 受惠者」industrial 多元版
+- [[宋分備忘錄 ＃3 — AI 半導體受惠者擴散]]：Alfa Laval = 「被遺忘的 AI 受惠者」industrial 多元版
 - [[高力 8996|高力]]：**規模王 vs niche 純度分歧路線**（30x 規模差 + AI 純度 4x 差）
 - [[Vertiv]] / [[Eaton]] / [[Schneider Electric]]：CDU 整合 turnkey 廠商 BPHE 採購對象（跟高力雙頭多頭採購）
 - [[公司 Entity 模板（Step 1-3 三段式）]]：本 entity 完整套用三段式

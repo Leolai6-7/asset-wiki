@@ -2,11 +2,14 @@
 title: FOMO SOC #47 — Cloudflare（agentic AI 邊緣控制 + Network as Control Plane）
 type: summary
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-10-15
 updated: 2026-06-09
 sources:
   - raw/2026-05-13_FOMOSOC-47-Cloudflare-agentic-AI-edge-control.md
 evidence_url: https://www.fomosoc.com/p/aiagentic-ai-47cloudflare
 tags: [Cloudflare, agentic AI, edge AI, Network as Control Plane, 接口控制權, AI 資安戰場, Network 軌, Workers AI, R2, Zero Trust, 邊緣推論]
+thesis_dependency: AI-capex
 confidence: high
 ---
 

@@ -2,11 +2,14 @@
 title: FOMO SOC KP #44 — Tesla/SpaceX 合併 + Marvell 重評 + Snowflake 翻轉 + Dell 大漲 + Anthropic Series H
 type: summary
 created: 2026-06-09
+as_of: 2026-06-09
+check_after: 2026-11-15
 updated: 2026-06-09
 sources:
   - raw/2026-05-30_FOMOSOC-KP44-Tesla-SpaceX-Marvell-Snowflake-Dell-Anthropic.md
 evidence_url: https://www.fomosoc.com/p/teslaspacexanthropicopenaidell-kp44
 tags: [Tesla SpaceX 合併, Marvell interconnect, Snowflake AWS 60B, Dell pull-through, Anthropic Series H 965B, AI 融資結構, source locking]
+thesis_dependency: AI-capex
 confidence: high
 ---
 
