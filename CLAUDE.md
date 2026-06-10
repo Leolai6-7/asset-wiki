@@ -14,6 +14,17 @@ wiki/
   summaries/      ← 素材摘要（每份 raw 一篇）
 ```
 
+## 私有決策層（private/）
+
+`private/` 是**獨立的 private git repo**（https://github.com/Leolai6-7/asset-wiki-private、被本 repo `.gitignore:10` 排除、永不進公開 repo）、放投資工具的決策閉環：
+
+- `部位帳本.md`——持倉 + 主題曝險聚合（Leo 維護持倉行、Claude ingest 後對照曝險）
+- `決策日誌/`——每筆買／賣／pass 含 ABCD 判定 + falsification + 檢討日（檔名 `YYYY-MM-DD 標的 動作.md`）
+- `記分板.md`——wiki 自己的帶日期 call 對標 SOXX、命中歸因 ABCD（「把 wiki 當第四個 KOL 評分」）
+- `每週檢視 runbook.md`——掃 check_after 到期 + 監控指標 + 記分板檢討日 → 產出 `weekly/` brief
+
+**規則**：① ingest／校準若打到部位帳本的持倉或主題、必須在回覆中提示曝險影響；② 任何帶日期的評分 call 應同步補進記分板；③ private/ 的 commit/push 在 private repo 內獨立執行（同樣 Claude Code 做 git、排程只寫不 commit）；④ 部位與決策內容**永不**寫進公開 wiki 的任何檔案。
+
 ## 四大操作
 
 ### 1. Ingest（吸收素材）
