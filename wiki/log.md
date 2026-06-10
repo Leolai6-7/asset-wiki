@@ -3189,3 +3189,40 @@ L1+L2+L3 並行 ingest 時各 subagent 自行分配 wiki 流水號，加上 subs
 - **3 個外部 wikilink 更新**（index.md × 2 + log.md × 2 + summary × 1，共 5 處 line edits）
 - **14 個 summary frontmatter 補 metadata**（substack_original_id + wiki_serial、4 個 aliases 新增舊名）
 - **既有 wikilink 30+ 處不需動**（aliases 自動解析）
+
+## 2026-06-10 #P1 — ingest: SemiAnalysis 800VDC+CPO 延期機構報告（驗證型 ingest + 4 entity + 10 檔校準）⭐
+
+**觸發**：Leo 貼入 SemiAnalysis 2026-06-09 機構報告中文摘要、要求「驗證並分析」。deep-research workflow（18 來源／89 claims／2 條 3-0 對抗全票）+ 5 輪補查。
+
+### 驗證結論
+
+- **報告真實存在**：2026-06-09 機構客戶限定 bearish report（Computex 台北 channel checks）、觸發 AAOI 盤中 -14% 領跌（SeekingAlpha 歸因）；A 股旭創 6/5 午後 -8%／新易盛 -4%+ = 亞洲先跌美股後跌、機構圈先行流通
+- **CPO 延期非新轉向**：SemiAnalysis《CPO Book》（2026-01-01）已寫「Feynman = CPO injection focal point、Rubin Ultra 2027 too ambitious」——對抗驗證唯二 3-0 全票
+- **中文摘要忠實度高**：三個疑點兩個反被證實——Forgent Power Solutions (NYSE: FPS) 是真公司（新掛牌、~$18B 市值）、鴻勁=Hon Precision 7769.TW 屬實、AAOI 歸類=市場真實反應；唯「Spectrum 5」命名與「Teradyne 輝達認證領先者」無公開佐證
+- **Mt. Diablo nuance**：±400V 規格明文含 2-wire 800V 選項 → hyperscaler 反的是 NVIDIA 單端 800V 標準、非反高壓 = 「誰的 800V」接口控制權之爭
+- **同日多空對撞**：FOMO SOC 物理鐵壁論（2026-06-09、物理層）vs SemiAnalysis（時程層）相容不互斥——概念內建風險 #1「中間態 400V 取代」被逐字啟動
+
+### 操作
+
+1. **raw**：2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md（新建）
+2. **summary**：2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證.md（新建、逐條 ✅🟡❌⚪ verdict）
+3. **新 entity ×4（CPO 測試／過渡期 cluster）**：[[Teradyne]] 19/25、[[鴻勁 7769]] 18/25、[[致茂 2360]] 18/25、[[Forgent Power Solutions]] 14/25 reference tier（全部 confidence: medium）
+4. **concept 校準 ×3**：[[800V HVDC 灰白區重劃（物理鐵壁論）]]（風險 #1 啟動 + Mt. Diablo nuance + 四階段基線 + 監控指標反轉）、[[CPO 供應鏈圖譜]]（七層→九層、新增第 9 測試層 + 良率 gate 0.95³²≈19% + 時程 2029+ + 市場四階段退回懷疑期）、[[TGV × CPO 依賴圖]]（CPO leg 推遲、AI ASIC leg 不變）
+5. **entity 校準 ×7**：[[Navitas Semiconductor]] 19 → thesis-dependent flag（17-19 區間、雙評分體系第三次應用）、[[SiTime]] 20（CPO 三倍 BOM 段推遲）、[[Lumentum]] 19／[[Coherent]] 19（CPO 溢價修正、本業受惠、NVDA $2B=延後≠取消）、[[AAOI]] 18（6/9 -14% 預期差活案例 + CPO 取代風險下修）、[[Vertiv]] 22（多空雙報告同日點名=雙贏確認）、[[TXC]] 21（可插拔延壽利多 + sources 補填 N1 漏項）
+6. **賣水人 master**：第十九波 #P1 段（4 新 entity 表 + 校準清單）
+7. **index.md**：800V 概念段加 #P1 校準 bullet + 新「CPO 測試／檢測」entity 段
+
+### Surprising
+
+1. **我自己的兩個懷疑被打臉**：interim 分析時 flag「FPS 疑似轉錄錯誤」「AAOI 歸類疑似誤植」——驗證後 FPS 是真公司（2026-05-28 才增發、訓練資料外）、AAOI 真的 -14% 領跌。教訓：機構報告的 read-across 名單比模型記憶新
+2. **檢測賣水人 pattern 第二次出現**：TGV 賽道 AXI（德律）→ CPO 賽道 Photon 100／分選機（Teradyne／鴻勁／致茂）——「良率地獄裡賣檢測」可能是跨賽道通用 pattern（良率越爛測試越賺、賽道延期測試先收錢）
+3. **「路線敏感（逆向）」軸拿到最強驗證**：多空兩份報告同日從相反方向點名同一批人（Eaton／Schneider／ABB／Vertiv／Infineon／MPS／MLCC）
+4. **Quantum X3450「每模組 3 顆」在 OSA 粒度成立**：72 OE ÷ 24 OSA = 3——模組化粒度 = 良率風險解藥、CPO 設計哲學級洞見
+5. **A 股比美股早 4 天反應**（6/5 vs 6/9）= 機構報告流通時間差可觀測
+
+### 待辦延伸
+
+- Teradyne／致茂／鴻勁財務細節（Forward PE）補一輪法說後升級 confidence
+- Advantest（ATE 對照組）、穎崴 6515、旺矽 6223 watchlist 候選建檔
+- Himax／Astera Labs／Semtech／Hammond（報告點名、未建檔、優先級低）
+- 監控：NVIDIA Kyber 液冷 800V 版 sampling（late 2026 基線）、±400V sidecar 年底訂單、SN6810 插損根因公開訊息

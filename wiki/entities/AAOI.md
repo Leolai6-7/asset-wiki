@@ -3,11 +3,12 @@ title: AAOI
 aliases: [AAOI, Applied Optoelectronics, AOI, 應用光電, Sugar Land 光電]
 type: entity
 created: 2026-06-08
-updated: 2026-06-08
-as_of: 2026-06-08
+updated: 2026-06-10
+as_of: 2026-06-10
 check_after: 2026-12-08
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
+  - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, US, NASDAQ, 光通訊, 光模組, 1.6T, 800G, transceiver, vertical integration, hyperscaler, Microsoft, AI 數據中心, Serenity 重押, Bottleneck Theory L5, foreign_competitor, CPO, ELSFP]
 confidence: high
 ---
@@ -238,6 +239,19 @@ confidence: high
 | **總分** | **18/25** | **17/25** | **19/25** | **19/25** | AAOI 在「路線敏感 + 耗材」極致、「客戶分散」拖累 |
 
 → **AAOI 18/25 = 比 [[IQE]] 高 1 分、比 [[Lumentum]] / [[Coherent]] 低 1 分**——反映 AAOI 是「**最尖端 alpha + 客戶最集中風險 + 第 5 層 vertical integration 最純的 chokepoint**」。
+
+## ⭐ #P1 2026-06-09 報告日 -14% 事件（預期差 candidate）
+
+SemiAnalysis CPO 延期機構報告分發日（2026-06-09）、**AAOI 盤中 -14% 領跌光通訊板塊**（SeekingAlpha／MSN 直接歸因）——市場把 AAOI 當「最大 CPO 受害者」賣。
+
+**邏輯錯位拆解**（[[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|驗證 summary]]）：
+
+- AAOI 主業 = **800G／1.6T 可插拔**（Data Center 54% 營收、1.6T LPO 2026-03 量產）——CPO 延期 = **可插拔主流延長至 2028+ = 本業利多**
+- 原風險段「CPO 提前商用化 2027-2028 取代 pluggable」→ **#P1 下修**（SemiAnalysis：scale-up 2029+ 綁 Feynman）——AAOI 最大結構性風險之一被推遲
+- ELSFP（CPO 外部光源）option 兌現推遲、但那本來就是 option 不是本業
+- → [[預期差]] 活案例：市場用板塊 beta 無差別賣、沒分 pluggable vs CPO
+
+**⚠️ 不要過度浪漫化錯殺**：12M +896%、Forward PE 226x、GF Value 912% premium、Top 2 客戶 >70%——估值脆弱性本來就極高、-14% 同時也是高 beta 的正常代價。「錯殺」的是歸因、不代表估值便宜。**18/25 維持**。
 
 ## 跟其他 wiki 概念連結
 

@@ -3,12 +3,13 @@ title: Lumentum
 aliases: [LITE, Lumentum Holdings, Lumentum Holdings Inc, 流明, NASDAQ:LITE]
 type: entity
 created: 2026-06-05
-updated: 2026-06-08
-as_of: 2026-06-05
+updated: 2026-06-10
+as_of: 2026-06-10
 check_after: 2026-12-05
 sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
+  - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, 美股, 光通訊, 光引擎, CPO, pump laser, EML, InP, DCI, foreign_competitor, NVDA]
 confidence: high
 ---
@@ -218,6 +219,15 @@ LITE 在 CPO 第 2 層的地位：
 → **校準 Leo 原 thesis**：「LITE 純度首選 + COHR SiC 後來成優勢」**完全成立**——五軸總分打平、各有勝場、NVDA 同時投兩家、Leo「LITE + COHR 一籃子」的隱含思路是對的。
 
 → 跟 [[IBIDEN]] 19/25 + [[欣興]] 19/25 並列「**AI 半導體基礎建設四大 19 分組**」。
+
+## #P1 SemiAnalysis CPO 延期校準（2026-06-10）
+
+SemiAnalysis 2026-06-09 機構報告把 LITE 列「高度依賴 CPO 大規模量產論述」受壓組、2026-06-09 光通訊板塊賣壓（[[AAOI]] -14% 領跌）。校準拆解（[[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|驗證 summary]]）：
+
+- **受壓的是 CPO 敘事溢價段**：scale-up CPO 2029+（綁 Feynman）、Spectrum-X Photonics（SN6810）板級插損問題（⚪ channel check）——LITE 的 CPO 外部光源／光引擎故事兌現推遲
+- **本業反而受惠**：可插拔主流延長至 2028+ → EML（200G 唯一量產）／pump laser 缺口 >30% 的供需結構**更久**；1.6T 可插拔 17 倍增量不受 CPO 延期影響
+- **NVDA $2B（2026-03）+ 多年購買承諾 = 「延後≠取消」的結構反證**——NVDA 不會對 2029 才兌現的賽道現在就鎖產能、除非結構必然
+- **19/25 維持**——敘事權重從「CPO 第 2 層」移回「EML／pump laser 缺口 + Greensboro 2028 量產」；Forward PE 52-59x 對敘事修正的敏感度要監控（12M +1,542% 是板塊內回檔彈性最大的）
 
 ## 跟其他 wiki 概念連結
 

@@ -3,7 +3,7 @@ title: TGV × CPO 依賴圖
 aliases: [TGV CPO 依賴, TGV CPO 關係, 玻璃基板 CPO]
 type: concept
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-10
 check_after: 2026-09-05
 sources:
   - raw/2026-06-05_TGV-年度工事-sennn.nnna.md
@@ -118,6 +118,13 @@ TGV 製程鏈的終端應用不只 AI ASIC（Intel EMIB / AMD / Broadcom）：
 - [[CPO 供應鏈圖譜]] 加「第 8 層：玻璃中介層」更新
 - Intel 2023 LIDE-CPO 專利全文（待找）
 - 玻璃中介層 vs 矽中介層 for CPO 比較
+
+## ⭐ #P1 時程校準（2026-06-10 SemiAnalysis）
+
+- **CPO leg 推遲 2029+**（scale-up 綁 Feynman、SemiAnalysis《CPO Book》立場 + 對抗驗證 3-0）→ 「玻璃中介層 for CPO」這條 TGV 採用驅動力同步推遲——TGV TAM 加碼項要重標時點
+- **AI ASIC 封裝 leg 不受影響**（Intel EMIB／AMD／Broadcom 路線獨立於 CPO 時程）
+- Tier 1「CPO + TGV 雙暴露」標的（[[SiTime]]／[[萬潤]]）的 CPO 段兌現時點推遲、TGV 段不變
+- 詳見 [[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|SemiAnalysis 延期報告驗證]]
 
 ## 相關連結
 

@@ -3,12 +3,13 @@ title: Coherent
 aliases: [COHR, Coherent Corp, II-VI, IIVI, II-VI Incorporated, NYSE:COHR]
 type: entity
 created: 2026-06-05
-updated: 2026-06-08
-as_of: 2026-06-05
+updated: 2026-06-10
+as_of: 2026-06-10
 check_after: 2026-12-05
 sources:
   - raw/2026-06-05_Leo-DCI-Hyper-Rail-CIEN-COHR-LITE-NOK.md
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
+  - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, 美股, 光通訊, 光引擎, CPO, pump laser, EML, InP, SiC, 功率半導體, DCI, foreign_competitor, NVDA]
 confidence: high
 ---
@@ -238,6 +239,15 @@ COHR 在 CPO 第 2 層的地位：
 - Leo 隱含「LITE + COHR 一籃子」隱含思路是對的
 
 → COHR 與 [[Lumentum]]、[[IBIDEN]]、[[欣興]] 並列「AI 半導體基礎建設四大 19 分組」。
+
+## #P1 SemiAnalysis CPO 延期校準（2026-06-10）
+
+SemiAnalysis 2026-06-09 機構報告把 COHR 列「高度依賴 CPO 大規模量產論述」受壓組（[[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|驗證 summary]]）。校準拆解：
+
+- **受壓段**：CPO 敘事溢價修正（scale-up 2029+ 綁 Feynman）+ 2026-06-09 板塊賣壓
+- **本業受惠段**：transceiver 全球 ~25% 市佔 = **COHR 是受壓組裡可插拔本業最大的一家**——可插拔主流延長至 2028+ 直接餵 $5.81B transceiver 段；1.6T 可插拔增量不受 CPO 延期影響
+- **SiC 第二曲線注意**：800V 延後對 SiC 的 AI datacenter power 段（10kV MOSFET／300mm 平台）= 跟 [[Navitas Semiconductor]]／[[Wolfspeed]] 同方向的催化劑推遲、但 COHR SiC 偏工業／EV 多元、衝擊遠小於 pure-play
+- **19/25 維持**——「規模 + 多軌」正是這種時程修正下的防護墊（vs LITE 純度高彈性大）；NVDA $2B 同樣是延後≠取消反證
 
 ## 跟其他 wiki 概念連結
 

@@ -3,9 +3,10 @@ title: SiTime
 aliases: [SiTime, SITM, MEMS 時脈]
 type: entity
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-10
 sources:
   - raw/2026-05-07_wallstengine_SiTime-1.6T-CPO時脈元件三倍增量.md
+  - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, 美股, 半導體, MEMS, 時脈, CPO, 賣水人]
 confidence: high
 ---
@@ -91,6 +92,14 @@ llm-wiki 已有 [[SiTime（SITM）]] entity——asset-wiki 這版本從**投資
 - **Epson 19 / TXC 18 中間值**：多軌組合 + 大宗 timing、Forward PE 12-18x、估值乾淨
 - **NDK 17 Apple 供應鏈**：Apple iPhone + 光學晶振 niche、Forward PE 15-20x、Apple lock-in 雙刃劍
 - **Rakon 15 軍工 niche**：軍工 + 衛星 OCXO 高純度、Forward PE 10-15x、規模小但 niche 段 SiTime 短期難滲透
+
+## ⚠️ #P1 CPO 曲線時程推遲（2026-06-10 SemiAnalysis 校準）
+
+- 六條放量曲線中「**光模組 1.6T CPO 三倍 BOM**」段推遲：scale-up CPO 規模出貨 **2029+（綁 Feynman）**——本 entity 的建檔 anchor（wallstengine 2026-05-07 三倍增量）兌現時點重標
+- 其餘五條曲線（衛星／IoT 直連／機器人／自駕／PCIe 6.0）**不受影響**
+- 可插拔 1.6T timing 需求持續（pluggable 主流至 2028+）——但注意 [[TXC]] 21 對照：**可插拔延壽相對利多石英陣營**（sub-30fs 高階可插拔段）、SiTime 的 CPO 平方放大故事才是被推遲的那段
+- **20/25 維持**（多曲線分散正是這次校準的防護墊）、Forward PE 75-100x 的「高成長 premium」對 CPO 段推遲的敏感度要監控
+- 驗證見 [[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|SemiAnalysis 延期報告驗證]]
 
 ## 待 ingest 延伸
 

@@ -3,12 +3,13 @@ title: 800V HVDC 灰白區重劃（物理鐵壁論）
 aliases: [800V HVDC, 灰白區重劃, 物理鐵壁論, 自來水隱喻, SST 架構, HVDC 架構]
 type: concept
 created: 2026-06-09
-updated: 2026-06-09
-as_of: 2026-06-09
+updated: 2026-06-10
+as_of: 2026-06-10
 check_after: 2026-12-09
 expires_on: 2028-06-09
 sources:
   - raw/2026-06-09_FOMOSOC-800V-HVDC-灰白區重劃-物理鐵壁論.md
+  - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 evidence_url: https://www.fomosoc.com/p/800v-hvdc-50hvdc?utm_source=share&utm_medium=android&r=5sk0kp&triedRedirect=true&_src_ref=l.threads.com
 tags: [800V HVDC, 物理鐵壁, 灰白區, 自來水隱喻, SST, BBU, PoL, GaN, SiC, AI 資料中心, 電力戰場]
 confidence: high
@@ -208,6 +209,47 @@ GPU 效率提升 → kW per chip 上升 → 整體電力鏈 TAM 不會收斂。�
 - ⚠️ **[[Vicor]] (VICR)**：48V→core PoL 龍頭、Factorized Power Architecture
 - ⚠️ **[[Infineon]] (IFNNY)**：GaN+SiC 雙料、AI server 800V 主供
 - ⚠️ **[[Texas Instruments TXN]]**：類比 IC 大宗、跨產業最廣分散
+
+## ⭐ #P1 SemiAnalysis 同日對撞校準（2026-06-10、時程層 + 標準之爭）
+
+SemiAnalysis 2026-06-09 機構限定報告（驗證見 [[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|SemiAnalysis 延期報告驗證]]）與本 concept **同日發布、方向相反但相容**：FOMO SOC 講物理層（為什麼終局是高壓直流）、SemiAnalysis 講時程層（比市場預期晚 1-2 年）。
+
+### 風險 #1 被逐字啟動
+
+- 本 concept 原風險 #1「中間態（48V / 400V DC）取代 800V → SST 受惠者降級」= SemiAnalysis 主張的現實：**±400VDC（OCP Mt. Diablo）照常 2H26 推進、NVIDIA 原生單端 800V 量產推遲 2028+**
+- FOMO SOC 自警惕「不會一蹴而就」命中——過熱期確實落在 pilot 公告階段
+
+### 重要 nuance：「誰的 800V」而非「要不要高壓」
+
+- Mt. Diablo 規格（Microsoft + Meta + Google、2026-03-01 生效 v0.7.0）= ±400V 三線制、**但明文保留 2-wire 800V 選項、可接 ±400 或 800V busbar**
+- → hyperscaler 不反高壓直流、反的是 **NVIDIA 單端 800V 標準** = [[接口控制權]] 之爭（NVDA 單端 vs OCP ±400 差分）
+- Rubin compute tray 仍吃 ~50VDC（busbar）、兩種 800V 架構都保留 800V→~50V 轉換級 = tray 層級對上游架構中性 → 物理鐵壁論的「白區 PoL／VRM 不論架構都受惠」段**反而被強化**
+
+### SemiAnalysis 自家四階段基線（Part 1、2026-05-26）
+
+| 階段 | 內容 | 時點 |
+|---|---|---|
+| Phase 1 | ±400V sidecar 改裝既有 AC 設施（Diablo 400）| late 2026／early 2027 |
+| Phase 2 | 800V 原生系統放量（含 Kyber rack）| 2027／2028 |
+| Phase 3 | 全廠 800VDC | late 2028／2029 |
+| SST 規模採用 | — | **2029 初** |
+
+自家量化基線：800VDC 增量容量 ~39GW by 2030、power rack／sidecar 市場 **2028 峰值 ~$11B**（過渡期生意）、SST **~$13B by 2030**。
+
+### 監控指標修訂（#P1）
+
+| 訊號 | 解讀 |
+|---|---|
+| hyperscaler ±400V sidecar 訂單落地（2026 年底）| 過渡期架構確認 → 傳統低壓鏈（[[Forgent Power Solutions]]／Hammond／[[Vertiv]] UPS）延壽 |
+| NVIDIA Kyber／VR Ultra 液冷 800V 版 sampling（late 2026 基線）| 再延後 = Phase 2 markdown、[[Navitas Semiconductor]] flag 加重 |
+| 原「Hyperscaler 公告 800V DC pilot → 加碼 SST／BBU」| **改為雙向訊號**：±400V 擴產 ≠ 單端 800V 採用 |
+
+### 受惠者重排（時程層）
+
+- **雙贏組**（多空兩份報告同日點名）：[[Eaton]]／[[Schneider Electric]]／[[ABB]]／[[Vertiv]] = 「路線敏感（逆向）」軸活驗證
+- **延期受惠**：[[Forgent Power Solutions]] 14（低壓配電 engineered-to-order、⚠️ 受惠的是延期本身、800V 加速即反轉）
+- **延期受壓**：[[Navitas Semiconductor]] 19 → thesis-dependent flag（核心催化劑 2028+）、[[Wolfspeed]]（已 NOT-INVESTABLE 再添一刀）
+- **不受影響**：[[Infineon]]／[[Monolithic Power Systems MPS]]／[[Vicor]]／[[Texas Instruments TXN]] 板級降壓鏈 + MLCC（[[村田 Murata]]／[[國巨]]／[[TDK]]）——48V→sub-1V 不論上游架構
 
 ## 相關連結
 

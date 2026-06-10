@@ -3,12 +3,13 @@ title: Navitas Semiconductor
 aliases: [NVTS, Navitas, NASDAQ:NVTS, GaNFast, GaNSense, GeneSiC, Navitas Semi, 那威達斯, pure-play GaN]
 type: entity
 created: 2026-06-09
-updated: 2026-06-09
-as_of: 2026-06-09
+updated: 2026-06-10
+as_of: 2026-06-10
 check_after: 2026-12-09
 expires_on: 2027-06-09
 sources:
   - raw/2026-06-08_Leo-AI-infra-CapEx-三階段論-1.6T-光模組-InP.md
+  - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, 美股, 功率半導體, GaN, SiC, 800V HVDC, AI infra 電力, Pure-play, NVDA 共同制定, Small Cap, 高 alpha, 高波動]
 confidence: high
 ---
@@ -252,6 +253,22 @@ confidence: high
 - 但 IFX 護城河強、空單風險
 
 → **結論**：NVTS 是高 alpha 衛星倉、不適合 core 配置；如要對沖、可加 Infineon / STM / TI 形成「GaN + SiC pure-play vs 多軌大廠」對沖組合。
+
+## ⚠️ #P1 thesis-dependent flag（2026-06-10 SemiAnalysis 校準）
+
+SemiAnalysis 2026-06-09 機構報告（[[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|驗證 summary]]）：**NVIDIA 原生單端 800VDC 量產推遲 2028+、hyperscaler 走 ±400VDC（Mt. Diablo）**——NVTS 被點名「偏向保守／面臨壓力者」：800VDC 是 GaN 產值爆發的核心催化劑、推遲 = 短期缺乏能支撐當前估值的有感催化劑。
+
+[[結構影響分 vs 可投資五軸分（雙評分體系）]] + [[五軸分數 confidence gate]] 應用：
+
+| 層 | 判定 |
+|---|---|
+| 結構分 | **不變**——GaN 800V first-mover + NVDA design-in 的物理／IP 地位沒被推翻（時點對位軸的「2026-2027 ramp」假設才是被打的）|
+| 可投資分 | 19 → **17-19 區間 + thesis-dependent flag**——時點對位 5/5 依賴「NVDA 800V 體系 2026-2027 量產」、催化劑推遲 2028+ 直接打這一軸；EV/Sales 15-20x 在催化劑推遲下時間成本放大（cash runway 6-8 季 vs 催化劑 2028+ 的錯配）|
+
+**對沖驗證訊號**（flag 解除條件）：
+- ±400V sidecar（Mt. Diablo 體系）內拿到 GaN design-win → 證明 NVTS 不綁死 NVIDIA 單端路線
+- NVIDIA Kyber 液冷 800V 版 sampling 如期（late 2026）→ Phase 2（2027/2028）回到基線
+- AI/Data Center 營收占比突破 40%（提前於 2028 預估）
 
 ## 跟其他 wiki 概念連結
 

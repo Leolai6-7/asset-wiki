@@ -3,10 +3,12 @@ title: TXC
 aliases: [TXC, 台灣晶技, 3042, 3042.TW, TXC Corporation]
 type: entity
 created: 2026-06-09
-updated: 2026-06-09
-as_of: 2026-06-09
+updated: 2026-06-10
+as_of: 2026-06-10
 check_after: 2026-12-09
-sources: []
+sources:
+  - raw/2026-06-09_TXC-3042-MEMO-法說-Photo Die-1.6T 312.5MHz.md
+  - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
 tags: [標的, 台股, 半導體, 石英, timing, TCXO, VCXO, OCXO, 賣水人, SiTime 對手, 石英陣營, AI server]
 confidence: high
 ---
@@ -250,6 +252,15 @@ confidence: high
 
 - 1.6T DCI Hyper-Rail / Multi-Rail 需要 OCXO / VCXO 高頻時脈、TXC 是石英陣營參與者
 - 跟 [[Lumentum]] / [[Coherent]] pump laser / [[Ciena]] / [[Nokia]] DCI 線路系統並列受惠光通訊 1.6T ramp
+
+## ⭐ #P1 CPO 延期＝可插拔延壽利多（2026-06-10 SemiAnalysis 校準）
+
+SemiAnalysis 2026-06-09 機構報告（[[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|驗證 summary]]）對 TXC 是**淨利多**：
+
+- **可插拔光模組主流延長至 2028+**（scale-up CPO 2029+ 綁 Feynman、SN6600 可插拔版比 CPO 版普及）——TXC 312.5MHz 石英進的就是可插拔模組、N1 anchor（1.6T 312.5MHz 驗證通過 + 2027 放量）兌現環境更穩
+- **拉貨方被點名受惠**：[[Innolight]]（旭創）／[[Eoptolink]]（新易盛）在報告「銅纜+可插拔受惠者」名單 = TXC 的直接下游確認拉貨動能
+- **vs [[SiTime]] 對照**：SiTime 的「CPO 三倍 BOM」平方放大段推遲 2029+、TXC 的可插拔大宗＋sub-30fs 高階段不受影響——石英 vs MEMS 雙軌在這次時程修正中**石英相對勝**
+- **21/25 維持**、監控指標中「1.6T 312.5MHz 客戶下單」權重上調（可插拔延壽 = 這個 trigger 的含金量上升）
 
 ## 跟其他 wiki 概念連結
 

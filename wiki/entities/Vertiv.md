@@ -3,10 +3,11 @@ title: Vertiv
 aliases: [VRT, Vertiv Holdings, Vertiv Holdings Co, NYSE VRT]
 type: entity
 created: 2026-06-08
-updated: 2026-06-08
-as_of: 2026-06-08
+updated: 2026-06-10
+as_of: 2026-06-10
 check_after: 2026-12-08
 sources:
+  - raw/2026-06-09_SemiAnalysis-800VDC-CPO-延期-機構報告中文摘要.md
   - https://www.sec.gov/Archives/edgar/data/0001674101/000162828026026379/q12026exhibit991vrt04222026.htm
   - https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-strengthens-liquid-cooling-system-capability-with-acquisition-of-strategic-thermal-labs/
   - https://thecoolingreport.com/intel/nvidia-rubin-liquid-cooling-standard-not-optional
@@ -200,6 +201,18 @@ confidence: high
 **總分 = 22 / 25** —— 散熱戰場 **anchor #1 候選**、僅次於 [[Disco Corp]] 24 / [[村田 Murata]] 24（賽道最高分）、與 [[SK Hynix]] 22+ 並列；**散熱戰場最高分**。
 
 → 比 [[Ciena]] 19、[[Coherent]] 19、[[Lumentum]] 19 更高 3 分（**整合 turnkey + 雙軌 power+cooling + 80% 純度**讓它在五軸全面勝光通訊純度玩家）。
+
+## ⭐ #P1 雙贏確認（2026-06-10 SemiAnalysis 校準）
+
+**多空兩份報告同日（2026-06-09）點名 Vertiv 受惠**——「路線敏感（逆向）5/5」的最強活驗證：
+
+| 情境 | Vertiv 位置 |
+|---|---|
+| 800V 延後（SemiAnalysis 空方）| **大型 UPS 業務延壽** + 低壓配電過渡期生意（報告點名 incremental positive 第一家）|
+| 800V 來臨（FOMO SOC 多方）| **BBU + 800V DC 共同開發者**（NVDA reference architecture）|
+| ±400V sidecar 過渡期 | OCP 生態雙棲、sidecar／power rack 市場 2028 峰值 ~$11B（SemiAnalysis 自家預測）|
+
+→ 不論「誰的 800V」贏（NVDA 單端 vs OCP ±400 差分）、Vertiv 都在桌上——對照 [[Navitas Semiconductor]]（押單端 800V 被時程修正打）與 [[Forgent Power Solutions]]（只受惠延期）。**22/25 維持**、雙贏結構是 Forward PE 40x+ 的部分正當性來源。詳見 [[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|驗證 summary]]。
 
 ## 跟其他 wiki 概念連結
 
