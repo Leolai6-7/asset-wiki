@@ -7,7 +7,7 @@ updated: 2026-06-10
 sources:
   - 2026-06-10 方法論收口（P1 SemiAnalysis 驗證型 ingest 為範本）
 tags: [Meta 框架, 研究方法, SOP, 驗證, 評分, 閉環, 方法論總綱]
-confidence: high
+confidence: medium
 ---
 
 # 研究方法 SOP（驗證型 ingest 與記分板閉環）
@@ -66,7 +66,7 @@ wiki 是圖不是清單——[[wikilink]] 是結構化的邊（因果／從屬�
 
 ## ⑧ 框架更新（錯誤是方法的原料）
 
-已發生的範例：SNPS 失誤（C+B 軸）→ 催生雙評分體系；subagent 評分發散 → 催生 confidence gate；FPS／AAOI 誤判 → 催生「read-across 必外驗」鐵則。**每次歸因必須回答：哪條規則要改？**
+已發生的範例：SNPS 失誤（C+B 軸）→ 催生雙評分體系；subagent 評分發散 → 催生 confidence gate；FPS／AAOI 誤判 → 催生「read-across 必外驗」鐵則。**每次歸因必須回答：哪條規則要改？** ⚠️ #P9 新增鐵則：**「未滿 10 筆」紀律擴張到所有框架級結論與新規則**——新規則上線預設 flag-only（可記錄、不可單獨改判／驅動交易）、通過預註冊歷史檢驗（n≥5 事件＋假陽性率）才升格 gate；修辭不得超過證據等級（定理／驗證／通過＝A-B 級專用詞）。
 
 ## 注碼跟隨研究深度（研究↔投資的接口規則）
 
