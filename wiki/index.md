@@ -9,6 +9,9 @@
 - [[投資四元問題框架（ABCD）]] ⭐⭐ **投資方法總綱**——「為什麼這支股票會漲」＝ A 結構價值真 × B 市場還沒認知 × C 估值還沒 price in × D 我抓得住、**任一失敗不買**；全庫 77+ concept 按四元問題完成工具映射；活案例：SNPS（A 滿、BCD 全敗）／ASML（25 結構、23-24 投資）／TXC（四項同 PASS）／AAOI 6/9（B 錯殺 ≠ C 便宜）；邊界規則：每個工具只回答自己的元問題、不能跨軸
 - [[研究方法 SOP（驗證型 ingest 與記分板閉環）]] ⭐⭐ **研究方法總綱**——八步迴路：知識點 gate → 兩層驗證（attribution／truth、✅🟡❌⚪）→ summary → 評分三件套（五軸＋雙評分＋confidence gate）＋時效 metadata → wikilink 圖 → 監控執行 → 記分板歸因 ABCD → 框架更新；**注碼跟隨研究深度**（深度檔四項 gate 解鎖單檔上限）；成長原則：**決策驅動、不是素材驅動**
 - [[進場三階段與出場三階段（宋分）]] ⭐ **D 軸核心操作工具**（#P3 從宋分 #24／#25 summary 概念化）——進：試水位（≥3 理由）→ 確認（trigger 兌現）→ 趨勢延伸；出：初步減碼 10-20%（顯著漲幅＋共識＋估值偏高）→ 加速調整 20-40%（領頭股不創高）→ 果斷砍倉（支撐破＋基本面變）；出場訊號 = B/C 軸惡化的操作化
+- [[三段估值架構]] ⭐ #P5 — **C 軸時間結構**：敘事建立（ΔPE 驅動）→ 基本面追上（ΔEPS 兌現、[[Re-rate 捕捉法]] 4/4 確認）→ 估值壓縮（賺 EPS 賠 PE）；源自宋分 TXN 三段論、活案例 AAOI／Lumentum／欣興轉骨／國巨補漲
+- [[B 軸客觀指標（市場認知量表）]] ⭐ #P5 — **資訊擴散四階段的可量測量表**（6 指標：EPS revision／sellside 覆蓋＋離散度／12M 漲幅／ETF 納入／散戶熱度／B/B 背離）＋每 entity 4 行快查清單；補 codex 兩次點名的 B 軸缺件；回測 AAOI（3-4）／TXC（1-2）／LITE（3）一致
+- [[檢測賣水人 pattern（良率地獄賣檢測）]] ⭐ #P5 — **跨賽道 pattern 概念化（四案例驗證）**：TGV→AXI（[[德律]]）／CPO→known-good-engine（[[Teradyne]]／[[鴻勁 7769]]／[[致茂 2360]]）／SiC→burn-in（[[AEHR]]）／EUV→actinic mask 檢測（**Lasertec ~100% 壟斷、pattern 最強形態、watchlist 預估 22-24/25**）；三機制：良率負相關＋延期先收錢＋成敗都收錢；附新賽道識別 checklist
 
 ### Meta 框架（投資角度）
 - [[跳出個股看三層：產業、目的、供應]] — 個股之上看產業/目的/供應三層
@@ -198,6 +201,19 @@
 ### 標的：BBU／機構零件層（#P2 — 2026-06-10 持倉驅動建檔）
 
 - [[鉅祥 2476]]（2476.TW／G-Shank）⭐ **#P2 2026-06-10 補位** — **AI 伺服器 BBU 金屬機構件（訂單能見度 6 個月）+ 散熱金屬件 + EMI 屏蔽 + 半導體測試探針、一站式垂直整合**（模具→沖壓→電鍍點鍍控金→埋入射出→組裝、0.02mm 精度、自建電鍍線）：2025 營收 74.46 億（+12.7%）／EPS 4.36（2024 5.18、金價+匯+關稅壓制）／毛利 ~30% 高於同業；應用五分散（工業 34／車載 19／PC 19／消費 17／網通 11）；AI 佔比 ~20%、BBU 訂單轉回台灣生產；**BBU = ±400V／800V 雙路線都要的站**、映射 [[800V HVDC 灰白區重劃（物理鐵壁論）]] BBU 鏈零件層 + [[AI infra 散熱戰場]]；觀音電鍍線 2026 Q1 投產；⚠️ 金價佔成本 10-15%；五軸 **17/25**（confidence: medium）
+
+### 標的：缺口清理 8 家（第二十波 #P5 — 2026-06-10 agent team 並行建檔）⭐
+
+⭐ **橫向發現：「受惠名單 ≠ 進場名單」**——SemiAnalysis 延期報告的受惠者幾乎全數已在資訊擴散階段 3＋C 軸高位（Advantest 12M +270%／旺矽 PE 110-160x／穎崴 PE ~175x／ALAB Forward PE 102-121x／Hammond +171%／聯發科月翻倍）＝[[投資四元問題框架（ABCD）]] 乘法規則的大規模實證：**B 已飽和＋C 已 stretch、A 再好也不是進場區**。
+
+- [[Advantest]]（6857.JP）⭐ #P1 對照組 — **ATE 雙寡頭老大 + AI SoC／HBM 測試雙主導**：FY2025 營收 ¥1.13 兆（+44.7%）／OP +118.8%（OPM ~44%）、HBM 測試 >60%；⚠️ **2024-11 已與 FormFactor 合作 SiPh wafer-level test cell、早 Teradyne Photon 100 約 16 個月**；12M +270%／Forward PE ~40-50x = C 軸紅燈；五軸 **20-21/25**
+- [[旺矽 6223]]（6223.TW／MPI）⭐ #P2 — **探針卡台廠龍頭＋SiPh on-wafer 光電測試**：CPC/VPC 全球第一、AI ASIC 探針卡 CSP 市佔 >70%、1Q26 毛利率 59.4% 創高、EPS +63%；CPO 雙面 prober 2026 小量／2027 放量；⚠️ trailing PE ~110-160x；五軸 **19/25**
+- [[穎崴 6515]]（6515.TW）⭐ #P2 — **CPO 測試介面耗材位：全球前二測試座＋矽光子晶圓級光學 CPO 介面全球首創（2000W／>112G、美系客戶驗證通過、2023-10 即發布）**：2026Q1 營收 NT$29.8 億（+30%）、EPS 19.54 創高、HPC+AI 68%；⚠️ 北美客戶 >80% 全 cluster 最集中、trailing PE ~175；五軸 **18/25**
+- [[聯發科 2454]]（2454.TW／MediaTek）⭐ #P5 — **手機 SoC 出貨王（36% 份額）轉型 AI ASIC 淘金者**：2026 AI ASIC 目標翻倍至 $2B（Q4 放量）、2027 multi-billion、Google TPU design win + NVDA GB10 共同設計＝ASIC vs GPU 兩陣營對沖；1Q26 EPS 15.17（YoY -17.4%）、Forward PE ~55-57x、股價一個月近翻倍＝共識段；⚠️ 跟 [[AVGO]] 檔互為 TPU 對手盤；五軸 **17/25**（thesis-dependent：ASIC 兌現度）
+- [[Astera Labs]]（ALAB）⭐ #P5 — **銅纜 scale-up 互連賣水人（Aries retimer＋Taurus AEC＋Scorpio switch）**：Q1 2026 營收 $308.4M（+93%）、毛利 76.4%、AWS $6.5B warrant 綁定（⚠️ vest 條件含 optical engine＝自鋪光路線 hedge）；CPO 延期＝銅窗口延長直接受惠；⚠️ Forward PE 102-121x、分析師目標價低於現價 28%；五軸 **17-18/25**
+- [[Semtech]]（SMTC）#P1 — **光＋銅雙邊互連前端 IC 賣水人**（FiberEdge TIA＋CopperEdge ACC＋LoRa）：FY26 DC $223M +58%、FY27 目標再 +50%；⚠️ **2025-02 NVDA rack 改版單日 -31% = 「路線敏感」軸最佳歷史活案例**；Forward PE ~53x vs DC 佔比僅 ~25%；五軸 **17-18/25**
+- [[Hammond Power Solutions]]（TSX: HPS.A）⭐ #P1 補位 — **北美乾式變壓器 #1、800V 延期低壓延壽受惠**：DC 佔比近 30%、backlog +95%、P/S ~3.9x（[[Forgent Power Solutions]] 的 1/4）；⚠️ 一年已漲 171%、Forward PE ~35x、擴散階段 3；五軸 **16/25**
+- [[Himax]]（HIMX）#P5 — **車用顯示 IC 龍頭、AI 含量全押 CPO WLO 隔層 option**：FY2025 $832M -8% 無 AI 結構性、CPO 2027 才 meaningful revenue；6/9 -10.1% 收 $18.27 = **敘事溢價合理修正、非錯殺**（vs [[AAOI]] 同日 -14% 錯殺 candidate 的對照組）；五軸 **15/25（14-16）**
 
 ### 標的：光通訊 / DCI / 光引擎（第五波）
 - [[Lumentum]]（NASDAQ: LITE）— **InP / EML / pump laser 純度首選**：200G EML 全球唯一量產者、pump laser 全球前三、OCS Google 唯一商業化、NVDA 2026-03 $2B 戰略投資 + Greensboro NC InP 廠 2028 量產；FY2026 Q3 營收 $808M（+90%）/ Q4 指引 $960M-$1.01B（+85%）/ Forward PE 52-59 / 12M 漲幅 +1,542% / Re-rate 4/4；五軸 19/25（純度 + IP 強、客戶分散弱）

@@ -3311,3 +3311,47 @@ L1+L2+L3 並行 ingest 時各 subagent 自行分配 wiki 流水號，加上 subs
 
 - 國巨／欣興一手 anchor 升級（Leo 自整理法說 MEMO、現為二手法說整理）
 - P1 層接續：三段估值架構、B 軸客觀指標、檢測賣水人 pattern 概念化
+
+## 2026-06-10 #P5 — agent team 缺口清理：8 entity + 3 concept + 每週檢視首跑（12 agents 零失敗）
+
+**觸發**：Leo「把剩下的用 agent team 跑完吧」。Workflow 12 agents 並行（~83 萬 tokens／17 分鐘）、agents 只寫各自新檔、共用檔整合由主迴路執行。
+
+### 新 entity ×8
+
+| Entity | 五軸 | 關鍵 |
+|---|---|---|
+| [[Advantest]] | 20-21/25 | ATE 老大＋HBM 測試 >60%；⚠️ 2024-11 已與 FormFactor 做 SiPh test cell＝早 Photon 100 16 個月 |
+| [[旺矽 6223]] | 19/25 | 探針卡龍頭＋AI ASIC CSP 市佔 >70%；PE 110-160x |
+| [[穎崴 6515]] | 18/25 | CPO 測試介面全球首創（2023-10 即發布）；北美 >80% 集中＋PE ~175 |
+| [[Astera Labs]] | 17-18/25 | 銅 scale-up 賣水人＋AWS $6.5B warrant（vest 含 optical engine＝自我 hedge）；Forward PE 102-121x |
+| [[Semtech]] | 17-18/25 | 光＋銅雙邊前端 IC；2025-02 NVDA rack 改版單日 -31%＝路線敏感軸最佳歷史活案例 |
+| [[聯發科 2454]] | 17/25 | ASIC 轉型 thesis-dependent（Google TPU）；月翻倍已共識段；跟 [[AVGO]] 互為對手盤 |
+| [[Hammond Power Solutions]] | 16/25 | 乾式變壓器 #1、P/S 3.9x vs FPS 15x；+171% 擴散階段 3 |
+| [[Himax]] | 15/25（14-16）| 主業無 AI 結構性、CPO 隔層 option；6/9 -10.1%＝合理修正非錯殺 |
+
+### 新 concept ×3（ABCD 缺件全數銷項）
+
+- [[三段估值架構]]——C 軸時間結構（源自宋分 TXN 三段論、四活案例）
+- [[B 軸客觀指標（市場認知量表）]]——6 指標＋四階段門檻＋回測一致（codex 缺件補完）
+- [[檢測賣水人 pattern（良率地獄賣檢測）]]——四案例跨賽道驗證、**Lasertec actinic ~100% 壟斷＝最強形態（watchlist、預估 22-24/25）**
+
+### 每週檢視首跑（2026-W24）
+
+- check_after 到期：0 篇（最早 2026-09-05、W36/W37 將與記分板 +3mo 檢討日同週）
+- 24 檔報價入庫、記分板 #1-#8 基準價全數回填（#1 TXC 改用 06-09 收盤 228.5）
+- 持倉事件：國巨 5 月營收 150.58 億（+47.5% 單月新高）＋二連漲停；MU 財報 2026-06-24＝最大 pending 事件
+- 監控四項無新訊號；6/9 賣壓量化：LITE -8.2／COHR -11.4／AAOI -14／SUMCO -8.9
+
+### 橫向發現
+
+1. **「受惠名單 ≠ 進場名單」**——延期報告受惠者全數 B 飽和＋C stretch＝ABCD 乘法規則大規模實證
+2. **Teradyne「CPO 首發」修正**——Advantest+FormFactor 早 16 個月、TER 改稱「首發整合式光電 ATE 平台」（已校準 entity）
+3. **AAOI vs Himax 同日對照**——錯殺判定必須先驗主業相關性
+4. **P3 自留項完成**：C 軸季度刷新機制入 runbook（下次 2026-08 底）、/weekly-review skill 已建（~/.claude/skills/）
+
+### 待辦延伸
+
+- Lasertec 建檔（檢測 pattern 最強形態）
+- FormFactor 建檔（Advantest 盟友＋Photon 100 對手雙重角色浮現）
+- 旺矽 CPO 驗證 2026 Q2 底＝binary 事件、入監控
+- 300308／300502 的 06-10 收盤待補（A 股來源受阻）
