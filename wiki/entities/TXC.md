@@ -17,7 +17,7 @@ confidence: high
 
 ## 1. 一句話定位
 
-**台廠石英晶體龍頭 + 石英 timing 元件全產品線（晶體 + TCXO + VCXO + OCXO）+ 跟 [[SiTime]] MEMS 直接對打的石英陣營台廠代表**——1983 桃園創立的台灣石英 timing 元件 #1、全球石英晶體 top 3、AI server / 汽車 / 消費電子 / 工業四線分散；2024-2025 AI server 滲透 anchor（NVDA Hopper / Blackwell timing 配套部分 design-in）+ 客戶 Apple / Samsung / NVDA / AWS / 中國 OEM 全球分散；FY2025 營收 ~NT$120-150 億（USD ~$4-5 億）、Forward PE 12-18x、12M +10-30%；定位「**石英 vs [[SiTime]] MEMS 路線分歧、中性消費電子 + 汽車 + 工業大宗** vs SiTime 5G/AI server 高端」。
+**台廠石英晶體龍頭 + 石英 timing 元件全產品線（晶體 + TCXO + VCXO + OCXO）+ 跟 [[SiTime]] MEMS 直接對打的石英陣營台廠代表**——1983 桃園創立的台灣石英 timing 元件 #1、全球石英晶體 top 3、AI server / 汽車 / 消費電子 / 工業四線分散；2024-2025 AI server 滲透 anchor（NVDA Hopper / Blackwell timing 配套部分 design-in）+ 客戶 Apple / Samsung / NVDA / AWS / 中國 OEM 全球分散；FY2025 營收 **133.49 億（+5.3%）**、2025 EPS **5.28**、股價 214（2026-06-10）／**Forward PE ~33x**（2026E EPS ~6.5）——⚠️ #P10 事實抽查修正：原「12-18x 估值乾淨」為幻覺快照；定位「**石英 vs [[SiTime]] MEMS 路線分歧、中性消費電子 + 汽車 + 工業大宗** vs SiTime 5G/AI server 高端」。
 
 ## 2. 三層 thesis
 
@@ -29,8 +29,8 @@ confidence: high
   - **AI server timing 是新增需求**：NVDA Hopper / Blackwell / Rubin 機櫃單台 timing BOM **數十至數百顆**（vs 傳統 server 個位數）
   - **2024-2025 AI server design-in**：TXC 部分 NVDA Hopper / Blackwell timing 配套（非主供、跟 SiTime + NDK + Epson 多源分食）
 - **跟 [[SiTime]] MEMS 路線分歧 anchor**：
-  - **[[SiTime]] MEMS**：高端 5G / AI server / 衛星 / 機器人、$1.85B 市值、Forward PE 75-100x（high growth premium）
-  - **TXC 石英**：消費電子 + 汽車 + 工業大宗、台股估值乾淨（Forward PE 12-18x、CP 值最高的石英陣營玩家）
+  - **[[SiTime]] MEMS**：高端 5G / AI server / 衛星 / 機器人、市值 ~$16-17B（#P10 修正、原 $1.85B 差 9 倍）、Forward PE 75-100x（high growth premium）
+  - **TXC 石英**：消費電子 + 汽車 + 工業大宗、Forward PE **~33x**（#P10 修正——「估值乾淨」前提已失效、僅相對 SiTime 折價）
   - **石英 vs MEMS 物理差異**：石英成熟 50 年 IP / 低成本大宗 / 抗振動穩定 vs MEMS 矽製程 / 規格升級空間大 / 高頻高穩定
 - [[資訊擴散四階段]]：機構（台股 ETF 0050 持股）→ 賣方（外資中性 / 內資 buy）→ 散戶（題材股、AI server 概念股輪動受惠）
 
@@ -65,9 +65,9 @@ confidence: high
   - **規模優勢**：vs Rakon 30-50x 規模差、vs NDK / Epson 規模相當、vs SiTime 5x 規模差
 - 競爭格局：
   - **vs [[SiTime]]**（NASDAQ: SITM）：路線分歧、SiTime 高端 5G / AI server / 衛星 / 機器人 / 自駕、TXC 消費電子 + 汽車大宗；TXC 跟 SiTime 共同瓜分 AI server / 5G timing TAM
-  - **vs [[NDK]]**（6779.JP）：日本石英 #1、規模相當（FY2025 ¥600-800 億 JPY vs TXC NT$120-150 億）、NDK 勝在 Apple iPhone / Samsung 智慧手機 anchor + 光學晶振
+  - **vs [[NDK]]**（6779.JP）：日本石英 #1、規模相當（FY2025 **¥530.6 億** JPY vs TXC NT$133.5 億）、NDK 勝在 Apple iPhone / Samsung 智慧手機 anchor + 光學晶振
   - **vs [[Epson]]**（6724.JP）：Epson Quartz Device 段佔 Epson 整體 ~10%、Epson Quartz Devices 規模相當 TXC、但 Epson 屬於印表機 + 投影機 + 機器人 conglomerate（路線多元）
-  - **vs [[Kyocera]]**（NYSE: KYO + 6971.JP）：Kyocera 石英只是 conglomerate 一段（含陶瓷 + connector + AVX 鉭電容 + 太陽能 + 印刷 + 通訊設備）、規模較 TXC 大（USD 13-15B vs TXC USD 4-5 億）
+  - **vs [[Kyocera]]**（OTC: KYOCY + 6971.JP、2018 已自 NYSE 下市）：Kyocera 石英只是 conglomerate 一段（含陶瓷 + connector + AVX 鉭電容 + 太陽能 + 印刷 + 通訊設備）、規模較 TXC 大（USD 13-15B vs TXC USD 4-5 億）
   - **vs [[Rakon]]**（NZX: RAK）：niche 玩家、TXC vs Rakon 規模差 5-10x、Rakon 軍工 / 衛星 / 5G base station niche
 - 風險：
   - **[[SiTime]] MEMS 滲透高端**：若 SiTime 5G / AI server / 衛星市佔提升、TXC 高端 OCXO / VCXO 段受壓
@@ -81,19 +81,19 @@ confidence: high
 
 | 指標 | 數值 |
 |---|---|
-| 股價（2026-06-09 區間估）| **NT$50-70**（區間估、實際需 Leo 確認）|
-| 市值 | **NT$200-280 億**（USD ~$6-9 億）|
-| Forward PE | **12-18x**（台股估值乾淨、vs SiTime 75-100x 顯著折價）|
-| 股息殖利率 | 3-5%（台股穩定配息）|
-| FY2025 全年營收 | **NT$120-150 億**（USD ~$4-5 億、YoY +10-20%）|
-| FY2025 EPS | NT$3-5（區間估）|
-| 12M 漲幅 | **+10-30%**（vs SiTime +200-400% 顯著落後、估值未 re-rate）|
+| 股價（2026-06-10）| **NT$214**（6/3 漲停創天價；⚠️ #P10：原「50-70 區間估」為幻覺）|
+| 市值 | **~NT$660 億** |
+| Forward PE | **~33x**（2026E EPS ~6-6.5；進場價 235.7 ＝ ~36x）|
+| FY2025 全年營收 | **NT$133.49 億（+5.34%）** |
+| FY2025 EPS | **5.28** |
+| 2026E EPS（法人）| ~6-6.5（Q1 2026 實績 1.32）|
+| 12M 漲幅 | 大幅上漲（6/3 漲停創歷史新高、非原「+10-30%」）|
 | 全球石英 timing 市佔 | **~10-15%**（top 3、跟 NDK / Epson 並列日台三巨頭）|
 | AI server 營收佔比 | **~15-20%**（FY2025 新增、成長段）|
 | 汽車營收佔比 | **~25%**（基本盤 + 成長段）|
 | 消費電子營收佔比 | **~40%**（基本盤、成長放緩）|
 | FY2026 自家指引 | YoY +15-25%（AI server + 汽車雙引擎）|
-| Re-rate 三角形 | **2/4**（營收品質 + 毛利率 ✅、OpEx + 營業利益 ⚠️）|
+| Re-rate 三角形 | **2.5/4**（N1 對齊：營收品質 ✅ 毛利率 ✅ OpEx ⚠️ 拐點 ⚠️）|
 
 ### Re-rate 三角形
 
@@ -104,7 +104,7 @@ confidence: high
 | OpEx | ⚠️ 越南 / 馬來西亞 capex 持續、規模 capex 拉高 OpEx |
 | 營業利益 | ⚠️ AI server 高毛利但佔比仍小、整體 op margin ~15-18% |
 
-→ **Re-rate 三角形 2/4**——AI server + 汽車雙引擎仍在 ramp、整體營收品質 + 毛利率改善、但 OpEx + 營業利益尚未顯著放量。估值 Forward PE 12-18x 反映「**台股大宗 timing 廠**」定位，未享有 SiTime 75-100x 高成長溢價。
+→ **Re-rate 三角形 2/4**——AI server + 汽車雙引擎仍在 ramp、整體營收品質 + 毛利率改善、但 OpEx + 營業利益尚未顯著放量。估值已 re-rate 至 Forward PE ~33x（#P10 修正）——大宗 timing 廠定位的折價已大半收斂。
 
 ### ✅ 催化
 
@@ -134,7 +134,7 @@ confidence: high
 | 高端規格 | OCXO >100MHz / +/- 1ppb stability、石英仍領先 | ChipScale Atomic Clock 追趕中、+/- 0.5ppb 高端 |
 | ASP | $0.1-$5 USD 大宗 | $1-$30 USD（高端 4-6x 溢價）|
 | 客戶結構 | 消費電子 + 汽車 + 工業大宗 | 5G / AI server / 衛星 / 機器人 / 自駕高端 |
-| Re-rate 路徑 | Forward PE 12-18x「**台股大宗 timing 廠**」 | Forward PE 75-100x「**高成長 MEMS pure-play**」|
+| Re-rate 路徑 | Forward PE ~33x（#P10 修正、re-rate 已大半發生）| Forward PE 75-100x「**高成長 MEMS pure-play**」|
 | 風險 | SiTime 高端滲透、消費電子萎縮 | 規模小、客戶集中、CapEx 兌現 |
 
 ### 五軸對照
@@ -153,8 +153,8 @@ confidence: high
 ### 投資意涵：石英 vs MEMS 雙軌策略
 
 - **押 SiTime 20**：高成長 MEMS pure-play、Forward PE 75-100x、5G / AI / 衛星 / 機器人 / 自駕高端
-- **押 TXC 18**：大宗 timing recurring、Forward PE 12-18x、消費電子 + 汽車 + 工業基本盤 + AI server 滲透段
-- **TXC 是 SiTime 的「Margin of safety + 估值乾淨」對沖位**：若 AI server CapEx 見頂、TXC 12-18x 估值有下檔保護、SiTime 75-100x 估值 derate 壓力大
+- **押 TXC 21**（N1 校準後）：大宗 timing recurring＋sub-30fs chokepoint；⚠️ Forward PE 已 ~33x、估值優勢不再是論點
+- ~~TXC 是「估值乾淨」對沖位~~ **#P10 改寫：對沖只剩「路線分歧」一條腿**——TXC ~33x vs SiTime 75-100x 仍有相對折價、但 33x 的絕對下檔保護有限；CapEx 見頂情境兩者皆 derate、TXC 幅度較小而已
 
 ## 五軸評分（25 分制）
 
@@ -229,7 +229,7 @@ confidence: high
 | 公司 | 五軸 | 路線敏感 | 站別關鍵 | 耗材 | IP | 客戶分散 | 定位 |
 |---|---|---|---|---|---|---|---|
 | **TXC**（3042.TW、本 entity）⭐ N1 升級 | **21/25** ⭐ | 4 | **5** | **5** | **4** | 3 | **石英 sub-30fs chokepoint + Photo Die 製程護城河 + 1.6T 312.5MHz 驗證 + AI/車用 45%** |
-| **[[Kyocera]]**（NYSE: KYO + 6971.JP）| **20/25** | 5 | 4 | 4 | 4 | **5** | **跨戰場 conglomerate（石英 + 陶瓷 + AVX 鉭電容 + 多元）**|
+| **[[Kyocera]]**（OTC: KYOCY + 6971.JP）| **20/25** | 5 | 4 | 4 | 4 | **5** | **跨戰場 conglomerate（石英 + 陶瓷 + AVX 鉭電容 + 多元）**|
 | **[[Epson]]**（6724.JP）| **19/25** | **5** | 4 | 4 | 3 | 4 | **TCXO 全球 #1 + 印表機 + 投影機 + 機器人多軌組合王**|
 | **[[NDK]]**（6779.JP）| **17/25** | 4 | 4 | **5** | 3 | 1 | **日本石英 #1、Apple iPhone / Samsung 智慧手機 anchor + 光學晶振**|
 | **[[Rakon]]**（NZX: RAK）| **15/25** | 4 | 3 | 4 | 3 | 1 | **紐西蘭 niche、TCXO + OCXO 高端 / 軍工 / 衛星 / 5G base station**|

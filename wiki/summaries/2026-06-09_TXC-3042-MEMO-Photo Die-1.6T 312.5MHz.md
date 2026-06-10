@@ -88,7 +88,7 @@ confidence: medium
 - sub-30fs 物理護城河 = 7 層之外的「**timing 層**」chokepoint
 
 ### 強化 [[CPO 供應鏈圖譜]]
-- 第 7 層 timing：[[SiTime]]（MEMS 中端）+ [[TXC 3042|TXC]]（石英高端 sub-30fs）並列
+- 第 4 層 timing（#P10 修正、原誤植第 7 層）：[[SiTime]]（MEMS 中端）+ [[TXC 3042|TXC]]（石英高端 sub-30fs）並列
 - 跟 [[NVDA 網路 stack map]] 補入 TXC sub-30fs 護城河
 
 ### 強化 [[賣水人選股邏輯（投資版）]]

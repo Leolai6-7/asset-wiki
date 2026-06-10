@@ -58,7 +58,7 @@ llm-wiki 已有 [[SiTime（SITM）]] entity——asset-wiki 這版本從**投資
 | 公司 | 五軸 | 路線敏感 | 站別關鍵 | 耗材 | IP | 客戶分散 | 定位 |
 |---|---|---|---|---|---|---|---|
 | **SiTime**（NASDAQ: SITM、本 entity）| **20/25** | 5 | 4 | 3 | 3 | **5** | **MEMS pure-play 高端**（5G / AI server / 衛星 / 機器人 / 自駕、Forward PE 75-100x）|
-| **[[Kyocera]]**（NYSE: KYO + 6971.JP）| **20/25** | **5** | 4 | 4 | **4** | **5** | **跨戰場 conglomerate**（石英 + AVX 鉭電容 + 多元）|
+| **[[Kyocera]]**（OTC: KYOCY + 6971.JP）| **20/25** | **5** | 4 | 4 | **4** | **5** | **跨戰場 conglomerate**（石英 + AVX 鉭電容 + 多元）|
 | **[[Epson]]**（6724.JP）| **19/25** | **5** | 4 | 4 | 3 | 4 | **TCXO 全球 #1 + 多軌組合王**（印表機 + 投影機 + 機器人 + 石英 + 手錶）|
 | **[[TXC]]**（3042.TW）| **18/25** | 4 | 4 | **5** | 3 | 4 | **台廠石英晶體龍頭**（消費電子 + 汽車 + AI server + 工業大宗）|
 | **[[NDK]]**（6779.JP）| **17/25** | 4 | 4 | **5** | 3 | **1** | **日本石英 #1、Apple iPhone anchor + 光學晶振 niche**（Apple 集中度 ~30-40% 扣分主因）|
@@ -67,7 +67,7 @@ llm-wiki 已有 [[SiTime（SITM）]] entity——asset-wiki 這版本從**投資
 ### SiTime 20 = Kyocera 20 並列頂級 ⭐
 
 兩家路線完全不同但分數相同：
-- **SiTime**：MEMS pure-play 高端、Forward PE 75-100x、規模 $1.85B 市值、5G / AI server / 衛星 / 機器人 / 自駕 5-6 條獨立曲線
+- **SiTime**：MEMS pure-play 高端、Forward PE 75-100x、市值 ~$16-17B（#P10 修正、原 $1.85B 為 2023 谷底舊值、差 9 倍）、5G / AI server / 衛星 / 機器人 / 自駕 5-6 條獨立曲線
 - **Kyocera**：跨戰場 conglomerate（石英 + AVX 鉭電容 + 陶瓷封裝 + 太陽能 + 印刷 + 通訊）、Forward PE 14-18x、規模 USD ~$13-15B、被動元件第三道防線（鉭電容）anchor
 
 → 兩家代表 timing 賽道兩種「**賣水人之中的賣水人**」哲學：(1) MEMS 路線分歧 / 規格升級 vs (2) 跨戰場 conglomerate / 多軌 sum-of-parts
@@ -89,7 +89,7 @@ llm-wiki 已有 [[SiTime（SITM）]] entity——asset-wiki 這版本從**投資
 可同時持有 SiTime + 石英陣營形成 timing 賽道完整曝險：
 - **SiTime 20 高成長 alpha**：MEMS pure-play、Forward PE 75-100x、5G / AI / 衛星 / 機器人 / 自駕 5-6 條獨立曲線
 - **Kyocera 20 跨戰場 defensive**：石英 + AVX 鉭電容 + 多元、Forward PE 14-18x、被動元件第三道防線 anchor
-- **Epson 19 / TXC 18 中間值**：多軌組合 + 大宗 timing、Forward PE 12-18x、估值乾淨
+- **Epson 19 / TXC 21 中間值**（#P10 分數同步）：多軌組合 + 大宗 timing；⚠️ TXC Forward PE 已 ~33x、「估值乾淨」標籤撤回
 - **NDK 17 Apple 供應鏈**：Apple iPhone + 光學晶振 niche、Forward PE 15-20x、Apple lock-in 雙刃劍
 - **Rakon 15 軍工 niche**：軍工 + 衛星 OCXO 高純度、Forward PE 10-15x、規模小但 niche 段 SiTime 短期難滲透
 
