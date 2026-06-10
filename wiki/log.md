@@ -3226,3 +3226,26 @@ L1+L2+L3 並行 ingest 時各 subagent 自行分配 wiki 流水號，加上 subs
 - Advantest（ATE 對照組）、穎崴 6515、旺矽 6223 watchlist 候選建檔
 - Himax／Astera Labs／Semtech／Hammond（報告點名、未建檔、優先級低）
 - 監控：NVIDIA Kyber 液冷 800V 版 sampling（late 2026 基線）、±400V sidecar 年底訂單、SN6810 插損根因公開訊息
+
+## 2026-06-10 #P2 — ingest: 鉅祥 2476 建檔（持倉驅動）+ 00988A 查證
+
+**觸發**：Leo 部位帳本初始化後、第 4 大持倉鉅祥（12.1%）為 wiki 空白；Leo 指示「自己想辦法補」。
+
+### 操作
+
+1. **新 entity**：[[鉅祥 2476]] **17/25**（confidence: medium）——BBU 金屬機構件（±400V／800V 雙路線都要）+ 散熱金屬件 + EMI 屏蔽 + 半導體測試探針、一站式沖壓電鍍垂直整合（0.02mm／點鍍控金）；2025 營收 74.46 億（+12.7%）／EPS 4.36（2024 5.18 下滑、金價+匯+關稅壓制）／毛利 ~30%；應用五分散（工業 34／車載 19／PC 19／消費 17／網通 11）；AI 佔比 ~20%、BBU 訂單能見度 6 個月、觀音電鍍線 2026 Q1 投產
+2. **index.md**：新增「標的：BBU／機構零件層（#P2）」段
+3. **賣水人 master**：#P2 補檔段（17/25、跟 Innolight 17／Eoptolink 17／NDK 17 同級「分散型零件賣水人」）
+4. **00988A 主動統一全球創新查證**（private 帳本用）：top10（2026-06-08）= MU 5.6／SEMCO 5.35／AMD 5.22／Kioxia 3.95／SanDisk 3.79／MRVL 3.51／LITE 3.38／Infineon 3.05／聯發科 2.94／Murata 2.88、地區美 47/台 22/日 17
+
+### Surprising
+
+1. **鉅祥的 AI 主力是 BBU 機構件**——正好落在 #P1 校準的「±400V／800V 雙路線都要的站」、路線不敏感；SemiAnalysis 時程之爭打不到零件層
+2. **00988A 不是泛 beta、是 AI 供應鏈賣水人籃子**——top10 與賣水人 master 高度同款（Murata 24／Infineon 22／SEMCO／LITE 19＋記憶體三家）、9/10 已在 wiki 有檔；唯一 top10 缺檔 = 聯發科（待補候選）
+3. **金價佔鉅祥成本 10-15%**——零件廠罕見的貴金屬曝險、列入監控
+4. 鉅祥有**半導體測試探針**線——CPO 第 9 層測試的外圍 option、跟 #P1 檢測賣水人 cluster 弱連結
+
+### 待辦延伸
+
+- 聯發科 entity（00988A top10 唯一缺檔）
+- 鉅祥探針線深度（是否進 probe card 供應鏈）

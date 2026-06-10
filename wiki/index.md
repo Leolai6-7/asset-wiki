@@ -189,6 +189,10 @@
 - [[Forgent Power Solutions]]（NYSE: FPS）⭐ **#P1 2026-06-10 補位** — **資料中心低壓配電 engineered-to-order**（MGM Transformers／PwrQ／States／VanTran 2023 整合母品牌、NYSE 新掛牌）：800V 延後=低壓變壓器／開關櫃延壽直接受惠、**⚠️ P/S ~15x + 受惠的是延期本身（800V 加速即反轉）**；五軸 **14/25 reference tier**；價值=「800V 時程的反向溫度計」
 - 驗證 summary：[[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|SemiAnalysis 800VDC+CPO 延期報告驗證]]（FPS／鴻勁／AAOI 歸類全驗證屬實、AAOI 6/9 -14% 錯殺 candidate、A 股 6/5 先跌美股 6/9 後跌=機構圈先行流通）
 
+### 標的：BBU／機構零件層（#P2 — 2026-06-10 持倉驅動建檔）
+
+- [[鉅祥 2476]]（2476.TW／G-Shank）⭐ **#P2 2026-06-10 補位** — **AI 伺服器 BBU 金屬機構件（訂單能見度 6 個月）+ 散熱金屬件 + EMI 屏蔽 + 半導體測試探針、一站式垂直整合**（模具→沖壓→電鍍點鍍控金→埋入射出→組裝、0.02mm 精度、自建電鍍線）：2025 營收 74.46 億（+12.7%）／EPS 4.36（2024 5.18、金價+匯+關稅壓制）／毛利 ~30% 高於同業；應用五分散（工業 34／車載 19／PC 19／消費 17／網通 11）；AI 佔比 ~20%、BBU 訂單轉回台灣生產；**BBU = ±400V／800V 雙路線都要的站**、映射 [[800V HVDC 灰白區重劃（物理鐵壁論）]] BBU 鏈零件層 + [[AI infra 散熱戰場]]；觀音電鍍線 2026 Q1 投產；⚠️ 金價佔成本 10-15%；五軸 **17/25**（confidence: medium）
+
 ### 標的：光通訊 / DCI / 光引擎（第五波）
 - [[Lumentum]]（NASDAQ: LITE）— **InP / EML / pump laser 純度首選**：200G EML 全球唯一量產者、pump laser 全球前三、OCS Google 唯一商業化、NVDA 2026-03 $2B 戰略投資 + Greensboro NC InP 廠 2028 量產；FY2026 Q3 營收 $808M（+90%）/ Q4 指引 $960M-$1.01B（+85%）/ Forward PE 52-59 / 12M 漲幅 +1,542% / Re-rate 4/4；五軸 19/25（純度 + IP 強、客戶分散弱）
 - [[Coherent]]（NYSE: COHR）— **光通訊 + SiC 雙曲線**：transceiver 全球 ~25% 市佔（FY2025 $5.81B）、6-inch InP 線追趕 EML、SiC 10kV MOSFET + 300mm 平台切 AI datacenter 配電、NVDA 2026-03 $2B 戰略投資（與 LITE 同日同額對倒）+ AI 訂單能見度 2028；Q3 FY2026 營收 $1.81B（+21%）/ Datacenter & Comm +41%、Forward PE 44-49 / 12M 漲幅 +362% / Re-rate 3/4；五軸 19/25（路線 + 客戶分散勝、EML 短期落後 LITE）
