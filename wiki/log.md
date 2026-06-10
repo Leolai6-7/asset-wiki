@@ -3521,3 +3521,37 @@ L1+L2+L3 並行 ingest 時各 subagent 自行分配 wiki 流水號，加上 subs
 2. **數字系統性向戲劇化方向膨脹**（>50% 壟斷、-10% 暴跌、44 億併購）——LLM 的敘事引力是可量測的偏誤方向
 3. **「wiki 引 wiki」回音室的活案例就是 TXC 復盤自己**：初版復盤引用幻覺 PE 得出「C 非主因」、直到外部抽查才翻案——內部一致性不等於真實性
 4. 五票交集與 #P9 同構：**寫了規範 ≠ 有制度**——決策層的病（訊號不綁訂單）和知識層的病（驗證不綁出檔）是同一個病
+
+## 2026-06-10 #P11 — 知識庫修復全量落地（Tier 1 結構＋Tier 2 認識論＋Tier 3 政策）
+
+**觸發**：Leo「開始」（#P10 五路審核的修復方案）。
+
+### Tier 1 結構手術
+
+- `#`→`＃` 改名 44 檔＋88 檔引用更新＋宋分 alias（孤兒救援：summaries 孤兒率 76% 的主因拆除）
+- **index 重建**：50K → 8K tokens 純目錄（舊版存 index-archive-2026-06）、CLAUDE.md 查詢路徑改 **grep-first**、「index 不內嵌數字」
+- schema 補完：as_of +160／check_after +156；**12 月斷崖錯峰 167 檔**（持倉檔強制 2026-09-15 先檢）
+- **confidence 通膨清洗 204 檔**（high 而 sources 無外部 URL → 一律 medium）
+- `thesis_dependency` 全庫 335 檔（AI-capex／none 可遷移／counter）——「押同一前提的知識佔比」成為可監控數字
+- lint 工具上線（tools/lint.py：斷鏈／檔名／schema／禁用詞）＋掛進每週檢視；終跑：禁用詞 0、檔名 bug 0、殘餘斷鏈全為合法待建標記
+
+### Tier 2 認識論修復
+
+- **反方樞紐四檔建檔**（agent team、全部外部 URL 查證、thesis_dependency: counter）：
+  - [[2000 光纖泡沫 base rate（反方樞紐）]]——賣水人全滅 base rate（Corning -98%／JDSU -99.8%／Cisco 25 年回前高）、18 來源
+  - [[AI capex ROI 失敗情境（反方樞紐）]]——capex ~$1.4T vs AI 營收 ~$100B/年、六戰場衝擊排序、7 觸發指標（2 項已半觸發）
+  - [[利率與 AI 久期（反方樞紐）]]——+100bps 理論衝擊表、組合利率 beta 廣義 ~57%、觸發 10Y 4.80/5.00
+  - [[台幣匯率與台美持倉（反方樞紐）]]——同向放大非對沖、2025-05 實測（欣興匯損吃光單季淨利）、觸發 30.5
+- **樞紐回鏈 ×7**：賣水人／ABCD／CapEx 見頂辯論（修復「兩方都是多方」假對稱）／半導體基礎建設化／規則層回測（V 型盲區互證）／三段估值／風險預算——**多頭圖的前幾大樞紐第一次有反方出口**
+- KOL reliability 凍結（n≥20 call ledger 前一律「未計算」、四檔聲明）
+- 反方觸發線入每週檢視固定監控
+
+### Tier 3 政策（CLAUDE.md #P11 構建政策 12 條）
+
+單一真值／區間估廢止／per-claim 驗證／confidence 紀律／flag-only／supersession 回寫／證偽條件標準段／雙盲評分／tags 凍結／log 月切／ingest 拒收帳（wiki/ingest_decisions.md 啟用）／lint 必跑
+
+### Surprising
+
+1. **斷鏈 Top1 不是斷鏈**——「Hyper Rail / Multi-Rail」×83 是 lint 自己的 alias 解析 bug（引號沒剝）：審計工具也需要被審計
+2. 反方樞紐不是裝飾——四檔合計交付 **12+ 條可觀測觸發線**、其中 2 條已半觸發、直接接進 regime 開關與每週檢視
+3. 修復成本與審核發現的嚴重度嚴重不對稱：五路審核點名的問題、八成用一個下午的腳本＋四個 agent 修完——**貴的從來不是修、是看見**

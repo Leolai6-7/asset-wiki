@@ -98,7 +98,7 @@ ROI 不兌現 → 市場懲罰「無變現證據的 capex」→ guidance 下修 
 6. **二手 H100/B200 租賃價跌破原價 50%**（CoreWeave 95% 為基線）
 7. 企業 AI 預算 CIO survey **YoY 轉負**、或 Gartner 40% 取消率被實際數字上修
 
-**判定規則**：每次 [[weekly-review]] 對照；任 2 項同時觸發 → 本檔從「參考」升級「行動」（降 AI-capex 曝險、對 thesis_dependency: AI-capex 標記之 entity 全面重評）。
+**判定規則**：每週檢視（weekly-review）對照本清單；任 2 項同時觸發 → 本檔從「參考」升級「行動」（降 AI-capex 曝險、對 thesis_dependency: AI-capex 標記之 entity 全面重評）。
 
 ## 相關連結
 
