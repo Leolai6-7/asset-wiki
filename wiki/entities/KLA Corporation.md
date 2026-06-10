@@ -51,7 +51,7 @@ confidence: high
 - 核心 IP / 護城河：
   - **inspection algorithm + 多波長偵測**（50+ 年累積、業界唯一可達 EUV defect 精度）
   - **e-beam inspection（Hermes Microvision）**（2016 USD 3.4B 併購整合）
-  - **EUV mask inspection** Actinic Patterned Mask Inspection（APMI）2022 量產
+  - **EUV mask 檢測：DUV／e-beam 路徑**（⚠️ #P6 lint 修正：原記「APMI 2022 量產」有誤——KLA actinic 計畫已於 ~2021-22 中止、actinic 段由 [[Lasertec]] ~100% 壟斷）
   - **軟體分析 + AI fab control**（process control 全棧軟體 + AI 缺陷分類）
   - **客戶 lock-in**（fab 製程整合 + service + spare parts 35%+ recurring）
 - **跟 ASML 互補非競爭**：ASML 微影 + AMAT 製程 + Lam etch + KLA 檢測 = fab 必四家分頭採購
@@ -79,7 +79,7 @@ confidence: high
   - 中國國產替代（精測科技 / 中科飛測）尚在追趕、KLA 結構性領先 5-10 年
 - 護城河：
   - **Process Control >50% 寡占 + 50+ 年 R&D 累積**
-  - **EUV mask inspection（APMI 2022 量產）+ e-beam（Hermes Microvision）整合**
+  - **e-beam（Hermes Microvision）+ DUV mask 檢測整合**（actinic 段讓予 [[Lasertec]]、#P6 lint 修正）
   - **軟體分析 + AI fab control + service recurring 35%+**
   - **客戶結構性 lock-in**
 - 風險：
@@ -119,7 +119,7 @@ confidence: high
 
 - **AI capex ramp**（NVDA / AMD / hyperscaler 自研 ASIC）
 - **TSMC N2 + A16 + Samsung 2nm + Intel 18A 量產 ramp**（先進製程缺陷檢測敏感度倍增）
-- **EUV mask inspection（APMI）ramp**（High-NA EUV mask 普及）
+- **High-NA 時代 mask 檢測需求**（⚠️ actinic 段為 [[Lasertec]] 地盤、KLA 以 e-beam／DUV 補位）
 - **HBM4 / HBM4E / DRAM 1c / 1d nm 製程 inspection ramp**
 - **Service recurring 35%+ + 軟體 AI fab control 高毛利**
 
@@ -155,9 +155,9 @@ confidence: high
 | 軸 | 分數 | 理由 |
 |---|---|---|
 | **路線敏感度（逆向）** | **5 / 5** | 不押任何 fab / 任何 fabless / 任何技術路線、所有先進製程都要 KLA 檢測 |
-| **站別關鍵度** | **5 / 5** | Process Control >50% 寡占 + EUV mask inspection 唯一供應商 = 不可繞過 |
+| **站別關鍵度** | **5 / 5** | Process Control >50% 寡占 = 不可繞過（#P6 lint：刪「EUV mask inspection 唯一供應商」誤記、actinic 屬 [[Lasertec]]、分數不受影響）|
 | **耗材 recurring** | **4 / 5** | service + spare parts 35%+ recurring（vs ASML 50%+ 略遜）|
-| **IP 控制** | **5 / 5** | inspection algorithm + EUV mask inspection（APMI）+ e-beam（Hermes）+ 軟體 AI fab control 業界唯一 |
+| **IP 控制** | **5 / 5** | inspection algorithm + e-beam（Hermes）+ 軟體 AI fab control 業界唯一（APMI 已中止、#P6 lint）|
 | **客戶分散** | **3 / 5** | TSMC 28% + Samsung 22% + Intel 13% + SK Hynix + Micron 5 大略集中（TSMC 28% 單一客戶集中度高於 ASML / AMAT）|
 
 **總分 = 22 / 25**——架構級「賣水人之中的賣水人」前段設備三巨頭 #2 anchor、跟 [[Applied Materials]] 22 / [[Lam Research]] 21 並列前段設備三巨頭、跟 [[Eaton]] 22 / [[Schneider Electric]] 22 / [[Hitachi]] 22 / [[Cadence]] 22 / [[Infineon]] 22 / [[Vertiv]] 22 / [[Constellation Energy]] 22 / [[GE Vernova]] 22 同分。

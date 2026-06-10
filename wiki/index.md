@@ -215,6 +215,9 @@
 - [[Hammond Power Solutions]]（TSX: HPS.A）⭐ #P1 補位 — **北美乾式變壓器 #1、800V 延期低壓延壽受惠**：DC 佔比近 30%、backlog +95%、P/S ~3.9x（[[Forgent Power Solutions]] 的 1/4）；⚠️ 一年已漲 171%、Forward PE ~35x、擴散階段 3；五軸 **16/25**
 - [[Himax]]（HIMX）#P5 — **車用顯示 IC 龍頭、AI 含量全押 CPO WLO 隔層 option**：FY2025 $832M -8% 無 AI 結構性、CPO 2027 才 meaningful revenue；6/9 -10.1% 收 $18.27 = **敘事溢價合理修正、非錯殺**（vs [[AAOI]] 同日 -14% 錯殺 candidate 的對照組）；五軸 **15/25（14-16）**
 
+- [[FormFactor]]（NASDAQ: FORM）⭐ #P6 — **全球探針卡 #1＋HBM wafer 級探針卡主導者**：Q1 26 營收 $226M（+32%）、GM 49% 創高（歷史卡低 40s＝margin 結構性翻轉候選）、**CPO insertion 1（wafer probe）＝唯一 production-ready 插入點**＋2024-11 Advantest SiPh test cell＋2025-12 併 Keystone Photonics；⚠️ SK hynix 29.5% 集中、Forward PE ~50x、12M +3 倍；五軸 **20/25**（耗材軸 5＝探針卡是純耗材）
+- [[Lasertec]]（6920.JP）⭐ #P6 — **actinic EUV 光罩檢測 ~100% 壟斷、[[檢測賣水人 pattern（良率地獄賣檢測）]] 最強形態**：FY2025 OP ¥122.8B（margin 48.8%）、受注 ¥105B→¥200-240B V 型反轉、Scorpion 做空案 2024-08 特別調查查無不正；⚠️ **預估 22-24 逐軸驗證後下修至 18/25**（路線單一＋無耗材年金＋top3 客戶 77%）、12M +183%／PE ~55x／高於賣方共識 PT ~38% = C 軸紅燈；五軸 **18/25**
+
 ### 標的：光通訊 / DCI / 光引擎（第五波）
 - [[Lumentum]]（NASDAQ: LITE）— **InP / EML / pump laser 純度首選**：200G EML 全球唯一量產者、pump laser 全球前三、OCS Google 唯一商業化、NVDA 2026-03 $2B 戰略投資 + Greensboro NC InP 廠 2028 量產；FY2026 Q3 營收 $808M（+90%）/ Q4 指引 $960M-$1.01B（+85%）/ Forward PE 52-59 / 12M 漲幅 +1,542% / Re-rate 4/4；五軸 19/25（純度 + IP 強、客戶分散弱）
 - [[Coherent]]（NYSE: COHR）— **光通訊 + SiC 雙曲線**：transceiver 全球 ~25% 市佔（FY2025 $5.81B）、6-inch InP 線追趕 EML、SiC 10kV MOSFET + 300mm 平台切 AI datacenter 配電、NVDA 2026-03 $2B 戰略投資（與 LITE 同日同額對倒）+ AI 訂單能見度 2028；Q3 FY2026 營收 $1.81B（+21%）/ Datacenter & Comm +41%、Forward PE 44-49 / 12M 漲幅 +362% / Re-rate 3/4；五軸 19/25（路線 + 客戶分散勝、EML 短期落後 LITE）

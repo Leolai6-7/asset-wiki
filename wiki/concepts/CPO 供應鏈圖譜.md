@@ -32,7 +32,7 @@ confidence: high
 | **6. 連接器** | CPO 模組與系統互連 | Amphenol、Molex |
 | **7. 電源 / 雷射** | 電源管理 + 光源 | MPS、ADI、TXN（電源）；[[Lumentum]] / [[Coherent]]（雷射） |
 | **8. 玻璃中介層 / TGV** ⭐ | CPO 物理載體（Intel 2023 LIDE-CPO 專利明寫） | [[Corning]]、[[AGC]]、[[SCHOTT]] 玻璃；[[LPKF]]（LIDE IP）；[[鈦昇]]、[[雷科]]、[[弘塑]]、[[辛耘]]、[[萬潤]] 製程 |
-| **9. 測試／檢測** ⭐ #P1 | 良率 gate——「量產瓶頸在測試不在製造」（焊後不可返修、組裝前篩 known-good-engine 是唯一出路）| [[Teradyne]]（Photon 100）、[[致茂 2360]]、[[鴻勁 7769]]、FormFactor；台股介面：穎崴 6515／旺矽 6223；[[德律]]（AXI 對照）|
+| **9. 測試／檢測** ⭐ #P1 | 良率 gate——「量產瓶頸在測試不在製造」（焊後不可返修、組裝前篩 known-good-engine 是唯一出路）| [[Teradyne]]（Photon 100）、[[Advantest]]＋[[FormFactor]]（SiPh test cell、早 Photon 100 16 個月）、[[致茂 2360]]、[[鴻勁 7769]]；台股介面：[[穎崴 6515]]／[[旺矽 6223]]；[[德律]]（AXI 對照）|
 
 ⭐ **第 8 層是 2026-06 新增的依賴關係校準**——詳見 [[TGV × CPO 依賴圖]]。CPO 不只是「跟 TGV 平行的姊妹 thesis」，**Intel 2023 專利明寫 LIDE-formed TGV 用於 CPO 架構**——TGV 是 CPO 的底層使能技術。
 

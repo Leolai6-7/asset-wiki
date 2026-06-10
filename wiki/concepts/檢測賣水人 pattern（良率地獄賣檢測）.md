@@ -43,13 +43,13 @@ confidence: medium
 | ② | **賽道延期、測試先收錢** | 量產前的爬良率期就要買檢測設備 → 檢測商營收領先賽道營收 1-2 年 | [[AEHR]] H2 bookings $92M+ vs 全年營收 guidance $45-50M（Book-to-Bill 3.5x+）；CPO 延期（[[2026-06-09_SemiAnalysis-800VDC-CPO-延期報告-驗證|SemiAnalysis 延期報告驗證]]）但測試設備先行下單 |
 | ③ | **賽道成敗都收錢** | 成 = 量產測試量更大；敗 = 下一代技術再爬一輪良率、設備再買一輪 | AEHR：SiC EV 退潮（ON Semi 砍單、營收 YoY -44%）→ AI ASIC＋矽光子接棒、bookings 反創新高 |
 
-## 4. 最強形態：檢測站本身變 chokepoint（Lasertec、watchlist 待建檔）
+## 4. 最強形態：檢測站本身變 chokepoint（[[Lasertec]]、#P6 已建檔）
 
 - **Lasertec（6920.JP）**：actinic EUV patterned mask 檢測 **~100% 市佔**（≤5nm 節點）、ACTIS A150（2019 全球首發）= 唯一商用 actinic 機、單價 **>$75M**
 - 物理門檻：actinic = 用與曝光相同的 13.5nm 波長檢測 → 需自製 EUV 光源；KLA 的 DUV-based mask inspection 無法替代 actinic 段
-- 2025-2026 狀態：High-NA 過渡推 ACTIS A300（URASHIMA 高亮度光源）＋ A200HiT（2025-10 發布）、先進 foundry／mask shop 需求強；FY2025（至 2025-06）營收 ¥251.5B（損益細節兩來源衝突、待建檔時驗證）
+- 2025-2026 狀態：High-NA 過渡推 ACTIS A300（URASHIMA 高亮度光源）＋ A200HiT（2025-10 發布）、先進 foundry／mask shop 需求強；FY2025（至 2025-06）營收 ¥251.5B／OP ¥122.8B（margin 48.8%、H1 FY2026 49.1% 互證、#P6 衝突已解：FY2024 38.1% → 跳升＝ACTIS 認列集中）
 - 意義：檢測站從「服務良率的配角」升格為**賽道本身的 chokepoint**——mask 沒過 actinic 檢測 = 不能上機 = EUV 量產停擺
-- **watchlist**：預估五軸 22-24/25 區間（村田／Disco 級候選、待逐軸驗證）；監控 High-NA A300 出貨節奏、KLA actinic 替代進展
+- **#P6 建檔結果（2026-06-10）**：[[Lasertec]] 五軸 **18/25**（路3站5耗3IP5客2）——**預估 22-24 被逐軸驗證下修**：壟斷深度（站5＋IP5）≠ 五軸韌性、路線單一（綁死 EUV 生態）＋無耗材年金＋top3 客戶 77% 三軸拖累。教訓入 pattern 邊界：**「最強形態」指 chokepoint 深度、不自動等於最高可投資分**。C 軸另警戒：12M +183%、PE ~55x、股價 ¥42,210 高於賣方共識 PT ~¥30.5K
 
 ## 5. 邊界與天花板
 

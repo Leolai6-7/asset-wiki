@@ -3355,3 +3355,25 @@ L1+L2+L3 並行 ingest 時各 subagent 自行分配 wiki 流水號，加上 subs
 - FormFactor 建檔（Advantest 盟友＋Photon 100 對手雙重角色浮現）
 - 旺矽 CPO 驗證 2026 Q2 底＝binary 事件、入監控
 - 300308／300502 的 06-10 收盤待補（A 股來源受阻）
+
+## 2026-06-10 #P6 — Lasertec + FormFactor 建檔（檢測賣水人 pattern 收尾）+ KLA lint
+
+**觸發**：Leo「把 Lasertec 和 FormFactor 也建檔」。2 agents 並行。
+
+### 操作
+
+1. **[[FormFactor]] 20/25**（路4站4耗5IP4客3）——探針卡 #1＋HBM wafer 級卡＋CPO insertion 1（wafer probe）＝唯一 production-ready 插入點＋2025-12 併 Keystone Photonics；GM 49% 創高（歷史卡低 40s＝margin 結構性翻轉候選、連兩季 <46% 即證偽）；⚠️ SK hynix 29.5%、Forward PE ~50x
+2. **[[Lasertec]] 18/25**（路3站5耗3IP5客2）——actinic ~100% 壟斷確認、**但 pattern concept 預估 22-24 被逐軸驗證下修**：壟斷深度（站5+IP5）≠ 五軸韌性（路線單一＋無耗材年金＋top3 客戶 77%）；Scorpion 做空案 2024-08 特別調查查無不正；margin「衝突」實為互證（FY2025 48.8%／H1 FY2026 49.1%、FY2024 38.1% 跳升=ACTIS 認列）；C 軸紅燈（12M +183%、高於賣方 PT ~38%）
+3. **檢測 pattern concept 校準**：Lasertec 段改建檔結果＋新邊界規則「最強形態≠最高可投資分」＋耗材軸是 cluster 內分層器（FORM 20 耗5 ＞ 旺矽 19 耗4 ＞ 穎崴/鴻勁/致茂 18 ＞ Lasertec 18 耗3）
+4. **⚠️ KLA 跨檔 lint（agent 抓到）**：原記「APMI 2022 量產」有誤——KLA actinic 計畫 ~2021-22 已中止（募資失敗）、從未量產；已修 5 處（護城河×2、催化、站別、IP 軸理由）、22/25 分數不受影響
+5. Teradyne／CPO 供應鏈圖譜第 9 層連動更新（FormFactor 升 wikilink＋Advantest test cell 註記）
+
+### Surprising
+
+1. **預估紀律正確運作的第一個完整案例**：concept 給區間（22-24）→ 建檔逐軸驗證 → 下修（18）→ 教訓回寫 pattern 邊界——confidence gate 的「先標區間後驗證」程序跑完整圈
+2. **agent 互相抓錯第二例**：P5 Advantest agent 修正 Teradyne「首發」、P6 Lasertec agent 修正 KLA「APMI 量產」——跨檔一致性靠多 agent 對抗自然浮現
+3. 檢測 cluster 內的估值全面過熱：FORM PE ~50x／Lasertec ~55x／旺矽 110-160x／穎崴 ~175x——pattern 是真的、但 B/C 軸全紅、進場區要等
+
+### 待辦
+
+- 檢測 cluster 估值回落監控（進每週檢視 C 軸快篩名單）

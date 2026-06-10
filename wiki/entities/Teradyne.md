@@ -25,7 +25,7 @@ confidence: medium
 - **SemiAnalysis 官方 X thread（2026-03-26）**：PIC wafer-level 測試需要全新「雙面光電 probing」、**新增測試設備支出全部集中在這裡**
 - **時程 nuance（為什麼 CPO 延期對測試廠反而偏多）**：測試設備在量產**之前**的良率爬坡期就要採購、且良率越爛測試強度越高——CPO 延到 2029+ 表示 2026-2029 都在「爬良率、堆測試」的階段
 - ⚪ **「輝達認證領先者」未證實**：Photon 100 官方稿零客戶名（無 NVIDIA／TSMC／出貨日期）——此說法僅見於 SemiAnalysis 機構報告轉述、待驗證
-- 對照組：[[Advantest]] **20-21/25**（#P5 建檔——⚠️ **2024-11 已與 FormFactor 合作 SiPh wafer-level test cell、早 Photon 100 約 16 個月**：本檔「CPO 測試首發」修正為「首發**整合式**光電 ATE 平台」、對手已在場且 Magnum 7H 正攻 HBM）、[[FormFactor]]（雙面 probe card、watchlist）、[[致茂 2360]] 18（SLT＋光電量測）、[[鴻勁 7769]] 18（分選機＋溫控）、[[穎崴 6515]] 18／[[旺矽 6223]] 19（介面耗材端、#P5 建檔）
+- 對照組：[[Advantest]] **20-21/25**（#P5 建檔——⚠️ **2024-11 已與 FormFactor 合作 SiPh wafer-level test cell、早 Photon 100 約 16 個月**：本檔「CPO 測試首發」修正為「首發**整合式**光電 ATE 平台」、對手已在場且 Magnum 7H 正攻 HBM）、[[FormFactor]] **20/25**（#P6 建檔——雙面 probing＋Advantest test cell 盟友、CPO insertion 1＝唯一 production-ready 插入點）、[[致茂 2360]] 18（SLT＋光電量測）、[[鴻勁 7769]] 18（分選機＋溫控）、[[穎崴 6515]] 18／[[旺矽 6223]] 19（介面耗材端、#P5 建檔）
 
 ## 3. 財務／結構快照（As of 2026-06-10、粗粒度）
 
